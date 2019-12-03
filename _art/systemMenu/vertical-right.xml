@@ -1,0 +1,152 @@
+﻿<theme>
+	<formatVersion>7</formatVersion>
+
+	<!-- HOUR / PAD position -------------------------- -->
+	<view name="screen">
+		<controllerActivity name="controllerActivity">
+			<pos>0.0161 0.0107</pos>
+		</controllerActivity>
+		<text name="clock">
+			<pos>0.6724 0.9573</pos>
+		</text>
+	</view>
+	
+	<view name="system">
+
+		<helpsystem name="help">
+			<pos>0.0161 0.9648</pos>
+		</helpsystem>
+		
+		<carousel name="systemcarousel">
+			<origin>0 0</origin>
+			<pos>0.7432 0.0832</pos>
+			<size>0.2214 0.8335</size>
+			<type>vertical</type> <!-- horizontal -->
+			<maxLogoCount>7</maxLogoCount> <!-- 3 Default -->
+			<logoScale>1.2</logoScale> <!-- 1.2 Default -->
+			<logoSize>0.1844 0.089</logoSize>
+			<logoAlignment>center</logoAlignment>
+			<color>00000000</color>
+			<zIndex>40</zIndex> <!-- Default -->
+		</carousel>
+
+		<!-- To replace default image LOGO by default -->
+		<!-- No declare System LOGO here -->
+		<text name="logoText">
+			<origin>0 0</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.2214 0.8335</size>
+			<fontSize>0.05</fontSize>
+			<fontPath>./../Roboto-Medium.ttf</fontPath>
+			<alignment>center</alignment>
+			<forceUppercase>true</forceUppercase>
+			<color>${logoColor}</color>
+		</text>
+		
+		<!-- Games number -->
+		<text name="systemInfo">
+			<origin>0 0</origin>
+			<pos>0.1214 0.832</pos>
+			<size>0.1365 0.0217</size>
+			<backgroundColor>00000000</backgroundColor>
+			<color>${textColor}</color>
+			<fontPath>./../Roboto-Bold.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<alignment>left</alignment>
+			<zIndex>50</zIndex> <!-- Default -->
+		</text>
+
+		<!-- Background GRIS par défaut -->
+		<image name="background" extra="true">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./../white.png</path>
+			<color>${logoColor}</color>
+			<tile>true</tile> <!-- Repeat / Streach image -->
+			<zIndex>0</zIndex> <!-- Default -->
+		</image>
+		
+		<!-- Background CONTOUR de la VUE -->
+		<image name="bg-system" extra="true">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./../systemMenu/bg-system-vert-right.png</path>
+			<zIndex>20</zIndex> <!-- Default 10 for extra -->
+		</image>
+
+		<!-- SYSTEM informations EXTRA ------------------------------- -->
+		
+		<!-- Logo système GRAY pour le CAROUSSEL -->
+		<image name="logo">
+			<path>./../logos-gray/${system.name}.png</path>
+			<path>./../../${system.theme}/system-logo-gray-us.png</path>
+			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
+		</image>
+
+		<!-- Background DESSIN du Système -->
+		<image name="bg-image" extra="true">
+			<origin>0 0</origin>
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+			<!-- AJOUTER BACKGOUND ALTERNATIF -->
+			<path>./../../${system.theme}/background.jpg</path>
+			<color>ffffffff</color>
+			<tile>false</tile> <!-- Repeat / Streach image -->
+			<zIndex>5</zIndex> <!-- Default 10 for extra -->
+		</image>
+		
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="true">
+			<origin>0 0.5</origin> <!-- W Left / H Center -->
+			<pos>0.026 0.1587</pos>
+			<maxSize>0.375 0.1849</maxSize>
+			<path>./../system-logo.png</path>
+			<path>./../logos-color/${system.name}.png</path>
+			<path>./../../${system.theme}/system-logo-us.png</path>
+			<path>./../../${system.theme}/system-logo-${langue}.png</path>
+			<zIndex>15</zIndex>
+		</image>
+
+		<!-- Sytem AVATAR -->
+		<image name="avatar" extra="true">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.298 0.0466</pos>
+			<maxSize>0.2969 0.9067</maxSize>
+			<path>./../../${system.theme}/avatar.png</path>
+			<zIndex>15</zIndex>
+		</image>
+		
+		<!-- Sytem DESCRIPTION -->
+		<image name="synopsys" extra="true">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.2906 0.7048</pos>
+			<size>0.4344 0.2374</size>
+			<path>./../../${system.theme}/description-us.png</path>
+			<path>./../../${system.theme}/description-${langue}.png</path>
+			<zIndex>20</zIndex>
+		</image>
+		
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.0234 0.2658</pos>
+			<size>0.2469 0.6769</size>
+			<path>./../../${system.theme}/info-us.png</path>
+			<path>./../../${system.theme}/info-${langue}.png</path>
+			<zIndex>20</zIndex>
+		</image>
+		
+		<!-- Sytem CONSOLE -->
+		<image name="console" extra="true">
+			<origin>0.5 0.5</origin> <!-- center -->
+			<pos>0.1464 0.4909</pos>
+			<maxSize>0.2203 0.2591</maxSize>
+			<path>./../../${system.theme}/console-us.png</path>
+			<path>./../../${system.theme}/console-${langue}.png</path>
+			<zIndex>25</zIndex>
+		</image>
+
+	</view>
+</theme>

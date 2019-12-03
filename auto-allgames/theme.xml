@@ -1,0 +1,15 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+	
+	<view name="system">
+
+		<!-- Games number -->
+		<text name="systemInfo">
+			<pos>0.095 0.615</pos>
+			<size>0.155 0.0395</size>
+		</text>
+		
+	</view>
+
+</theme>
