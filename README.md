@@ -1,4 +1,4 @@
-# RVGM : Retro/Retropie Video Game Museum
+# RVGM (Retro Video Game Museum) for Batocera
 
 
 ![RVGM Logo](_art/system-logo.png)
@@ -8,18 +8,19 @@
 The *Xbox Video Game Museum* was abandoned because i have so many memory problems/crash and the xbox is now too old ... with old gamepad, no HDMI support, no real 1080p support, not enough power for some new systems like Nintendo DS, and so on.
 Forum url : [EmuXtra](http://www.emuxtras.net/forum/viewtopic.php?f=289&t=1293)
 
-- **RVGM** : *Retro/Retropie Video Game Museum* is the new project name, designed to work on PI with Retropie that use EmulationStation. It use a recent ES version, minimum **2.7.4** to use theme *variable*, *video* support, *caroussel* support, *thumbnail* support and so on.
-The recent ES version also correct the old memory problems, now all is really better than on the old Xbox.
-Forum url : [Retropie](https://retropie.org.uk/forum/topic/16454/rvgm-retro-video-game-museum-skin-in-developpement)
+- **RVGM** : *Retro Video Game Museum* is the new project name, designed to work on PI with Batocera 5.24+ that use EmulationStation. It's ES version permit to use theme *variable*, *video* support, *caroussel* view, *thumbnail* support, *Tiles* View, *Subset* support and so on.
+The Batocera ES version also correct Retropie old memory problems, now all is really better and smooth than on the old Xbox.
+Old Retropie forum url : [Retropie](https://retropie.org.uk/forum/topic/16454/rvgm-retro-video-game-museum-skin-in-developpement)
+New Batocera forum url : 
 
 
 ## General informations
 
 This theme is designed to display most important information about systems and games, and support HD rendering up to 1080p.
-For each game it display a big **front cover** with 720 pixel height, a **video preview** in 640 x 480 pixel, a **game title** with 400 pixel width and all the most important **game text informations** possible. 
+For each game it display a big **front cover** with 720 pixel height, a **titleshot & video preview** in 640 x 480 pixel, a **game title** with 400 pixel width and all the most important **game text informations** possible. 
 The theme is build with percent size to auto fit your screen resolution. But it will be better if it use a 16/9 format.
 
-The theme is also **multi language**, and you can switch from US to FR with only a *variable* to modify on the *theme.xml*.
+The theme is also **multi language**, and you can switch from US to FR in menu. Some other language are available with some stuf already released, and US fall back for the others.
 I will also share the *description* and *informations* PSD files for people who want to help with other language like ES, DE, IT, and so on. We can add them to the main project.
 
 * **1080p** / *720p* native resolution
@@ -31,36 +32,26 @@ I will also share the *description* and *informations* PSD files for people who 
 
 ![RVGM system screen](https://retropie.org.uk/forum/assets/uploads/files/1519069059766-cps-720-us-resized.jpg)
 
-## Not supported systems by Retropie (10/03/2018)
-
-- Apple 2e
 ![RVGM Apple 2e](https://retropie.org.uk/forum/assets/uploads/files/1521063978162-apple2e.jpg)
-- Apple 2gs
-![RVGM Apple 2gs](https://retropie.org.uk/forum/assets/uploads/files/1521063993634-apple2gs.jpg)
-- Supervision, Watara
-![RVGM Supervision, Watara](https://retropie.org.uk/forum/assets/uploads/files/1521064024576-supervision.jpg)
-- Creativision : Maybe trying with **lr-mess** driver **crvision** : 80-100% speed
-![RVGM Creativision](https://retropie.org.uk/forum/assets/uploads/files/1521063998237-creativision.jpg)
-- Interton VC4000 : Maybe trying with **lr-mess** driver **scv**
-![RVGM Interton VC4000](https://retropie.org.uk/forum/assets/uploads/files/1521064038911-vc4000.jpg)
-- Amstrad GX4000 : Maybe trying with **lr-mess** driver **gx4000** : **65%** speed, some games still feel very playable
-![RVGM Amstrad GX4000](https://retropie.org.uk/forum/assets/uploads/files/1521064016743-gx4000.jpg)
 
-I include a readme file in these systems to explain how to use with **MESS**.
+![RVGM Apple 2gs](https://retropie.org.uk/forum/assets/uploads/files/1521063993634-apple2gs.jpg)
+
+![RVGM Creativision](https://retropie.org.uk/forum/assets/uploads/files/1521063998237-creativision.jpg)
+
 
 ### Prerequisites
 
-You must use it on a PI with the [Retropie](https://retropie.org.uk/) system installed on you MicroSD.
+You must use it on a PI with the [Batocera](https://batocera.org/) system installed on you MicroSD.
 
 You can find the **es_systems.cfg** used by EmulationStation to show *system list* here :
 
-```/opt/retropie/configs/all/emulationstation/es_systems.cfg```
+```/userdata/system/configs/emulationstation/es_systems.cfg```
 
 And you can find the **gamelist.xml** used to show *games informations* here :
 
-```/opt/retropie/configs/all/emulationstation/gamelists/ SYSTEM NAME / gamelist.xml```
+```/userdata/roms/ SYSTEM NAME / gamelist.xml```
 
-If you want to modifiy the systems order, or the games informations, you must modify these files on your PI.
+If you want to modifiy the system list, or the games informations, you must modify these files on your PI.
 
 
 ### Installing
@@ -69,7 +60,7 @@ If you want to modifiy the systems order, or the games informations, you must mo
 - Unpack it to your computer
 - Upload it to your pi by SSH with for exemple [WinSCP](https://sourceforge.net/projects/winscp/) here :
 
-```/etc/emulationstation/themes/RVGM```
+```/userdata/themes/RVGM```
 
 - Restart your EmulationStation
 - And choose it on the theme selection menu
@@ -78,20 +69,6 @@ If you want to modifiy the systems order, or the games informations, you must mo
 ### Customising
 
 You can customise some options on this theme.
-
-- Change the **language** on the master *theme.xml* file by switching one variable.
-
-```
-  <variables>
-    <langue>us</langue>    <!-- fr / us    ${langue}    Translate ES -->
-  </variables>
-```
-
-- Display or not the **help** information bar in the *game selection* screen, to have a biger *description size* and 2 more games display on the *game list*.
-
-```
-    <include>./_art/nohelp.xml</include>    <!-- help / nohelp    Bottom help bar on game selection screen -->
-```
 
 - Display the **Player number** and the game **Multiplayer style**. For this special RVGM feature i designed a special font to replace letters and numbers by better *icons* i've created for. You can use normal numbers and text by replacing the font like this :
 
@@ -129,9 +106,6 @@ And for the **multiplayer style**, 3 words are available: *Alt, Coop, Versus* wi
 * [Photoshop](https://www.adobe.com/fr/products/photoshop/free-trial-download.html) - Use to create images
 * [Notepad++](https://notepad-plus-plus.org/) - Use to write XML code
 * [Webtropie](https://github.com/gazpan/WebtroPie) - Used to generate XML informations
-
-Webtropie is a fantastic EmulationStation editor designed for Retropie. You can use it to manage all your games and media. I try to help the developer **Gazpan** to improve it.
-And now he include a theme editor that help me to release mine. To place my images and test my code with my Webroser on PC and save me many time...
 
 
 ## Contributors
