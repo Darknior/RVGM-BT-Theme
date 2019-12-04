@@ -1,19 +1,26 @@
 <theme>
 	<formatVersion>7</formatVersion>
 	<include>./../theme.xml</include>
-	
-	<view name="system">
 
+	<view name="system">
+	
 		<!-- Games number -->
 		<text name="systemInfo">
-			<pos>0.095 0.615</pos>
-			<size>0.155 0.0395</size>
+			<pos>0.076 0.703</pos>
+			<maxSize>0.145 0.037</maxSize>
+			<rotation>340</rotation>
 			<color>${textColor}</color>
 		</text>
-	
+		
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<pos>0.039 0.259</pos>
+			<size>0.24 0.677</size>
+		</image>
+		
 		<!-- Sytem AVATAR -->
 		<image name="avatar" extra="true">
-			<pos>0.3335 0.1425</pos>
+			<pos>0.3655 0.1965</pos>
 			<rotation>90</rotation>
 		</image>
 		

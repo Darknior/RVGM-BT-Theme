@@ -6,13 +6,12 @@
 
 		<!-- Games number -->
 		<text name="systemInfo">
-			<pos>0.157 0.852</pos>
-			<size>0.201 0.0395</size>
+			<pos>0.051 0.828</pos>
+			<maxSize>0.212 0.044</maxSize>
 			<rotation>355</rotation>
 			<color>bbc2dc</color>
 			<alignment>center</alignment>
 		</text>
 		
 	</view>
-
 </theme>
