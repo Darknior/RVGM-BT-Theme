@@ -10,10 +10,22 @@
 			<size>0.155 0.0395</size>
 		</text> -->
 	
+		<!-- Sytem CONSOLE -->
+		<image name="console" extra="true">
+			<origin>0 0</origin>
+			<pos>0.074 0.686</pos>
+		</image>
+		
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<pos>0.18 0.046</pos>
+			<maxSize>0.236 0.633</maxSize>
+		</image>
+	
 		<!-- Sytem AVATAR -->
 		<image name="avatar" extra="true">
-			<pos>0.3335 0.1425</pos>
-			<rotation>90</rotation>
+			<pos>0.372 0.05</pos>
+			<maxSize>0.2625 0.821</maxSize>
 		</image>
 		
 	</view>

@@ -82,14 +82,15 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 		<menuText name="menutext">
 			<fontPath>${artPath}/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.038</fontSize>
-			<color>${textColor}</color>
+			<color>${logoColor}</color>
 			<iconColor>${titleColor}</iconColor>
-			<separatorColor>${titleColor}</separatorColor>      
-			<selectorColor>${textColor}</selectorColor>
-			<selectorColorEnd>${textColor}</selectorColorEnd>
+			<separatorColor>${dirColor}</separatorColor>      
+			<selectorColor>${logoColor}</selectorColor>
+			<selectorColorEnd>${logoColor}</selectorColorEnd>
 			<selectedColor>${titleColor}</selectedColor>
 			<selectorGradientType>horizontal</selectorGradientType>
 		</menuText>
+		<!-- Popup Updates/Download -->
 		<menuTextSmall name="menutextsmall">
 			<fontPath>${artPath}/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.02</fontSize>
@@ -97,7 +98,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">
-			<color>${logoColor}</color>      
+			<color>${textColor}</color>      
 			<cornerSize>32 32</cornerSize>
 			<path>${artPath}/frame.png</path>
 		</menuBackground>
@@ -270,6 +271,11 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<forceUppercase>true</forceUppercase>
 			<color>${logoColor}</color>
 		</text>
+		
+		<!-- BACKGROUND MUSIC used by Theme -->
+		<sound name="bgsound">
+			<!-- <path>./sounds/system.ogg</path> -->
+		</sound>
 
 	</view>
 
@@ -894,7 +900,6 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 	<sound name="menuopen">
 			<path>${artPath}/sounds/transition.wav</path>
 	</sound>
-	<!-- -->
 
 </theme>
 

@@ -4,13 +4,12 @@
 
 	<view name="system">
 	
-		<!-- Games number -->
+		<!-- Games number --
 		<text name="systemInfo">
 			<pos>0.076 0.703</pos>
 			<maxSize>0.145 0.037</maxSize>
 			<rotation>340</rotation>
-			<color>${textColor}</color>
-		</text>
+		</text> -->
 		
 		<!-- Sytem INFO -->
 		<image name="info" extra="true">

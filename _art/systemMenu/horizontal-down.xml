@@ -48,10 +48,10 @@
 			<origin>0 0</origin>
 			<pos>0.1307 0.6318</pos>
 			<size>0.1365 0.0217</size>
-			<backgroundColor>ffffff00</backgroundColor>
-			<color>000000</color>
-			<fontPath>./../Roboto-Medium.ttf</fontPath>
-			<fontSize>0.025</fontSize>
+			<backgroundColor>00000000</backgroundColor>
+			<color>${textColor}</color>
+			<fontPath>./../Roboto-Bold.ttf</fontPath>
+			<fontSize>0.023</fontSize>
 			<alignment>left</alignment>
 			<zIndex>50</zIndex> <!-- Default -->
 		</text>
