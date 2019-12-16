@@ -1,0 +1,87 @@
+3DO
+
+3DO, une société créée par d'anciens membres d'Electronic Arts, avait un projet de console. Un partenariat fut passé avec Panasonic, Sanyo et Goldstar, chacun pouvant fabriquer sa propre version de la machine, et la première 3DO fut ainsi commercialisée en avril 1993. D'un niveau légèrement inférieur à celui de la Saturn et de la PS1 en 3D, elle est capable de lire des vidéos en plein écran. Mais il n'y a eu trop peu de jeux intéressants réalisés sur ce support.
+
+AMIGA 1200
+
+L'Amiga 1200 (A1200) sorti en 1992 est l'ordinateur de troisième génération de Commodore. Il incorpore un processeur 68020 2 fois plus puissant cadencé à 14 MHz épaulé d’un Chipset graphique AGA, 2 Mo de RAM en standard, et le son toujours sur 4 voies stéréo 8Bit. L'affichage en mode normal passe à 256 couleurs et à 262 144 couleurs en mode HAM-8 parmi une palette de 16 777 216. Apparaissent alors 2 types de jeux, ceux simplement adaptés pour utiliser l’AGA comme Chaos Engine, et ceux qui en tireront 100% parti comme les cultissimes Guardian, Banshee & Pinball Illusions.
+
+AMIGA 4000
+
+L'Amiga 4000, ordinateur pro extensible comme un PC, est sorti en 1992. Il fut le dernier développé par Commodore avant sa faillite en 1994. Toujours utilisé en 1996, il pouvait inclure, comme dans notre configuration Workbench, un processeur 68060 cadencé à 50 Mhz, un minimum de 512 Mo de RAM, une carte PowerPC 604e à 233 Mhz ainsi qu'un affichage RTG (Real Time Graphics) pour un rendu True Color en 24-bit en sus du chipset AGA. Un lecteur de CD-ROM et des disques durs IDE étaient aussi inclus. Notre set de jeux s'étend de 1996 à 2002.
+
+AMIGA 500
+
+L'Amiga 500 (A500) est le premier ordinateur 16/32 bits d’entrée de gamme Commodore. Sorti en 1987, il est en concurrence directe avec l'Atari 520 ST. L'Amiga 500 utilise un processeur Motorola 68000 cadencé à 7 MHz, 512 Ko de RAM en standard, une puce Denise pour l’affichage et une puce Paula pour gérer le son sur 4 voies (Chris Hülsbeck arrivera à monter jusqu’à 8). Il peut d’origine afficher en 320×256 pixels et 32 couleurs ou  640×512 pixels et 16 couleurs, mais fin 1989 avec les modes spéciaux il mont à 128 couleurs à l'écran. Des jeux cultes verront alors le jour comme Shadow of the Beast.
+
+CD32
+
+Sortie en 1993 l’Amiga CD32 est une console de cinquième génération. Son architecture est similaire à l’Amiga 1200 avec l’ajout d’une puce Akiko pour le mode bitplan (C2P) et le lecteur de CD-Rom. Première 32-bit à voir le jour en occident, elle est précédée au Japon par la FM Towns Marty. Comme la 3DO ou la Jaguar, commercialisées à la même période, la CD32 n'est pas parvenue à percer sur le marché face à la PSX et la Saturn. Faute à ses limitations techniques, ses limitations dans l'affichage des jeux en 3D texturée alors à la mode. Une partie du catalogue CDTV est compatible avec la console.
+
+CDTV
+
+Sortie en 1991 l’Amiga CDTV est une console de troisième génération. Son architecture est basée sur l’Amiga 500 avec un procésseur 6800 à 7.16 Mhz, un chip graphique ECS, 1 Mo de RAM et un lecteur de CD-Rom. Livré avec une manette de jeu elle étéait destiné à un public familial néophyte en informatique, intéressé par les jeux mais aussi par les capacités multimédia et l'interactivité. L'encyclopédie Grolier a été par exemple l'un de ses produits phares. Ce fut un échec commercial et moins d'une centaine de jeux ont vu le jour sur Amiga CDTV. Une large part sont des rééditions de jeux Amiga 500.
+
+AMSTRAD CPC
+
+L'Amstrad CPC (pour Colour Personal Computer, même s'il était possible d'en acheter muni de moniteurs monochromes) est un ordinateur personnel 8 bits produit par Amstrad entre 1984 et 1990. Il fut décliné en 6 modèles: CPC464, CPC664, CPC6128 464plus et 6128plus. Basé sur le processeur Zilog Z80A, complétés par 64 ou 128 ko de mémoire, plusieurs périphériques étaient vendus, comme une imprimante, un joystick, une souris et un lecteur de disquettes.
+
+APPLE 2
+
+L'Apple II est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle. Conçu par Steve Wozniak et commercialisé le 10 juin 1977 par Apple, il commence sa carrière auprès des particuliers passionnés. L'Apple II utilise une architecture 8 bits, 4ko de RAM, un lecteur de cassete et permet un affichage en 280x192 en 6 couleurs en sortie vidéo composite.  VisiCalc a, à lui seul, permis la vente de très nombreux Apple II à des professionnels.
+
+APPLE 2e
+
+L'Apple IIe (nommé Apple //e) est le troisième modèle de la série Apple II, ordinateur personnel fabriqué par Apple Computer et sortis en 1983. Le "e" dans le nom signifie amélioré (enhanced) en se référant au fait que plusieurs des fonctionnalités les plus populaires sont désormais intégrées, ainsi que quelques nouveautés. On passe à 64Ko de RAM et l'affichage évolue pour atteindre du 560x192 en monochrome, 280x192 en 6 couleurs et 140x192 en 16 couleurs.
+
+APPLE 2 GS
+
+L'Apple IIgs est le cinquième modèle et le plus puissant de la série des ordinateurs personnels Apple II fabriqués par Apple et commercialisé en 1986. La «GS» dans le nom signifie, Graphiques et Sonores, se référant à ses fonctions avancées de multimédia. Il utilise une architecture 16-bit, 256 Ko de RAM extensible à 8 Mo, un lecteur de disquettes 3 ½ externe, un port joystick et permet l'affichage du 640x200 en 6 couleurs ou 320x200 en 256 couleurs avec une péritel.
+
+ARCADE
+
+Redécouvrez tous les grands classiques qui ont écrit l'histoire des jeux d’arcade avec MAME et FBA. Arcade regroupe une séléction de tous les meilleurs titres tout support confondu. Pacman, Killer Instinct, Space Invaders, Pang ou encore Les Tortues Ninja...
+Ce sont des milliers de titres qui vous attendent sur des bornes mythiques!
+Profitez des nombreux avantages des émulateurs, comme jouer à des jeux rares, utiliser des filtres graphiques, pouvoir sauvegarder, utiliser des cheat codes, mais surtout de pouvoir jouer avec un crédit illimité...
+
+ATARI 2600
+
+L’Atari 2600, à l’origine appelée Atari VCS, est une console de jeux vidéo de seconde génération produite par Atari entre 1977 et 1991. Elle est livrée avec une paire de joysticks et un jeu Combat. C’est la troisième console à cartouches et la console la plus populaire de sa génération. La ludothèque de la console comprend environ 900 titres dont des hits originaux (Pitfall!), des conversions de jeux d’arcade (Space Invaders) et les premiers jeux sous licence (E.T.).
+
+ATARI 5200
+
+L'Atari 5200 est une console de jeux vidéo Atari sortie en 1982. Elle est créée pour concurrencer les consoles de Coleco et de Mattel qui à cette époque sont les plus puissantes et les moins chères du marché. Elle est essentiellement un Atari 400 sans clavier. La console apporte un nouveau joystick révolutionnaire avec un manche analogique et des touches de fonction (start, pause, reset). Elle bénéficie d'autres innovations comme un tir automatique et 4 ports de joystick.
+
+ATARI 7800
+
+L'Atari 7800 ProSystem, ou simplement Atari 7800, est une console sortie par la Société Atari en janvier 1986 en colaboration avec GCC, qui avait une certaine expérience dans la création de jeux d'arcade. Elle rivalise avec la NES de Nintendo et la Master System de Sega, elle a la capacité d'afficher une 100ène d'objets en mouvement, ce qui dépasse de loin les consoles précédentes. L'Atari 7800 a des manettes simples, retrocompatibles avec l'Atari 2600.
+
+ATARI 800
+
+L'Atari 800 fait partie de la première gamme de micro-ordinateurs fabriqués par Atari et sort en 1979. Pour se démarquer de la concurrence, Atari a choisit d'innover en proposant les premiers micros à disposer de co-processeurs faits-maison venant épauler le très classique 6502 et faciliter bien des choses au niveau de la programmation. Le look kitch fait qu'il ressemble beaucoup à une machine à écrire pour s'ancrer parfaitement dans l'environnement familial. 
+
+ATARI Jaguar
+
+La Jaguar est une console de salon à cartouches (lecteur CD vendu séparément) datant de 1993, disposant d'une ludothèque limitée, et qui n'a pas connu un grand succès. Elle est en son temps la seule console 64 bits (la PlayStation et la Saturn étant des 32 bits), causant une controverse, car les deux processeurs 64 bits de la Jaguar ne sont rien de plus que des accélérateurs graphiques, son processeur graphique est un 32 bits et son CPU un 16 bits. 
+
+ATARI LYNX
+
+La machine fut développée par Epyx sous le nom « Handy » et terminée en 1987, date à laquelle Atari racheta les droits. La compagnie modifia le haut parleur interne et supprima le stick qui se trouvait alors sur le pad. Atari commercialisa la console deux ans plus tard au prix initial de 199 dollars américains. On pouvait inverser l'écran pour jouer en tant que gaucher et jouer jusqu'à 8 en réseau, mais elle était imposante, et trop gourmande en piles.
+
+ATARI ST 
+
+Parmi la famille des Atari ST, seuls deux ont concurrencé directement l’Amiga 500 de Commodore et le Macintosh d’Apple. Le 520 ST sorti en 1985 avec un processeur Motorola 68000, 512 Ko de RAM, un chipset sonore Yamaha 3 voies, et un affichage 320x200 pixels en 16 couleurs ou 640x200 pixels en 4 couleurs parmi 512. Et en 1986 le 1040 ST avec ses 4 Mo de RAM qui ne comblait alors le retrad sur l’Amiga. Entre simples conversions d’arcade, et jeux portés sur les deux supports, l’Atari aura très peu d’exclusivités et perdra la guerre, mais lancera quelques licences comme les Ultima.
+
+ALL GAMES
+
+Cette section regroupe tous les jeux de votre collection, tous systèmes confondus et classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. Que ce soit par nom, par système, par créateur, par note, par nombre de joueur ou même par date d'ajout à votre collection. C'est un outil de recherche extrêmement puisant et pratique pour qui connait ou ne connait pas par coeur son immense collection de jeux.
+
+2 PLAYERS
+
+Cette section regroupe tous les jeux « 2 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez un ami. Elle regroupe tous les jeux d’action, course automobile, plateforme, beat’em up, combat, etc... jouables en coopératif ou un contre un. On pense immédiatement à Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc... Tous les filtres de tri habituels y sont disponibles.
+
+4 PLAYERS 
+
+Cette section regroupe tous les jeux « 4 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez des amis... Elle regroupe tous les jeux d’action frénétique jouable en équipe ou en match à mort, les simulations ou jeux d’arcade automobile, les beat’em up, les jeux de sport, etc... On pense immédiatement à Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, etc... Tous les filtres de tri habituels y sont disponibles.
+
+
