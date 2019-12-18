@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<origin>1 0</origin>
+			<pos>0.985 0.26</pos>
+		</image>
+		
+		<!-- Sytem INFO CONSOLE -->
+		<image name="console" extra="true">
+			<origin>0 0</origin>
+			<pos>0.078 0.565</pos>
+		</image>
+		
+		<!-- Sytem AVATAR -->
+		<image name="avatar" extra="true">
+			<pos>0.3655 0.1965</pos>
+			<rotation>90</rotation>
+		</image>
+		
+	</view>
+</theme>

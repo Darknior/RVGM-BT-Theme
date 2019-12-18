@@ -1,6 +1,5 @@
 <theme>
 	<formatVersion>7</formatVersion>
-	<include>./../theme.xml</include>
 
 	<view name="system">
 	
@@ -14,7 +13,12 @@
 		<!-- Sytem INFO -->
 		<image name="info" extra="true">
 			<pos>0.039 0.259</pos>
-			<size>0.24 0.677</size>
+		</image>
+		
+		<!-- Sytem INFO CONSOLE -->
+		<image name="console" extra="true">
+			<origin>0 0</origin>
+			<pos>0.078 0.565</pos>
 		</image>
 		
 		<!-- Sytem AVATAR -->

@@ -1,0 +1,13 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<pos>0.028 0.275</pos>
+			<path>./info-horizontal-down.png</path>
+		</image>
+		
+	</view>
+</theme>

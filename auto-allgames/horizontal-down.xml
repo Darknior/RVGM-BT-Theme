@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<!-- <include>./../theme.xml</include> -->
+	
+	<view name="system">
+
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<origin>0 0</origin>
+			<pos>0.0234 0.2658</pos>
+			<path>./info-horizontal-down.png</path>
+		</image>
+	
+		<!-- Sytem AVATAR -->
+		<image name="avatar" extra="true">
+			<pos>0.3335 0.1425</pos>
+			<rotation>90</rotation>
+		</image>
+		
+		<!-- Sytem CONSOLE -->
+		<image name="console" extra="true">
+			<origin>0 0</origin> <!-- center -->
+			<pos>0.035 0.611</pos>
+			<path>./console-horizontal-down.png</path>
+			<zIndex>20</zIndex>
+		</image>
+		
+	</view>
+</theme>

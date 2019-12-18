@@ -23,49 +23,23 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 	${system.theme} <theme>nes</theme>
 	-->
 	<variables>
-		<titleColor>1f9be7</titleColor> 	<!-- Blue 		${titleColor} -->
-		<dirColor>7BC4F1</dirColor>			<!-- Light blue	${dirColor} -->
-		<logoColor>bebebe</logoColor> 		<!-- Light gray ${logoColor} -->
-		<textColor>4c5058</textColor> 		<!-- Dark gray 	${textColor} -->
+		<legendColor>02588d</legendColor> 	<!-- Dark Blue 	${legendColor} -->
+		<titleColor>1f9be7</titleColor> 	<!-- Blue 		${titleColor}  -->
+		<dirColor>7BC4F1</dirColor>			<!-- Light blue	${dirColor}    -->
+		<logoColor>bebebe</logoColor> 		<!-- Light gray ${logoColor}   -->
+		<textColor>4c5058</textColor> 		<!-- Dark gray 	${textColor}   -->
 		
 		<artPath>./_art</artPath>			<!-- Theme general media path -->
 	</variables>
 
-	<variables lang="fr">
-		<basicViewName>Fiche Basique</basicViewName>
-		<detailedViewName>Fiche Détaillée</detailedViewName>
-		<videoViewName>Fiche Détaillée + Vidéo</videoViewName>
-		
-		<gridViewName>Grille de Boites</gridViewName>
-		<gridBasicViewName>Boites Basique</gridBasicViewName>
-		<gridVideoViewName>Boites + Vidéo</gridVideoViewName>
-		<gridDetailViewName>Boites + Aperçu</gridDetailViewName>
-
-		<carouselViewName>Carrousel</carouselViewName>
-		<carousselDetailedViewName>Carrousel + Aperçu</carousselDetailedViewName>
-			
-		<tilesViewName>Vignettes</tilesViewName>
-		<tilesVideoViewName>Vignettes + Vidéo</tilesVideoViewName>
-		<tilesVideoMarqueeViewName>Vignettes + Vidéo + Logos</tilesVideoMarqueeViewName>
-			
-		<langFr>Français</langFr>
-		<langEn>Anglais</langEn>
-		<langSp>Espagnol</langSp>
-		<langDe>Allemand</langDe>
-		<langRu>Russe</langRu>
-			
-		<menuVertRight>Menu Vertical Droite</menuVertRight>
-		<menuVertLeft>Menu Vertical Gauche</menuVertLeft>
-		<menuHorizBot>Menu Horizontal Bas</menuHorizBot>    
-	</variables>
-  
 	<!-- Translate ES Help bars, Systems Info & Description, change Systems Logo & Console.
 	us : Englis (Default) / fr : French / sp : Spanish / jp : Japanese -->
 	<include subset="language" name="French" displayName="${langFr}">${artPath}/language/french.xml</include>
 	<include subset="language" name="English" displayName="${langEn}">${artPath}/language/english.xml</include>
 	<include subset="language" name="Spanish" displayName="${langSp}">${artPath}/language/spanish.xml</include>
-	<include subset="language" name="Deutch" displayName="${langDe}">${artPath}/language/deutch.xml</include>
+	<!-- <include subset="language" name="Deutch" displayName="${langDe}">${artPath}/language/deutch.xml</include>
 	<include subset="language" name="Russian" displayName="${langRu}">${artPath}/language/russian.xml</include>
+	<include subset="language" name="Italian" displayName="${langIt}">${artPath}/language/italian.xml</include> -->
 
 	<!-- Popup System -->
 	<view name="menu">
@@ -100,7 +74,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 		<menuBackground name="menubg">
 			<color>${textColor}</color>      
 			<cornerSize>32 32</cornerSize>
-			<path>${artPath}/frame.png</path>
+			<path>${artPath}/popup/frame.png</path>
 		</menuBackground>
 		<!-- Icones du menu principal -->
 		<menuIcons name="menuicons">
@@ -121,8 +95,8 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<iconRetroachievements>${artPath}/icons/Contest.png</iconRetroachievements>
 		</menuIcons>
 		<menuTextEdit name="menutextedit">
-			<inactive>${artPath}/textinput_ninepatch.png</inactive>
-			<active>${artPath}/textinput_ninepatch_active.png</active>
+			<inactive>${artPath}/popup/textinput_ninepatch.png</inactive>
+			<active>${artPath}/popup/textinput_ninepatch_active.png</active>
 		</menuTextEdit>
 	</view>
 
@@ -135,7 +109,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<size>0.085 0.025</size>
 			<!--<horizontalAlignment>right</horizontalAlignment>-->
 			<itemSpacing>0.003</itemSpacing>
-			<imagePath>${artPath}/gamepad.svg</imagePath>
+			<imagePath>${artPath}/screen/gamepad.svg</imagePath>
 			<color>${logoColor}C0</color>
 			<activityColor>${titleColor}C0</activityColor>
 			<hotkeyColor>FFA0A0C0</hotkeyColor>
@@ -147,7 +121,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<size>0.05 0.0384</size>
             <verticalAlignment>center</verticalAlignment>
 			<textColor>${logoColor}</textColor>
-			<fontPath>${artPath}/Digib.ttf</fontPath>
+			<fontPath>${artPath}/screen/Digib.ttf</fontPath>
 			<fontSize>0.035</fontSize>
 		</text>
 
@@ -165,11 +139,6 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<fontSize>0.024</fontSize>
 		</helpsystem>
 
-		<!-- hide standard helpsystem --
-		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_playcount, md_lbl_lastplayed, md_lbl_rating">
-			<color>00000000</color>
-		</text> -->
-
 	</view>
 	
 	<!-- Carousel (Hide white bar and number of games -->
@@ -182,23 +151,34 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 
 	<view name="basic, detailed, grid, video"> <!--  ifHelpPrompts="true" -->
 
-        <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, 
-                    md_lbl_players, md_lbl_playcount, md_lbl_rating, md_lbl_lastplayed">
-                   <size>0.15 0.015</size>
-           <color>${titleColor}</color>
-           <fontSize>0.024</fontSize>
-           <fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
-                   <alignment>left</alignment>			
-        </text>	
-
-        <text name="md_releasedate, md_developer, md_publisher, md_genre, 
-                    md_players, md_playcount, md_rating, md_lastplayed">
-                   <size>0.15 0.015</size>
-           <color>${textColor}</color>
-           <fontSize>0.024</fontSize>
-           <fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
-                   <alignment>right</alignment>			
+        <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, 
+                    md_lbl_players, md_lbl_playcount, md_lbl_rating,
+					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
+					md_developer, md_publisher, md_genre, md_playcount, md_description">
+					<origin>0 0</origin>
+					<size>0.15 0.015</size>
+			<color>${legendColor}</color>
+			<fontSize>0.024</fontSize>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
+					<alignment>right</alignment>			
+			<zIndex>40</zIndex>  <!-- Default for METADATA -->
         </text>
+        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description">
+			<color>${textColor}</color>
+					<alignment>left</alignment>
+        </text>
+        <datetime name="md_releasedate, md_lastplayed, md_gametime">
+					<origin>0 0</origin>
+					<size>0.15 0.015</size>
+			<color>${textColor}</color>
+			<fontSize>0.024</fontSize>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
+					<alignment>left</alignment>
+			<zIndex>40</zIndex>
+        </datetime>
+		<!-- md_players / md_rating -->
 
         <textlist name="gamelist">
 			<origin>0 0</origin>
@@ -206,7 +186,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
             <size>0.22 0.63</size>
 			
 			<selectedColor>${titleColor}</selectedColor> <!-- Select file color -->
-			<primaryColor>${textColor}</primaryColor> <!-- File color -->
+			<primaryColor>${logoColor}</primaryColor> <!-- File color -->
 			<secondaryColor>${dirColor}</secondaryColor> <!-- Directory color -->
 
 			<fontPath>${artPath}/Roboto-Light.ttf</fontPath>
@@ -228,7 +208,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${artPath}/white.png</path>
-			<color>${logoColor}33</color>
+			<color>${logoColor}</color>
 			<tile>true</tile> <!-- Repeat / Streach image -->
 			<zIndex>0</zIndex> <!-- Default -->
 		</image>
@@ -249,7 +229,6 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${artPath}/bg-game.png</path>
-			<path>${artPath}/bg-game-help-${langue}.png</path>
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -392,13 +371,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 	<view name="video" displayName="${videoViewName}">
 
 		<textlist name="gamelist">
-			<pos>0.7432 0.2632</pos> <!-- 0.258 -->
-
-			<fontPath>${artPath}/Roboto-Light.ttf</fontPath>
-			<fontSize>0.021</fontSize> <!-- Medium / 0.25 / 1.7 -->
-			<lineSpacing>1.5</lineSpacing> <!-- Default 1.5 -->
-			<alignment>right</alignment>
-			<horizontalMargin>0.0</horizontalMargin>
+			<pos>0.7432 0.2632</pos>
 		</textlist>
 	
 		<!-- IMAGES -->
@@ -413,8 +386,8 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<pos>0.8536 0.161</pos>
 			<maxSize>0.2214 0.1119</maxSize>
 			<path>${artPath}/logos-gray/${system.name}.png</path>
-			<path>./${system.theme}/system-logo-gray.png</path>
-			<!-- <default>${artPath}/system-logo.png</default> NO default to use LogoText -->
+			<path>./${system.theme}/system-logo-gray-us.png</path>
+			<path>./${system.theme}/system-logo-gray-${langue}.png</path>
 			<zIndex>50</zIndex> <!-- Default -->
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
@@ -469,82 +442,52 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<zIndex>50</zIndex> <!-- 30 by Default forced to 5000 by OMX -->
 		</video>
 		
+		<!-- LABEL -->
+		
+		<text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_releasedate">
+			<size>0.07 0.03</size>
+		</text>
+		<text name="md_lbl_developer">
+			<pos>0.015 0.744</pos>
+		</text>
+		<text name="md_lbl_publisher">
+			<pos>0.015 0.773</pos>
+		</text>
+		<text name="md_lbl_genre">
+			<pos>0.015 0.801</pos>
+		</text>
+		<text name="md_lbl_releasedate">
+			<pos>0.015 0.83</pos>
+		</text>
+		
+		<text name="md_lbl_playcount, md_lbl_lastplayed, md_lbl_gametime">
+			<size>0.097 0.03</size>
+		</text>
+		<text name="md_lbl_playcount">
+			<pos>0.409 0.703</pos>
+		</text>
+		<text name="md_lbl_lastplayed">
+			<pos>0.533 0.703</pos>
+		</text>
+		<text name="md_lbl_gametime">
+			<pos>0.533 0.73</pos>
+		</text>
+		
+		<!-- Hidden Labels -->
+		<text name="md_lbl_description, md_lbl_players, md_lbl_rating">
+			<pos>2 2</pos>
+		</text>
+
 		<!-- METADATA -->
 		
-		<text name="md_developer, md_publisher, md_genre, md_releasedate, md_playcount, md_lastplayed, md_description">
-			<origin>0 0</origin>
-			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
-			<fontSize>0.025</fontSize>
-			<color>${textColor}</color>
-			<zIndex>40</zIndex> <!-- Default for METADATA -->
-		</text>		
-
 		<text name="md_players">
 			<pos>0.4031 0.0878</pos>
 			<size>0.1148 0.107</size> <!-- Width / Height -->
-			<fontPath>${artPath}/Players.ttf</fontPath> <!-- Roboto-Bold -->
+			<fontPath>${artPath}/Players.ttf</fontPath>
 			<alignment>center</alignment>
 			<fontSize>0.085</fontSize>
 			<color>${textColor}</color>
 		</text>
-
-		<text name="md_developer">
-			<pos>0.088 0.7466</pos>
-			<size>0.2167 0.03</size>
-		</text>
-		<text name="md_publisher">
-			<pos>0.088 0.7763</pos>
-			<size>0.2167 0.03</size>
-		</text>
-		<text name="md_genre">
-			<pos>0.088 0.8037</pos>
-			<size>0.2167 0.03</size>
-		</text>
-		<datetime name="md_releasedate">
-			<pos>0.088 0.8345</pos>
-			<size>0.2167 0.03</size>
-		</datetime>
-		
-		<text name="md_playcount">
-			<pos>0.5073 0.71</pos>
-			<size>0.024 0.03</size>
-		</text>
-		<datetime name="md_lastplayed">
-			<pos>0.6307 0.71</pos>
-			<size>0.087 0.03</size>
-		</datetime>
-		
-		<text name="md_description">
-			<pos>0.3135 0.7705</pos>
-			<size>0.4042 0.1279</size>
-			<lineSpacing>1.0</lineSpacing>
-		</text>
-		
-		<!-- A mettre en place -->
-		<image name="md_hidden">
-		  <pos>0.823 0.700</pos>
-		  <path>./art/hidden.svg</path>
-		  <maxSize>0.032 0.032</maxSize>
-		  <origin>0.5 0.5</origin>
-		  <color>969696</color>
-		</image>
-		<image name="md_kidgame">
-		  <pos>0.883 0.700</pos>
-		  <path>./art/kid.svg</path>
-		  <maxSize>0.032 0.032</maxSize>
-		  <origin>0.5 0.5</origin>
-		  <color>969696</color>
-		</image>
-		<image name="md_favorite">
-		  <pos>0.940 0.700</pos>
-		  <path>./art/favorite.svg</path>
-		  <maxSize>0.032 0.032</maxSize>
-		  <origin>0.5 0.5</origin>
-		  <color>969696</color>
-		</image>
-
-		<!-- RATING -->
-		
 		<rating name="md_rating">
 			<pos>0.0255 0.8779</pos>
 			<size>0.1406 0.0594</size>
@@ -552,6 +495,62 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<filledPath>${artPath}/rating/star-gray.png</filledPath>
 			<unfilledPath>${artPath}/rating/star-gray-empty.png</unfilledPath>
 		</rating>
+
+		<text name="md_developer, md_publisher, md_genre">
+			<size>0.2167 0.03</size>
+		</text>
+		<text name="md_developer">
+			<pos>0.088 0.744</pos>
+		</text>
+		<text name="md_publisher">
+			<pos>0.088 0.773</pos>
+		</text>
+		<text name="md_genre">
+			<pos>0.088 0.801</pos>
+		</text>
+		<datetime name="md_releasedate">
+			<pos>0.088 0.83</pos>
+			<size>0.2167 0.03</size>
+		</datetime>
+		
+		<text name="md_playcount">
+			<pos>0.507 0.703</pos>
+			<size>0.024 0.03</size>
+		</text>
+		<datetime name="md_lastplayed, md_gametime">
+			<size>0.103 0.03</size>
+		</datetime>
+		<datetime name="md_lastplayed">
+			<pos>0.628 0.703</pos>
+		</datetime>
+		<datetime name="md_gametime">
+			<pos>0.628 0.73</pos>
+		</datetime>
+		
+		<text name="md_description">
+			<pos>0.319 0.77</pos>
+			<size>0.404 0.168</size>
+			<lineSpacing>1.0</lineSpacing>
+		</text>
+		
+		<!-- STATUS Icons -->
+		<image name="md_hidden, md_kidgame, md_favorite">
+			<maxSize>0.032 0.032</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>${legendColor}</color>
+		</image>
+		<image name="md_hidden">
+			<pos>0.409 0.73</pos>
+			<path>${artPath}/iconsBig/hidden.svg</path>
+		</image>
+		<image name="md_kidgame">
+			<pos>0.441 0.73</pos>
+			<path>${artPath}/iconsBig/kid.svg</path>
+		</image>
+		<image name="md_favorite">
+			<pos>0.472 0.73</pos>
+			<path>${artPath}/iconsBig/favorite.svg</path>
+		</image>
 
 	</view>
 

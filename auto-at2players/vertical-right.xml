@@ -1,6 +1,5 @@
 <theme>
 	<formatVersion>7</formatVersion>
-	<include>./../theme.xml</include>
 	
 	<view name="system">
 
@@ -13,7 +12,6 @@
 		<!-- Sytem INFO -->
 		<image name="info" extra="true">
 			<pos>0.023 0.275</pos>
-			<!-- <size>0.23 0.68</size> -->
 		</image>
 		
 	</view>

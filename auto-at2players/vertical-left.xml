@@ -1,0 +1,13 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<origin>1 0</origin>
+			<pos>0.97 0.28</pos>
+		</image>
+		
+	</view>
+</theme>

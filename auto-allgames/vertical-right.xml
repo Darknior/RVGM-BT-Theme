@@ -1,0 +1,20 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<!-- <include>./../theme.xml</include> -->
+	
+	<view name="system">
+
+		<!-- Games number --
+		<text name="systemInfo">
+			<pos>0.095 0.615</pos>
+			<size>0.155 0.0395</size>
+		</text> -->
+	
+		<!-- Sytem AVATAR -->
+		<image name="avatar" extra="true">
+			<pos>0.3335 0.1425</pos>
+			<rotation>90</rotation>
+		</image>
+		
+	</view>
+</theme>
