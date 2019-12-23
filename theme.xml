@@ -4,12 +4,18 @@ theme name:     RVGM
 author:         Darknior
 version:		2.0
 email:			darknior@hotmail.com
-System 			Batocera 5.24+
+System 			Batocera 5.25+
 
 font: 			Roboto-Light.ttf, Roboto-Medium.ttf, Roboto-Bold.ttf, Players.fft
 doc:			https://github.com/Darknior/RVGM-ES-Theme
 forum:			https://retropie.org.uk/forum/topic/16454/rvgm-retro-retropie-video-game-museum-theme-in-development/
 Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
+
+Images organisations:
+- Image		 = screenshot ou titleshot
+- Thumbnails = box
+- Marquee	 = marquee ou wheel
+- Video		 = vidéo
 -->
 
 <theme defaultView="video">
@@ -111,7 +117,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<itemSpacing>0.003</itemSpacing>
 			<imagePath>${artPath}/screen/gamepad.svg</imagePath>
 			<color>${logoColor}C0</color>
-			<activityColor>${titleColor}C0</activityColor>
+			<activityColor>${dirColor}C0</activityColor>
 			<hotkeyColor>FFA0A0C0</hotkeyColor>
 		</controllerActivity>
 		
@@ -134,7 +140,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<origin>0 0</origin>
 			<pos>0.0161 0.9648</pos>
 			<textColor>${logoColor}</textColor>
-			<iconColor>${titleColor}</iconColor>
+			<iconColor>${dirColor}</iconColor>
 			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.024</fontSize>
 		</helpsystem>
@@ -400,7 +406,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<color>${logoColor}</color>
 		</text>
 	  
-		<image name="md_image"> <!-- md_thumbnail -->
+		<image name="md_thumbnail"> <!-- md_image -->
 			<origin>0 0</origin>
 			<pos>0.0255 0.0639</pos> <!-- Left align -->
 			<maxSize>0.3766 0.6689</maxSize>
@@ -435,7 +441,7 @@ Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 			<maxSize>0.3344 0.4452</maxSize>
 			
 			<!-- <default> PATH in MEDIA </default> Not used to show Screenshot -->
-			<snapshotSource>thumbnail</snapshotSource> 
+			<snapshotSource>image</snapshotSource> <!-- thumbnail -->
 			<showSnapshotNoVideo>true</showSnapshotNoVideo> <!-- Show thumbnail from gamelist.xml if no video and no default -->
 			<showSnapshotDelay>true</showSnapshotDelay>
 			<delay>1</delay> <!-- Second -->
