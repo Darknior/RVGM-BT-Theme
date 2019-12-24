@@ -56,7 +56,7 @@ If you want to modifiy the system list, or the games informations, you must modi
 
 ### Installing
 
-- Download the theme [here](https://github.com/Darknior/RVGM/archive/master.zip)
+- Download the theme [here](https://github.com/Darknior/RVGM-BT-Theme/archive/master.zip)
 - Unpack it to your computer
 - Upload it to your pi by SSH with for exemple [WinSCP](https://sourceforge.net/projects/winscp/) here :
 
@@ -110,8 +110,8 @@ And for the **multiplayer style**, 3 words are available: *Alt, Coop, Versus* wi
 
 ## Contributors
 
-* **Gazpan** with Webtropie
-
+* **Gazpan** - with Webtropie
+* **F.Caruso** - with his EmulationStation great Fork for Batocera
 
 ## Authors
 
