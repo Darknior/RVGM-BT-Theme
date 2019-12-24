@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+		<view name="video">
+
+			<image name="md_image"> <!-- md_thumbnail -->
+				<origin>0 0</origin>
+				<pos>0.0255 0.0639</pos> <!-- Left align -->
+				<maxSize>0.3766 0.6689</maxSize>
+				<default>${artPath}/empty.png</default>
+				<zIndex>30</zIndex> <!-- Default -->
+			</image>
+
+			<video name="md_video">
+				<snapshotSource>thumbnail</snapshotSource> <!-- image -->
+			</video>
+		
+		</view>
+		
+	</theme>

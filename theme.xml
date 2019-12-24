@@ -21,6 +21,8 @@ Images organisations:
 <theme defaultView="video">
 	<formatVersion>7</formatVersion>
 
+	<include>${artPath}/language/all.xml</include>
+
 	<!-- 
 	System variable come from es_systems.cfg
 	Ex : <path>./art/logo/${system.theme}.svg</path>
@@ -29,23 +31,26 @@ Images organisations:
 	${system.theme} <theme>nes</theme>
 	-->
 	<variables>
+		<artPath>./_art</artPath>			<!-- Theme general media path -->
+		<langue>us</langue>
+		
+		<logoColor>bebebe</logoColor> 		<!-- Light gray ${logoColor}   -->
+		<textColor>4c5058</textColor> 		<!-- Dark gray 	${textColor}   -->
+
 		<legendColor>02588d</legendColor> 	<!-- Dark Blue 	${legendColor} -->
 		<titleColor>1f9be7</titleColor> 	<!-- Blue 		${titleColor}  -->
 		<dirColor>7BC4F1</dirColor>			<!-- Light blue	${dirColor}    -->
-		<logoColor>bebebe</logoColor> 		<!-- Light gray ${logoColor}   -->
-		<textColor>4c5058</textColor> 		<!-- Dark gray 	${textColor}   -->
-		
-		<artPath>./_art</artPath>			<!-- Theme general media path -->
 	</variables>
 
 	<!-- Translate ES Help bars, Systems Info & Description, change Systems Logo & Console.
 	us : Englis (Default) / fr : French / sp : Spanish / jp : Japanese -->
-	<include subset="language" name="French" displayName="${langFr}">${artPath}/language/french.xml</include>
-	<include subset="language" name="English" displayName="${langEn}">${artPath}/language/english.xml</include>
+	<include subset="language" name="English" displayName="${langEn}" />
+	<include subset="language" name="French"  displayName="${langFr}">${artPath}/language/french.xml</include>
 	<include subset="language" name="Spanish" displayName="${langSp}">${artPath}/language/spanish.xml</include>
-	<!-- <include subset="language" name="Deutch" displayName="${langDe}">${artPath}/language/deutch.xml</include>
-	<include subset="language" name="Russian" displayName="${langRu}">${artPath}/language/russian.xml</include>
-	<include subset="language" name="Italian" displayName="${langIt}">${artPath}/language/italian.xml</include> -->
+
+	<include subset="colorset" name="Blue"  displayName="${colblue}" />
+	<include subset="colorset" name="Red"   displayName="${colred}">${artPath}/colors/red.xml</include>
+	<include subset="colorset" name="Green" displayName="${colgreen}">${artPath}/colors/green.xml</include>
 
 	<!-- Popup System -->
 	<view name="menu">
@@ -149,9 +154,9 @@ Images organisations:
 	
 	<!-- Carousel (Hide white bar and number of games -->
 	
-	<include subset="systemview" name="Vertical Right Menu" displayName="${menuVertRight}">${artPath}/systemMenu/vertical-right.xml</include>
-	<include subset="systemview" name="Vertical Left Menu" displayName="${menuVertLeft}">${artPath}/systemMenu/vertical-left.xml</include>
-	<include subset="systemview" name="Horizontal Bottom Menu" displayName="${menuHorizBot}">${artPath}/systemMenu/horizontal-down.xml</include>
+	<include subset="systemView" name="Vertical Right Menu"    displayName="${menuVertRight}">${artPath}/systemMenu/vertical-right.xml</include>
+	<include subset="systemView" name="Vertical Left Menu"     displayName="${menuVertLeft}" >${artPath}/systemMenu/vertical-left.xml</include>
+	<include subset="systemView" name="Horizontal Bottom Menu" displayName="${menuHorizBot}" >${artPath}/systemMenu/horizontal-down.xml</include>
 	
 	<!-- Carousel -->
 
@@ -234,7 +239,7 @@ Images organisations:
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/bg-game.png</path>
+			<path>${artPath}/gameMenu/bg-game.png</path>
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -406,13 +411,13 @@ Images organisations:
 			<color>${logoColor}</color>
 		</text>
 	  
-		<image name="md_thumbnail"> <!-- md_image -->
+		<!-- <image name="md_thumbnail"> <!-- md_image --
 			<origin>0 0</origin>
-			<pos>0.0255 0.0639</pos> <!-- Left align -->
+			<pos>0.0255 0.0639</pos> <!-- Left align --
 			<maxSize>0.3766 0.6689</maxSize>
 			<default>${artPath}/empty.png</default>
-			<zIndex>30</zIndex> <!-- Default -->
-		</image>
+			<zIndex>30</zIndex> <!-- Default --
+		</image> -->
 		
 		<image name="md_marquee">
 			<origin>0.5 0.5</origin> <!-- Center -->
@@ -560,9 +565,18 @@ Images organisations:
 
 	</view>
 
+	<!-- Swap Thumbnail and Image on VIDEO view -->
+	<include subset="swapImages" name="Use Thumbnail as Cover" displayName="${swapThumbnail}">${artPath}/gameMenu/swapThumbnail.xml</include>
+	<include subset="swapImages" name="Use Image as Cover"     displayName="${swapImage}"    >${artPath}/gameMenu/swapImage.xml</include>
+
 	<!-- GRID VIEWS -->
 	
   <view name="grid" displayName="${gridViewName}">
+  
+  		<image name="bg-game" extra="true">
+			<path>${artPath}/gameMenu/bg-game-grid.png</path>
+		</image>
+
     <image name="background">
       <tile>true</tile>
       <pos>0 0</pos>
@@ -616,6 +630,7 @@ Images organisations:
       <glowColor>${glowColor}</glowColor>
       <glowSize>3</glowSize>
     </text>
+	
   </view>
 
   <customView name="Boxes" inherits="grid" displayName="${gridBasicViewName}">

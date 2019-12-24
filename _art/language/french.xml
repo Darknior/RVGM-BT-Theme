@@ -6,33 +6,4 @@
 		<langue>fr</langue>
 	</variables>
 	
-	<variables lang="fr">
-		<basicViewName>Fiche Basique</basicViewName>
-		<detailedViewName>Fiche Détaillée</detailedViewName>
-		<videoViewName>Fiche Détaillée + Vidéo</videoViewName>
-		
-		<gridViewName>Grille de Boites</gridViewName>
-		<gridBasicViewName>Boites Basique</gridBasicViewName>
-		<gridVideoViewName>Boites + Vidéo</gridVideoViewName>
-		<gridDetailViewName>Boites + Aperçu</gridDetailViewName>
-
-		<carouselViewName>Carrousel</carouselViewName>
-		<carousselDetailedViewName>Carrousel + Aperçu</carousselDetailedViewName>
-			
-		<tilesViewName>Vignettes</tilesViewName>
-		<tilesVideoViewName>Vignettes + Vidéo</tilesVideoViewName>
-		<tilesVideoMarqueeViewName>Vignettes + Vidéo + Logos</tilesVideoMarqueeViewName>
-			
-		<langFr>Français</langFr>
-		<langEn>Anglais</langEn>
-		<langSp>Espagnol</langSp>
-		<!-- <langDe>Allemand</langDe>
-		<langRu>Russe</langRu>
-		<langIt>Italien</langIt> --> 
-			
-		<menuVertRight>Menu Vertical Droite</menuVertRight>
-		<menuVertLeft>Menu Vertical Gauche</menuVertLeft>
-		<menuHorizBot>Menu Horizontal Bas</menuHorizBot>    
-	</variables>
-	
 </theme>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables lang="fr">
+	
+		<subset.language>Choix de la Langue</subset.language>
+		<langEn>Anglais</langEn>
+		<langFr>Français</langFr>
+		<langSp>Espagnol</langSp>
+		
+		<subset.colorset>Jeux de couleurs</subset.colorset>
+		<colblue>Bleu</colblue>
+		<colred>Rouge</colred>
+		<colgreen>Vert</colgreen>
+
+		<subset.systemView>Choix de la Vue Système</subset.systemView>
+		<menuVertRight>Menu Vertical à Droite</menuVertRight>
+		<menuVertLeft>Menu Vertical à Gauche</menuVertLeft>
+		<menuHorizBot>Menu Horizontal en Bas</menuHorizBot>
+		
+		<subset.swapImages>Choix de la Jaquette</subset.swapImages>
+		<swapThumbnail>Thumbnail</swapThumbnail>
+		<swapImage>Image</swapImage>
+
+		<basicViewName>Fiche Basique</basicViewName>
+		<detailedViewName>Fiche Détaillée</detailedViewName>
+		<videoViewName>Fiche Détaillée + Vidéo</videoViewName>
+		
+		<gridViewName>Grille de Boites</gridViewName>
+		<gridBasicViewName>Boites Basique</gridBasicViewName>
+		<gridVideoViewName>Boites + Vidéo</gridVideoViewName>
+		<gridDetailViewName>Boites + Aperçu</gridDetailViewName>
+
+		<carouselViewName>Carrousel</carouselViewName>
+		<carousselDetailedViewName>Carrousel + Aperçu</carousselDetailedViewName>
+			
+		<tilesViewName>Vignettes</tilesViewName>
+		<tilesVideoViewName>Vignettes + Vidéo</tilesVideoViewName>
+		<tilesVideoMarqueeViewName>Vignettes + Vidéo + Logo</tilesVideoMarqueeViewName>
+					
+	</variables>
+	
+	<variables lang="sp">
+
+		<subset.language>Elección de idioma</subset.language>
+		<langEn>Inglés</langEn>
+		<langFr>Francés</langFr>
+		<langSp>Español</langSp>
+		
+		<subset.colorset>Esquemas de color</subset.colorset>
+		<colblue>Azul</colblue>
+		<colred>Rojo</colred>
+		<colgreen>Verde</colgreen>
+
+		<subset.systemView>Elección de la vista del sistema</subset.systemView>
+		<menuVertRight>Menú vertical a la derecha</menuVertRight>
+		<menuVertLeft>Menú vertical a la izquierda.</menuVertLeft>
+		<menuHorizBot>Menú Horizontal y Bas</menuHorizBot>
+		
+		<subset.swapImages>Elección de la chaqueta</subset.swapImages>
+		<swapThumbnail>Thumbnail</swapThumbnail>
+		<swapImage>Image</swapImage>
+
+		<basicViewName>Hoja básica</basicViewName>
+		<detailedViewName>Hoja detallada</detailedViewName>
+		<videoViewName>Hoja detallada + Video</videoViewName>
+		
+		<gridViewName>Rejilla de cajas</gridViewName>
+		<gridBasicViewName>Cajas Básicas</gridBasicViewName>
+		<gridVideoViewName>Cajas + Video</gridVideoViewName>
+		<gridDetailViewName>Cajas + Descripción general</gridDetailViewName>
+
+		<carouselViewName>Carrusel</carouselViewName>
+		<carousselDetailedViewName>Carrusel + Descripción general</carousselDetailedViewName>
+			
+		<tilesViewName>Viñeta</tilesViewName>
+		<tilesVideoViewName>Viñeta + Video</tilesVideoViewName>
+		<tilesVideoMarqueeViewName>Viñeta + Video + Logo</tilesVideoMarqueeViewName>
+
+	</variables>
+
+
+</theme>
