@@ -25,7 +25,7 @@ I will also share the *description* and *informations* PSD files for people who 
 
 * **1080p** / *720p* native resolution
 * *Adaptive* percent object position
-* **Multi languages**
+* **Multi languages** (English / French /Spanish)
 * Separate *Background image*, big *Sprite*, *Logo*, machine *Photo* and information *text* for each system
 * Front *cover*, *logo*, **video** preview and information *text* support for each game
 * **Vectorial logo** for *player number* and multi-player *game style*
@@ -110,8 +110,8 @@ And for the **multiplayer style**, 3 words are available: *Alt, Coop, Versus* wi
 
 ## Contributors
 
-* **Gazpan** - with Webtropie
-* **F.Caruso** - with his EmulationStation great Fork for Batocera
+* [Gazpan](https://github.com/gazpan) - with his Webtropie engine
+* [f.Caruso](https://github.com/fabricecaruso) - with his EmulationStation great Fork include in Batocera
 
 ## Authors
 
