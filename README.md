@@ -25,7 +25,7 @@ I will also share the *description* and *informations* PSD files for people who 
 
 * **1080p** / *720p* native resolution
 * *Adaptive* percent object position
-* **Multi languages**
+* **Multi languages** (English / French /Spanish)
 * Separate *Background image*, big *Sprite*, *Logo*, machine *Photo* and information *text* for each system
 * Front *cover*, *logo*, **video** preview and information *text* support for each game
 * **Vectorial logo** for *player number* and multi-player *game style*
@@ -56,7 +56,7 @@ If you want to modifiy the system list, or the games informations, you must modi
 
 ### Installing
 
-- Download the theme [here](https://github.com/Darknior/RVGM/archive/master.zip)
+- Download the theme [here](https://github.com/Darknior/RVGM-BT-Theme/archive/master.zip)
 - Unpack it to your computer
 - Upload it to your pi by SSH with for exemple [WinSCP](https://sourceforge.net/projects/winscp/) here :
 
@@ -110,8 +110,8 @@ And for the **multiplayer style**, 3 words are available: *Alt, Coop, Versus* wi
 
 ## Contributors
 
-* **Gazpan** with Webtropie
-
+* [Gazpan](https://github.com/gazpan) - with his Webtropie engine
+* [f.Caruso](https://github.com/fabricecaruso) - with his EmulationStation great Fork include in Batocera
 
 ## Authors
 
