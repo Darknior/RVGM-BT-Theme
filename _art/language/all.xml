@@ -24,19 +24,12 @@
 		<swapImage>Image</swapImage>
 
 		<basicViewName>Fiche Basique</basicViewName>
-		<detailedViewName>Fiche Détaillée</detailedViewName>
-		<videoViewName>Fiche Détaillée + Vidéo</videoViewName>
+		<detailedViewName>Fiche Détaillée + Vidéo</detailedViewName>
+		<videoViewName>Fiche Détaillée + Vidéo + grande Jaquette</videoViewName>
+		<videoFullscreenViewName>Vidéo plein écran + Médias</videoFullscreenViewName>
 		
-		<gridViewName>Grille de Boites</gridViewName>
-		<gridBasicViewName>Boites Basique</gridBasicViewName>
 		<gridVideoViewName>Boites + Vidéo</gridVideoViewName>
 		<gridDetailViewName>Boites + Aperçu</gridDetailViewName>
-
-		<carouselViewName>Carrousel</carouselViewName>
-		<carousselDetailedViewName>Carrousel + Aperçu</carousselDetailedViewName>
-			
-		<tilesViewName>Vignettes</tilesViewName>
-		<tilesVideoViewName>Vignettes + Vidéo</tilesVideoViewName>
 		<tilesVideoMarqueeViewName>Vignettes + Vidéo + Logo</tilesVideoMarqueeViewName>
 					
 	</variables>
@@ -63,19 +56,12 @@
 		<swapImage>Image</swapImage>
 
 		<basicViewName>Hoja básica</basicViewName>
-		<detailedViewName>Hoja detallada</detailedViewName>
-		<videoViewName>Hoja detallada + Video</videoViewName>
-		
-		<gridViewName>Rejilla de cajas</gridViewName>
-		<gridBasicViewName>Cajas Básicas</gridBasicViewName>
+		<detailedViewName>Hoja detallada + Video</detailedViewName>
+		<videoViewName>Hoja detallada + Video + Sobrecubierta grande</videoViewName>
+		<videoFullscreenViewName>Video de pantalla completa + Medios</videoFullscreenViewName>
+
 		<gridVideoViewName>Cajas + Video</gridVideoViewName>
 		<gridDetailViewName>Cajas + Descripción general</gridDetailViewName>
-
-		<carouselViewName>Carrusel</carouselViewName>
-		<carousselDetailedViewName>Carrusel + Descripción general</carousselDetailedViewName>
-			
-		<tilesViewName>Viñeta</tilesViewName>
-		<tilesVideoViewName>Viñeta + Video</tilesVideoViewName>
 		<tilesVideoMarqueeViewName>Viñeta + Video + Logo</tilesVideoMarqueeViewName>
 
 	</variables>

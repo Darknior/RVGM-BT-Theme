@@ -2,20 +2,26 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-		<view name="video">
-
-			<image name="md_thumbnail"> <!-- md_image -->
-				<origin>0 0</origin>
-				<pos>0.0255 0.0639</pos> <!-- Left align -->
-				<maxSize>0.3766 0.6689</maxSize>
-				<default>${artPath}/empty.png</default>
-				<zIndex>30</zIndex> <!-- Default -->
+		<view name="detailed">
+			<image name="md_thumbnail">
+				<pos>0.595 0.737</pos>
+				<maxSize>0.229 0.39</maxSize>
 			</image>
 
 			<video name="md_video">
-				<snapshotSource>image</snapshotSource> <!-- thumbnail -->
+				<snapshotSource>image</snapshotSource>
 			</video>
-		
+		</view>
+
+		<view name="video">
+			<image name="md_thumbnail">
+				<pos>0.0255 0.0639</pos>
+				<maxSize>0.3766 0.6689</maxSize>
+			</image>
+
+			<video name="md_video">
+				<snapshotSource>image</snapshotSource>
+			</video>
 		</view>
 		
 	</theme>
