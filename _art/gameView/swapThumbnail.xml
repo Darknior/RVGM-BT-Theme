@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<!-- THUMBNAIL AS COVER -->
+	<view name="detailed, video">
+		<video name="md_video">
+			<snapshotSource>image</snapshotSource>
+		</video>
+	</view>
+
+	<view name="detailed">
+		<image name="md_thumbnail">
+			<pos>0.595 0.737</pos>
+			<maxSize>0.229 0.39</maxSize>
+		</image>
+	</view>
+	<view name="video">
+		<image name="md_thumbnail">
+			<pos>0.0255 0.0639</pos>
+			<maxSize>0.3766 0.6689</maxSize>
+		</image>
+	</view>
+	<customView name="Video Fullscreen" inherits="video" displayName="${videoFullscreenViewName}">
+		<video name="md_video">
+			<snapshotSource>image</snapshotSource>
+		</video>
+		<image name="md_thumbnail">
+			<pos>0.025 0.607</pos>
+			<maxSize>0.178 0.325</maxSize>
+		</image>
+	</customView>
+	
+	<view name="grid" displayName="${gridVideoViewName}">
+		<imagegrid name="gamegrid">
+			<imageSource>thumbnail</imageSource>
+		</imagegrid>
+	</view>
+	<customView name="Boxes + detail" inherits="grid" displayName="${gridDetailViewName}">
+		<video name="md_video">
+			<snapshotSource>image</snapshotSource>
+		</video>
+	</customView>
+	<customView name="Tiles Titleshot + Video" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
+		<imagegrid name="gamegrid">
+			<imageSource>image</imageSource>
+		</imagegrid>
+	</customView>
+	<customView name="Tiles Screenshot + Video + Marquee" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
+		<imagegrid name="gamegrid">
+			<imageSource>image</imageSource>
+		</imagegrid>
+	</customView>
+		
+</theme>

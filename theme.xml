@@ -6,16 +6,12 @@ version:		2.0
 email:			darknior@hotmail.com
 System 			Batocera 5.25+
 
-font: 			Roboto-Light.ttf, Roboto-Medium.ttf, Roboto-Bold.ttf, Players.fft
-doc:			https://github.com/Darknior/RVGM-ES-Theme
+font: 			Roboto-Light.ttf, Roboto-Medium.ttf, Roboto-Bold.ttf, Players.fft, Digib.ttf
+GIT:			https://github.com/Darknior/RVGM-BT-Theme
 forum:			https://retropie.org.uk/forum/topic/16454/rvgm-retro-retropie-video-game-museum-theme-in-development/
-Doc ES:			https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md
 
-Images organisations:
-- Image		 = screenshot ou titleshot
-- Thumbnails = box
-- Marquee	 = marquee ou wheel
-- Video		 = vidéo
+Wiki Batocera:	https://batocera.org/wiki/doku.php?id=en:write_themes_for_emulationstation
+Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.md
 -->
 
 <theme defaultView="video">
@@ -31,15 +27,16 @@ Images organisations:
 	${system.theme} <theme>nes</theme>
 	-->
 	<variables>
-		<artPath>./_art</artPath>			<!-- Theme general media path -->
+		<artPath>./_art</artPath>			<!-- Media path 		${artPath}		-->
 		<langue>us</langue>
+		<favorisColor>FFFF00</favorisColor> <!-- Yellow     		${favorisColor}	-->
 		
-		<logoColor>bebebe</logoColor> 		<!-- Light gray ${logoColor}   -->
-		<textColor>4c5058</textColor> 		<!-- Dark gray 	${textColor}   -->
+		<logoColor>bebebe</logoColor> 		<!-- Light gray 		${logoColor}	-->
+		<textColor>4c5058</textColor> 		<!-- Dark gray 			${textColor}	-->
 
-		<legendColor>02588d</legendColor> 	<!-- Dark Blue 	${legendColor} -->
-		<titleColor>1f9be7</titleColor> 	<!-- Blue 		${titleColor}  -->
-		<dirColor>7BC4F1</dirColor>			<!-- Light blue	${dirColor}    -->
+		<legendColor>02588d</legendColor> 	<!-- Dark Blue 			${legendColor}	-->
+		<titleColor>1f9be7</titleColor> 	<!-- Blue 				${titleColor}	-->
+		<dirColor>7BC4F1</dirColor>			<!-- Light blue			${dirColor}		-->
 	</variables>
 
 	<!-- Translate ES Help bars, Systems Info & Description, change Systems Logo & Console.
@@ -49,7 +46,7 @@ Images organisations:
 	<include subset="language" name="Spanish" displayName="${langSp}">${artPath}/language/spanish.xml</include>
 
 	<include subset="colorset" name="Blue"  displayName="${colblue}" />
-	<include subset="colorset" name="Red"   displayName="${colred}">${artPath}/colors/red.xml</include>
+	<include subset="colorset" name="Red"   displayName="${colred}"  >${artPath}/colors/red.xml</include>
 	<include subset="colorset" name="Green" displayName="${colgreen}">${artPath}/colors/green.xml</include>
 
 	<!-- Popup System -->
@@ -89,21 +86,21 @@ Images organisations:
 		</menuBackground>
 		<!-- Icones du menu principal -->
 		<menuIcons name="menuicons">
-			<iconKodi>${artPath}/icons/Kodi.png</iconKodi>
-			<iconSystem>${artPath}/icons/System.png</iconSystem>
-			<iconUpdates>${artPath}/icons/Updates.png</iconUpdates>
-			<iconGames>${artPath}/icons/Games.png</iconGames>
-			<iconControllers>${artPath}/icons/Controllers.png</iconControllers>
-			<iconUI>${artPath}/icons/UI.png</iconUI>
-			<iconSound>${artPath}/icons/Sound.png</iconSound>
-			<iconNetwork>${artPath}/icons/Network.png</iconNetwork>
-			<iconScraper>${artPath}/icons/Scraper.png</iconScraper>
-			<iconAdvanced>${artPath}/icons/Advanced.png</iconAdvanced>
-			<iconQuit>${artPath}/icons/Quit.png</iconQuit>
-			<iconRestart>${artPath}/icons/Restart.png</iconRestart>
-			<iconShutdown>${artPath}/icons/Shutdown.png</iconShutdown>
-			<iconFastShutdown>${artPath}/icons/Fastshutdown.png</iconFastShutdown>
-			<iconRetroachievements>${artPath}/icons/Contest.png</iconRetroachievements>
+			<iconKodi>${artPath}/iconsPopup/Kodi.png</iconKodi>
+			<iconSystem>${artPath}/iconsPopup/System.png</iconSystem>
+			<iconUpdates>${artPath}/iconsPopup/Updates.png</iconUpdates>
+			<iconGames>${artPath}/iconsPopup/Games.png</iconGames>
+			<iconControllers>${artPath}/iconsPopup/Controllers.png</iconControllers>
+			<iconUI>${artPath}/iconsPopup/UI.png</iconUI>
+			<iconSound>${artPath}/iconsPopup/Sound.png</iconSound>
+			<iconNetwork>${artPath}/iconsPopup/Network.png</iconNetwork>
+			<iconScraper>${artPath}/iconsPopup/Scraper.png</iconScraper>
+			<iconAdvanced>${artPath}/iconsPopup/Advanced.png</iconAdvanced>
+			<iconQuit>${artPath}/iconsPopup/Quit.png</iconQuit>
+			<iconRestart>${artPath}/iconsPopup/Restart.png</iconRestart>
+			<iconShutdown>${artPath}/iconsPopup/Shutdown.png</iconShutdown>
+			<iconFastShutdown>${artPath}/iconsPopup/Fastshutdown.png</iconFastShutdown>
+			<iconRetroachievements>${artPath}/iconsPopup/Contest.png</iconRetroachievements>
 		</menuIcons>
 		<menuTextEdit name="menutextedit">
 			<inactive>${artPath}/popup/textinput_ninepatch.png</inactive>
@@ -152,26 +149,14 @@ Images organisations:
 
 	</view>
 	
-	<!-- Carousel (Hide white bar and number of games -->
+	<!-- Carousel SYSTEM MENU -->
 	
-	<include subset="systemView" name="Vertical Right Menu"    displayName="${menuVertRight}">${artPath}/systemMenu/vertical-right.xml</include>
-	<include subset="systemView" name="Vertical Left Menu"     displayName="${menuVertLeft}" >${artPath}/systemMenu/vertical-left.xml</include>
-	<include subset="systemView" name="Horizontal Bottom Menu" displayName="${menuHorizBot}" >${artPath}/systemMenu/horizontal-down.xml</include>
+	<include subset="systemView" name="Vertical Right Menu"				displayName="${menuVertRight}"		>${artPath}/systemView/vertical-right.xml</include>
+	<include subset="systemView" name="Vertical Left Menu"				displayName="${menuVertLeft}" 		>${artPath}/systemView/vertical-left.xml</include>
+	<include subset="systemView" name="Horizontal Bottom Menu"			displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
+	<include subset="systemView" name="Horizontal Bottom Menu + Video"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
 	
-	<!-- FUTURE VUE VIDEO 
-	
-	<video name="backgroundvideo" extra="true">
-		<path>{random}</path>                 
-		<pos>0.5 0.475</pos>
-		<origin>0.5 0.5</origin>
-		<minSize>1 0.95</minSize>
-		<delay>0</delay>
-		<color>FFFFFFA0</color>
-		<effect>none</effect>
-		<zIndex>11</zIndex>      
-	</video> -->
-	
-	<!-- Carousel -->
+	<!-- Carousel END -->
 
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
 
@@ -205,6 +190,9 @@ Images organisations:
 			<forceUppercase>0</forceUppercase>
 			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
 			<alignment>left</alignment>
+			
+			<!-- <displayRelative>0</displayRelative> Afficher une date relative : 5 jours avant
+			<format>%d/%m/%Y à %Hh%Mm%Ss</format> Format d'affichage de la date -->
 			<zIndex>40</zIndex>
         </datetime>
 
@@ -237,9 +225,10 @@ Images organisations:
 			<selectorColor>${textColor}00</selectorColor> <!-- Alpha channel RGBA: FF visible / 00 transparent -->
 			<!-- <selectorImagePath>${artPath}/icon.png</selectorImagePath> -->
 			<selectorHeight>0.05</selectorHeight>
-			<!-- <scrollSound>${artPath}/sounds/systemscroll.wav</scrollSound> -->
+			<!-- Sound effect on Scroll -->
+			<scrollSound>${artPath}/sounds/linemove.wav</scrollSound>
 			<zIndex>30</zIndex> <!-- Default -->
-		</textlist> -->
+		</textlist>
 		
 		<!-- BACKGROUND IMAGE -->
 		<image name="background">
@@ -267,7 +256,7 @@ Images organisations:
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/gameMenu/bg-game.png</path>
+			<path>${artPath}/gameView/bg-game.png</path>
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -345,6 +334,8 @@ Images organisations:
 		
 	</view>
 
+	<!-- VIDEO VIEWS -->
+	
 	<view name="detailed" displayName="${detailedViewName}">
 		
 		<image name="md_image, md_thumbnail, md_marquee">
@@ -455,13 +446,12 @@ Images organisations:
 		
 	</view>
 
-	<!-- VIEW VIDEO -->
 	<view name="video" displayName="${videoViewName}">
 
 		<textlist name="gamelist">
 			<pos>0.7432 0.2632</pos>
 		</textlist>
-	
+		
 		<!-- IMAGES -->
 		
 		<!-- Used for some systems :
@@ -577,22 +567,18 @@ Images organisations:
 		</image>
 		<image name="md_hidden">
 			<pos>0.409 0.73</pos>
-			<path>${artPath}/iconsBig/hidden.svg</path>
+			<path>${artPath}/icons/hidden.svg</path>
 		</image>
 		<image name="md_kidgame">
 			<pos>0.441 0.73</pos>
-			<path>${artPath}/iconsBig/kid.svg</path>
+			<path>${artPath}/icons/kid.svg</path>
 		</image>
 		<image name="md_favorite">
 			<pos>0.472 0.73</pos>
-			<path>${artPath}/iconsBig/favorite.svg</path>
+			<path>${artPath}/icons/favorite.svg</path>
 		</image>
 
 	</view>
-
-	<!-- Swap Thumbnail and Image on VIDEO view -->
-	<include subset="swapImages" name="Use Thumbnail as Cover" displayName="${swapThumbnail}">${artPath}/gameMenu/swapThumbnail.xml</include>
-	<include subset="swapImages" name="Use Image as Cover"     displayName="${swapImage}"    >${artPath}/gameMenu/swapImage.xml</include>
 
 	<customView name="Video Fullscreen" inherits="video" displayName="${videoFullscreenViewName}">
 
@@ -627,12 +613,30 @@ Images organisations:
 			<pos>0.0151 0.0445</pos>
 			<size>0.9698 0.911</size>
 			<delay>0</delay>
-			<!-- <color>FFFFFFA0</color> -->
 			<effect>none</effect>
 			<loops>3</loops>
 			<zIndex>5</zIndex>
 		</video>
+		
+		<!-- Effet CRT sur la Vidéo -->
+		<image name="crt" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
 
+			<path>${artPath}/video/crt.png</path>
+			<color>FFFFFF90</color>
+			<tile>true</tile>
+			<zIndex>6</zIndex>
+		</image>
+		<image name="crt_border" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+
+			<path>${artPath}/video/crt_border.png</path>
+			<color>FFFFFF80</color>
+			<zIndex>7</zIndex>
+		</image>
+		
 		<!-- md_image / md_thumbnail -->
 
 		<image name="md_marquee">
@@ -650,8 +654,8 @@ Images organisations:
 			<pos>0.025 0.065</pos>
 			<size>0.1406 0.0594</size>
 
-			<filledPath>${artPath}/rating/star-yellow.png</filledPath>
-			<unfilledPath>${artPath}/rating/star-yellow-empty.png</unfilledPath>
+			<!-- <filledPath>${artPath}/rating/star-yellow.png</filledPath>
+			<unfilledPath>${artPath}/rating/star-yellow-empty.png</unfilledPath>-->
 		</rating>
 		
 	</customView>
@@ -659,214 +663,309 @@ Images organisations:
 	<!-- GRID VIEWS -->
 	
 	<view name="grid" displayName="${gridVideoViewName}">
-  
-				<image name="bg-game" extra="true">
-					<path>${artPath}/gameMenu/bg-game-grid.png</path>
-				</image>
-
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-			<color>A0A0B000</color>
-		</text>
-		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
-			<color>ffffff00</color>
-		</text>
-		<datetime name="md_releasedate, md_lastplayed">
-			<color>ffffff00</color>
-		</datetime>
 		
+		<!-- Image de Background VIDE -->
+		<image name="bg-game" extra="true">
+			<path>${artPath}/gameView/bg-game-grid.png</path>
+		</image>
+		
+		<!-- HIDE ELEMENTS -->
+        <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
+                    md_lbl_description, md_lbl_players, md_lbl_rating,
+					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
+					md_developer, md_publisher, md_genre, md_playcount, md_description">
+			<visible>false</visible>
+        </text>
+        <datetime name="md_releasedate, md_lastplayed, md_gametime">
+			<visible>false</visible>
+        </datetime>
+		
+		<!-- LOGO Systeme -->
+		<image name="logo"> <!-- System -->
+			<pos>0.63 0.115</pos>
+			<maxSize>0.234 0.118</maxSize>
+			<path>${artPath}/logos/${system.name}.png</path>
+			<path>./${system.theme}/system-logo-us.png</path>
+			<path>./${system.theme}/system-logo-${langue}.png</path>
+		</image>
+		<text name="logoText"> <!-- To show if no System LOGO -->
+			<pos>0.866 0.123</pos>
+			<color>${textColor}</color>
+		</text>
+		
+		<!-- Marquee / Player / Rating -->
 		<rating name="md_rating">
-			<pos>0.88 0.88</pos>
-			<size>0.05 0.03</size>
-			<color>FFFFFF</color>
-			<unfilledColor>808080</unfilledColor>
+			<pos>0.025 0.065</pos>
+			<size>0.1406 0.0594</size>
 		</rating>
+		<image name="md_marquee">
+			<pos>0.392 0.115</pos>
+			<maxSize>0.234 0.118</maxSize>
+		</image>
+		<text name="md_players">
+			<pos>0.859 0.065</pos>
+			<size>0.115 0.083</size>
+			<fontSize>0.085</fontSize>
+			<alignment>right</alignment>
+			<color>${textColor}</color>
+		</text>
 		
+		<!-- Grille de tuiles -->
 		<imagegrid name="gamegrid">
-			<pos>0.025 0.16</pos>
-			<size>0.950 0.774</size>
+			<pos>0.025 0.181</pos>
+			<size>0.950 0.752</size>
 			<padding>0.04 0.03 0.04 0.03</padding>
 			<margin>0.003 0.003</margin>
 
 			<autoLayout>7 3</autoLayout>
-			<autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
+			<autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
 
 			<!-- VIDEO PREVIEW -->
 			<showVideoAtDelay>800</showVideoAtDelay>
 
-			<animateSelection>false</animateSelection>
+			<imageSource>thumbnail</imageSource> <!-- image / marquee -->
+			<animateSelection>true</animateSelection> <!-- Anime le deplacement du fond -->
+			 <!-- <folderImage>${artPath}/...png</folderImage> <!-- Image des dossiers -->
 		</imagegrid>
-	
+		<video name="imagegrid.video">
+			<loops>3</loops>
+		</video>
+		
+		<!-- Tuile -->
 		<gridtile name="default">
+			<!-- Fond -->
 			<backgroundColor>FFFFFF00</backgroundColor>
 			<backgroundCornerSize>0 0</backgroundCornerSize>
-
-			<selectionMode>image</selectionMode> <!-- thumbnail -->
-			<imageColor>FFFFFFB0</imageColor>
-			<padding>2 2</padding>
+			<!-- Image -->
+			<selectionMode>image</selectionMode>
+			<imageColor>FFFFFFFF</imageColor>
+			<padding>4 4</padding>
 			<imageSizeMode>minSize</imageSizeMode>
 		</gridtile>
-		
 		<gridtile name="selected">
-			<backgroundCenterColor>8b000050</backgroundCenterColor>
-			<backgroundEdgeColor>8b0000c0</backgroundEdgeColor>
+			<backgroundCenterColor>${legendColor}50</backgroundCenterColor>
+			<backgroundEdgeColor>${legendColor}</backgroundEdgeColor>
 			<imageColor>FFFFFFFF</imageColor>
+			<padding>10 10</padding>
 		</gridtile>
+		
+		<!-- Légende de l'image -->
 		<text name="gridtile">
 			<visible>false</visible>
-			
-			<!-- <color>D0D0D0</color>
-			<backgroundColor>00000000</backgroundColor>
-			<fontSize>0.022</fontSize>
-			<alignment>center</alignment>
-			<size>1 0.24</size> -->
 		</text>
 		<text name="gridtile_selected">
 			<visible>false</visible>
-			
-			<!-- <color>FFFFFF</color>
-			<glowColor>${glowColor}</glowColor>
-			<glowSize>3</glowSize> -->
 		</text>
 	
 		<image name="gridtile.favorite">
-			<path>${artPath}/iconsBig/gridfav.png</path>
+			<path>${artPath}/icons/fav-grid.png</path>
 			<pos>0.75 0</pos>
 			<maxSize>0.25 0.25</maxSize>
-			<!-- <horizontalAlignment>right</horizontalAlignment> -->
+			<horizontalAlignment>right</horizontalAlignment>
 			<origin>0 0</origin>
-			<color>A0A0A0A0</color>
+			<color>${favorisColor}</color>
 		</image>  
 		<image name="gridtile.favorite:selected">
-			<path>${artPath}/iconsBig/gridfav.png</path>
-			<color>8b0000c0</color>      
+			<color>${titleColor}</color>
 		</image>
+		<!-- Animation du tour de la selection -->
+		<ninepatch name="gridtile.background:selected">
+			<animateColor>${titleColor}</animateColor>
+			<animateColorTime>350</animateColorTime>
+		</ninepatch>
 		
 	</view>
+	
+	<customView name="Boxes + detail" inherits="grid" displayName="${gridDetailViewName}">
 
-	<customView name="Boxes + details" inherits="grid" displayName="${gridDetailViewName}">
+		<!-- Image de Background VIDE -->
+		<image name="bg-game" extra="true">
+			<path>${artPath}/gameView/bg-game-grid-detailed.png</path>
+		</image>
 
+		<!-- LOGO Systeme -->
+		<image name="logo"> <!-- System -->
+			<pos>0.807 0.106</pos>
+			<maxSize>0.234 0.118</maxSize>
+			
+			<path>${artPath}/logos-gray/${system.name}.png</path>
+			<path>./${system.theme}/system-logo-gray-us.png</path>
+			<path>./${system.theme}/system-logo-gray-${langue}.png</path>
+		</image>
+		<text name="logoText"> <!-- To show if no System LOGO -->
+			<pos>0.866 0.123</pos>
+		</text>
+		
+		<!-- Marquee / Player / Rating -->
+		<image name="md_marquee">
+			<origin>0.5 0.5</origin>
+			<pos>0.338 0.115</pos>
+			<maxSize>0.234 0.118</maxSize>
+		</image>
+		<text name="md_players">
+			<pos>0.515 0.069</pos>
+			<size>0.115 0.083</size>
+			<fontSize>0.085</fontSize>
+			<alignment>right</alignment>
+			<color>${textColor}</color>
+			
+			<zIndex>99</zIndex>
+		</text>
+		
+		<!-- Grille de tuiles -->
 		<imagegrid name="gamegrid">      
-			<pos>0 0.16</pos>
-			<size>0.66 0.774</size>
+			<pos>0 0.18</pos>
+			<size>0.66 0.754</size>
 
 			<padding>0.03 0.05 0.03 0.04</padding>
 			<margin>0.005 0.010</margin>
-
-			<autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
-			<autoLayout>7 3</autoLayout>      
+			
+			<showVideoAtDelay>-1</showVideoAtDelay> <!-- 99999999999 -->
+			<autoLayout>6 3</autoLayout>      
 		</imagegrid>
-		<gridtile name="default">
-			<backgroundCornerSize>9 9</backgroundCornerSize>
-			<padding>5 5</padding>
-			<imageSizeMode></imageSizeMode>
-		</gridtile>
 		
-		<image name="gamelistBackground" extra="true">
-			<path>${artPath}/filter.png</path>  <!-- ?????????? -->
-			<color>606060FF</color>
-			<origin>0 0</origin>
-			<pos>0.66 0.16</pos>
-			<size>0.34 0.774</size>
-			<zIndex>12</zIndex>
-		</image>
+		<!-- Infos du jeu -->
 		<image name="md_image">
 			<visible>false</visible>
 		</image>
 		<text name="md_name">
-			<color>ffffffff</color>
-			<pos>0.68 0.188</pos>
-			<size>0.30 0.05</size>
-			<color>F0F0F0</color>
-			<fontSize>0.042</fontSize>
+			<origin>0.5 0.5</origin>
+			<pos>0.807 0.205</pos>
+			<size>0.313 0.034</size>
+
+			<color>${titleColor}</color>
+			<fontSize>0.025</fontSize>
 			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
 			<alignment>center</alignment>
-			<glowColor>Ab000020</glowColor>
-			<glowSize>2</glowSize>
+			<!-- <glowColor>Ab000020</glowColor>
+			<glowSize>2</glowSize> -->
 		</text>
-	
+		
 		<video name="md_video">
-			<pos>0.83 0.455</pos>
-			<minSize>0.29 0.39</minSize>
 			<origin>0.5 0.5</origin>
-			<delay>1</delay>
+			<pos>0.807 0.43</pos>
+			<minSize>0.309 0.368</minSize>
+			
+			<snapshotSource>image</snapshotSource> <!-- thumbnail -->
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
-			<loops>0</loops>
+			<delay>1</delay>
+			<loops>3</loops>
 		</video>
 		<text name="md_description">
-			<pos>0.68 0.678</pos>
-			<size>0.30 0.20</size>
-			<fontSize>0.025</fontSize>
-			<color>A0A0B0</color>
-		</text>
+			<pos>0.651 0.64</pos>
+			<size>0.302 0.247</size>
 
+			<fontSize>0.024</fontSize>
+			<color>${logoColor}</color>
+			<visible>true</visible>
+		</text>
 		<text name="md_developer">
-			<color>EFEFFF</color>
-			<pos>0.68 0.875</pos>
-			<size>0.30 0.05</size>
+			<pos>0.65 0.917</pos>
+			<size>0.158 0.05</size>
 			<alignment>left</alignment>
+
 			<fontSize>0.025</fontSize>
+			<color>${logoColor}</color>
+			<visible>true</visible>
 		</text>
-		<text name="md_rating">
-			<pos>0.9 0.886</pos>
-			<size>0.05 0.03</size>
-		</text>
+		<datetime name="md_releasedate">
+			<pos>0.774 0.926</pos>
+			<size>0.12 0.03</size>
+			<alignment>right</alignment>
+
+			<fontSize>0.025</fontSize>
+			<color>${logoColor}</color>
+			<visible>true</visible>
+		</datetime>
 	
 	</customView>
-
-	<customView name="Video Marquee Tiles" inherits="grid" displayName="${tilesVideoMarqueeViewName}">
+	
+	<customView name="Tiles Titleshot + Video" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
 
 		<imagegrid name="gamegrid">
-			<autoLayout>3 2</autoLayout>
-			<autoLayoutSelectedZoom>1.03</autoLayoutSelectedZoom>
-			<imageSource>image</imageSource> <!-- thumbnail -->
+			<autoLayout>4 3</autoLayout>
+			<autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
+
+			<imageSource>image</imageSource> <!-- thumbnail / marquee -->
 			<margin>0.005 0.010</margin>
 			<padding>0.03 0.05 0.03 0.04</padding>
-			<zIndex>11</zIndex>
 			<!-- VIDEO PREVIEW -->
 			<showVideoAtDelay>800</showVideoAtDelay>
+			<zIndex>11</zIndex>
 		</imagegrid>
 		<video name="imagegrid.video">
-			<loops>0</loops>
+			<loops>3</loops>
 		</video>
-    
+		
+		<!-- IMAGE -->
 		<gridtile name="default">
 			<backgroundImage></backgroundImage>
-			<backgroundCenterColor>40404080</backgroundCenterColor>
-			<backgroundEdgeColor>40404080</backgroundEdgeColor>
-			<backgroundCornerSize>9 9</backgroundCornerSize>
+			<backgroundCenterColor>${textColor}80</backgroundCenterColor>
+			<backgroundEdgeColor>${textColor}</backgroundEdgeColor>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<backgroundCornerSize>0.03</backgroundCornerSize>
 			
 			<padding>1 1</padding>
 			<imageSizeMode>minSize</imageSizeMode>
-			<imageColor>A0A0A0FF</imageColor>
-			<backgroundCornerSize>0 0</backgroundCornerSize>
-			<backgroundCornerSize>0.06</backgroundCornerSize>
+			<imageColor>${logoColor}</imageColor>
 		</gridtile>
 		<gridtile name="selected">
-			<padding>5 5</padding>
+			<padding>8 8</padding>
 			<imageColor>FFFFFFFF</imageColor>
 			<backgroundCornerSize>0 0</backgroundCornerSize>
-			<backgroundCornerSize>0.06</backgroundCornerSize>
+			<backgroundCornerSize>0.03</backgroundCornerSize>
 		</gridtile>
 		
 		<ninepatch name="gridtile.background:selected">
-			<animateColor>EFEF60B0</animateColor>
+			<animateColor>${titleColor}</animateColor>
 			<animateColorTime>350</animateColorTime>
 		</ninepatch>
-
 		<image name="gridtile.image">
-			<roundCorners>0.06</roundCorners>
+			<roundCorners>0.03</roundCorners>
 		</image>
 
+		<!-- FAVORIS -->
+		<image name="gridtile.favorite">
+			<path>${artPath}/icons/fav-tile.png</path>
+			<pos>0.88 0.13</pos>
+			<maxSize>0.20 0.20</maxSize>
+			<origin>0.5 0.5</origin>
+			<horizontalAlignment>right</horizontalAlignment>
+			<color>${favorisColor}</color>
+		</image>  
+		<image name="gridtile.favorite:selected">
+			<color>${titleColor}</color>
+		</image>  
+		
+		<!-- Ombrage interieur de la tuile -->
+		<image name="gridtile.overlay">
+			<path>${artPath}/gameView/overlay.png</path>
+			<color>FFFFFF50</color>
+
+			<roundCorners>0.03</roundCorners>
+		</image>    
+		<image name="gridtile.overlay:selected">
+			<color>FFFFFF00</color>
+		</image>
+	
+	</customView>
+
+	<customView name="Tiles Screenshot + Video + Marquee" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
+		
+		<!-- Remplace le Marquee si manquant -->
 		<text name="gridtile">
-			<color>D0D0D0D0</color>
+			<pos>0 0</pos>
+			<size>1 1</size>
+
+			<color>${logoColor}D0</color>
 			<backgroundColor>00000000</backgroundColor>
+
 			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.040</fontSize>
 			<alignment>center</alignment>
 			<singleLineScroll>true</singleLineScroll>
-			<padding>0.08 0</padding>      
-			<size>0 0.24</size>
+			<padding>0.1 0</padding>      
 			<glowColor>00000008</glowColor>
 			<glowSize>3</glowSize>
 			
@@ -874,33 +973,13 @@ Images organisations:
 		</text>
 		<text name="gridtile_selected">
 			<color>FFFFFF</color>
-			<glowColor>Ab000020</glowColor>
+			<glowColor>${legendColor}20</glowColor>
 			<glowSize>3</glowSize>
 			
 			<visible>true</visible>
 		</text>
-		
-		<image name="gridtile.favorite">
-			<path>${artPath}/iconsBig/star_filled.svg</path>      
-			<pos>0.93 0.07</pos>
-			<maxSize>0.10 0.10</maxSize>
-			<origin>0.5 0.5</origin>
-			<horizontalAlignment>right</horizontalAlignment>
-			<color>FFFF0080</color>
-		</image>  
-		<image name="gridtile.favorite:selected">
-			<color>FFFF00D0</color>
-		</image>  
-		
-		<image name="gridtile.overlay">
-			<path>${artPath}/overlay.png</path>
-			<roundCorners>0.06</roundCorners>
-			<color>FFFFFF50</color>
-		</image>    
-		<image name="gridtile.overlay:selected">
-			<color>FFFFFF00</color>
-		</image>
-		
+
+		<!-- MARQUEE -->
 		<image name="gridtile.marquee">
 			<color>FFFFFFD0</color>
 			<pos>0.5 0.5</pos>
@@ -916,17 +995,17 @@ Images organisations:
 			<pos>0.5 0.17</pos>
 			<size>0.50 0.25</size>
 		</image>
+		
+	</customView>
+
 	
-		<text name="gridtile">
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<fontSize>0.040</fontSize>
-			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
-			<padding>0.1 0</padding>
-		</text>
+	<!-- Switch Thumbnail and Image for the COVER and VIDEO -->
+	<include subset="swapImages" name="Use Thumbnail as Cover" displayName="${swapThumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
+	<include subset="swapImages" name="Use Image as Cover"     displayName="${swapImage}"    >${artPath}/gameView/swapImage.xml</include>
 	
-  </customView>
-  
+	<include subset="switchVideo" name="Show Video in System View" displayName="${switchVideoTrue}" />
+	<include subset="switchVideo" name="Hide Video in System View" displayName="${switchVideoFalse}" >${artPath}/systemView/switchVideoFalse.xml</include>
+	
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">
 	    <image name="bg-game" extra="true">
@@ -940,7 +1019,7 @@ Images organisations:
 		</text>
 	</view> -->
 	
-	<!-- BRUITAGES du MENU -->
+	<!-- BRUITAGES du MENU --
     <sound name="systemscroll">
 			<path>${artPath}/sounds/linemove.wav</path>
 	</sound>
@@ -955,7 +1034,7 @@ Images organisations:
 	</sound>
 	<sound name="menuopen">
 			<path>${artPath}/sounds/transition.wav</path>
-	</sound>
+	</sound> -->
 
 </theme>
 

@@ -17,7 +17,7 @@
 		<helpsystem name="help">
 			<pos>0.2828 0.9648</pos>
 		</helpsystem>
-	
+		
 		<carousel name="systemcarousel">
 			<origin>0 0</origin>
 			<pos>0.0359 0.0832</pos>
@@ -30,7 +30,7 @@
 			<color>00000000</color>
 			<zIndex>40</zIndex> <!-- Default -->
 		</carousel>
-
+		
 		<!-- To replace default image LOGO by default -->
 		<!-- No declare System LOGO here -->
 		<text name="logoText">
@@ -38,7 +38,7 @@
 			<pos>0.5 0.5</pos>
 			<size>0.2214 0.8335</size>
 			<fontSize>0.05</fontSize>
-			<fontPath>./../Roboto-Medium.ttf</fontPath>
+			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
 			<alignment>center</alignment>
 			<forceUppercase>true</forceUppercase>
 			<color>${logoColor}</color>
@@ -51,7 +51,7 @@
 			<size>0.1365 0.0217</size>
 			<backgroundColor>00000000</backgroundColor>
 			<color>${textColor}</color>
-			<fontPath>./../Roboto-Bold.ttf</fontPath>
+			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
 			<alignment>left</alignment>
 			<zIndex>50</zIndex> <!-- Default -->
@@ -62,7 +62,7 @@
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./../white.png</path>
+			<path>${artPath}/white.png</path>
 			<color>${logoColor}</color>
 			<tile>true</tile> <!-- Repeat / Streach image -->
 			<zIndex>0</zIndex> <!-- Default -->
@@ -73,7 +73,7 @@
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./../systemMenu/bg-system-vert-left.png</path>
+			<path>${artPath}/systemView/bg-system-vert-left.png</path>
 			<zIndex>20</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -81,7 +81,7 @@
 		
 		<!-- Logo système GRAY pour le CAROUSSEL -->
 		<image name="logo">
-			<path>./../logos-gray/${system.name}.png</path>
+			<path>${artPath}/logos-gray/${system.name}.png</path>
 			<path>./../../${system.theme}/system-logo-gray-us.png</path>
 			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
 		</image>
@@ -103,8 +103,8 @@
 			<origin>1 0.5</origin> <!-- W Left / H Center -->
 			<pos>0.975 0.159</pos>
 			<maxSize>0.375 0.1849</maxSize>
-			<path>./../system-logo.png</path>
-			<path>./../logos-color/${system.name}.png</path>
+			<path>${artPath}/system-logo.png</path>
+			<path>${artPath}/logos-color/${system.name}.png</path>
 			<path>./../../${system.theme}/system-logo-us.png</path>
 			<path>./../../${system.theme}/system-logo-${langue}.png</path>
 			<zIndex>15</zIndex>
@@ -148,7 +148,19 @@
 			<path>./../../${system.theme}/console-${langue}.png</path>
 			<zIndex>16</zIndex>
 		</image>
-
+		
+		<!-- Sytem VIDEO PREVIEW -->
+		<video name="videoPreview" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.8531 0.4909</pos>
+			<size>0.2203 0.2591</size>
+			
+			<path>{random}</path>                 
+			<delay>2</delay>
+			<effect>bump</effect>
+			<zIndex>17</zIndex>      
+		</video>
+		
 	</view>
 	
 	<include>./../../${system.theme}/vertical-left.xml</include>
