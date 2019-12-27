@@ -28,6 +28,8 @@
 			<logoSize>0.135 0.109</logoSize> <!-- 0.2214 0.1089 (x1.2) -->
 			<logoAlignment>center</logoAlignment>
 			<color>25283100</color>
+
+			<defaultTransition>fade</defaultTransition> <!-- slide / fade / instant -->
 			<zIndex>40</zIndex> <!-- Default -->
 		</carousel>
 		
@@ -57,19 +59,20 @@
 			<zIndex>50</zIndex> <!-- Default -->
 		</text>
 
-		<!-- Background NOIR par défaut -->
+		<!-- Background NOIR par défaut --
 		<image name="background" extra="true">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${artPath}/white.png</path>
 			<color>000000FF</color>
-			<tile>true</tile> <!-- Repeat / Streach image -->
-			<zIndex>0</zIndex> <!-- Default -->
-		</image>
+			<tile>true</tile> <!-- Repeat / Streach image --
+			<zIndex>0</zIndex> <!-- Default --
+		</image> -->
 		
-		<!-- Background CONTOUR de la VUE -->
-		<image name="bg-system" extra="true">
+		<!-- Background CONTOUR de la VUE --
+		<image name="bg-system" extra="true"> -->
+		<image name="staticBackground">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>

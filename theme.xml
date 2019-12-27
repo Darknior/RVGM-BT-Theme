@@ -66,7 +66,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<fontSize>0.038</fontSize>
 			<color>${logoColor}</color>
 			<iconColor>${titleColor}</iconColor>
-			<separatorColor>${dirColor}</separatorColor>      
+			<separatorColor>${logoColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${logoColor}</selectorColor>
 			<selectorColorEnd>${logoColor}</selectorColorEnd>
 			<selectedColor>${titleColor}</selectedColor>
@@ -202,8 +202,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<color>${textColor}</color>
 		</text>
 		<rating name="md_rating">
-			<filledPath>${artPath}/rating/star-gray.png</filledPath>
-			<unfilledPath>${artPath}/rating/star-gray-empty.png</unfilledPath>
+			<filledPath>${artPath}/icons/star.png</filledPath>
+			<unfilledPath>${artPath}/icons/star-empty.png</unfilledPath>
+			<color>${textColor}</color>
 		</rating>
 		
         <textlist name="gamelist">
@@ -653,9 +654,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<rating name="md_rating">
 			<pos>0.025 0.065</pos>
 			<size>0.1406 0.0594</size>
-
-			<!-- <filledPath>${artPath}/rating/star-yellow.png</filledPath>
-			<unfilledPath>${artPath}/rating/star-yellow-empty.png</unfilledPath>-->
+			<color>${logoColor}</color>
 		</rating>
 		
 	</customView>
@@ -758,7 +757,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</text>
 	
 		<image name="gridtile.favorite">
-			<path>${artPath}/icons/fav-grid.png</path>
+			<path>${artPath}/icons/fav-corner.png</path>
 			<pos>0.75 0</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<horizontalAlignment>right</horizontalAlignment>
@@ -884,7 +883,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<customView name="Tiles Titleshot + Video" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
 
 		<imagegrid name="gamegrid">
-			<autoLayout>4 3</autoLayout>
+			<autoLayout>7 4</autoLayout>
 			<autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
 
 			<imageSource>image</imageSource> <!-- thumbnail / marquee -->
@@ -903,8 +902,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<backgroundImage></backgroundImage>
 			<backgroundCenterColor>${textColor}80</backgroundCenterColor>
 			<backgroundEdgeColor>${textColor}</backgroundEdgeColor>
-			<backgroundCornerSize>0 0</backgroundCornerSize>
-			<backgroundCornerSize>0.03</backgroundCornerSize>
+			<!-- <backgroundCornerSize>0.03</backgroundCornerSize> REMOVE for RPI to slow -->
 			
 			<padding>1 1</padding>
 			<imageSizeMode>minSize</imageSizeMode>
@@ -913,8 +911,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<gridtile name="selected">
 			<padding>8 8</padding>
 			<imageColor>FFFFFFFF</imageColor>
-			<backgroundCornerSize>0 0</backgroundCornerSize>
-			<backgroundCornerSize>0.03</backgroundCornerSize>
+			<!-- <backgroundCornerSize>0.03</backgroundCornerSize> REMOVE for RPI to slow -->
 		</gridtile>
 		
 		<ninepatch name="gridtile.background:selected">
@@ -922,12 +919,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<animateColorTime>350</animateColorTime>
 		</ninepatch>
 		<image name="gridtile.image">
-			<roundCorners>0.03</roundCorners>
+			<!-- <roundCorners>0.03</roundCorners> REMOVE for RPI to slow -->
 		</image>
 
 		<!-- FAVORIS -->
 		<image name="gridtile.favorite">
-			<path>${artPath}/icons/fav-tile.png</path>
+			<path>${artPath}/icons/star.png</path>
 			<pos>0.88 0.13</pos>
 			<maxSize>0.20 0.20</maxSize>
 			<origin>0.5 0.5</origin>
@@ -943,7 +940,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<path>${artPath}/gameView/overlay.png</path>
 			<color>FFFFFF50</color>
 
-			<roundCorners>0.03</roundCorners>
+			<!-- <roundCorners>0.03</roundCorners> REMOVE for RPI to slow -->
 		</image>    
 		<image name="gridtile.overlay:selected">
 			<color>FFFFFF00</color>
@@ -998,6 +995,83 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 	</customView>
 
+	<customView name="CollectionSlide" inherits="grid" displayName="${collectionMarqueeViewName}">
+		
+		<!-- Image de Background VIDE -->
+		<image name="bg-game" extra="true">
+			<path>${artPath}/systemView/bg-system-vert-right.png</path>
+		</image>
+		
+		<!-- LOGO Systeme -->
+		<image name="logo"> <!-- System -->
+			<visible>false</visible>
+		</image>
+		<text name="logoText"> <!-- To show if no System LOGO -->
+			<visible>false</visible>
+		</text>
+		
+		<!-- Marquee / Player / Rating -->
+		<rating name="md_rating">
+			<visible>false</visible>
+		</rating>
+		<image name="md_marquee">
+			<visible>false</visible>
+		</image>
+		<text name="md_players">
+			<visible>false</visible>
+		</text>
+		
+		<!-- Grille de tuiles -->
+		<imagegrid name="gamegrid">
+			<pos>0.743 0.07</pos>
+			<size>0.221 0.857</size>
+			<padding>0.04 0.03 0.04 0.03</padding>
+			<margin>0.003 0.003</margin>
+
+			<autoLayout>1 7</autoLayout>
+			<autoLayoutSelectedZoom>1.2</autoLayoutSelectedZoom>
+			
+			<showVideoAtDelay>-1</showVideoAtDelay>
+			<imageSource>marquee</imageSource> <!-- image / marquee -->
+			<animateSelection>true</animateSelection> <!-- Anime le deplacement du fond -->
+		</imagegrid>
+		<video name="imagegrid.video">
+			<loops>3</loops>
+		</video>
+		
+		<!-- Tuile -->
+		<gridtile name="default">
+			<!-- Fond -->
+			<backgroundColor>FFFFFF00</backgroundColor>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<!-- Image -->
+			<selectionMode>image</selectionMode> <!-- full -->
+			<imageColor>FFFFFFFF</imageColor>
+			<padding>4 4</padding>
+			<imageSizeMode>minSize</imageSizeMode> <!-- maxSize  / size -->
+		</gridtile>
+		<gridtile name="selected">
+			<backgroundCenterColor></backgroundCenterColor>
+			<backgroundEdgeColor></backgroundEdgeColor>
+			<imageColor>${logoColor}FF</imageColor>
+			<padding>10 10</padding>
+		</gridtile>
+		
+		<!-- Légende de l'image -->
+		<text name="gridtile">
+			<visible>false</visible>
+		</text>
+		<text name="gridtile_selected">
+			<visible>false</visible>
+		</text>
+	
+		<!-- Animation du tour de la selection --
+		<ninepatch name="gridtile.background:selected">
+			<animateColor>${titleColor}</animateColor>
+			<animateColorTime>350</animateColorTime>
+		</ninepatch> -->
+		
+	</customView>
 	
 	<!-- Switch Thumbnail and Image for the COVER and VIDEO -->
 	<include subset="swapImages" name="Use Thumbnail as Cover" displayName="${swapThumbnail}">${artPath}/gameView/swapThumbnail.xml</include>

@@ -69,11 +69,12 @@
 		<basicViewName>Hoja básica</basicViewName>
 		<detailedViewName>Hoja detallada + Video</detailedViewName>
 		<videoViewName>Hoja detallada + Video + Sobrecubierta grande</videoViewName>
-		<videoFullscreenViewName>Video de pantalla completa + Medios</videoFullscreenViewName>
-
-		<gridVideoViewName>Cajas + Video</gridVideoViewName>
-		<gridDetailViewName>Cajas + Descripción general</gridDetailViewName>
-		<tilesVideoMarqueeViewName>Viñeta + Video + Logo</tilesVideoMarqueeViewName>
+		<videoFullscreenViewName>Video de pantalla completa + logotipo + pequeña sobrecubierta</videoFullscreenViewName>
+		
+		<gridVideoViewName>Portada 2D + Video</gridVideoViewName>
+		<gridDetailViewName>Chaqueta 2D + Hoja detallada + Video</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Miniatura de la pantalla de título + Video</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Miniatura del juego + Video + Logotipo</tilesScreenshotVideoMarqueeViewName>
 
 	</variables>
 

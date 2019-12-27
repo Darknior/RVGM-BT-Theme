@@ -28,6 +28,8 @@
 			<logoSize>0.1844 0.089</logoSize>
 			<logoAlignment>center</logoAlignment>
 			<color>00000000</color>
+
+			<defaultTransition>instant</defaultTransition> <!-- slide / fade / instant -->
 			<zIndex>40</zIndex> <!-- Default -->
 		</carousel>
 		
@@ -57,19 +59,20 @@
 			<zIndex>50</zIndex> <!-- Default -->
 		</text>
 
-		<!-- Background GRIS par défaut -->
+		<!-- Background GRIS par défaut --
 		<image name="background" extra="true">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${artPath}/white.png</path>
 			<color>${logoColor}</color>
-			<tile>true</tile> <!-- Repeat / Streach image -->
-			<zIndex>0</zIndex> <!-- Default -->
-		</image>
+			<tile>true</tile> <!-- Repeat / Streach image --
+			<zIndex>0</zIndex> <!-- Default --
+		</image> -->
 		
-		<!-- Background CONTOUR de la VUE -->
-		<image name="bg-system" extra="true">
+		<!-- Background CONTOUR de la VUE --
+		<image name="bg-system" extra="true"> -->
+		<image name="staticBackground">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -91,7 +94,7 @@
 			<origin>0 0</origin>
 			<pos>0.0151 0.0445</pos>
 			<size>0.9698 0.911</size>
-			<!-- AJOUTER BACKGOUND ALTERNATIF -->
+			<path>${artPath}/systemView/background-default.jpg</path>
 			<path>./../../${system.theme}/background.jpg</path>
 			<color>ffffffff</color>
 			<tile>false</tile> <!-- Repeat / Streach image -->
