@@ -51,5 +51,10 @@
 			<imageSource>image</imageSource>
 		</imagegrid>
 	</customView>
-		
+	<customView name="Marquee + detail" inherits="grid" displayName="${marqueeDetailViewName}">
+		<imagegrid name="gamegrid">
+			<imageSource>marquee</imageSource>
+		</imagegrid>
+	</customView>
+	
 </theme>

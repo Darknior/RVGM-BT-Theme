@@ -49,7 +49,7 @@
 		<!-- Games number -->
 		<text name="systemInfo">
 			<origin>0 0</origin>
-			<pos>0.1307 0.6318</pos>
+			<pos>0.1307 0.631</pos>
 			<size>0.1365 0.0217</size>
 			<backgroundColor>00000000</backgroundColor>
 			<color>${textColor}</color>

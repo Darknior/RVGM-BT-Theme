@@ -1,14 +1,18 @@
 <theme>
 	<formatVersion>7</formatVersion>
-	<!-- <include>./../theme.xml</include> -->
 	
 	<view name="system">
 
-		<!-- Sytem AVATAR -->
+		<!-- Mario Sprite -->
 		<image name="avatar" extra="true">
 			<pos>0.3335 0.1425</pos>
 			<rotation>90</rotation>
 		</image>
+		
+		<!-- Sytem VIDEO PREVIEW removed -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
 		
 	</view>
 </theme>

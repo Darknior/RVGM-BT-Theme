@@ -3,14 +3,14 @@
 
 	<view name="system">
 	
-		<!-- Sytem INFO -->
+		<!-- Coupa Sprite -->
 		<image name="info" extra="true">
 			<origin>0 0</origin>
-			<pos>0.063 0.059</pos>
+			<pos>0.045 0.055</pos>
 			<path>./info-horizontal-down.png</path>
 		</image>
 				
-		<!-- Sytem INFO CONSOLE -->
+		<!-- Princess Peach Sprite -->
 		<image name="console" extra="true">
 			<origin>0 0</origin>
 			<pos>0.078 0.565</pos>
@@ -22,6 +22,11 @@
 			<pos>0.3655 0.1965</pos>
 			<rotation>90</rotation>
 		</image>
+		
+		<!-- Sytem VIDEO PREVIEW removed -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
 		
 	</view>
 </theme>

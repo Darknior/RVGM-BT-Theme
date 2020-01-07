@@ -119,7 +119,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<itemSpacing>0.003</itemSpacing>
 			<imagePath>${artPath}/screen/gamepad.svg</imagePath>
 			<color>${logoColor}C0</color>
-			<activityColor>${dirColor}C0</activityColor>
+			<activityColor>${titleColor}80</activityColor>
 			<hotkeyColor>FFA0A0C0</hotkeyColor>
 		</controllerActivity>
 		
@@ -150,12 +150,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</view>
 	
 	<!-- Carousel SYSTEM MENU -->
-	
-	<include subset="systemView" name="Vertical Right Menu"				displayName="${menuVertRight}"		>${artPath}/systemView/vertical-right.xml</include>
-	<include subset="systemView" name="Vertical Left Menu"				displayName="${menuVertLeft}" 		>${artPath}/systemView/vertical-left.xml</include>
-	<include subset="systemView" name="Horizontal Bottom Menu"			displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
-	<include subset="systemView" name="Horizontal Bottom Menu + Video"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
-	
+	<subset name="systemView" displayName="${subset.systemView}">
+		<include name="menuVertRight"		displayName="${menuVertRight}"		>${artPath}/systemView/vertical-right.xml</include>
+		<include name="menuVertLeft"		displayName="${menuVertLeft}" 		>${artPath}/systemView/vertical-left.xml</include>
+		<include name="menuHorizBot"		displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
+		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
+	</subset>
 	<!-- Carousel END -->
 
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
@@ -995,7 +995,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 	</customView>
 
-	<customView name="CollectionSlide" inherits="grid" displayName="${collectionMarqueeViewName}">
+	<customView name="Marquee + detail" inherits="grid" displayName="${marqueeDetailViewName}">
 		
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
@@ -1023,37 +1023,34 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- Grille de tuiles -->
 		<imagegrid name="gamegrid">
-			<pos>0.743 0.07</pos>
-			<size>0.221 0.857</size>
+			<pos>0.725 0.07</pos>
+			<size>0.258 0.83</size>
 			<padding>0.04 0.03 0.04 0.03</padding>
 			<margin>0.003 0.003</margin>
 
 			<autoLayout>1 7</autoLayout>
-			<autoLayoutSelectedZoom>1.2</autoLayoutSelectedZoom>
+			<autoLayoutSelectedZoom>1.28</autoLayoutSelectedZoom>
 			
 			<showVideoAtDelay>-1</showVideoAtDelay>
 			<imageSource>marquee</imageSource> <!-- image / marquee -->
-			<animateSelection>true</animateSelection> <!-- Anime le deplacement du fond -->
+			<animateSelection>false</animateSelection> <!-- Anime le deplacement du fond -->
 		</imagegrid>
-		<video name="imagegrid.video">
-			<loops>3</loops>
-		</video>
 		
 		<!-- Tuile -->
 		<gridtile name="default">
 			<!-- Fond -->
-			<backgroundColor>FFFFFF00</backgroundColor>
+			<backgroundColor>00000000</backgroundColor>
 			<backgroundCornerSize>0 0</backgroundCornerSize>
 			<!-- Image -->
 			<selectionMode>image</selectionMode> <!-- full -->
-			<imageColor>FFFFFFFF</imageColor>
+			<imageColor>${logoColor}CC</imageColor>
 			<padding>4 4</padding>
-			<imageSizeMode>minSize</imageSizeMode> <!-- maxSize  / size -->
+			<imageSizeMode>maxSize</imageSizeMode> <!-- maxSize  / size -->
 		</gridtile>
 		<gridtile name="selected">
-			<backgroundCenterColor></backgroundCenterColor>
-			<backgroundEdgeColor></backgroundEdgeColor>
-			<imageColor>${logoColor}FF</imageColor>
+			<backgroundCenterColor>00000000</backgroundCenterColor>
+			<backgroundEdgeColor>00000000</backgroundEdgeColor>
+			<imageColor>FFFFFFFF</imageColor>
 			<padding>10 10</padding>
 		</gridtile>
 		
@@ -1065,20 +1062,25 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<visible>false</visible>
 		</text>
 	
-		<!-- Animation du tour de la selection --
+		<!-- Animation du tour de la selection -->
 		<ninepatch name="gridtile.background:selected">
-			<animateColor>${titleColor}</animateColor>
-			<animateColorTime>350</animateColorTime>
-		</ninepatch> -->
+			<animateColor>00000000</animateColor>
+			<animateColorTime>0</animateColorTime>
+		</ninepatch>
 		
 	</customView>
 	
 	<!-- Switch Thumbnail and Image for the COVER and VIDEO -->
-	<include subset="swapImages" name="Use Thumbnail as Cover" displayName="${swapThumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
-	<include subset="swapImages" name="Use Image as Cover"     displayName="${swapImage}"    >${artPath}/gameView/swapImage.xml</include>
+	<subset name="swapImages" displayName="${subset.swapImages}">
+		<include name="thumbnail" displayName="${thumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
+		<include name="image"     displayName="${image}"    >${artPath}/gameView/swapImage.xml</include>
+	</subset>
 	
-	<include subset="switchVideo" name="Show Video in System View" displayName="${switchVideoTrue}" />
-	<include subset="switchVideo" name="Hide Video in System View" displayName="${switchVideoFalse}" >${artPath}/systemView/switchVideoFalse.xml</include>
+	<!-- Switch to see VIDEOS or not in System Menu -->
+	<subset name="switchVideo" displayName="${subset.switchVideo}">
+		<include name="yes" displayName="${yes}" />
+		<include name="no"  displayName="${no}" >${artPath}/systemView/switchVideoFalse.xml</include>
+	</subset>
 	
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">

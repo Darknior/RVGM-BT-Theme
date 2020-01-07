@@ -2,20 +2,14 @@
 	<formatVersion>7</formatVersion>
 	
 	<view name="system">
-
-		<!-- Games number --
-		<text name="systemInfo">
-			<pos>0.095 0.615</pos>
-			<size>0.155 0.0395</size>
-		</text> -->
 	
-		<!-- Sytem CONSOLE -->
+		<!-- Buble Counter -->
 		<image name="console" extra="true">
 			<origin>0 0</origin>
-			<pos>0.074 0.686</pos>
+			<pos>0.073 0.686</pos>
 		</image>
 		
-		<!-- Sytem INFO -->
+		<!-- Kangourou Sprite -->
 		<image name="info" extra="true">
 			<pos>0.18 0.046</pos>
 			<maxSize>0.236 0.633</maxSize>
@@ -26,6 +20,11 @@
 			<pos>0.372 0.05</pos>
 			<maxSize>0.2625 0.821</maxSize>
 		</image>
+		
+		<!-- Sytem VIDEO PREVIEW removed -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
 		
 	</view>
 </theme>

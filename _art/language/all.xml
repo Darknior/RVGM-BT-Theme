@@ -2,8 +2,54 @@
 <theme>
 	<formatVersion>7</formatVersion>
 	
+	<variables>
+	
+		<yes>Yes</yes>
+		<no>No</no>
+		<thumbnail>Thumbnail</thumbnail>
+		<image>Image</image>
+
+		<subset.language>Choose your Langage</subset.language>
+		<langEn>English</langEn>
+		<langFr>French</langFr>
+		<langSp>Spanish</langSp>
+		
+		<subset.colorset>Choose a Color</subset.colorset>
+		<colblue>Blue</colblue>
+		<colred>Red</colred>
+		<colgreen>Green</colgreen>
+
+		<subset.systemView>Choose a System view</subset.systemView>
+		<menuVertRight>Menu Vertical Right</menuVertRight>
+		<menuVertLeft>Menu Vertical Left</menuVertLeft>
+		<menuHorizBot>Menu Horizontal Bottom</menuHorizBot>
+		<menuHorizBotVideo>Menu Horizontal with Video</menuHorizBotVideo>
+		
+		<subset.swapImages>Choose your Cover tag</subset.swapImages>
+
+		<subset.switchVideo>Show video on System view</subset.switchVideo>
+		
+		<basicViewName>Basic</basicViewName>
+		<detailedViewName>Detailled + Video </detailedViewName>
+		<videoViewName>Detailled + Video + big Cover</videoViewName>
+		<videoFullscreenViewName>Fullscreen Video + Logo + little Cover</videoFullscreenViewName>
+		
+		<gridVideoViewName>2D Cover + Video</gridVideoViewName>
+		<gridDetailViewName>2D cover + Detail + Video</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Thumbnail from title + Video</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Thumbnail from game + Video + Marquee</tilesScreenshotVideoMarqueeViewName>
+			
+		<marqueeDetailViewName>Marquee list + Detailled + Video</marqueeDetailViewName>
+			
+	</variables>
+	
 	<variables lang="fr">
 	
+		<yes>Oui</yes>
+		<no>Non</no>
+		<thumbnail>Thumbnail</thumbnail>
+		<image>Image</image>
+
 		<subset.language>Choix de la Langue</subset.language>
 		<langEn>Anglais</langEn>
 		<langFr>Français</langFr>
@@ -20,14 +66,10 @@
 		<menuHorizBot>Menu Horizontal en Bas</menuHorizBot>
 		<menuHorizBotVideo>Menu Horizontal avec Vidéo</menuHorizBotVideo>
 		
-		<subset.switchVideo>Afficher la vidéo dans la vue Système</subset.switchVideo>
-		<switchVideoTrue>Oui</switchVideoTrue>
-		<switchVideoFalse>Non</switchVideoFalse>
-		
 		<subset.swapImages>Choix de la balise Jaquette</subset.swapImages>
-		<swapThumbnail>Thumbnail</swapThumbnail>
-		<swapImage>Image</swapImage>
 
+		<subset.switchVideo>Afficher la vidéo dans la vue Système</subset.switchVideo>
+		
 		<basicViewName>Fiche Basique</basicViewName>
 		<detailedViewName>Fiche Détaillée + Vidéo</detailedViewName>
 		<videoViewName>Fiche Détaillée + Vidéo + grande Jaquette</videoViewName>
@@ -38,9 +80,16 @@
 		<tilesTitleshotVideoViewName>Vignette de l'écran titre + Vidéo</tilesTitleshotVideoViewName>
 		<tilesScreenshotVideoMarqueeViewName>Vignette du jeu + Vidéo + Logo</tilesScreenshotVideoMarqueeViewName>
 			
+		<marqueeDetailViewName>Liste de logos + Fiche Détaillée + Vidéo</marqueeDetailViewName>
+			
 	</variables>
 	
 	<variables lang="sp">
+
+		<yes>Si</yes>
+		<no>No</no>
+		<thumbnail>Thumbnail</thumbnail>
+		<image>Image</image>
 
 		<subset.language>Elección de idioma</subset.language>
 		<langEn>Inglés</langEn>
@@ -58,14 +107,10 @@
 		<menuHorizBot>Menú Horizontal y Bas</menuHorizBot>
 		<menuHorizBotVideo>Menu Horizontal y Video</menuHorizBotVideo>
 		
-		<subset.switchVideo>Mostrar video en la vista Sistema</subset.switchVideo>
-		<switchVideoTrue>Si</switchVideoTrue>
-		<switchVideoFalse>No</switchVideoFalse>
-		
 		<subset.swapImages>Elección de la chaqueta</subset.swapImages>
-		<swapThumbnail>Thumbnail</swapThumbnail>
-		<swapImage>Image</swapImage>
 
+		<subset.switchVideo>Mostrar video en la vista Sistema</subset.switchVideo>
+		
 		<basicViewName>Hoja básica</basicViewName>
 		<detailedViewName>Hoja detallada + Video</detailedViewName>
 		<videoViewName>Hoja detallada + Video + Sobrecubierta grande</videoViewName>
@@ -75,7 +120,9 @@
 		<gridDetailViewName>Chaqueta 2D + Hoja detallada + Video</gridDetailViewName>
 		<tilesTitleshotVideoViewName>Miniatura de la pantalla de título + Video</tilesTitleshotVideoViewName>
 		<tilesScreenshotVideoMarqueeViewName>Miniatura del juego + Video + Logotipo</tilesScreenshotVideoMarqueeViewName>
-
+		
+		<marqueeDetailViewName>LOGO - TO TRANSLATE</marqueeDetailViewName>
+		
 	</variables>
 
 

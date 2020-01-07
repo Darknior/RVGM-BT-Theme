@@ -3,13 +3,13 @@
 	
 	<view name="system">
 
-		<!-- Sytem CONSOLE -->
+		<!-- Buble Counter -->
 		<image name="console" extra="true">
 			<origin>1 0</origin>
-			<pos>0.99 0.685</pos>
+			<pos>0.98 0.685</pos>
 		</image>
 		
-		<!-- Sytem INFO -->
+		<!-- Kangourou Sprite -->
 		<image name="info" extra="true">
 			<pos>0.18 0.046</pos>
 			<maxSize>0.236 0.633</maxSize>
@@ -20,6 +20,11 @@
 			<pos>0.372 0.05</pos>
 			<maxSize>0.2625 0.821</maxSize>
 		</image>
+		
+		<!-- Sytem VIDEO PREVIEW removed -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
 		
 	</view>
 </theme>

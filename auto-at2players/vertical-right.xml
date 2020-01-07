@@ -3,16 +3,16 @@
 	
 	<view name="system">
 
-		<!-- Sytem CONSOLE --
-		<image name="console" extra="true">
-			<origin>0 0</origin>
-			<pos>0.074 0.686</pos>
-		</image> -->
-		
-		<!-- Sytem INFO -->
+		<!-- Bison Sprite -->
 		<image name="info" extra="true">
-			<pos>0.023 0.275</pos>
+			<pos>0.022 0.275</pos>
 		</image>
+		
+		
+		<!-- Sytem VIDEO PREVIEW removed -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
 		
 	</view>
 </theme>

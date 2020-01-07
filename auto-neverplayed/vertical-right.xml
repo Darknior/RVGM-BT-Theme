@@ -1,13 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
-	
-	<view name="system">
 
-		<!-- Bison Sprite -->
-		<image name="info" extra="true">
-			<origin>1 0</origin>
-			<pos>0.97 0.28</pos>
-		</image>
+	<view name="system">
 		
 		<!-- Sytem VIDEO PREVIEW removed -->
 		<video name="videoPreview" extra="true">
