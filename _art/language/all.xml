@@ -17,6 +17,7 @@
 		<subset.colorset>Choose a Color</subset.colorset>
 		<colblue>Blue</colblue>
 		<colred>Red</colred>
+		<colorange>Orange</colorange>
 		<colgreen>Green</colgreen>
 
 		<subset.systemView>Choose a System view</subset.systemView>
@@ -58,6 +59,7 @@
 		<subset.colorset>Jeux de couleurs</subset.colorset>
 		<colblue>Bleu</colblue>
 		<colred>Rouge</colred>
+		<colorange>Orange</colorange>
 		<colgreen>Vert</colgreen>
 
 		<subset.systemView>Choix de la Vue Système</subset.systemView>
@@ -99,8 +101,9 @@
 		<subset.colorset>Esquemas de color</subset.colorset>
 		<colblue>Azul</colblue>
 		<colred>Rojo</colred>
+		<colorange>Naranja</colorange>
 		<colgreen>Verde</colgreen>
-
+		
 		<subset.systemView>Elección de la vista del sistema</subset.systemView>
 		<menuVertRight>Menú vertical a la derecha</menuVertRight>
 		<menuVertLeft>Menú vertical a la izquierda.</menuVertLeft>

@@ -27,60 +27,66 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	${system.theme} <theme>nes</theme>
 	-->
 	<variables>
-		<artPath>./_art</artPath>			<!-- Media path 		${artPath}		-->
+		<artPath>./_art</artPath>				<!-- Media path 		${artPath}	-->
 		<langue>us</langue>
-		<favorisColor>FFFF00</favorisColor> <!-- Yellow     		${favorisColor}	-->
-		
-		<logoColor>bebebe</logoColor> 		<!-- Light gray 		${logoColor}	-->
-		<textColor>4c5058</textColor> 		<!-- Dark gray 			${textColor}	-->
 
-		<legendColor>02588d</legendColor> 	<!-- Dark Blue 			${legendColor}	-->
-		<titleColor>1f9be7</titleColor> 	<!-- Blue 				${titleColor}	-->
-		<dirColor>7BC4F1</dirColor>			<!-- Light blue			${dirColor}		-->
+		<themethemeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     		${themeFavorisColor}-->
+		<themeLightColor>bebebe</themeLightColor> 			<!-- Light gray 		${themeLightColor}	-->
+		<themeDarkColor>4c5058</themeDarkColor> 			<!-- Dark gray 			${themeDarkColor}	-->
+
+		<userDarkColor>02588d</userDarkColor> 	<!-- Dark Blue 		${userDarkColor}	-->
+		<userColor>1f9be7</userColor> 			<!-- Blue 			${userColor}		-->
+		<userLightColor>7BC4F1</userLightColor>	<!-- Light blue		${userLightColor}	-->
 	</variables>
 
 	<!-- Translate ES Help bars, Systems Info & Description, change Systems Logo & Console.
 	us : Englis (Default) / fr : French / sp : Spanish / jp : Japanese -->
-	<include subset="language" name="English" displayName="${langEn}" />
-	<include subset="language" name="French"  displayName="${langFr}">${artPath}/language/french.xml</include>
-	<include subset="language" name="Spanish" displayName="${langSp}">${artPath}/language/spanish.xml</include>
+	<subset name="language" displayName="${subset.language}">
+		<include name="English" displayName="${langEn}" />
+		<include name="French"  displayName="${langFr}"	>${artPath}/language/french.xml</include>
+		<include name="Spanish" displayName="${langSp}"	>${artPath}/language/spanish.xml</include>
+	</subset>
 
-	<include subset="colorset" name="Blue"  displayName="${colblue}" />
-	<include subset="colorset" name="Red"   displayName="${colred}"  >${artPath}/colors/red.xml</include>
-	<include subset="colorset" name="Green" displayName="${colgreen}">${artPath}/colors/green.xml</include>
+	<!-- Switch Theme color -->
+	<subset name="colorset" displayName="${subset.colorset}">
+		<include name="Blue" 	displayName="${colblue}" />
+		<include name="Red" 	displayName="${colred}" 	>${artPath}/colors/red.xml</include>
+		<include name="Orange" 	displayName="${colorange}"	>${artPath}/colors/orange.xml</include>
+		<include name="Green" 	displayName="${colgreen}"	>${artPath}/colors/green.xml</include>
+	</subset>
 
 	<!-- Popup System -->
 	<view name="menu">
 		<menuText name="menutitle">
-			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.044</fontSize>
-			<color>${titleColor}</color>
+			<color>${userColor}</color>
 		</menuText>
 		<menuText name="menufooter">
-			<fontPath>${artPath}/Roboto-Regular.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.02</fontSize>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 		</menuText>
 		<menuText name="menutext">
-			<fontPath>${artPath}/Roboto-Regular.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.038</fontSize>
-			<color>${logoColor}</color>
-			<iconColor>${titleColor}</iconColor>
-			<separatorColor>${logoColor}</separatorColor> <!-- Séparateur -->
-			<selectorColor>${logoColor}</selectorColor>
-			<selectorColorEnd>${logoColor}</selectorColorEnd>
-			<selectedColor>${titleColor}</selectedColor>
+			<color>${themeLightColor}</color>
+			<iconColor>${userColor}</iconColor>
+			<separatorColor>${themeLightColor}</separatorColor> <!-- Séparateur -->
+			<selectorColor>${themeLightColor}</selectorColor>
+			<selectorColorEnd>${themeLightColor}</selectorColorEnd>
+			<selectedColor>${userColor}</selectedColor>
 			<selectorGradientType>horizontal</selectorGradientType>
 		</menuText>
 		<!-- Popup Updates/Download -->
 		<menuTextSmall name="menutextsmall">
-			<fontPath>${artPath}/Roboto-Regular.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<color>deec00</color> <!-- Jaune -->
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">
-			<color>${textColor}</color>      
+			<color>${themeDarkColor}</color>      
 			<cornerSize>32 32</cornerSize>
 			<path>${artPath}/popup/frame.png</path>
 		</menuBackground>
@@ -117,10 +123,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.085 0.025</size>
 			<!--<horizontalAlignment>right</horizontalAlignment>-->
 			<itemSpacing>0.003</itemSpacing>
-			<imagePath>${artPath}/screen/gamepad.svg</imagePath>
-			<color>${logoColor}C0</color>
-			<activityColor>${titleColor}80</activityColor>
-			<hotkeyColor>FFA0A0C0</hotkeyColor>
+			<imagePath>${artPath}/icons/gamepad.png</imagePath>
+			<color>${themeLightColor}</color>
+			<activityColor>${userColor}</activityColor>
+			<hotkeyColor>userDarkColor</hotkeyColor>
 		</controllerActivity>
 		
 		<text name="clock">
@@ -128,8 +134,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.9344 0.9584</pos>
 			<size>0.05 0.0384</size>
             <verticalAlignment>center</verticalAlignment>
-			<textColor>${logoColor}</textColor>
-			<fontPath>${artPath}/screen/Digib.ttf</fontPath>
+			<themeDarkColor>${themeLightColor}</themeDarkColor>
+			<fontPath>${artPath}/font/Digib.ttf</fontPath>
 			<fontSize>0.035</fontSize>
 		</text>
 
@@ -141,9 +147,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<helpsystem name="help">
 			<origin>0 0</origin>
 			<pos>0.0161 0.9648</pos>
-			<textColor>${logoColor}</textColor>
-			<iconColor>${dirColor}</iconColor>
-			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
+			<themeDarkColor>${themeLightColor}</themeDarkColor>
+			<iconColor>${userColor}</iconColor>
+			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.024</fontSize>
 		</helpsystem>
 
@@ -171,15 +177,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>2 2</pos>
 			<size>0.15 0.015</size>
 			
-			<color>${legendColor}</color>
+			<color>${userDarkColor}</color>
 			<fontSize>0.024</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<alignment>right</alignment>			
 			<zIndex>40</zIndex>  <!-- Default for METADATA -->
         </text>
         <text name="md_developer, md_publisher, md_genre, md_playcount, md_description">
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 			<alignment>left</alignment>
 			<lineSpacing>1.0</lineSpacing>
         </text>
@@ -188,10 +194,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>2 2</pos>
 			<size>0.15 0.015</size>
 			
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 			<fontSize>0.024</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<alignment>left</alignment>
 			
 			<!-- <displayRelative>0</displayRelative> Afficher une date relative : 5 jours avant
@@ -200,14 +206,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         </datetime>
 
 		<text name="md_players">
-			<fontPath>${artPath}/Players.ttf</fontPath>
+			<fontPath>${artPath}/font/Players.ttf</fontPath>
 			<alignment>center</alignment>
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 		</text>
 		<rating name="md_rating">
 			<filledPath>${artPath}/icons/star.png</filledPath>
 			<unfilledPath>${artPath}/icons/star-empty.png</unfilledPath>
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 		</rating>
 		
         <textlist name="gamelist">
@@ -215,18 +221,18 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
             <pos>0.745 0.259</pos>
             <size>0.22 0.63</size>
 			
-			<selectedColor>${titleColor}</selectedColor> <!-- Select file color -->
-			<primaryColor>${logoColor}</primaryColor> <!-- File color -->
-			<secondaryColor>${dirColor}</secondaryColor> <!-- Directory color -->
+			<selectedColor>${userColor}</selectedColor> <!-- Select file color -->
+			<primaryColor>${themeLightColor}</primaryColor> <!-- File color -->
+			<secondaryColor>${userLightColor}</secondaryColor> <!-- Directory color -->
 
-			<fontPath>${artPath}/Roboto-Light.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Light.ttf</fontPath>
 			<fontSize>0.021</fontSize> <!-- Medium / 0.25 / 1.7 -->
 			<lineSpacing>1.5</lineSpacing> <!-- Default 1.5 -->
 			<alignment>right</alignment>
 			<horizontalMargin>0.0</horizontalMargin>
 			<!-- <forceUppercase>1</forceUppercase> -->
 
-			<selectorColor>${textColor}00</selectorColor> <!-- Alpha channel RGBA: FF visible / 00 transparent -->
+			<selectorColor>${themeDarkColor}00</selectorColor> <!-- Alpha channel RGBA: FF visible / 00 transparent -->
 			<!-- <selectorImagePath>${artPath}/icon.png</selectorImagePath> -->
 			<selectorHeight>0.05</selectorHeight>
 			<!-- Sound effect on Scroll -->
@@ -240,7 +246,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${artPath}/white.png</path>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 			<tile>true</tile> <!-- Repeat / Streach image -->
 			<zIndex>0</zIndex> <!-- Default -->
 		</image>
@@ -277,10 +283,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.7445 0.1097</pos>
 			<size>0.2214 0.1119</size>
 			<fontSize>0.0444444444444444</fontSize>
-			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<alignment>center</alignment>
 			<forceUppercase>true</forceUppercase>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 		</text>
 		
 		<!-- BACKGROUND MUSIC used by Theme -->
@@ -566,19 +572,19 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<image name="md_hidden, md_kidgame, md_favorite">
 			<maxSize>0.032 0.032</maxSize>
 			<origin>0.5 0.5</origin>
-			<color>${legendColor}</color>
+			<color>${userDarkColor}</color>
 		</image>
 		<image name="md_hidden">
 			<pos>0.409 0.73</pos>
-			<path>${artPath}/icons/hidden.svg</path>
+			<path>${artPath}/icons/hidden.png</path>
 		</image>
 		<image name="md_kidgame">
 			<pos>0.441 0.73</pos>
-			<path>${artPath}/icons/kid.svg</path>
+			<path>${artPath}/icons/kid.png</path>
 		</image>
 		<image name="md_favorite">
 			<pos>0.472 0.73</pos>
-			<path>${artPath}/icons/favorite.svg</path>
+			<path>${artPath}/icons/heart.png</path>
 		</image>
 
 	</view>
@@ -607,7 +613,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<pos>0.0151 0.0445</pos>
 			<size>0.717 0.104</size>
-			<color>${textColor}80</color>
+			<color>${themeDarkColor}80</color>
 			<zIndex>10</zIndex>
 		</image>
 		
@@ -651,12 +657,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.115 0.083</size>
 			<fontSize>0.085</fontSize>
 			<alignment>right</alignment>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 		</text>
 		<rating name="md_rating">
 			<pos>0.025 0.065</pos>
 			<size>0.1406 0.0594</size>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 		</rating>
 		
 	</customView>
@@ -691,7 +697,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
 			<pos>0.866 0.123</pos>
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 		</text>
 		
 		<!-- Marquee / Player / Rating -->
@@ -708,7 +714,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.115 0.083</size>
 			<fontSize>0.085</fontSize>
 			<alignment>right</alignment>
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 		</text>
 		
 		<!-- Grille de tuiles -->
@@ -744,8 +750,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<imageSizeMode>minSize</imageSizeMode>
 		</gridtile>
 		<gridtile name="selected">
-			<backgroundCenterColor>${legendColor}50</backgroundCenterColor>
-			<backgroundEdgeColor>${legendColor}</backgroundEdgeColor>
+			<backgroundCenterColor>${userDarkColor}50</backgroundCenterColor>
+			<backgroundEdgeColor>${userDarkColor}</backgroundEdgeColor>
 			<imageColor>FFFFFFFF</imageColor>
 			<padding>10 10</padding>
 		</gridtile>
@@ -764,14 +770,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<maxSize>0.25 0.25</maxSize>
 			<horizontalAlignment>right</horizontalAlignment>
 			<origin>0 0</origin>
-			<color>${favorisColor}</color>
+			<color>${themeFavorisColor}</color>
 		</image>  
 		<image name="gridtile.favorite:selected">
-			<color>${titleColor}</color>
+			<color>${userColor}</color>
 		</image>
 		<!-- Animation du tour de la selection -->
 		<ninepatch name="gridtile.background:selected">
-			<animateColor>${titleColor}</animateColor>
+			<animateColor>${userColor}</animateColor>
 			<animateColorTime>350</animateColorTime>
 		</ninepatch>
 		
@@ -807,7 +813,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.115 0.083</size>
 			<fontSize>0.085</fontSize>
 			<alignment>right</alignment>
-			<color>${textColor}</color>
+			<color>${themeDarkColor}</color>
 			
 			<zIndex>99</zIndex>
 		</text>
@@ -833,9 +839,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.807 0.205</pos>
 			<size>0.313 0.034</size>
 
-			<color>${titleColor}</color>
+			<color>${userColor}</color>
 			<fontSize>0.025</fontSize>
-			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
 			<alignment>center</alignment>
 			<!-- <glowColor>Ab000020</glowColor>
 			<glowSize>2</glowSize> -->
@@ -857,7 +863,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.302 0.247</size>
 
 			<fontSize>0.024</fontSize>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 			<visible>true</visible>
 		</text>
 		<text name="md_developer">
@@ -866,7 +872,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<alignment>left</alignment>
 
 			<fontSize>0.025</fontSize>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 			<visible>true</visible>
 		</text>
 		<datetime name="md_releasedate">
@@ -875,7 +881,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<alignment>right</alignment>
 
 			<fontSize>0.025</fontSize>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 			<visible>true</visible>
 		</datetime>
 	
@@ -901,13 +907,13 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<!-- IMAGE -->
 		<gridtile name="default">
 			<backgroundImage></backgroundImage>
-			<backgroundCenterColor>${textColor}80</backgroundCenterColor>
-			<backgroundEdgeColor>${textColor}</backgroundEdgeColor>
+			<backgroundCenterColor>${themeDarkColor}80</backgroundCenterColor>
+			<backgroundEdgeColor>${themeDarkColor}</backgroundEdgeColor>
 			<!-- <backgroundCornerSize>0.03</backgroundCornerSize> REMOVE for RPI to slow -->
 			
 			<padding>1 1</padding>
 			<imageSizeMode>minSize</imageSizeMode>
-			<imageColor>${logoColor}</imageColor>
+			<imageColor>${themeLightColor}</imageColor>
 		</gridtile>
 		<gridtile name="selected">
 			<padding>8 8</padding>
@@ -916,7 +922,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</gridtile>
 		
 		<ninepatch name="gridtile.background:selected">
-			<animateColor>${titleColor}</animateColor>
+			<animateColor>${userColor}</animateColor>
 			<animateColorTime>350</animateColorTime>
 		</ninepatch>
 		<image name="gridtile.image">
@@ -930,10 +936,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<maxSize>0.20 0.20</maxSize>
 			<origin>0.5 0.5</origin>
 			<horizontalAlignment>right</horizontalAlignment>
-			<color>${favorisColor}</color>
+			<color>${themeFavorisColor}</color>
 		</image>  
 		<image name="gridtile.favorite:selected">
-			<color>${titleColor}</color>
+			<color>${userColor}</color>
 		</image>  
 		
 		<!-- Ombrage interieur de la tuile -->
@@ -956,10 +962,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0 0</pos>
 			<size>1 1</size>
 
-			<color>${logoColor}D0</color>
+			<color>${themeLightColor}D0</color>
 			<backgroundColor>00000000</backgroundColor>
 
-			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.040</fontSize>
 			<alignment>center</alignment>
 			<singleLineScroll>true</singleLineScroll>
@@ -971,7 +977,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</text>
 		<text name="gridtile_selected">
 			<color>FFFFFF</color>
-			<glowColor>${legendColor}20</glowColor>
+			<glowColor>${userDarkColor}20</glowColor>
 			<glowSize>3</glowSize>
 			
 			<visible>true</visible>
@@ -1044,7 +1050,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<backgroundCornerSize>0 0</backgroundCornerSize>
 			<!-- Image -->
 			<selectionMode>image</selectionMode> <!-- full -->
-			<imageColor>${logoColor}CC</imageColor>
+			<imageColor>${themeLightColor}CC</imageColor>
 			<padding>4 4</padding>
 			<imageSizeMode>maxSize</imageSizeMode> <!-- maxSize  / size -->
 		</gridtile>

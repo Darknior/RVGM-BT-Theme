@@ -40,10 +40,10 @@
 			<pos>0.5 0.5</pos>
 			<size>0.2214 0.8335</size>
 			<fontSize>0.05</fontSize>
-			<fontPath>${artPath}/Roboto-Medium.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<alignment>center</alignment>
 			<forceUppercase>true</forceUppercase>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 		</text>
 		
 		<!-- Games number -->
@@ -52,8 +52,8 @@
 			<pos>0.1214 0.832</pos>
 			<size>0.1365 0.0217</size>
 			<backgroundColor>00000000</backgroundColor>
-			<color>${textColor}</color>
-			<fontPath>${artPath}/Roboto-Bold.ttf</fontPath>
+			<color>${themeDarkColor}</color>
+			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
 			<alignment>left</alignment>
 			<zIndex>50</zIndex> <!-- Default -->
@@ -65,7 +65,7 @@
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${artPath}/white.png</path>
-			<color>${logoColor}</color>
+			<color>${themeLightColor}</color>
 			<tile>true</tile> <!-- Repeat / Streach image --
 			<zIndex>0</zIndex> <!-- Default --
 		</image> -->

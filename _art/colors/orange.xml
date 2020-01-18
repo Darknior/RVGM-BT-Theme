@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<legendColor>8f5601</legendColor> 	<!-- Dark Orange 	${legendColor} -->
+		<titleColor>ff9900</titleColor> 	<!-- Orange 		${titleColor}  -->
+		<dirColor>efbf77</dirColor>			<!-- Light Orange	${dirColor}    -->
+	</variables>
+
+</theme>
