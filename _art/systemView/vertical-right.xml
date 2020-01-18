@@ -72,7 +72,7 @@
 		
 		<!-- Background CONTOUR de la VUE --
 		<image name="bg-system" extra="true"> -->
-		<image name="staticBackground">
+		<image name="staticBackground" extra="true">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -84,7 +84,6 @@
 		
 		<!-- Logo système GRAY pour le CAROUSSEL -->
 		<image name="logo">
-			<path>${artPath}/logos-gray/${system.name}.png</path>
 			<path>./../../${system.theme}/system-logo-gray-us.png</path>
 			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
 		</image>

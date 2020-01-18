@@ -156,6 +156,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<include name="menuHorizBot"		displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
 		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
 	</subset>
+	
+	<!-- <video name="staticBackgroundVideo"> --------------------------------------------------------------------------------------->
+	
 	<!-- Carousel END -->
 
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
@@ -266,7 +269,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0.5 0.5</origin> <!-- Center -->
 			<pos>0.8536 0.161</pos>
 			<maxSize>0.2214 0.1119</maxSize>
-			<path>${artPath}/logos-gray/${system.name}.png</path>
 			<path>./${system.theme}/system-logo-gray-us.png</path>
 			<path>./${system.theme}/system-logo-gray-${langue}.png</path>
 			<zIndex>50</zIndex> <!-- Default -->
@@ -787,7 +789,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.807 0.106</pos>
 			<maxSize>0.234 0.118</maxSize>
 			
-			<path>${artPath}/logos-gray/${system.name}.png</path>
 			<path>./${system.theme}/system-logo-gray-us.png</path>
 			<path>./${system.theme}/system-logo-gray-${langue}.png</path>
 		</image>

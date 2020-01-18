@@ -84,7 +84,6 @@
 
 		<!-- Logo système GRAY pour le CAROUSSEL -->
 		<image name="logo">
-			<path>${artPath}/logos-gray/${system.name}.png</path>
 			<path>./../../${system.theme}/system-logo-gray-us.png</path>
 			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
 		</image>
