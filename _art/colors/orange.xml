@@ -3,9 +3,9 @@
 	<formatVersion>7</formatVersion>
 
 	<variables>
-		<legendColor>8f5601</legendColor> 	<!-- Dark Orange 	${legendColor} -->
-		<titleColor>ff9900</titleColor> 	<!-- Orange 		${titleColor}  -->
-		<dirColor>efbf77</dirColor>			<!-- Light Orange	${dirColor}    -->
+		<userDarkColor>8f5601</userDarkColor> 	<!-- Dark Orange 	-->
+		<userColor>ff9900</userColor> 			<!-- Orange 		-->
+		<userLightColor>efbf77</userLightColor>	<!-- Light Orange	-->
 	</variables>
 
 </theme>

@@ -30,7 +30,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<artPath>./_art</artPath>				<!-- Media path 		${artPath}	-->
 		<langue>us</langue>
 
-		<themethemeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     		${themeFavorisColor}-->
+		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     		${themeFavorisColor}-->
 		<themeLightColor>bebebe</themeLightColor> 			<!-- Light gray 		${themeLightColor}	-->
 		<themeDarkColor>4c5058</themeDarkColor> 			<!-- Dark gray 			${themeDarkColor}	-->
 

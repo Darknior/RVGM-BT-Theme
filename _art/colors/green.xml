@@ -3,9 +3,9 @@
 	<formatVersion>7</formatVersion>
 
 	<variables>
-		<legendColor>018c12</legendColor> 	<!-- Dark Green 	${legendColor} -->
-		<titleColor>1fe737</titleColor> 	<!-- Green 			${titleColor}  -->
-		<dirColor>79ee87</dirColor>			<!-- Light Green	${dirColor}    -->
+		<userDarkColor>018c12</userDarkColor> 	<!-- Dark Green 	-->
+		<userColor>1fe737</userColor> 			<!-- Green 			-->
+		<userLightColor>79ee87</userLightColor>	<!-- Light Green	-->
 	</variables>
 
 </theme>
