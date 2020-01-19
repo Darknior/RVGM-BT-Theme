@@ -27,12 +27,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	${system.theme} <theme>nes</theme>
 	-->
 	<variables>
-		<artPath>./_art</artPath>				<!-- Media path 		${artPath}	-->
+		<artPath>./_art</artPath>				<!-- Media path 	${artPath}	-->
 		<langue>us</langue>
 
-		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     		${themeFavorisColor}-->
-		<themeLightColor>bebebe</themeLightColor> 			<!-- Light gray 		${themeLightColor}	-->
-		<themeDarkColor>4c5058</themeDarkColor> 			<!-- Dark gray 			${themeDarkColor}	-->
+		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     	${themeFavorisColor}-->
+		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
+		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
 
 		<userDarkColor>02588d</userDarkColor> 	<!-- Dark Blue 		${userDarkColor}	-->
 		<userColor>1f9be7</userColor> 			<!-- Blue 			${userColor}		-->
@@ -141,9 +141,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	</view>
 	
+	<!-- Helpsystem general design -->
 	<view name="system, basic, detailed, video, grid">
 	
-		<!-- Standard helpsystem -->
 		<helpsystem name="help">
 			<origin>0 0</origin>
 			<pos>0.0161 0.9648</pos>
