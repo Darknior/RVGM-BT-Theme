@@ -158,6 +158,7 @@
 			<size>0.2203 0.2591</size>
 			
 			<path>{random}</path>                 
+			<path>./../../_videos/${videoType}/${system.theme}.mp4</path>
 			<delay>2</delay>
 			<effect>bump</effect>
 			<zIndex>17</zIndex>      

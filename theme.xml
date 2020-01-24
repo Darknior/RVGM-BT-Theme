@@ -29,7 +29,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<variables>
 		<artPath>./_art</artPath>				<!-- Media path 	${artPath}	-->
 		<langue>us</langue>
-
+		<videoType>games</videoType>			<!-- Video type on system view ${videoType} -->
+		
 		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     	${themeFavorisColor}-->
 		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
 		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
@@ -39,13 +40,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<userLightColor>7BC4F1</userLightColor>	<!-- Light blue		${userLightColor}	-->
 	</variables>
 
-	<!-- Translate ES Help bars, Systems Info & Description, change Systems Logo & Console.
-	us : Englis (Default) / fr : French / sp : Spanish / jp : Japanese -->
+	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available. --
 	<subset name="language" displayName="${subset.language}">
 		<include name="English" displayName="${langEn}" />
 		<include name="French"  displayName="${langFr}"	>${artPath}/language/french.xml</include>
 		<include name="Spanish" displayName="${langSp}"	>${artPath}/language/spanish.xml</include>
-	</subset>
+	</subset> -->
+	<include lang="fr">${artPath}/language/french.xml</include>
+	<include lang="sp">${artPath}/language/spanish.xml</include>
+	<include lang="jp">${artPath}/language/japan.xml</include> <!-- Only for consoles images, text will stay in english -->
 
 	<!-- Switch Theme color -->
 	<subset name="colorset" displayName="${subset.colorset}">
@@ -53,6 +56,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<include name="Red" 	displayName="${colred}" 	>${artPath}/colors/red.xml</include>
 		<include name="Orange" 	displayName="${colorange}"	>${artPath}/colors/orange.xml</include>
 		<include name="Green" 	displayName="${colgreen}"	>${artPath}/colors/green.xml</include>
+	</subset>
+
+	<!-- Switch the VIDEOS TYPE you can see on System Menu -->
+	<subset name="systemVideoType" displayName="${subset.systemVideoType}">
+		<include name="gameVideo" 		displayName="${gameVideo}"			/>
+		<!-- <note name="noteGameVideo" displayName="${noteGameVideo}" /> -->
+		<include name="commercialVideo"	displayName="${commercialVideo}"    >${artPath}/systemView/switchVideoType.xml</include>
+		<include name="hideVideo"  		displayName="${hideVideo}"   		>${artPath}/systemView/switchVideoHide.xml</include>
 	</subset>
 
 	<!-- Popup System -->
@@ -63,12 +74,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<color>${userColor}</color>
 		</menuText>
 		<menuText name="menufooter">
-			<fontPath>${artPath}/font/Roboto-Regular.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<color>${themeLightColor}</color>
 		</menuText>
 		<menuText name="menutext">
-			<fontPath>${artPath}/font/Roboto-Regular.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<fontSize>0.038</fontSize>
 			<color>${themeLightColor}</color>
 			<iconColor>${userColor}</iconColor>
@@ -80,7 +91,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</menuText>
 		<!-- Popup Updates/Download -->
 		<menuTextSmall name="menutextsmall">
-			<fontPath>${artPath}/font/Roboto-Regular.ttf</fontPath>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<color>deec00</color> <!-- Jaune -->
 		</menuTextSmall>
@@ -1078,16 +1089,23 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</customView>
 	
 	<!-- Switch Thumbnail and Image for the COVER and VIDEO -->
-	<subset name="swapImages" displayName="${subset.swapImages}">
+	<subset name="switchImages" displayName="${subset.switchImages}">
 		<include name="thumbnail" displayName="${thumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
 		<include name="image"     displayName="${image}"    >${artPath}/gameView/swapImage.xml</include>
 	</subset>
 	
-	<!-- Switch to see VIDEOS or not in System Menu -->
-	<subset name="switchVideo" displayName="${subset.switchVideo}">
+	<!-- Switch to see VIDEOS or not in System Menu --
+	<subset name="systemHideVideo" displayName="${subset.systemHideVideo}">
 		<include name="yes" displayName="${yes}" />
-		<include name="no"  displayName="${no}" >${artPath}/systemView/switchVideoFalse.xml</include>
-	</subset>
+		<include name="no"  displayName="${no}"   >${artPath}/systemView/switchVideoHide.xml</include>
+	</subset> -->
+	
+	<!-- Switch the VIDEOS TYPE you can see on System Menu --
+	<subset name="systemVideoType" displayName="${subset.systemVideoType}">
+		<include name="gameVideo" 		displayName="${gameVideo}"			/>
+		<include name="commercialVideo"	displayName="${commercialVideo}"    >${artPath}/systemView/switchVideoType.xml</include>
+		<include name="hideVideo"  		displayName="${hideVideo}"   		>${artPath}/systemView/switchVideoHide.xml</include>
+	</subset> -->
 	
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">

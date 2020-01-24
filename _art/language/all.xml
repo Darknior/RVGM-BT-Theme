@@ -9,10 +9,10 @@
 		<thumbnail>Thumbnail</thumbnail>
 		<image>Image</image>
 
-		<subset.language>Choose your Langage</subset.language>
+<!--	<subset.language>Choose your Langage</subset.language>
 		<langEn>English</langEn>
 		<langFr>French</langFr>
-		<langSp>Spanish</langSp>
+		<langSp>Spanish</langSp> -->
 		
 		<subset.colorset>Choose a Color</subset.colorset>
 		<colblue>Blue</colblue>
@@ -26,10 +26,20 @@
 		<menuHorizBot>Menu Horizontal Bottom</menuHorizBot>
 		<menuHorizBotVideo>Menu Horizontal with Video</menuHorizBotVideo>
 		
-		<subset.swapImages>Choose your Cover tag</subset.swapImages>
+		<subset.switchImages>Choose your Cover tag</subset.switchImages>
 
-		<subset.switchVideo>Show video on System view</subset.switchVideo>
+		<!-- <subset.systemHideVideo>Show video on System view</subset.systemHideVideo> -->
 		
+		<subset.systemVideoType>Choose a system video type</subset.systemVideoType>
+		<gameVideo>Games slide (To download)</gameVideo>
+		<commercialVideo>Commercial TV videos (To download)</commercialVideo>
+		<hideVideo>No video</hideVideo>
+		
+		<subset.systemVideoType>Choose video type on System view</subset.systemVideoType>
+		<gameVideo>Games videos</gameVideo>
+		<commercialVideo>Commercial videos</commercialVideo>
+		<hideVideo>No video</hideVideo>
+
 		<basicViewName>Basic</basicViewName>
 		<detailedViewName>Detailled + Video </detailedViewName>
 		<videoViewName>Detailled + Video + big Cover</videoViewName>
@@ -51,11 +61,6 @@
 		<thumbnail>Thumbnail</thumbnail>
 		<image>Image</image>
 
-		<subset.language>Choix de la Langue</subset.language>
-		<langEn>Anglais</langEn>
-		<langFr>Français</langFr>
-		<langSp>Espagnol</langSp>
-		
 		<subset.colorset>Jeux de couleurs</subset.colorset>
 		<colblue>Bleu</colblue>
 		<colred>Rouge</colred>
@@ -68,10 +73,15 @@
 		<menuHorizBot>Menu Horizontal en Bas</menuHorizBot>
 		<menuHorizBotVideo>Menu Horizontal avec Vidéo</menuHorizBotVideo>
 		
-		<subset.swapImages>Choix de la balise Jaquette</subset.swapImages>
+		<subset.switchImages>Choix de la balise Jaquette</subset.switchImages>
 
-		<subset.switchVideo>Afficher la vidéo dans la vue Système</subset.switchVideo>
+		<!-- <subset.systemHideVideo>Afficher les miniatures vidéo dans la liste Système</subset.systemHideVideo> -->
 		
+		<subset.systemVideoType>Choix du type des vidéos système</subset.systemVideoType>
+		<gameVideo>Vidéomontage de jeux (A télécharger)</gameVideo>
+		<commercialVideo>Vidéos de publicités TV (A télécharger)</commercialVideo>
+		<hideVideo>Aucune vidéo</hideVideo>
+
 		<basicViewName>Fiche Basique</basicViewName>
 		<detailedViewName>Fiche Détaillée + Vidéo</detailedViewName>
 		<videoViewName>Fiche Détaillée + Vidéo + grande Jaquette</videoViewName>
@@ -93,11 +103,6 @@
 		<thumbnail>Thumbnail</thumbnail>
 		<image>Image</image>
 
-		<subset.language>Elección de idioma</subset.language>
-		<langEn>Inglés</langEn>
-		<langFr>Francés</langFr>
-		<langSp>Español</langSp>
-		
 		<subset.colorset>Esquemas de color</subset.colorset>
 		<colblue>Azul</colblue>
 		<colred>Rojo</colred>
@@ -110,9 +115,9 @@
 		<menuHorizBot>Menú Horizontal y Bas</menuHorizBot>
 		<menuHorizBotVideo>Menu Horizontal y Video</menuHorizBotVideo>
 		
-		<subset.swapImages>Elección de la chaqueta</subset.swapImages>
+		<subset.switchImages>Elección de la chaqueta</subset.switchImages>
 
-		<subset.switchVideo>Mostrar video en la vista Sistema</subset.switchVideo>
+		<subset.systemHideVideo>Mostrar video en la vista Sistema</subset.systemHideVideo>
 		
 		<basicViewName>Hoja básica</basicViewName>
 		<detailedViewName>Hoja detallada + Video</detailedViewName>
