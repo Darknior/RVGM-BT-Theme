@@ -3,7 +3,7 @@
 	<formatVersion>7</formatVersion>
 
 	<variables>
-		<gamelistOpacity>-transp</gamelistOpacity>
+		<systemOpacity>-transp</systemOpacity>
 	</variables>
 
 </theme>

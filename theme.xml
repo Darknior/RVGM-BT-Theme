@@ -40,7 +40,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<userLightColor>7BC4F1</userLightColor>		<!-- Light blue		${userLightColor}	-->
 
 		<systemOpacity></systemOpacity>
-		<gamelistOpacity></gamelistOpacity>
 	</variables>
 
 	<!-------------------------------------------------------------------------------------------->
@@ -65,9 +64,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<!-- SYSTEM SWITCH --------------------------------------------------------------------------->
 
 	<!-- Switch Background Menu Opacity -->
-	<subset name="systemOpacity" displayName="${subset.systemOpacity}">
-		<include name="systemOpacityFull" 	displayName="${opacityFull}"   />
-		<include name="systemOpacityMiddle" displayName="${opacityMiddle}"	>${artPath}/colors/systemOpacityMiddle.xml</include>
+	<subset name="systemMenuOpacity" displayName="${subset.systemMenuOpacity}">
+		<include name="systemMenuOpacityFull" 	displayName="${opacityFull}"   />
+		<include name="systemMenuOpacityMiddle" displayName="${opacityMiddle}"	>${artPath}/systemView/menuOpacityMiddle.xml</include>
 	</subset>
 	
 	<!-- Switch Logo Color / Gray -->
@@ -189,6 +188,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</view>
 	
 
+	<!-------------------------------------------------------------------------------------------->
+	<!-- GAMELIST VIEWS -------------------------------------------------------------------------->
+
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
 
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
@@ -280,6 +282,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<path>${artPath}/empty.png</path>
 			<path>./${system.theme}/background.jpg</path>
 			<color>ffffff33</color>
+			<!-- <color>${themeDarkColor}80</color> -->
 			<tile>false</tile>
 			<zIndex>5</zIndex> <!-- Default  themeDarkColor -->
 		</image>
@@ -288,7 +291,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/gameView/bg-game-right${gamelistOpacity}.png</path>
+			<path>${artPath}/gameView/bg-game-right.png</path>
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -338,7 +341,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<image name="background_video" extra="true">
 			<origin>0 0</origin>
 			<tile>true</tile>
-			<color>bebebeff</color>
+			<color>${themeDarkColor}80</color>
 			<path>${artPath}/white.png</path>
 			<zIndex>40</zIndex> <!-- Default 10 for extra -->
 		</image>
@@ -610,7 +613,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	</view>
 
-	<customView name="Video Fullscreen" inherits="video" displayName="${videoFullscreenViewName}">
+	<customView name="videoFullscreen" inherits="video" displayName="${videoFullscreenViewName}">
 
 		<textlist name="gamelist">
 			<pos>0.7432 0.2632</pos>
@@ -634,7 +637,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<pos>0.0151 0.0445</pos>
 			<size>0.717 0.104</size>
-			<color>${themeDarkColor}80</color>
 			<zIndex>10</zIndex>
 		</image>
 		
@@ -804,7 +806,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 	</view>
 	
-	<customView name="Boxes + detail" inherits="grid" displayName="${gridDetailViewName}">
+	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
 
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
@@ -908,7 +910,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	</customView>
 	
-	<customView name="Tiles Titleshot + Video" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
+	<customView name="gridTitleshot" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
 
 		<imagegrid name="gamegrid">
 			<autoLayout>7 4</autoLayout>
@@ -976,7 +978,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	</customView>
 
-	<customView name="Tiles Screenshot + Video + Marquee" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
+	<customView name="gridScreenshot" inherits="gridTitleshot" displayName="${tilesScreenshotVideoMarqueeViewName}">
 		
 		<!-- Remplace le Marquee si manquant -->
 		<text name="gridtile">
@@ -1023,7 +1025,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 	</customView>
 
-	<customView name="Marquee + detail" inherits="grid" displayName="${marqueeDetailViewName}">
+	<customView name="marquee" inherits="grid" displayName="${marqueeDetailViewName}">
 		
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
@@ -1108,9 +1110,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</subset>
 	
 	<!-- Switch Background Gamelist Opacity -->
-	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="video,Video Fullscreen">
+	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="video,videoFullscreen">
 		<include name="gamelistOpacityFull" 	displayName="${opacityFull}"   />
-		<include name="gamelistOpacityMiddle" 	displayName="${opacityMiddle}"	>${artPath}/colors/gamelistOpacityMiddle.xml</include>
+		<include name="gamelistOpacityMiddle" 	displayName="${opacityMiddle}"	>${artPath}/gameView/gamelistOpacityMiddle.xml</include>
 	</subset>
 	
 	<!-- Switch Cover or Not on Video Fullscreen -->

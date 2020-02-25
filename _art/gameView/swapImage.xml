@@ -21,7 +21,7 @@
 			<maxSize>0.3766 0.6689</maxSize>
 		</image>
 	</view>
-	<customView name="Video Fullscreen" inherits="video" displayName="${videoFullscreenViewName}">
+	<customView name="VideoFullscreen" inherits="video" displayName="${videoFullscreenViewName}">
 		<video name="md_video">
 			<snapshotSource>thumbnail</snapshotSource>
 		</video>
@@ -36,22 +36,22 @@
 			<imageSource>image</imageSource>
 		</imagegrid>
 	</view>
-	<customView name="Boxes + detail" inherits="grid" displayName="${gridDetailViewName}">
+	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
 		<video name="md_video">
 			<snapshotSource>thumbnail</snapshotSource>
 		</video>
 	</customView>
-	<customView name="Tiles Titleshot + Video" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
+	<customView name="gridTitleshot" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
 		<imagegrid name="gamegrid">
 			<imageSource>thumbnail</imageSource>
 		</imagegrid>
 	</customView>
-	<customView name="Tiles Screenshot + Video + Marquee" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
+	<customView name="gridScreenshot" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
 		<imagegrid name="gamegrid">
 			<imageSource>thumbnail</imageSource>
 		</imagegrid>
 	</customView>
-	<customView name="Marquee + detail" inherits="grid" displayName="${marqueeDetailViewName}">
+	<customView name="marquee" inherits="grid" displayName="${marqueeDetailViewName}">
 		<imagegrid name="gamegrid">
 			<imageSource>marquee</imageSource>
 		</imagegrid>

@@ -9,18 +9,14 @@
 		<thumbnail>Thumbnail</thumbnail>
 		<image>Image</image>
 
-<!--	<subset.language>Choose your Langage</subset.language>
-		<langEn>English</langEn>
-		<langFr>French</langFr>
-		<langSp>Spanish</langSp> -->
-		
 		<subset.colorset>Theme Color</subset.colorset>
 		<colblue>Blue</colblue>
 		<colred>Red</colred>
 		<colorange>Orange</colorange>
 		<colgreen>Green</colgreen>
-	
-		<subset.systemOpacity>System menu Opacity</subset.systemOpacity>
+		
+		<subset.systemMenuOpacity>System menu Opacity</subset.systemMenuOpacity>
+		<subset.gamelistOpacity>Gamelist menu Opacity</subset.gamelistOpacity>
 		<opacityFull>100%</opacityFull>
 		<opacityMiddle>50%</opacityMiddle>
 		
@@ -37,17 +33,11 @@
 		<switchVideoCommercial>Commercial TV (separate download)</switchVideoCommercial>
 		<switchVideoHide>Nothing</switchVideoHide>
 		
-		<basicViewName>Basic</basicViewName>
-		<detailedViewName>Detailled + Video </detailedViewName>
-		<videoViewName>Detailled + Video + big Cover</videoViewName>
-		<videoFullscreenViewName>Fullscreen Video + Logo + little Cover</videoFullscreenViewName>
-		
-		<gridVideoViewName>2D Cover + Video</gridVideoViewName>
-		<gridDetailViewName>2D cover + Detail + Video</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Thumbnail from title + Video</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Thumbnail from game + Video + Marquee</tilesScreenshotVideoMarqueeViewName>
-			
-		<marqueeDetailViewName>Marquee list + Detailled + Video</marqueeDetailViewName>
+		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
+		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Marquee list (beta)</marqueeDetailViewName>
 			
 	</variables>
 	
@@ -64,7 +54,8 @@
 		<colorange>Orange</colorange>
 		<colgreen>Vert</colgreen>
 
-		<subset.systemOpacity>Opacité Menu Système</subset.systemOpacity>
+		<subset.systemMenuOpacity>Opacité Liste des Systèmes</subset.systemMenuOpacity>
+		<subset.gamelistOpacity>Opacité Liste des Jeux</subset.gamelistOpacity>
 		<opacityFull>100%</opacityFull>
 		<opacityMiddle>50%</opacityMiddle>
 
@@ -77,21 +68,15 @@
 		<subset.switchImages>Balise Jaquette</subset.switchImages>
 
 		<subset.systemSwitchVideo>Préview Vidéo Système</subset.systemSwitchVideo>
-		<switchVideoRandom>Au hasard (depuis la liste de jeux)</switchVideoRandom>
-		<switchVideoCommercial>Publicités TV (à télécharger séparément)</switchVideoCommercial>
+		<switchVideoRandom>Au hasard</switchVideoRandom>
+		<switchVideoCommercial>Publicités TV</switchVideoCommercial>
 		<switchVideoHide>Aucun</switchVideoHide>
 
-		<basicViewName>Fiche Basique</basicViewName>
-		<detailedViewName>Fiche Détaillée + Vidéo</detailedViewName>
-		<videoViewName>Fiche Détaillée + Vidéo + grande Jaquette</videoViewName>
-		<videoFullscreenViewName>Vidéo plein écran + Logo + petite Jaquette</videoFullscreenViewName>
-		
-		<gridVideoViewName>Jaquette 2D + Vidéo</gridVideoViewName>
-		<gridDetailViewName>Jaquette 2D + Fiche Détaillée + Vidéo</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Vignette de l'écran titre + Vidéo</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Vignette du jeu + Vidéo + Logo</tilesScreenshotVideoMarqueeViewName>
-			
-		<marqueeDetailViewName>Liste de logos + Fiche Détaillée + Vidéo</marqueeDetailViewName>
+		<videoFullscreenViewName>Vidéo plein écran</videoFullscreenViewName>
+		<gridDetailViewName>Grille de Jaquettes + Détail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grille d'écrans titre</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grille d'écrans de jeu</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Liste de logos (beta)</marqueeDetailViewName>
 			
 	</variables>
 	
