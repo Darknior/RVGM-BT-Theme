@@ -14,32 +14,29 @@
 		<langFr>French</langFr>
 		<langSp>Spanish</langSp> -->
 		
-		<subset.colorset>Choose a Color</subset.colorset>
+		<subset.colorset>Theme Color</subset.colorset>
 		<colblue>Blue</colblue>
 		<colred>Red</colred>
 		<colorange>Orange</colorange>
 		<colgreen>Green</colgreen>
-
-		<subset.systemView>Choose a System view</subset.systemView>
-		<menuVertRight>Menu Vertical Right</menuVertRight>
-		<menuVertLeft>Menu Vertical Left</menuVertLeft>
-		<menuHorizBot>Menu Horizontal Bottom</menuHorizBot>
-		<menuHorizBotVideo>Menu Horizontal with Video</menuHorizBotVideo>
+	
+		<subset.systemOpacity>System menu Opacity</subset.systemOpacity>
+		<opacityFull>100%</opacityFull>
+		<opacityMiddle>50%</opacityMiddle>
+		
+		<subset.systemView>System Menu view</subset.systemView>
+		<menuVertRight>Vertical Right</menuVertRight>
+		<menuVertLeft>Vertical Left</menuVertLeft>
+		<menuHorizBot>Horizontal Bottom</menuHorizBot>
+		<menuHorizBotVideo>Horizontal with Video</menuHorizBotVideo>
 		
 		<subset.switchImages>Choose your Cover tag</subset.switchImages>
 
-		<!-- <subset.systemHideVideo>Show video on System view</subset.systemHideVideo> -->
+		<subset.systemSwitchVideo>System Video Preview</subset.systemSwitchVideo>
+		<switchVideoRandom>Random (take in your gamelist)</switchVideoRandom>
+		<switchVideoCommercial>Commercial TV (separate download)</switchVideoCommercial>
+		<switchVideoHide>Nothing</switchVideoHide>
 		
-		<subset.systemVideoType>Choose a system video type</subset.systemVideoType>
-		<gameVideo>Games slide (To download)</gameVideo>
-		<commercialVideo>Commercial TV videos (To download)</commercialVideo>
-		<hideVideo>No video</hideVideo>
-		
-		<subset.systemVideoType>Choose video type on System view</subset.systemVideoType>
-		<gameVideo>Games videos</gameVideo>
-		<commercialVideo>Commercial videos</commercialVideo>
-		<hideVideo>No video</hideVideo>
-
 		<basicViewName>Basic</basicViewName>
 		<detailedViewName>Detailled + Video </detailedViewName>
 		<videoViewName>Detailled + Video + big Cover</videoViewName>
@@ -67,20 +64,22 @@
 		<colorange>Orange</colorange>
 		<colgreen>Vert</colgreen>
 
-		<subset.systemView>Choix de la Vue Système</subset.systemView>
-		<menuVertRight>Menu Vertical à Droite</menuVertRight>
-		<menuVertLeft>Menu Vertical à Gauche</menuVertLeft>
-		<menuHorizBot>Menu Horizontal en Bas</menuHorizBot>
-		<menuHorizBotVideo>Menu Horizontal avec Vidéo</menuHorizBotVideo>
-		
-		<subset.switchImages>Choix de la balise Jaquette</subset.switchImages>
+		<subset.systemOpacity>Opacité Menu Système</subset.systemOpacity>
+		<opacityFull>100%</opacityFull>
+		<opacityMiddle>50%</opacityMiddle>
 
-		<!-- <subset.systemHideVideo>Afficher les miniatures vidéo dans la liste Système</subset.systemHideVideo> -->
+		<subset.systemView>Menu Vue Système</subset.systemView>
+		<menuVertRight>Vertical à Droite</menuVertRight>
+		<menuVertLeft>Vertical à Gauche</menuVertLeft>
+		<menuHorizBot>Horizontal en Bas</menuHorizBot>
+		<menuHorizBotVideo>Horizontal avec Vidéo</menuHorizBotVideo>
 		
-		<subset.systemVideoType>Choix du type des vidéos système</subset.systemVideoType>
-		<gameVideo>Vidéomontage de jeux (A télécharger)</gameVideo>
-		<commercialVideo>Vidéos de publicités TV (A télécharger)</commercialVideo>
-		<hideVideo>Aucune vidéo</hideVideo>
+		<subset.switchImages>Balise Jaquette</subset.switchImages>
+
+		<subset.systemSwitchVideo>Préview Vidéo Système</subset.systemSwitchVideo>
+		<switchVideoRandom>Au hasard (depuis la liste de jeux)</switchVideoRandom>
+		<switchVideoCommercial>Publicités TV (à télécharger séparément)</switchVideoCommercial>
+		<switchVideoHide>Aucun</switchVideoHide>
 
 		<basicViewName>Fiche Basique</basicViewName>
 		<detailedViewName>Fiche Détaillée + Vidéo</detailedViewName>
@@ -117,7 +116,10 @@
 		
 		<subset.switchImages>Elección de la chaqueta</subset.switchImages>
 
-		<subset.systemHideVideo>Mostrar video en la vista Sistema</subset.systemHideVideo>
+		<subset.systemSwitchVideo>Elija un tipo de video del sistema</subset.systemSwitchVideo>
+		<switchVideoRandom>Toma aleatoria (en tu lista de juegos)</switchVideoRandom>
+		<switchVideoCommercial>TV comercial (descarga separada)</switchVideoCommercial>
+		<switchVideoHide>No hay video</switchVideoHide>
 		
 		<basicViewName>Hoja básica</basicViewName>
 		<detailedViewName>Hoja detallada + Video</detailedViewName>

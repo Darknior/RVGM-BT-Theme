@@ -29,43 +29,67 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<variables>
 		<artPath>./_art</artPath>				<!-- Media path 	${artPath}	-->
 		<langue>us</langue>
-		<videoType>games</videoType>			<!-- Video type on system view ${videoType} -->
+		<videoType>random</videoType>			<!-- Video type on system view ${videoType} -->
 		
 		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     	${themeFavorisColor}-->
 		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
 		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
 
-		<userDarkColor>02588d</userDarkColor> 	<!-- Dark Blue 		${userDarkColor}	-->
-		<userColor>1f9be7</userColor> 			<!-- Blue 			${userColor}		-->
-		<userLightColor>7BC4F1</userLightColor>	<!-- Light blue		${userLightColor}	-->
+		<userDarkColor>02588d</userDarkColor> 		<!-- Dark Blue 		${userDarkColor}	-->
+		<userColor>1f9be7</userColor> 				<!-- Blue 			${userColor}		-->
+		<userLightColor>7BC4F1</userLightColor>		<!-- Light blue		${userLightColor}	-->
+
+		<systemOpacity></systemOpacity>
+		<gamelistOpacity></gamelistOpacity>
 	</variables>
 
-	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available. --
-	<subset name="language" displayName="${subset.language}">
-		<include name="English" displayName="${langEn}" />
-		<include name="French"  displayName="${langFr}"	>${artPath}/language/french.xml</include>
-		<include name="Spanish" displayName="${langSp}"	>${artPath}/language/spanish.xml</include>
-	</subset> -->
+	<!-------------------------------------------------------------------------------------------->
+	<!-- GENERAL SWITCH -------------------------------------------------------------------------->
+	
+	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available -->
 	<include lang="fr">${artPath}/language/french.xml</include>
 	<include lang="sp">${artPath}/language/spanish.xml</include>
 	<include lang="jp">${artPath}/language/japan.xml</include> <!-- Only for consoles images, text will stay in english -->
 
-	<!-- Switch Theme color -->
+	<!-- Switch Theme Color -->
 	<subset name="colorset" displayName="${subset.colorset}">
 		<include name="Blue" 	displayName="${colblue}" />
 		<include name="Red" 	displayName="${colred}" 	>${artPath}/colors/red.xml</include>
 		<include name="Orange" 	displayName="${colorange}"	>${artPath}/colors/orange.xml</include>
 		<include name="Green" 	displayName="${colgreen}"	>${artPath}/colors/green.xml</include>
 	</subset>
+	
+	<!-- Switch Theme Light / Darth -->
+	
+	<!-------------------------------------------------------------------------------------------->
+	<!-- SYSTEM SWITCH --------------------------------------------------------------------------->
 
-	<!-- Switch the VIDEOS TYPE you can see on System Menu -->
-	<subset name="systemVideoType" displayName="${subset.systemVideoType}">
-		<include name="gameVideo" 		displayName="${gameVideo}"			/>
-		<!-- <note name="noteGameVideo" displayName="${noteGameVideo}" /> -->
-		<include name="commercialVideo"	displayName="${commercialVideo}"    >${artPath}/systemView/switchVideoType.xml</include>
-		<include name="hideVideo"  		displayName="${hideVideo}"   		>${artPath}/systemView/switchVideoHide.xml</include>
+	<!-- Switch Background Menu Opacity -->
+	<subset name="systemOpacity" displayName="${subset.systemOpacity}">
+		<include name="systemOpacityFull" 	displayName="${opacityFull}"   />
+		<include name="systemOpacityMiddle" displayName="${opacityMiddle}"	>${artPath}/colors/systemOpacityMiddle.xml</include>
+	</subset>
+	
+	<!-- Switch Logo Color / Gray -->
+	
+	<!-- Switch Video Preview Type -->
+	<subset name="systemSwitchVideo" displayName="${subset.systemSwitchVideo}">
+		<include name="switchVideoRandom" 		displayName="${switchVideoRandom}"		/> <!-- Video Random -->
+		<include name="switchVideoCommercial"	displayName="${switchVideoCommercial}"  >${artPath}/systemView/switchVideoCommercial.xml</include>
+		<include name="switchVideoHide"  		displayName="${switchVideoHide}"   		>${artPath}/systemView/switchVideoHide.xml</include>
 	</subset>
 
+	<!-- Switch Carousel View -->
+	<subset name="systemView" displayName="${subset.systemView}">
+		<include name="menuVertRight"		displayName="${menuVertRight}"		>${artPath}/systemView/vertical-right.xml</include>
+		<include name="menuVertLeft"		displayName="${menuVertLeft}" 		>${artPath}/systemView/vertical-left.xml</include>
+		<include name="menuHorizBot"		displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
+		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
+	</subset>
+	
+	<!-- <video name="staticBackgroundVideo"> --------------------------------------------------------------------------------------->
+
+	
 	<!-- Popup System -->
 	<view name="menu">
 		<menuText name="menutitle">
@@ -82,7 +106,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
 			<fontSize>0.038</fontSize>
 			<color>${themeLightColor}</color>
-			<iconColor>${userColor}</iconColor>
 			<separatorColor>${themeLightColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
 			<selectorColorEnd>${themeLightColor}</selectorColorEnd>
@@ -97,7 +120,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">
-			<color>${themeDarkColor}</color>      
+			<color>${themeDarkColor}</color>
 			<cornerSize>32 32</cornerSize>
 			<path>${artPath}/popup/frame.png</path>
 		</menuBackground>
@@ -129,7 +152,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<view name="screen">
 
 		<controllerActivity name="controllerActivity">
-			<origin>0 0</origin>
 			<pos>0.0161 0.0107</pos>
 			<size>0.085 0.025</size>
 			<!--<horizontalAlignment>right</horizontalAlignment>-->
@@ -137,7 +159,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<imagePath>${artPath}/icons/gamepad.png</imagePath>
 			<color>${themeLightColor}</color>
 			<activityColor>${userColor}</activityColor>
-			<hotkeyColor>userDarkColor</hotkeyColor>
+			<hotkeyColor>${userDarkColor}</hotkeyColor>
 		</controllerActivity>
 		
 		<text name="clock">
@@ -145,7 +167,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.9344 0.9584</pos>
 			<size>0.05 0.0384</size>
             <verticalAlignment>center</verticalAlignment>
-			<themeDarkColor>${themeLightColor}</themeDarkColor>
+			<color>${themeLightColor}</color>
 			<fontPath>${artPath}/font/Digib.ttf</fontPath>
 			<fontSize>0.035</fontSize>
 		</text>
@@ -158,7 +180,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<helpsystem name="help">
 			<origin>0 0</origin>
 			<pos>0.0161 0.9648</pos>
-			<themeDarkColor>${themeLightColor}</themeDarkColor>
+			<textColor>${themeLightColor}</textColor>
 			<iconColor>${userColor}</iconColor>
 			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.024</fontSize>
@@ -166,17 +188,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	</view>
 	
-	<!-- Carousel SYSTEM MENU -->
-	<subset name="systemView" displayName="${subset.systemView}">
-		<include name="menuVertRight"		displayName="${menuVertRight}"		>${artPath}/systemView/vertical-right.xml</include>
-		<include name="menuVertLeft"		displayName="${menuVertLeft}" 		>${artPath}/systemView/vertical-left.xml</include>
-		<include name="menuHorizBot"		displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
-		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
-	</subset>
-	
-	<!-- <video name="staticBackgroundVideo"> --------------------------------------------------------------------------------------->
-	
-	<!-- Carousel END -->
 
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
 
@@ -195,12 +206,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<alignment>right</alignment>			
 			<zIndex>40</zIndex>  <!-- Default for METADATA -->
         </text>
-        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description">
+        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
 			<color>${themeDarkColor}</color>
 			<alignment>left</alignment>
 			<lineSpacing>1.0</lineSpacing>
         </text>
-        <datetime name="md_releasedate, md_lastplayed, md_gametime">
+        <datetime name="md_releasedate, md_lastplayed">
 			<origin>0 0</origin>
 			<pos>2 2</pos>
 			<size>0.15 0.015</size>
@@ -270,14 +281,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<path>./${system.theme}/background.jpg</path>
 			<color>ffffff33</color>
 			<tile>false</tile>
-			<zIndex>5</zIndex> <!-- Default -->
+			<zIndex>5</zIndex> <!-- Default  themeDarkColor -->
 		</image>
 
 		<image name="bg-game" extra="true">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/gameView/bg-game.png</path>
+			<path>${artPath}/gameView/bg-game-right${gamelistOpacity}.png</path>
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -411,7 +422,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<fontSize>0.025</fontSize>
 			<alignment>right</alignment>
 		</text>
-		<datetime name="md_releasedate, md_lastplayed, md_gametime">
+		<datetime name="md_releasedate, md_lastplayed">
 			<fontSize>0.025</fontSize>
 			<alignment>right</alignment>
 		</datetime>
@@ -437,15 +448,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.59 0.418</pos>
 			<size>0.12 0.03</size>
 		</text>
-		<datetime name="md_lastplayed, md_gametime">
-			<size>0.12 0.03</size>
-		</datetime>
 		<datetime name="md_lastplayed">
+			<size>0.12 0.03</size>
 			<pos>0.59 0.455</pos>
 		</datetime>
-		<datetime name="md_gametime">
+		<text name="md_gametime">
+			<fontSize>0.025</fontSize>
+			<size>0.12 0.03</size>
 			<pos>0.59 0.492</pos>
-		</datetime>
+		</text>
 		
 		<text name="md_description">
 			<pos>0.053 0.696</pos>
@@ -563,15 +574,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.507 0.703</pos>
 			<size>0.024 0.03</size>
 		</text>
-		<datetime name="md_lastplayed, md_gametime">
-			<size>0.103 0.03</size>
-		</datetime>
 		<datetime name="md_lastplayed">
+			<size>0.103 0.03</size>
 			<pos>0.628 0.703</pos>
 		</datetime>
-		<datetime name="md_gametime">
+		<text name="md_gametime">
+			<size>0.103 0.03</size>
 			<pos>0.628 0.73</pos>
-		</datetime>
+		</text>
 		
 		<text name="md_description">
 			<pos>0.319 0.77</pos>
@@ -610,10 +620,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
                     md_lbl_description, md_lbl_players, md_lbl_rating,
 					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
-					md_developer, md_publisher, md_genre, md_playcount, md_description">
+					md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
 			<visible>false</visible>
         </text>
-        <datetime name="md_releasedate, md_lastplayed, md_gametime">
+        <datetime name="md_releasedate, md_lastplayed">
 			<visible>false</visible>
         </datetime>
 		<image name="bg-image" extra="true">
@@ -691,10 +701,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
                     md_lbl_description, md_lbl_players, md_lbl_rating,
 					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
-					md_developer, md_publisher, md_genre, md_playcount, md_description">
+					md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
 			<visible>false</visible>
         </text>
-        <datetime name="md_releasedate, md_lastplayed, md_gametime">
+        <datetime name="md_releasedate, md_lastplayed">
 			<visible>false</visible>
         </datetime>
 		
@@ -1017,7 +1027,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
-			<path>${artPath}/systemView/bg-system-vert-right.png</path>
+			<path>${artPath}/systemView/bg-system-vert-right${opacity}.png</path>
 		</image>
 		
 		<!-- LOGO Systeme -->
@@ -1088,24 +1098,24 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 	</customView>
 	
+	<!-------------------------------------------------------------------------------------------->
+	<!-- GAMELIST SWITCH ------------------------------------------------------------------------->
+
 	<!-- Switch Thumbnail and Image for the COVER and VIDEO -->
 	<subset name="switchImages" displayName="${subset.switchImages}">
 		<include name="thumbnail" displayName="${thumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
 		<include name="image"     displayName="${image}"    >${artPath}/gameView/swapImage.xml</include>
 	</subset>
 	
-	<!-- Switch to see VIDEOS or not in System Menu --
-	<subset name="systemHideVideo" displayName="${subset.systemHideVideo}">
-		<include name="yes" displayName="${yes}" />
-		<include name="no"  displayName="${no}"   >${artPath}/systemView/switchVideoHide.xml</include>
-	</subset> -->
+	<!-- Switch Background Gamelist Opacity -->
+	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="video,Video Fullscreen">
+		<include name="gamelistOpacityFull" 	displayName="${opacityFull}"   />
+		<include name="gamelistOpacityMiddle" 	displayName="${opacityMiddle}"	>${artPath}/colors/gamelistOpacityMiddle.xml</include>
+	</subset>
 	
-	<!-- Switch the VIDEOS TYPE you can see on System Menu --
-	<subset name="systemVideoType" displayName="${subset.systemVideoType}">
-		<include name="gameVideo" 		displayName="${gameVideo}"			/>
-		<include name="commercialVideo"	displayName="${commercialVideo}"    >${artPath}/systemView/switchVideoType.xml</include>
-		<include name="hideVideo"  		displayName="${hideVideo}"   		>${artPath}/systemView/switchVideoHide.xml</include>
-	</subset> -->
+	<!-- Switch Cover or Not on Video Fullscreen -->
+	
+	
 	
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">

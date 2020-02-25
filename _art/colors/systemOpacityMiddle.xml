@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<systemOpacity>-transp</systemOpacity>
+	</variables>
+
+<!--
+bg-game-left
+bg-game-left-transp
+bg-game-right
+bg-game-right-transp
+
+bg-system-horiz-down
+bg-system-horiz-down-transp
+bg-system-vert-left
+bg-system-vert-left-transp
+bg-system-vert-right
+bg-system-vert-right-transp
+-->
+
+</theme>

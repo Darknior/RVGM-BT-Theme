@@ -76,7 +76,7 @@
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/systemView/bg-system-vert-right.png</path>
+			<path>${artPath}/systemView/bg-system-vert-right${systemOpacity}.png</path>
 			<zIndex>20</zIndex> <!-- Default 10 for extra -->
 		</image>
 
