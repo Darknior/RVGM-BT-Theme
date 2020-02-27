@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="basic, detailed, video, grid">
+
+		<!-- TEXTE -->
+        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
+			<color>${themeLightColor}</color>
+        </text>
+        <datetime name="md_releasedate, md_lastplayed">
+			<color>${themeLightColor}</color>
+        </datetime>
+
+		<text name="md_players">
+			<color>${themeLightColor}</color>
+		</text>
+		<rating name="md_rating">
+			<color>${themeLightColor}</color>
+		</rating>
+
+		<!-- BACKGROUND -->
+		<image name="bg-image" extra="true">
+			<color>${themeDarkColor}CC</color> <!-- 80% -->
+		</image>
+		<!-- BACKGROUND VIDEO -->
+		<image name="background_video" extra="true">
+			<color>${themeDarkColor}CC</color> <!-- 80% -->
+		</image>
+		
+	</view>
+
+</theme>

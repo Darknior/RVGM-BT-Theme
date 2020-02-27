@@ -33,6 +33,10 @@
 		<switchVideoCommercial>Commercial TV (separate download)</switchVideoCommercial>
 		<switchVideoHide>Nothing</switchVideoHide>
 		
+		<subset.gamelistInfoColor>Theme Design</subset.gamelistInfoColor>
+		<gamelistInfoLight>Light</gamelistInfoLight>
+		<gamelistInfoDarth>Darth</gamelistInfoDarth>
+		
 		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
 		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
 		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
@@ -71,7 +75,11 @@
 		<switchVideoRandom>Au hasard</switchVideoRandom>
 		<switchVideoCommercial>Publicités TV</switchVideoCommercial>
 		<switchVideoHide>Aucun</switchVideoHide>
-
+		
+		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<gamelistInfoLight>Lumineux</gamelistInfoLight>
+		<gamelistInfoDarth>Sombre</gamelistInfoDarth>
+		
 		<videoFullscreenViewName>Vidéo plein écran</videoFullscreenViewName>
 		<gridDetailViewName>Grille de Jaquettes + Détail</gridDetailViewName>
 		<tilesTitleshotVideoViewName>Grille d'écrans titre</tilesTitleshotVideoViewName>

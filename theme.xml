@@ -52,30 +52,28 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	<!-- Switch Theme Color -->
 	<subset name="colorset" displayName="${subset.colorset}">
-		<include name="Blue" 	displayName="${colblue}" />
-		<include name="Red" 	displayName="${colred}" 	>${artPath}/colors/red.xml</include>
-		<include name="Orange" 	displayName="${colorange}"	>${artPath}/colors/orange.xml</include>
-		<include name="Green" 	displayName="${colgreen}"	>${artPath}/colors/green.xml</include>
+		<include name="Blue" 	displayName="${colblue}"  />
+		<include name="Red" 	displayName="${colred}"    >${artPath}/colors/red.xml</include>
+		<include name="Orange" 	displayName="${colorange}" >${artPath}/colors/orange.xml</include>
+		<include name="Green" 	displayName="${colgreen}"  >${artPath}/colors/green.xml</include>
 	</subset>
-	
-	<!-- Switch Theme Light / Darth -->
 	
 	<!-------------------------------------------------------------------------------------------->
 	<!-- SYSTEM SWITCH --------------------------------------------------------------------------->
 
 	<!-- Switch Background Menu Opacity -->
 	<subset name="systemMenuOpacity" displayName="${subset.systemMenuOpacity}">
-		<include name="systemMenuOpacityFull" 	displayName="${opacityFull}"   />
-		<include name="systemMenuOpacityMiddle" displayName="${opacityMiddle}"	>${artPath}/systemView/menuOpacityMiddle.xml</include>
+		<include name="systemMenuOpacityFull" 	displayName="${opacityFull}"  />
+		<include name="systemMenuOpacityMiddle" displayName="${opacityMiddle}" >${artPath}/systemView/menuOpacityMiddle.xml</include>
 	</subset>
 	
 	<!-- Switch Logo Color / Gray -->
 	
 	<!-- Switch Video Preview Type -->
 	<subset name="systemSwitchVideo" displayName="${subset.systemSwitchVideo}">
-		<include name="switchVideoRandom" 		displayName="${switchVideoRandom}"		/> <!-- Video Random -->
-		<include name="switchVideoCommercial"	displayName="${switchVideoCommercial}"  >${artPath}/systemView/switchVideoCommercial.xml</include>
-		<include name="switchVideoHide"  		displayName="${switchVideoHide}"   		>${artPath}/systemView/switchVideoHide.xml</include>
+		<include name="switchVideoRandom" 		displayName="${switchVideoRandom}"	  /> <!-- Video Random -->
+		<include name="switchVideoCommercial"	displayName="${switchVideoCommercial}" >${artPath}/systemView/switchVideoCommercial.xml</include>
+		<include name="switchVideoHide"  		displayName="${switchVideoHide}"   	   >${artPath}/systemView/switchVideoHide.xml</include>
 	</subset>
 
 	<!-- Switch Carousel View -->
@@ -194,9 +192,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
 
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
-                    md_lbl_description, md_lbl_players, md_lbl_rating,
+                    md_lbl_description, md_lbl_players, md_lbl_rating, md_lbl_gametime
 					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
-					md_developer, md_publisher, md_genre, md_playcount, md_description">
+					md_developer, md_publisher, md_genre, md_playcount, md_description,
+					md_gametime">
 			<origin>0 0</origin>
 			<pos>2 2</pos>
 			<size>0.15 0.015</size>
@@ -282,7 +281,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<path>${artPath}/empty.png</path>
 			<path>./${system.theme}/background.jpg</path>
 			<color>ffffff33</color>
-			<!-- <color>${themeDarkColor}80</color> -->
 			<tile>false</tile>
 			<zIndex>5</zIndex> <!-- Default  themeDarkColor -->
 		</image>
@@ -350,7 +348,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<snapshotSource>image</snapshotSource> <!-- thumbnail -->
 			<showSnapshotNoVideo>true</showSnapshotNoVideo> <!-- Show thumbnail from gamelist.xml if no video and no default -->
 			<showSnapshotDelay>true</showSnapshotDelay>
-			<loops>0</loops>
+			<loops>3</loops>
 			<delay>1</delay> <!-- Second -->
 			<zIndex>50</zIndex> <!-- 30 by Default forced to 5000 by OMX -->
 		</video>
@@ -1104,14 +1102,20 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<!-- GAMELIST SWITCH ------------------------------------------------------------------------->
 
 	<!-- Switch Thumbnail and Image for the COVER and VIDEO -->
-	<subset name="switchImages" displayName="${subset.switchImages}">
+	<subset name="switchImages" displayName="${subset.switchImages}" appliesTo="detailed,video,videoFullscreen,gridDetail,gridTitleshot,gridScreenshot,marquee">
 		<include name="thumbnail" displayName="${thumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
 		<include name="image"     displayName="${image}"    >${artPath}/gameView/swapImage.xml</include>
 	</subset>
 	
+	<!-- Switch Theme Light / Darth -->
+	<subset name="gamelistInfoColor" displayName="${subset.gamelistInfoColor}" appliesTo="basic,detailed,video,videoFullscreen,grid,gridDetail,gridTitleshot,gridScreenshot,marquee">
+		<include name="gamelistInfoLight" 	displayName="${gamelistInfoLight}" /> <!-- Fond clair -->
+		<include name="gamelistInfoDarth" 	displayName="${gamelistInfoDarth}"	>${artPath}/gameView/gamelistInfoDarth.xml</include>
+	</subset>
+
 	<!-- Switch Background Gamelist Opacity -->
 	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="video,videoFullscreen">
-		<include name="gamelistOpacityFull" 	displayName="${opacityFull}"   />
+		<include name="gamelistOpacityFull" 	displayName="${opacityFull}"   /> <!-- Menu Opaque à 100% -->
 		<include name="gamelistOpacityMiddle" 	displayName="${opacityMiddle}"	>${artPath}/gameView/gamelistOpacityMiddle.xml</include>
 	</subset>
 	
