@@ -1114,7 +1114,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</subset>
 
 	<!-- Switch Background Gamelist Opacity -->
-	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="video,videoFullscreen">
+	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="basic,detailed,video,videoFullscreen">
 		<include name="gamelistOpacityFull" 	displayName="${opacityFull}"   /> <!-- Menu Opaque à 100% -->
 		<include name="gamelistOpacityMiddle" 	displayName="${opacityMiddle}"	>${artPath}/gameView/gamelistOpacityMiddle.xml</include>
 	</subset>
