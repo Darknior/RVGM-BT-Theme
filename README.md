@@ -66,6 +66,40 @@ If you want to modifiy the system list, or the games informations, you must modi
 - And choose it on the theme selection menu
 
 
+### TV Spot (Pubs françaises)
+
+Comming soon ...
+
+
+### Background Musics
+
+Musics take a lot of place, more than **400 OGG** audio files for more than **1 Go** ... full tested, remastered, cuted and with same sound level. It's why i don't include them directly to the theme, it will take you so many time to update the theme each time, like for the optionnal videos.
+
+#### Install
+
+* Copy the directories to the Batocera **/music/** directory **/userdata/**.
+* In EmulationStation go to **Audio Settings**
+* Select **Activate Ambiant Music**
+* You can select to **Show Music Title** or not
+* You can also select to **Play Music by System** or not
+
+- AMIGA 500 / 1200
+- AMIGA CD32
+- AMSTRAD CPC
+- ARCADE
+- Commodore 64
+- GAMEGEAR
+- GameBoy
+- GameBoy Advance
+- GameBoy Color
+- GameCube
+- MEGADRIVE
+- Nintendo 64
+- NES
+- [PCEngine](http://www.mediafire.com/folder/ajyti1l4zbvsi/pcengine)
+- SNES
+
+
 ### Customising
 
 You can customise some options on this theme.
