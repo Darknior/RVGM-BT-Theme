@@ -93,6 +93,8 @@ I share the files separately because I regularly plan to update them and add new
 - [AMIGA CD32](http://www.mediafire.com/folder/afbxlpdkz3hzk/amigacd32)
 - [AMSTRAD CPC](http://www.mediafire.com/folder/5uajge0l0yqie/amstradcpc)
 - [ARCADE](http://www.mediafire.com/folder/02biivts31s41/arcade)
+- [ATARI 800](http://www.mediafire.com/folder/exht3pc5mln1e/atari800)
+- [ATARI ST](http://www.mediafire.com/folder/5cia9l1u6uoqn/atarist)
 - [Commodore 64](http://www.mediafire.com/folder/8jnlrhulvfbf2/c64)
 - [GAMEGEAR](http://www.mediafire.com/folder/zjkybtz9o8ww1/gamegear)
 - [GameBoy](http://www.mediafire.com/folder/2vr90crf9gi9p/gb)
