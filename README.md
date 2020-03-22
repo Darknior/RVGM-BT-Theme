@@ -89,21 +89,22 @@ Musics take a lot of place, more than **400 OGG** audio files for more than **1 
 
 I share the files separately because I regularly plan to update them and add new music tracks. This will save you from having to download everything again.
 
-- AMIGA 500 / 1200
-- AMIGA CD32
-- AMSTRAD CPC
-- ARCADE
-- Commodore 64
-- GAMEGEAR
-- GameBoy
-- GameBoy Advance
-- GameBoy Color
-- GameCube
-- MEGADRIVE
-- Nintendo 64
-- NES
+- [AMIGA 500 / 1200](http://www.mediafire.com/folder/mhxvfbzqwl8dd/amiga500)
+- [AMIGA CD32](http://www.mediafire.com/folder/afbxlpdkz3hzk/amigacd32)
+- [AMSTRAD CPC](http://www.mediafire.com/folder/5uajge0l0yqie/amstradcpc)
+- [ARCADE](http://www.mediafire.com/folder/02biivts31s41/arcade)
+- [Commodore 64](http://www.mediafire.com/folder/8jnlrhulvfbf2/c64)
+- [GAMEGEAR](http://www.mediafire.com/folder/zjkybtz9o8ww1/gamegear)
+- [GameBoy](http://www.mediafire.com/folder/2vr90crf9gi9p/gb)
+- [GameBoy Advance](http://www.mediafire.com/folder/vng4p4y1lmaob/gba)
+- [GameBoy Color](http://www.mediafire.com/folder/e24fvvlco9h71/gbc)
+- [GameCube](http://www.mediafire.com/folder/bsdx87jgar6k8/gc)
+- [MEGADRIVE](http://www.mediafire.com/folder/7om33y4f65lft/megadrive)
+- [Nintendo 64](http://www.mediafire.com/folder/4nr0wsp8i9why/n64)
+- [NES](http://www.mediafire.com/folder/8q41aqwytbs4k/nes)
 - [PCEngine](http://www.mediafire.com/folder/ajyti1l4zbvsi/pcengine)
-- SNES
+- [PCENGINE CD](http://www.mediafire.com/folder/ru5syfj47v2xf/pcenginecd)
+- [SNES](http://www.mediafire.com/folder/o9t2bsui14jl6/snes)
 
 
 ### Customising
