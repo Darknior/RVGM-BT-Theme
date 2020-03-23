@@ -10,8 +10,8 @@ Forum url : [EmuXtra](http://www.emuxtras.net/forum/viewtopic.php?f=289&t=1293)
 
 - **RVGM** : *Retro Video Game Museum* is the new project name, designed to work on PI with Batocera 5.24+ that use EmulationStation. It's ES version permit to use theme *variable*, *video* support, *caroussel* view, *thumbnail* support, *Tiles* View, *Subset* support and so on.
 The Batocera ES version also correct Retropie old memory problems, now all is really better and smooth than on the old Xbox.
-Old Retropie forum url : [Retropie](https://retropie.org.uk/forum/topic/16454/rvgm-retro-video-game-museum-skin-in-developpement)
-New Batocera forum url : 
+Old Retropie forum url : [RVGM Theme](https://retropie.org.uk/forum/topic/16454/rvgm-retro-video-game-museum-skin-in-developpement)
+New Facebook url : [Facebook officiel RVGM Theme](https://www.facebook.com/Retro-Video-Game-Museum-RVGM-100474828146801/)
 
 
 ## General informations
@@ -30,13 +30,15 @@ I will also share the *description* and *informations* PSD files for people who 
 * Front *cover*, *logo*, **video** preview and information *text* support for each game
 * **Vectorial logo** for *player number* and multi-player *game style*
 
-![RVGM system screen](https://retropie.org.uk/forum/assets/uploads/files/1519069059766-cps-720-us-resized.jpg)
+![RVGM Atomiswave](_Ressources/Atomiswave.jpg)
 
-![RVGM Apple 2e](https://retropie.org.uk/forum/assets/uploads/files/1521063978162-apple2e.jpg)
+![RVGM LightGun Games](_Ressources/Lightgun%20Games.jpg)
 
-![RVGM Apple 2gs](https://retropie.org.uk/forum/assets/uploads/files/1521063993634-apple2gs.jpg)
+![RVGM Game & Watch](_Ressources/Game%20%26%20Watch.jpg)
 
-![RVGM Creativision](https://retropie.org.uk/forum/assets/uploads/files/1521063998237-creativision.jpg)
+![RVGM Naomi](_Ressources/Naomi.jpg)
+
+![RVGM Others](_Ressources/multi%20theme.jpg)
 
 
 ### Prerequisites
@@ -73,34 +75,56 @@ Comming soon ...
 
 ### Background Musics
 
-Musics take a lot of place, more than **400 OGG** audio files for more than **1 Go** ... full tested, remastered, cuted and with same sound level. It's why i don't include them directly to the theme, it will take you so many time to update the theme each time, like for the optionnal videos.
+Musics take a lot of place, more than **400 OGG** audio files for more than **1 Go** ... full tested, remastered, cuted and with same sound level. It's why i don't include them directly to the theme, it will then take you too long to update the theme each time, as with the optional videos.
 
 #### Install
 
-* Copy the directories to the Batocera **/music/** directory **/userdata/**.
+* Copy the directories to the Batocera ```/music/``` directory ```/userdata/```.
 * In EmulationStation go to **Audio Settings**
 * Select **Activate Ambiant Music**
 * You can select to **Show Music Title** or not
 * You can also select to **Play Music by System** or not
 
-- AMIGA 500 / 1200
-- AMIGA CD32
-- AMSTRAD CPC
-- ARCADE
-- Commodore 64
-- GAMEGEAR
-- GameBoy
-- GameBoy Advance
-- GameBoy Color
-- GameCube
-- MEGADRIVE
-- Nintendo 64
-- NES
+#### Audio files
+
+I share the files separately because I regularly plan to update them and add new music tracks. This will save you from having to download everything again.
+
+- [AMIGA 500 / 1200](http://www.mediafire.com/folder/mhxvfbzqwl8dd/amiga500)
+- [AMIGA CD32](http://www.mediafire.com/folder/afbxlpdkz3hzk/amigacd32)
+- [AMSTRAD CPC](http://www.mediafire.com/folder/5uajge0l0yqie/amstradcpc)
+- [ARCADE](http://www.mediafire.com/folder/02biivts31s41/arcade)
+- [ATARI 800](http://www.mediafire.com/folder/exht3pc5mln1e/atari800)
+- [ATARI ST](http://www.mediafire.com/folder/5cia9l1u6uoqn/atarist)
+- [Commodore 64](http://www.mediafire.com/folder/8jnlrhulvfbf2/c64)
+- [GAMEGEAR](http://www.mediafire.com/folder/zjkybtz9o8ww1/gamegear)
+- [GameBoy](http://www.mediafire.com/folder/2vr90crf9gi9p/gb)
+- [GameBoy Advance](http://www.mediafire.com/folder/vng4p4y1lmaob/gba)
+- [GameBoy Color](http://www.mediafire.com/folder/e24fvvlco9h71/gbc)
+- [GameCube](http://www.mediafire.com/folder/bsdx87jgar6k8/gc)
+- [MEGADRIVE](http://www.mediafire.com/folder/7om33y4f65lft/megadrive)
+- [Nintendo 64](http://www.mediafire.com/folder/4nr0wsp8i9why/n64)
+- [NES](http://www.mediafire.com/folder/8q41aqwytbs4k/nes)
 - [PCEngine](http://www.mediafire.com/folder/ajyti1l4zbvsi/pcengine)
-- SNES
+- [PCENGINE CD](http://www.mediafire.com/folder/ru5syfj47v2xf/pcenginecd)
+- [SNES](http://www.mediafire.com/folder/o9t2bsui14jl6/snes)
 
 
 ### Customising
+
+## Different view
+
+Now with **Batocera** you can choose directly on the different **View** and settings by Systeme and in the Gamelist. Hera are some exemple...
+
+![RVGM Menu Vertical Droite](_Ressources/Menu%20Vertical%20Droit.jpg)
+
+![RVGM Menu Vertical Gauche](_Ressources/Menu%20Vertical%20Gauche.jpg)
+
+![RVGM Menu Bas](_Ressources/Menu%20bas.jpg)
+
+![RVGM Menu Bas Video](_Ressources/Menu%20bas%20video.jpg)
+
+
+## Players Number and Style
 
 You can customise some options on this theme.
 
@@ -115,7 +139,7 @@ You can customise some options on this theme.
   </text>
 ```
 
-![RVGM Multiplayer style](https://retropie.org.uk/forum/assets/uploads/files/1519648544191-sans-titre-2.jpg)
+![RVGM Multiplayer style](_Ressources/nb%20players.jpg)
 
 But if you want to use them, you must respect these two rules.
 Only one number on the **players** tag. No *1-2* players and other text. Only :
@@ -132,7 +156,7 @@ And for the **multiplayer style**, 3 words are available: *Alt, Coop, Versus* wi
 <players>2 Coop</players>  <!-- Real 2 player game in cooperative mode like Sonic 3 -->
 <players>5 Vs</players>    <!-- Versus game in battle mode, like Street Fighter 2 or here Bomberman -->
 ```
-![RVGM Multiplayer icons](https://retropie.org.uk/forum/assets/uploads/files/1519352342645-sans-titre-2.jpg)
+![RVGM Multiplayer icons](_Ressources/nb%20players%20font.jpg)
 
 
 ## Built With
