@@ -88,3 +88,19 @@ All the usual sorting filters are available.
 
 This section includes all the « 4 player » games in your collection, all systems combined and listed in alphabetical order. It’s perfect for a good retro-gaming party with your family or when you receive friends ... It includes all the action games playable in team or death match, simulations or arcade racing games, beat'em up, sports games, etc ... We immediately think of Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc ...All the usual sorting filters are available to help you.
 
+C64
+The Commodore 64 is a personal computer designed by the firm of Jack Tramiel in 1982. It remains the best-selling model of its decade with 13 million copies sold worldwide. It uses an 8-bit 6510 microprocessor and has 64 kilobytes of RAM. Its graphics chip, VIC-II, provides 16 colors and hardware scrolling and sprite capabilities. The sound chip, SID, has three voices, several waveforms, sound modulations and filtering capabilities. It is very advanced for its time. Its designer, Bob Yannes, will be the co-founder of the synthesizer company Ensoniq.
+
+C128
+Extended and compatible version of the Commodore 64 but revamped (look that would inspire the Amiga 500) with 128 KB of RAM. It was equipped with the C64 6510 processor to ensure 100% compatibility, but also with a new 8502 processor. It also contained a Zilog Z80 processor with the CP / M operating system. Finally, it proposed screen switching from standard 40 column mode to 80 column mode. Little sold and little supported by publishers, the Commodore 128 was the last 8-bit machine marketed by Commodore Business Machines, shortly before the release of the Amiga.
+
+C20
+The VIC-20 is an 8-bit personal computer designed by Commodore with 5 kb of RAM (including 3.5 kb for BASIC applications) and a central unit based on a MOS 6502 processor. It resembled its successors the C64 and the C16 . The VIC-20 appeared in June 1980, 2 years and 9 months after the release of Commodore's first personal computer, the PET. It was designed to better compete with the new Apple II as well as the Tandy TRS-80 and it sold a million copies. Due to its low memory and low-resolution display, it was used for educational or recreational purposes.
+
+PET
+Commodore launched in 1977 an integrated machine for personal use, under the name of Commodore PET 2001. This precursor computer is part of the famous '1977 Trinity' with the Apple II and the Tandy TRS-80. This Personal Electronic Transactor (or PET) was designed by Chuck Peddle as a monobloc box, incorporating keyboard, reduced screen and cassette player, the first microcomputer ready to operate as soon as it is connected. Current competitors like the Apple II and the TRS-80 required an external tape recorder.
+
+C16Plus4
+Released in 1984 to replace the VIC-20, the Commodore C116, C16 and Plus / 4 range targeted the entry-level market. A MOS7501 or 8501 processor succeeds the 6502 and is 75% faster. However only one TED co-processor is included for audio and video. Also unlike the C64, no hardware acceleration exists on these machines. The Plus / 4 has 32k of RAM and integrates four office applications into it. This project was a commercial failure in the USA and stopped in 1985 even if copies were sold in Europe and especially in the east, behind the iron curtain.
+
+
