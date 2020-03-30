@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+	
+	<view name="system">
+
+		<!-- Sytem AVATAR -->
+		<image name="avatar" extra="true">
+			<pos>0.28 0.047</pos>
+		</image>
+		
+		<!-- Sytem AVATAR 2 -->
+		<image name="avatar2" extra="true">
+			<origin>1 1</origin> <!-- Right -->
+			<pos>0.882 0.953</pos>
+			<maxSize>0.3104 0.9067</maxSize>
+			<path>./avatar2.png</path>
+			<zIndex>16</zIndex>
+		</image>
+	
+	</view>
+</theme>

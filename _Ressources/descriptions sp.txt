@@ -72,7 +72,7 @@ En el mismo año, Nintendo lanzó el Game Boy monocromático que vendió el Lynx
 
 ATARI ST 
 
-Entre la familia Atari ST, solo dos compiten directamente con el Commodore Amiga 500 y el Apple Macintosh. El 520 ST lanzado en 1985 con un procesador Motorola 68000, 512 KB de RAM, un chipset de sonido Yamaha de 3 vías y una pantalla de 320x200 píxeles en 16 colores o 640x200 píxeles en 4 colores entre 512. Su evolución el 1040 ST lanzado en 1986 que podría alcanzar 4 MB de RAM, no puede llenar la brecha tecnológica con Amiga. Entre conversiones arcade simples y juegos lanzados en ambos soportes, Atari ST tiene pocas series exclusivas.
+La plataforma Atari ST marcó la segunda mitad de la década de 1980. Su éxito fue tanto público general (juegos) como profesional (publicación y música MIDI). El 520 ST, modelo básico, tenía un procesador Motorola 68000 a 8 MHz, 512 KB de RAM, un chipset de sonido Yamaha de 3 vías y una pantalla de 320x200 píxeles en 16 colores o 640x200 píxeles en 4 colores entre 512. ST Significa dieciséis / treinta y dos y se refiere a la arquitectura mixta de 16/32 bits de su CPU. También se dijo que eran las iniciales de Sam Tramiel, hijo de Jack Tramiel, presidente de Atari en ese momento.
 
 ALL GAMES
 

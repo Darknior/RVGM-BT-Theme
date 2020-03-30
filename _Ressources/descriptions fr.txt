@@ -70,7 +70,7 @@ La machine fut développée par Epyx sous le nom « Handy » et terminée en 198
 
 ATARI ST 
 
-Parmi la famille des Atari ST, seuls deux ont concurrencé directement l’Amiga 500 de Commodore et le Macintosh d’Apple. Le 520 ST sorti en 1985 avec un processeur Motorola 68000, 512 Ko de RAM, un chipset sonore Yamaha 3 voies, et un affichage 320x200 pixels en 16 couleurs ou 640x200 pixels en 4 couleurs parmi 512. Et en 1986 le 1040 ST avec ses 4 Mo de RAM qui ne comblait alors le retrad sur l’Amiga. Entre simples conversions d’arcade, et jeux portés sur les deux supports, l’Atari aura très peu d’exclusivités et perdra la guerre, mais lancera quelques licences comme les Ultima.
+La plateforme Atari ST a marqué la deuxième moitié des années 1980. Son succès fut autant grand public (jeux), que professionnel (publication et musique MIDI). Le 520 ST, modèle d'entrée de gamme, disposait d'un processeur Motorola 68000 à 8mhz, 512 Ko de RAM, un chipset sonore Yamaha 3 voies et un affichage 320x200 pixels en 16 couleurs ou 640x200 pixels en 4 couleurs parmi 512. ST signifie Sixteen/Thirty-two et fait référence à l'architecture mixte 16/32 bits de son CPU. On a dit qu'il s'agissait également des initiales de Sam Tramiel, fils de Jk. Tramiel, président d'Atari à l'époque.
 
 ALL GAMES
 
