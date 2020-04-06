@@ -101,6 +101,7 @@ I share the files separately because I regularly plan to update them and add new
 - [GameBoy Advance](http://www.mediafire.com/folder/vng4p4y1lmaob/gba)
 - [GameBoy Color](http://www.mediafire.com/folder/e24fvvlco9h71/gbc)
 - [GameCube](http://www.mediafire.com/folder/bsdx87jgar6k8/gc)
+- [Master System](http://www.mediafire.com/folder/ap60b9vq1yc3v/mastersystem)
 - [MEGADRIVE](http://www.mediafire.com/folder/7om33y4f65lft/megadrive)
 - [Nintendo 64](http://www.mediafire.com/folder/4nr0wsp8i9why/n64)
 - [NES](http://www.mediafire.com/folder/8q41aqwytbs4k/nes)
