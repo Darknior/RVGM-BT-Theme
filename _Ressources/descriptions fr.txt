@@ -28,15 +28,11 @@ L'Amstrad CPC (pour Colour Personal Computer, même s'il était possible d'en ac
 
 APPLE 2
 
-L'Apple II est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle. Conçu par Steve Wozniak et commercialisé le 10 juin 1977 par Apple, il commence sa carrière auprès des particuliers passionnés. L'Apple II utilise une architecture 8 bits, 4ko de RAM, un lecteur de cassete et permet un affichage en 280x192 en 6 couleurs en sortie vidéo composite.  VisiCalc a, à lui seul, permis la vente de très nombreux Apple II à des professionnels.
-
-APPLE 2e
-
-L'Apple IIe (nommé Apple //e) est le troisième modèle de la série Apple II, ordinateur personnel fabriqué par Apple Computer et sortis en 1983. Le "e" dans le nom signifie amélioré (enhanced) en se référant au fait que plusieurs des fonctionnalités les plus populaires sont désormais intégrées, ainsi que quelques nouveautés. On passe à 64Ko de RAM et l'affichage évolue pour atteindre du 560x192 en monochrome, 280x192 en 6 couleurs et 140x192 en 16 couleurs.
+L'Apple II est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle. Conçu par Steve Wozniak et commercialisé le 10 juin 1977 par Apple, il commence sa carrière auprès des particuliers passionnés. L'Apple II utilise une architecture 8 bits, 4ko de RAM, un lecteur de cassete et permet un affichage en 280x192 en 6 couleurs en sortie vidéo composite. L'Apple IIe Enhanced (Amélioré) sorti en 1984 dispose de 128k de RAM. Son affichage évolue pour atteindre du 560x192 en monochrome, 280x192 en 6 couleurs et 140x192 en 16 couleurs.
 
 APPLE 2 GS
 
-L'Apple IIgs est le cinquième modèle et le plus puissant de la série des ordinateurs personnels Apple II fabriqués par Apple et commercialisé en 1986. La «GS» dans le nom signifie, Graphiques et Sonores, se référant à ses fonctions avancées de multimédia. Il utilise une architecture 16-bit, 256 Ko de RAM extensible à 8 Mo, un lecteur de disquettes 3 ½ externe, un port joystick et permet l'affichage du 640x200 en 6 couleurs ou 320x200 en 256 couleurs avec une péritel.
+L'Apple IIgs est le cinquième et le dernier modèle de la série des ordinateurs personnels Apple II. Il fut commercialisé de 1986 à 1993. «GS» signifie, Graphiques et Sonores, se référant à ses fonctions avancées de multimédia. Il innove avec une architecture 16-bit compatible avec les précédents Apple II 8bits et GS/OS, un système d'exploitation dérivé de Mac OS. 256 Ko de RAM extensible à 8 Mo, un lecteur de disquettes 3 ½ externe, un port joystick, un affichage du 640x200 en 6 couleurs ou 320x200 de 16 à 3200 couleurs ainsi qu'un processeur sonore Ensoniq doté de 32 voies. 
 
 ARCADE
 

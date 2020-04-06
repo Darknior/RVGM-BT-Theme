@@ -106,8 +106,8 @@ I share the files separately because I regularly plan to update them and add new
 - [NES](http://www.mediafire.com/folder/8q41aqwytbs4k/nes)
 - [PCEngine](http://www.mediafire.com/folder/ajyti1l4zbvsi/pcengine)
 - [PCENGINE CD](http://www.mediafire.com/folder/ru5syfj47v2xf/pcenginecd)
+- [PSX](http://www.mediafire.com/folder/976hl1rzp4b29/psx)
 - [SNES](http://www.mediafire.com/folder/o9t2bsui14jl6/snes)
-
 
 ### Customising
 
