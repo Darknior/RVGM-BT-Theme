@@ -89,6 +89,8 @@ Musics take a lot of place, more than **400 OGG** audio files for more than **1 
 
 I share the files separately because I regularly plan to update them and add new music tracks. This will save you from having to download everything again.
 
+##### MEDIAFIRE
+
 - [AMIGA 500 / 1200](http://www.mediafire.com/folder/mhxvfbzqwl8dd/amiga500)
 - [AMIGA CD32](http://www.mediafire.com/folder/afbxlpdkz3hzk/amigacd32)
 - [AMSTRAD CPC](http://www.mediafire.com/folder/5uajge0l0yqie/amstradcpc)
@@ -109,6 +111,29 @@ I share the files separately because I regularly plan to update them and add new
 - [PCENGINE CD](http://www.mediafire.com/folder/ru5syfj47v2xf/pcenginecd)
 - [PSX](http://www.mediafire.com/folder/976hl1rzp4b29/psx)
 - [SNES](http://www.mediafire.com/folder/o9t2bsui14jl6/snes)
+
+##### MEGA
+
+- [AMIGA 500 / 1200](https://mega.nz/folder/mVlxhZiZ#QmCDFKEExCJNoViVd5mVcA)
+- [AMIGA CD32](https://mega.nz/folder/mcdzlI7a#EAz4atQqp3p5TjW9kpbChw)
+- [AMSTRAD CPC](https://mega.nz/folder/HQ9VkZDT#1Ue4WVX4cxDBzDWY7HBdtQ)
+- [ARCADE](https://mega.nz/folder/CEVFjCpS#qz17x_KMFb0i3NLzqLqGRA)
+- [ATARI 800](https://mega.nz/folder/bElxRT4R#Wgo8gPpzGnieT4tA1VqowA)
+- [ATARI ST](https://mega.nz/folder/HYETzYiS#gF_OAE6JQVqA9IOJkvdzqg)
+- [Commodore 64](https://mega.nz/folder/6RUDFIqa#TCXL9Rpu_UyMGHk86q1CkQ)
+- [GAMEGEAR](https://mega.nz/folder/OFtjAb4S#z4oBvAoe09ZNpPk1gCNjXA)
+- [GameBoy](https://mega.nz/folder/HUNlzC6Z#UKNhAFO5DmDm-pzwzvZnEg)
+- [GameBoy Advance](https://mega.nz/folder/CJ9FHTKQ#odqBIlFYtnowiJXrh8ApCQ)
+- [GameBoy Color](https://mega.nz/folder/ScdDDKzI#WnoRz7Jf_4GYzAsko2l-QA)
+- [GameCube](https://mega.nz/folder/PQkj3RzZ#IDYTxjI_52qiNRgtsAiOdg)
+- [Master System](https://mega.nz/folder/bIc3CCYQ#KADHxC-fyr-R2ruBlTVAKw)
+- [MEGADRIVE](https://mega.nz/folder/vRkH2LYR#d3guaWmkC1R9-R1hEjmeWw)
+- [Nintendo 64](https://mega.nz/folder/SRdXFALZ#5uDC5-CI6JQD2fyRNPJplg)
+- [NES](https://mega.nz/folder/fM0hzDgb#9gvTaCfKEGP5vRSCLdF4Rg)
+- [PCEngine](https://mega.nz/folder/SNszFZbb#d_7wUHIyto_ja9gbGbAoiw)
+- [PCENGINE CD](https://mega.nz/folder/zZcX0QwD#dzUyibZ-pi0JJiC6xWq6pQ)
+- [PSX](https://mega.nz/folder/3A931Lzb#G0vZwpIJ2B6_Q5l0lgddwg)
+- [SNES](https://mega.nz/folder/PEFFmY5Q#sKpqh5P9U782USQwdyNS5g)
 
 ### Customising
 
