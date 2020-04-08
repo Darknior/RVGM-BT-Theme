@@ -97,5 +97,24 @@ PET
 Commodore lanzó en 1977 una máquina integrada para uso personal, bajo el nombre de Commodore PET 2001. Esta computadora precursora es parte de la famosa 'Trinidad de 1977' con el Apple II y el Tandy TRS-80. Este Transactor electrónico personal (o PET) fue diseñado por Chuck Peddle como un estuche monobloque, que incorpora teclado, pantalla reducida y reproductor de cassette, el primer microordenador listo para funcionar tan pronto como se conecta. Los competidores actuales como el Apple II y el TRS-80 requerían una grabadora de cinta externa.
 
 C16Plus4
+
 Lanzado en 1984 para reemplazar el VIC-20, la gama Commodore C116, C16 y Plus / 4 se dirigió al mercado de nivel de entrada. Un procesador MOS7501 o 8501 sucede al 6502 y es un 75% más rápido. Sin embargo, solo se incluye un coprocesador TED para audio y video. Además, a diferencia del C64, no existe aceleración de hardware en estas máquinas. El Plus / 4 tiene 32k de RAM e integra cuatro aplicaciones de oficina. Este proyecto fue un fracaso comercial en los EE. UU. Y se detuvo en 1985, incluso si se vendieron copias en Europa y especialmente en el este, detrás de la cortina de hierro.
+
+
+
+MSX
+
+MSX (Machines with Software eXchangeability) es un estándar de microcomputadoras con vocación doméstica de origen japonés, lo que permite que las máquinas producidas por varios fabricantes sean compatibles entre sí gracias a MSX DOS1 de Microsoft y luego DOS2 de ASCII después de 1988. En 1983 el MSX muestra gráficos en 256 × 192 píxeles con 16 colores, en 1985 el MSX2 con 64 o 128k muestra 256 colores (o 16 de 512 en 512x212) y agrega desplazamiento de hardware. Finalmente, en 1988, el MSX2+ permite 19,268 colores, así como un sonido FM de 9 canales con un cartucho.
+
+MSX1
+
+MSX es un estándar de microcomputadoras con vocación doméstica de origen japonés. Data de la década de 1980, por lo que las computadoras producidas por varios fabricantes eran compatibles entre sí gracias al MSX-DOS 1 de Microsoft. MSX significa Máquinas con intercambiabilidad de software, pero a menudo se interpreta como 'MicroSoft eXtension. El MSX mostró gráficos en 256 × 192 píxeles con 16 colores y verá la primera generación de juegos convertidos desde el arcade, así como perlas únicas como Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.
+
+MSX 2
+
+MSX, el estándar de micrófono doméstico japonés que usa MSX-DOS 1 de Microsoft, evolucionó en 1988 con MSX-DOS 2 de ASCII. Dotado de 64k o 128k, el MSX2 fue lanzado en 1985 y puede mostrar gráficos de hasta 512 × 212 píxeles con 16 colores de 512, así como 256 colores en 256x212 píxeles. Incorpora funciones de acelerador de hardware integradas para desplazamiento vertical, copia y relleno de áreas). Es posible agregar extensiones a esta máquina, como un cartucho MSX-Audio de 8 canales o FM-PAC con biblioteca, con la adición de una extensión de memoria Memory Mapper.
+
+MSX 2+ / TURBO R 
+
+El primer MSX2+, producido por Panasonic y Sony, se lanzó exclusivamente en Japón el 21 de octubre de 1988. Traerá un modo de 256x212 píxeles con 19,268 colores, así como desplazamiento horizontal del hardware además del vertical. También está disponible un cartucho Yamaha MSX-Music que ofrece una extensión a 9 canales FM. El MSX Turbo R es la última generación de MSX puesta en el mercado en 1990 para compensar la cancelación del MSX3. Solo Panasonic ha comercializado su FS-A1ST y FS-A1GT en Japón. Con un procesador RISC 16 bits, es el más rápido de toda la gama.
 

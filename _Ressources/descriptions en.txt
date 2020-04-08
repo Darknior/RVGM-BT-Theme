@@ -97,6 +97,23 @@ PET
 Commodore launched in 1977 an integrated machine for personal use, under the name of Commodore PET 2001. This precursor computer is part of the famous '1977 Trinity' with the Apple II and the Tandy TRS-80. This Personal Electronic Transactor (or PET) was designed by Chuck Peddle as a monobloc box, incorporating keyboard, reduced screen and cassette player, the first microcomputer ready to operate as soon as it is connected. Current competitors like the Apple II and the TRS-80 required an external tape recorder.
 
 C16Plus4
+
 Released in 1984 to replace the VIC-20, the Commodore C116, C16 and Plus / 4 range targeted the entry-level market. A MOS7501 or 8501 processor succeeds the 6502 and is 75% faster. However only one TED co-processor is included for audio and video. Also unlike the C64, no hardware acceleration exists on these machines. The Plus / 4 has 32k of RAM and integrates four office applications into it. This project was a commercial failure in the USA and stopped in 1985 even if copies were sold in Europe and especially in the east, behind the iron curtain.
 
+
+MSX
+
+MSX (Machines with Software eXchangeability) is a standard of microcomputers with domestic vocation of Japanese origin, allowing that machines produced by various manufacturers are compatible between them thanks to MSX DOS1 of Microsoft then DOS2 of ASCII after 1988. In 1983 the MSX displays graphics in 256 × 192 pixels with 16 colors, in 1985 the MSX2 with 64 or 128k displays 256 colors (or 16 of 512 in 512x212) and adds hardware scrolling. Finally in 1988 the MSX2 + allows 19,268 colors as well as a 9-channel FM sound with a detention cartridge.
+
+MSX1
+
+MSX is a standard of microcomputers with domestic vocation of Japanese origin. It dates from the 1980s so that computers produced by various manufacturers were compatible with each other thanks to Microsoft's MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as' MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and will see the first generation of games converted from the arcade as well as unique pearls such as Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.
+
+MSX 2
+
+MSX, the Japanese home microphone standard using MSX-DOS 1 from Microsoft, evolved in 1988 with MSX-DOS 2 from ASCII. Endowed with 64k or 128k, the MSX2 was released in 1985 and can display graphics up to 512 × 212 pixels with 16 colors from 512 as well as 256 colors in 256x212 pixels. It incorporates integrated hardware accelerator functions for vertical scrolling, copying and filling in areas). It is possible to add extensions to this machine such as an 8-channel MSX-Audio or FM-PAC cartridge with library, with the addition of a Memory Mapper memory extension.
+
+MSX 2+ / TURBO R 
+
+The first MSX2+, produced by Panasonic and Sony, were released exclusively in Japan on October 21, 1988. It will bring a 256x212 pixel mode with 19,268 colors as well as horizontal hardware scrolling in addition to the vertical. A Yamaha MSX-Music cartridge offering an extension to 9 FM channels is also available. The MSX Turbo R is the last generation of MSX put on the market in 1990 to compensate for the cancellation of the MSX3. Only Panasonic has marketed its FS-A1ST and FS-A1GT in Japan. With a 16-bit RISC processor, it is the fastest of the entire MSX range.
 
