@@ -22,10 +22,10 @@
 			<origin>0 0</origin>
 			<pos>0.047 0.77</pos>
 			<size>0.91 0.15</size>
-			<type>horizontal</type> <!-- horizontal -->
+			<type>horizontal</type>
 			<maxLogoCount>5</maxLogoCount> <!-- 3 Default -->
 			<logoScale>1.5</logoScale> <!-- 1.2 Default -->
-			<logoSize>0.135 0.109</logoSize> <!-- 0.2214 0.1089 (x1.2) -->
+			<logoSize>0.135 0.109</logoSize>
 			<logoAlignment>center</logoAlignment>
 			<color>25283100</color>
 
@@ -44,19 +44,6 @@
 			<alignment>center</alignment>
 			<forceUppercase>true</forceUppercase>
 			<color>${themeLightColor}</color>
-		</text>
-		
-		<!-- Games number -->
-		<text name="systemInfo">
-			<origin>0 0</origin>
-			<pos>0.032 0.759</pos>
-			<size>0.146 0.0217</size>
-			<backgroundColor>00000000</backgroundColor>
-			<color>${themeDarkColor}</color>
-			<fontPath>${fontMedium}</fontPath>
-			<fontSize>0.023</fontSize>
-			<alignment>left</alignment>
-			<zIndex>50</zIndex> <!-- Default -->
 		</text>
 
 		<!-- Background CONTOUR de la VUE --> -->
@@ -118,7 +105,14 @@
 			<path>./../../${system.theme}/system-logo-${langue}.png</path>
 			<zIndex>15</zIndex>
 		</image>
-
+		
+		<!-- Games number -->
+		<text name="systemInfo">
+			<pos>0.037 0.759</pos>
+			<size>0.146 0.0217</size>
+			<color>${themeLightColor}</color>
+		</text>
+		
 	</view>
 
 </theme>
