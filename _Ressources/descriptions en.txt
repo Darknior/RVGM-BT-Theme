@@ -1,7 +1,15 @@
 3DO
 
-3DO is a company founded by former Electronic Arts CEO, Trip Hawkins. A partnership was signed with Panasonic, Sanyo and Goldstar, each capable of producing its own version of the machine, and the first 3DO was marketed in April 1993. On a slightly lower level than the Saturn and PS1 in 3D, it is able to play videos in full screen. Each paddle had its own additional port as a multitap.
+3DO is a company founded by former Electronic Arts CEO, Trip Hawkins. A partnership was signed with Panasonic, Sanyo and Goldstar, each capable of producing its own version of the machine, and the first 3DO was marketed in April 1993. On a slightly lower level than the Saturn and PS1 in 3D, it is able to play videos in full screen. Each paddle had its own additional port as a multitap. 
 But there has been too little interesting games made on this support.
+
+3DS
+
+The 3DS is Nintendo's eighth generation portable console, with the particularity of auto-stereoscopic 3D display without glasses. It is equipped with a processor ARM11 268 MHz 2 cores and an ARM9 134 MHz for backward compatibility DS, a GPU Nvidia 268 MHz, 128MB of RAM and internet. It displays 400x240 in 3D, 320x240 for the touch screen and offers virtual surround sound equivalent to 5.1. The NEW version released in 2014 will have an 804 Mhz 4-core processor, 128 MB of RAM, a camera, the ZL and ZR buttons as well as exclusive games like Xenoblade Chronicles and Fire Emblem Warrior.
+
+AMIGA (generic)
+
+The Amiga 500 is the first Commodore 16/32 bit computer. Released in 1987, it uses a 7 Mhz 68000 processor, 512 KB of RAM and a Paula chip to manage sound on 4 channels (Chris Hülsbeck will increase to 8). It can display in 320 × 256 pixels and 32 then 128 colors at the end of 1989 with special modes. It will be followed in 1992 by the 1200 with a processor 2 times more powerful at 14 Mhz and an AGA graphic Chipset passing then to 262 thousand colors. At the same time the 4000 comes out which can include a 50 Mhz processor, more than 512 MB of RAM and a PowerPC graphic card.
 
 AMIGA 1200
 
@@ -25,7 +33,7 @@ Released in 1991 Amiga CDTV is a third generation console. Its architecture is b
 
 AMSTRAD CPC
 
-The Amstrad CPC (short for Color Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990. It was designed to compete in the mid-1980’s home computer market, which was dominated by the C64 and the ZX Spectrum. The series spawned a total of six distinct models: The CPC464, CPC664, CPC 464plus and 6128plus. The CPC model’ hardware is based on the Zilog Z80A CPU, complemented with either 64 of 128kb of memory.
+The Amstrad CPC (Color Personal Computer) is an 8-bit personal computer produced between 1984 and 1990. Based on the Zilog Z80 processor, it was available in 5 models: CPC464, CPC664, CPC6128, 464plus and 6128plus. Several devices were sold, such as a printer, a joystick, a mouse, and a floppy drive. Designed above all for a family clientele, its installation is as simple as possible, and is directly usable even by a layman as soon as the power is turned on. The Amstrad CPC has sold approximately three million copies worldwide, including approximately one million in France.
 
 APPLE 2
 
@@ -35,7 +43,7 @@ APPLE 2 GS
 
 The Apple IIgs is the fifth and latest model in the series of Apple II personal computers. It was marketed from 1986 to 1993. 'GS' means, Graphics and Sound, referring to its advanced multimedia functions. It innovates with a 16-bit architecture compatible with the previous Apple II 8bits and GS / OS, an operating system derived from Mac OS. 256 KB of RAM expandable to 8 MB, an external 3 ½ floppy drive, a joystick port, a 640x200 display in 6 colors or 320x200 from 16 to 3200 colors as well as an Ensoniq sound processor with 32 channels.
 
-ARCADE
+ARCADE (collection)
 
 Rediscover all the great classics that have written the history of arcade games with MAME and FBA. Arcade gathers a selection of all the best titles in any medium. Pacman, Killer Instinct, Space Invaders, Pang or The Ninja Turtles ...
 Thousands of titles waiting for you on mythical arcade cabinets!
@@ -70,35 +78,62 @@ ATARI ST
 
 The Atari ST platform marked the second half of the 1980s. Its success was as much general public (games), as professional (publication and MIDI music). The 520 ST, entry-level model, had a Motorola 68000 processor at 8 MHz, 512 KB of RAM, a Yamaha 3-way sound chipset and a 320x200 pixel display in 16 colors or 640x200 pixels in 4 colors among 512. ST Stands for Sixteen / Thirty-two and refers to the mixed 16/32 bit architecture of its CPU. It was also said to be the initials of Sam Tramiel, son of Jack Tramiel, president of Atari at the time.
 
-ALL GAMES
+ATOMISWAVE
+
+The Atomiswave is a cartridge system for a JAMMA arcade machine, created by the Japanese company Sammy in 2003. It is a low-cost and modular system, with the possibility of easily connecting a pistol, a steering wheel or a trackball.
+It is equipped with a 200 MHz processor, 32 MB of RAM and PowerVR 2. From its launch, it has the support of the company SNK Playmore which decides to use this system for its future games, just like Dimps, IGS and Arc System Works, but the majority of Atomiswave titles are developed by Sammy who merged with Sega in 2004.
+
+ALL GAMES (auto-collection)
 
 This section groups all the games in your collection, any system confused and arranged in alphabetical order. All the usual sorting filters are available to help you quickly find a game. Whether by name, system, creator, rating, number of players or even date added to your collection.
 It’s an extremely useful and practical search tool for anyone who knows or doesn’t know by heart his huge collection of games.
 
-2 PLAYERS
+2 PLAYERS (auto-collection)
 
 This section includes all the « 2 player » games in your collection, all systems combined and listed in alphabetical order. It's perfect for a good retro-gaming party with your family or when you get a friend. It includes all the action games, car racing, platform, beat'em up, fighting, etc ... playable in cooperative or versus mode. We immediately think of Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc ...
 All the usual sorting filters are available.
 
-4 PLAYERS
+4 PLAYERS (auto-collection)
 
 This section includes all the « 4 player » games in your collection, all systems combined and listed in alphabetical order. It’s perfect for a good retro-gaming party with your family or when you receive friends ... It includes all the action games playable in team or death match, simulations or arcade racing games, beat'em up, sports games, etc ... We immediately think of Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc ...All the usual sorting filters are available to help you.
 
+FAVORIS (auto-collection)
+
+This section groups all the "favorite" games in your collection, any system confused and sorted alphabetically. As a result, it is a huge "Best of" in the world of retro-gaming, and includes all the major titles that have for some launched huge saga still developed today. We immediately think of Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+All the usual sorting filters are available for you to quickly find one of those games that marked your childhood game.
+
+LASTPLAYED (auto-collection)
+
+This section contains the latest games you have played, any system confused and arranged in chronological order to allow you to find them quickly and continue your adventures ...
+Like a trip back in time you can go back to view your player progression.
+All the usual sorting filters are available to help you quickly find what you are looking
+for.
+
 C64
+
 The Commodore 64 is a personal computer designed by the firm of Jack Tramiel in 1982. It remains the best-selling model of its decade with 13 million copies sold worldwide. It uses an 8-bit 6510 microprocessor and has 64 kilobytes of RAM. Its graphics chip, VIC-II, provides 16 colors and hardware scrolling and sprite capabilities. The sound chip, SID, has three voices, several waveforms, sound modulations and filtering capabilities. It is very advanced for its time. Its designer, Bob Yannes, will be the co-founder of the synthesizer company Ensoniq.
 
-C128
-Extended and compatible version of the Commodore 64 but revamped (look that would inspire the Amiga 500) with 128 KB of RAM. It was equipped with the C64 6510 processor to ensure 100% compatibility, but also with a new 8502 processor. It also contained a Zilog Z80 processor with the CP / M operating system. Finally, it proposed screen switching from standard 40 column mode to 80 column mode. Little sold and little supported by publishers, the Commodore 128 was the last 8-bit machine marketed by Commodore Business Machines, shortly before the release of the Amiga.
-
 C20
-The VIC-20 is an 8-bit personal computer designed by Commodore with 5 kb of RAM (including 3.5 kb for BASIC applications) and a central unit based on a MOS 6502 processor. It resembled its successors the C64 and the C16 . The VIC-20 appeared in June 1980, 2 years and 9 months after the release of Commodore's first personal computer, the PET. It was designed to better compete with the new Apple II as well as the Tandy TRS-80 and it sold a million copies. Due to its low memory and low-resolution display, it was used for educational or recreational purposes.
 
-PET
-Commodore launched in 1977 an integrated machine for personal use, under the name of Commodore PET 2001. This precursor computer is part of the famous '1977 Trinity' with the Apple II and the Tandy TRS-80. This Personal Electronic Transactor (or PET) was designed by Chuck Peddle as a monobloc box, incorporating keyboard, reduced screen and cassette player, the first microcomputer ready to operate as soon as it is connected. Current competitors like the Apple II and the TRS-80 required an external tape recorder.
+The VIC-20 is an 8-bit personal computer designed by Commodore with 5 kb of RAM (including 3.5 kb for BASIC applications) and a central unit based on a MOS 6502 processor. It resembled its successors the C64 and the C16 . The VIC-20 appeared in June 1980, 2 years and 9 months after the release of Commodore's first personal computer, the PET. It was designed to better compete with the new Apple II as well as the Tandy TRS-80 and it sold a million copies. Due to its low memory and low-resolution display, it was used for educational or recreational purposes.
 
 C16Plus4
 
 Released in 1984 to replace the VIC-20, the Commodore C116, C16 and Plus / 4 range targeted the entry-level market. A MOS7501 or 8501 processor succeeds the 6502 and is 75% faster. However only one TED co-processor is included for audio and video. Also unlike the C64, no hardware acceleration exists on these machines. The Plus / 4 has 32k of RAM and integrates four office applications into it. This project was a commercial failure in the USA and stopped in 1985 even if copies were sold in Europe and especially in the east, behind the iron curtain.
+
+C128
+
+Extended and compatible version of the Commodore 64 but revamped (look that would inspire the Amiga 500) with 128 KB of RAM. It was equipped with the C64 6510 processor to ensure 100% compatibility, but also with a new 8502 processor. It also contained a Zilog Z80 processor with the CP / M operating system. Finally, it proposed screen switching from standard 40 column mode to 80 column mode. Little sold and little supported by publishers, the Commodore 128 was the last 8-bit machine marketed by Commodore Business Machines, shortly before the release of the Amiga.
+
+PET
+
+Commodore launched in 1977 an integrated machine for personal use, under the name of Commodore PET 2001. This precursor computer is part of the famous '1977 Trinity' with the Apple II and the Tandy TRS-80. This Personal Electronic Transactor (or PET) was designed by Chuck Peddle as a monobloc box, incorporating keyboard, reduced screen and cassette player, the first microcomputer ready to operate as soon as it is connected. Current competitors like the Apple II and the TRS-80 required an external tape recorder.
+
+
+
+
+
+
 
 
 MSX

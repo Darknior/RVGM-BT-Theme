@@ -2,6 +2,14 @@
 
 3DO, une société créée par d'anciens membres d'Electronic Arts, avait un projet de console. Un partenariat fut passé avec Panasonic, Sanyo et Goldstar, chacun pouvant fabriquer sa propre version de la machine, et la première 3DO fut ainsi commercialisée en avril 1993. D'un niveau légèrement inférieur à celui de la Saturn et de la PS1 en 3D, elle est capable de lire des vidéos en plein écran. Mais il n'y a eu trop peu de jeux intéressants réalisés sur ce support.
 
+3DS
+
+La 3DS est la console portable de huitième génération de Nintendo, ayant pour particularité l'affichage en 3D auto-stéréoscopique sans lunettes. Elle est dotée d'un processeur ARM11 268 MHz 2 coeurs et un ARM9 134 MHz pour la rétrocompatibilité DS, un GPU Nvidia 268 MHz, 128Mo de RAM et internet. Elle affiche du 400x240 en 3D, du 320x240 pour l'écran tactile et propose un son Surround virtuel équivalant 5.1. La version NEW sortie en 2014 aura un processeur 804 Mhz 4 coeurs, 128 Mo de RAM, une caméra, les boutons ZL et ZR ainsi que des jeux exclusifs comme Xenoblade Chronicles.
+
+AMIGA (generic)
+
+L'Amiga 500 est le premier ordinateur 16/32 bits Commodore. Sorti en 1987, il utilise un processeur 68000 cadencé à 7 MHz, 512 Ko de RAM et une puce Paula pour gérer le son sur 4 voies (Chris Hülsbeck arrivera à monter jusqu’à 8). Il peut afficher en 320×256 pixels et 32 puis 128 couleurs fin 1989 avec les modes spéciaux. Il sera suivi en 1992 par le 1200 avec un processeur 2 fois plus puissant à 14 Mhz et un Chipset graphique AGA passant alors à 262 mille couleurs parmi 16 millions. En même temps sort le 4000 pouvant inclure un processeur 50 Mhz, plus de 512 Mo de RAM et une carte PowerPC.
+
 AMIGA 1200
 
 L'Amiga 1200 (A1200) sorti en 1992 est l'ordinateur de troisième génération de Commodore. Il incorpore un processeur 68020 2 fois plus puissant cadencé à 14 MHz épaulé d’un Chipset graphique AGA, 2 Mo de RAM en standard, et le son toujours sur 4 voies stéréo 8Bit. L'affichage en mode normal passe à 256 couleurs et à 262 144 couleurs en mode HAM-8 parmi une palette de 16 777 216. Apparaissent alors 2 types de jeux, ceux simplement adaptés pour utiliser l’AGA comme Chaos Engine, et ceux qui en tireront 100% parti comme les cultissimes Guardian, Banshee & Pinball Illusions.
@@ -24,7 +32,7 @@ Sortie en 1991 l’Amiga CDTV est une console de troisième génération. Son ar
 
 AMSTRAD CPC
 
-L'Amstrad CPC (pour Colour Personal Computer, même s'il était possible d'en acheter muni de moniteurs monochromes) est un ordinateur personnel 8 bits produit par Amstrad entre 1984 et 1990. Il fut décliné en 6 modèles: CPC464, CPC664, CPC6128 464plus et 6128plus. Basé sur le processeur Zilog Z80A, complétés par 64 ou 128 ko de mémoire, plusieurs périphériques étaient vendus, comme une imprimante, un joystick, une souris et un lecteur de disquettes.
+L'Amstrad CPC (Colour Personal Computer) est un ordinateur personnel 8 bits produit entre 1984 et 1990. Basé sur le processeur Zilog Z80, il fut décliné en 5 modèles: CPC464, CPC664, CPC6128, 464plus et 6128plus. Plusieurs périphériques étaient vendus, comme une imprimante, un joystick, une souris et un lecteur de disquettes. Conçu avant tout pour une clientèle familiale, son installation est la plus simple possible, et est directement utilisable même par un profane dès la mise sous tension. L'Amstrad CPC s'est vendu à environ trois millions d'exemplaires dans le monde.
 
 APPLE 2
 
@@ -34,7 +42,7 @@ APPLE 2 GS
 
 L'Apple IIgs est le cinquième et le dernier modèle de la série des ordinateurs personnels Apple II. Il fut commercialisé de 1986 à 1993. «GS» signifie, Graphiques et Sonores, se référant à ses fonctions avancées de multimédia. Il innove avec une architecture 16-bit compatible avec les précédents Apple II 8bits et GS/OS, un système d'exploitation dérivé de Mac OS. 256 Ko de RAM extensible à 8 Mo, un lecteur de disquettes 3 ½ externe, un port joystick, un affichage du 640x200 en 6 couleurs ou 320x200 de 16 à 3200 couleurs ainsi qu'un processeur sonore Ensoniq doté de 32 voies. 
 
-ARCADE
+ARCADE (collection)
 
 Redécouvrez tous les grands classiques qui ont écrit l'histoire des jeux d’arcade avec MAME et FBA. Arcade regroupe une séléction de tous les meilleurs titres tout support confondu. Pacman, Killer Instinct, Space Invaders, Pang ou encore Les Tortues Ninja...
 Ce sont des milliers de titres qui vous attendent sur des bornes mythiques!
@@ -68,33 +76,58 @@ ATARI ST
 
 La plateforme Atari ST a marqué la deuxième moitié des années 1980. Son succès fut autant grand public (jeux), que professionnel (publication et musique MIDI). Le 520 ST, modèle d'entrée de gamme, disposait d'un processeur Motorola 68000 à 8mhz, 512 Ko de RAM, un chipset sonore Yamaha 3 voies et un affichage 320x200 pixels en 16 couleurs ou 640x200 pixels en 4 couleurs parmi 512. ST signifie Sixteen/Thirty-two et fait référence à l'architecture mixte 16/32 bits de son CPU. On a dit qu'il s'agissait également des initiales de Sam Tramiel, fils de Jk. Tramiel, président d'Atari à l'époque.
 
-ALL GAMES
+ATOMISWAVE
+
+L'Atomiswave est un système à cartouche pour borne d'arcade JAMMA, créé par la société japonaise Sammy en 2003. C'est un système à bas coût et modulable, avec la possibilité de brancher facilement un pistolet, un volant ou un trackball. Il est équipé d'un processeur 200 Mhz, 32 Mo de RAM et de PowerVR 2. Dès son lancement, il bénéficie du soutien de la société SNK Playmore qui décide d'utiliser ce système pour ses futurs jeux, tout comme Dimps, IGS et Arc System Works, mais la majorité des titres Atomiswave sont développés par Sammy qui a fusionné avec Sega en 2004.
+
+ALL GAMES (auto-collection)
 
 Cette section regroupe tous les jeux de votre collection, tous systèmes confondus et classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. Que ce soit par nom, par système, par créateur, par note, par nombre de joueur ou même par date d'ajout à votre collection. C'est un outil de recherche extrêmement puisant et pratique pour qui connait ou ne connait pas par coeur son immense collection de jeux.
 
-2 PLAYERS
+2 PLAYERS (auto-collection)
 
 Cette section regroupe tous les jeux « 2 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez un ami. Elle regroupe tous les jeux d’action, course automobile, plateforme, beat’em up, combat, etc... jouables en coopératif ou un contre un. On pense immédiatement à Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc... Tous les filtres de tri habituels y sont disponibles.
 
-4 PLAYERS 
+4 PLAYERS (auto-collection)
 
 Cette section regroupe tous les jeux « 4 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez des amis... Elle regroupe tous les jeux d’action frénétique jouable en équipe ou en match à mort, les simulations ou jeux d’arcade automobile, les beat’em up, les jeux de sport, etc... On pense immédiatement à Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, etc... Tous les filtres de tri habituels y sont disponibles.
 
+FAVORIS (auto-collection)
+
+Cette section regroupe tous les jeux «favoris» de votre collection, tous systèmes confondus et classés par ordre alphabétique. De ce fait elle est un immense «Best of» de l’univers du rétro-gaming, et regroupe tous les plus grands titres qui ont pour certains lancé d’immenses saga encore développés aujourd’hui. On pense immédiatement à Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement l’un de ces jeux qui ont marqué votre enfance jeu.
+
+LASTPLAYED (auto-collection)
+
+Cette section regroupe les derniers jeux auxquels vous avez joué, tous systèmes confondus et classés par ordre chronologique pour vous permettre de les retrouver rapidement et continuer vos passionnantes aventures ...
+A la manière d'un voyage dans le temps vous pouvez remonter la liste de vos parties pour visualiser votre parcours de joueur.
+Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement ce que vous cherchez.
+
 C64
+
 Le Commodore 64 est un ordinateur personnel conçu par la firme de Jack Tramiel en 1982. Il reste le modèle le plus vendu de sa décénnie avec 13 millions d'exemplaires écoulés dans le monde. Il utilise un microprocesseur 8-bits 6510 et dispose de 64 ko de mémoire vive. Sa puce graphique, VIC-II, fournit 16 couleurs et des capacités de scrolling et sprites hardware. La puce sonore, SID, a trois voix, plusieurs formes d'ondes, modulations sonores et capacités de filtrage. Elle est très avancée pour son époque. Son concepteur, Bob Yannes, sera le cofondateur de la société de synthétiseur Ensoniq. 
 
-C128
-Version étendue et compatible du C64 mais relooké (look dont allait s'inspirer l'Amiga 500) avec 128 ko de mémoire vive. Il était doté du processeur 6510 du C64 pour lui assurer une compatibilité à 100%, mais également d'un nouveau processeur 8502. Il contenait également un processeur Zilog Z80 avec le système d'exploitation CP/M. Enfin, il proposait une commutation d'écran du mode standard 40 colonnes vers un mode 80 colonnes. Peu vendu et peu supporté par les éditeurs, le C128 a été la dernière machine 8 bits commercialisée par Commodore B.M., peu avant la sortie de l'Amiga.
-
 C20
-Le VIC-20 est un ordinateur personnel 8 bits conçu par Commodore avec 5 ko de RAM (dont 3,5 ko pour les applications BASIC) et une unité centrale basée sur un processeur MOS 6502. Il ressemblait à ses successeurs le C64 et le C16. Le VIC-20 apparut en juin 1980, 2 ans et 9 mois après la sortie du premier ordinateur personnel de Commodore, le PET. Il fut conçu pour mieux concurrencer les nouveaux Apple II ainsi que le Tandy TRS-80 et il se vendit à un million d'exemplaires. En raison de sa faible mémoire et de son affichage à basse résolution, il servit à des fins éducatives ou ludiques.
 
-PET
-Commodore lança en 1977 une machine intégrée à usage personnel, sous la dénomination de Commodore PET 2001. Cet ordinateur précurseur fait parti de la célèbre "Trinité de 1977" avec l'Apple II et le Tandy TRS-80. Ce Personal Electronic Transactor (ou PET) était conçu par Chuck Peddle comme un boîtier monobloc, incorporant clavier, écran de taille réduite et lecteur de cassettes, le premier micro-ordinateur prêt à fonctionner dès son branchement. Les concurrents du moment comme l'Apple II et le TRS-80 nécessitaient un magnétophone externe.
+Le VIC-20 est un ordinateur personnel 8 bits conçu par Commodore avec 5 ko de RAM (dont 3,5 ko pour les applications BASIC) et une unité centrale basée sur un processeur MOS 6502. Il ressemblait à ses successeurs le C64 et le C16. Le VIC-20 apparut en juin 1980, 2 ans et 9 mois après la sortie du premier ordinateur personnel de Commodore, le PET. Il fut conçu pour mieux concurrencer les nouveaux Apple II ainsi que le Tandy TRS-80 et il se vendit à un million d'exemplaires. En raison de sa faible mémoire et de son affichage à basse résolution, il servit à des fins éducatives ou ludiques.
 
 C16Plus4
 
 Sortie en 1984 pour remplacer le VIC-20, la gamme Commodore C116, C16 et Plus/4 visait le marché d'entrée de gammme. Un processeur MOS7501 ou 8501 succéde au 6502 et est 75% plus rapide. Cependant un seul co-processeur TED est inclus pour le son et la video. Aussi contrairement au C64, aucune accélération matérielle n'existe sur ces machines. Le Plus/4 a 32k de RAM et y intègre quatre applications bureautiques. Ce projet fut un échec commercial aux USA et s'arrêta en 1985 même si des exemplaires se sont vendus en Europe et surtout à l'est, derrière le rideau de fer.
+
+C128
+
+Version étendue et compatible du C64 mais relooké (look dont allait s'inspirer l'Amiga 500) avec 128 ko de mémoire vive. Il était doté du processeur 6510 du C64 pour lui assurer une compatibilité à 100%, mais également d'un nouveau processeur 8502. Il contenait également un processeur Zilog Z80 avec le système d'exploitation CP/M. Enfin, il proposait une commutation d'écran du mode standard 40 colonnes vers un mode 80 colonnes. Peu vendu et peu supporté par les éditeurs, le C128 a été la dernière machine 8 bits commercialisée par Commodore B.M., peu avant la sortie de l'Amiga.
+
+PET
+
+Commodore lança en 1977 une machine intégrée à usage personnel, sous la dénomination de Commodore PET 2001. Cet ordinateur précurseur fait parti de la célèbre "Trinité de 1977" avec l'Apple II et le Tandy TRS-80. Ce Personal Electronic Transactor (ou PET) était conçu par Chuck Peddle comme un boîtier monobloc, incorporant clavier, écran de taille réduite et lecteur de cassettes, le premier micro-ordinateur prêt à fonctionner dès son branchement. Les concurrents du moment comme l'Apple II et le TRS-80 nécessitaient un magnétophone externe.
+
+
+
+
+
+
 
 
 MSX

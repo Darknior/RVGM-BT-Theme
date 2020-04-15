@@ -4,21 +4,27 @@
 
 	<view name="basic, detailed, video, grid">
 
+		<!-- LABEL -->
+        <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, md_lbl_description, md_lbl_players,
+					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime">
+			<color>${userLightColor}</color>
+        </text>
+
 		<!-- TEXTE -->
-        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
+        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description, md_players, md_gametime">
 			<color>${themeLightColor}</color>
         </text>
         <datetime name="md_releasedate, md_lastplayed">
 			<color>${themeLightColor}</color>
         </datetime>
-
-		<text name="md_players">
-			<color>${themeLightColor}</color>
-		</text>
 		<rating name="md_rating">
 			<color>${themeLightColor}</color>
 		</rating>
 
+		<image name="md_hidden, md_kidgame, md_favorite">
+			<color>${userLightColor}</color>
+		</image>
+		
 		<!-- BACKGROUND -->
 		<image name="bg-image" extra="true">
 			<color>${themeDarkColor}CC</color> <!-- 80% -->
@@ -29,5 +35,13 @@
 		</image>
 		
 	</view>
+	
+	<view name="grid">
+	
+		<image name="logo"> <!-- System -->
+			<color>FFFFFFFF</color>
+		</image>
 
+	</view>
+	
 </theme>

@@ -37,6 +37,10 @@
 		<gamelistInfoLight>Light</gamelistInfoLight>
 		<gamelistInfoDarth>Darth</gamelistInfoDarth>
 		
+		<subset.switchVideoEffect>Video Effect</subset.switchVideoEffect>
+		<videoEffectDefault>None</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+		
 		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
 		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
 		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
@@ -79,6 +83,10 @@
 		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
 		<gamelistInfoLight>Lumineux</gamelistInfoLight>
 		<gamelistInfoDarth>Sombre</gamelistInfoDarth>
+
+		<subset.switchVideoEffect>Effet sur les Vidéos</subset.switchVideoEffect>
+		<videoEffectDefault>Aucun</videoEffectDefault>
+		<videoEffectBump>Rebond</videoEffectBump>
 		
 		<videoFullscreenViewName>Vidéo plein écran</videoFullscreenViewName>
 		<gridDetailViewName>Grille de Jaquettes + Détail</gridDetailViewName>
@@ -100,31 +108,38 @@
 		<colred>Rojo</colred>
 		<colorange>Naranja</colorange>
 		<colgreen>Verde</colgreen>
-		
-		<subset.systemView>Elección de la vista del sistema</subset.systemView>
-		<menuVertRight>Menú vertical a la derecha</menuVertRight>
-		<menuVertLeft>Menú vertical a la izquierda.</menuVertLeft>
-		<menuHorizBot>Menú Horizontal y Bas</menuHorizBot>
-		<menuHorizBotVideo>Menu Horizontal y Video</menuHorizBotVideo>
-		
-		<subset.switchImages>Elección de la chaqueta</subset.switchImages>
+	
+		<subset.systemMenuOpacity>Lista de sistemas de opacidad</subset.systemMenuOpacity>
+		<subset.gamelistOpacity>Lista de juegos de opacidad</subset.gamelistOpacity>
+		<opacityFull>100%</opacityFull>
+		<opacityMiddle>50%</opacityMiddle>
 
-		<subset.systemSwitchVideo>Elija un tipo de video del sistema</subset.systemSwitchVideo>
-		<switchVideoRandom>Toma aleatoria (en tu lista de juegos)</switchVideoRandom>
-		<switchVideoCommercial>TV comercial (descarga separada)</switchVideoCommercial>
+		<subset.systemView>Vista del sistema</subset.systemView>
+		<menuVertRight>Vertical a la Derecha</menuVertRight>
+		<menuVertLeft>Vertical a la Izquierda</menuVertLeft>
+		<menuHorizBot>Horizontal y Bas</menuHorizBot>
+		<menuHorizBotVideo>Horizontal y Video</menuHorizBotVideo>
+		
+		<subset.switchImages>Etiqueta de la chaqueta</subset.switchImages>
+
+		<subset.systemSwitchVideo>Vista previa de video del sistema</subset.systemSwitchVideo>
+		<switchVideoRandom>Toma aleatoria</switchVideoRandom>
+		<switchVideoCommercial>TV comercial</switchVideoCommercial>
 		<switchVideoHide>No hay video</switchVideoHide>
 		
-		<basicViewName>Hoja básica</basicViewName>
-		<detailedViewName>Hoja detallada + Video</detailedViewName>
-		<videoViewName>Hoja detallada + Video + Sobrecubierta grande</videoViewName>
-		<videoFullscreenViewName>Video de pantalla completa + logotipo + pequeña sobrecubierta</videoFullscreenViewName>
+		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<gamelistInfoLight>Brillante</gamelistInfoLight>
+		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
+
+		<subset.switchVideoEffect>Efecto en videos</subset.switchVideoEffect>
+		<videoEffectDefault>Ninguno</videoEffectDefault>
+		<videoEffectBump>Rebote</videoEffectBump>
 		
-		<gridVideoViewName>Portada 2D + Video</gridVideoViewName>
-		<gridDetailViewName>Chaqueta 2D + Hoja detallada + Video</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Miniatura de la pantalla de título + Video</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Miniatura del juego + Video + Logotipo</tilesScreenshotVideoMarqueeViewName>
-		
-		<marqueeDetailViewName>LOGO - TO TRANSLATE</marqueeDetailViewName>
+		<videoFullscreenViewName>Video a pantalla completa</videoFullscreenViewName>
+		<gridDetailViewName>Jacket Grid + Detail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Rejilla de pantalla de título</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
 		
 	</variables>
 

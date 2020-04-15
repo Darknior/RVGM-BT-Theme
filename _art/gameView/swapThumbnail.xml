@@ -22,12 +22,10 @@
 		</image>
 	</view>
 	<customView name="VideoFullscreen" inherits="video" displayName="${videoFullscreenViewName}">
-		<video name="md_video">
-			<snapshotSource>image</snapshotSource>
-		</video>
 		<image name="md_thumbnail">
-			<pos>0.025 0.607</pos>
-			<maxSize>0.178 0.325</maxSize>
+			<origin>0 1</origin>
+			<pos>0.028 0.925</pos>
+			<maxSize>0.169 0.377</maxSize>
 		</image>
 	</customView>
 	
