@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<!-- ENGLISH -->
+		<text name="sys_info" extra="true">
+			<text>Panasonic, Sanyo, Goldstar
+Home video game console
+Fifth
+1993
+CD-Rom
+Joystick 5 buttons</text>
+		</text>
+		<text name="sys_description" extra="true">
+			<text>3DO, a company created by former members of Electronic Arts, had a universal console project. A partnership was made with Panasonic, Sanyo, Goldstar, each of which could manufacture its own version of the machine. The first 3DO was thus marketed in April 1993. With a 12.5 Mhz processor, 2 MB of RAM and 2 GPU 25 Mhz it could display 320x240 in 16 million colors. At a level slightly lower than that of the Saturn and the PS1 in 3D, it is capable of playing videos in full screen. But there were only a few interesting games made on this medium.</text>
+		</text>
+		
+		<!-- FRENCH -->
+		<text name="sys_info" lang="fr" extra="true">
+			<text>Panasonic, Sanyo, Goldstar
+Console de salon
+Cinquième
+1993
+CD-Rom
+Manette 5 boutons</text>
+		</text>
+		<text name="sys_description" lang="fr" extra="true">
+			<text>3DO, une société créée par d'anciens membres d'Electronic Arts, avait un projet de console universelle. Un partenariat fut passé avec Panasonic, Sanyo, Goldstar, chacun pouvant fabriquer sa propre version de la machine. La première 3DO fut ainsi commercialisée en avril 1993. Avec un processeur 12.5 Mhz, 2 Mo de RAM et 2 GPU 25 Mhz elle pouvais afficher du 320x240 en 16 millions de couleurs. D'un niveau légèrement inférieur à celui de la Saturn et de la PS1 en 3D, elle est capable de lire des vidéos en plein écran. Mais il n'y eu que peu de jeux intéressants réalisés sur ce support.</text>
+		</text>
+
+		<!-- SPANISH -->
+		<text name="sys_info" lang="sp" extra="true">
+			<text>Panasonic, Sanyo, Goldstar
+Consola de videojuegos salón
+Quinta
+1993
+CD-Rom
+Joystick 5 butones</text>
+		</text>
+		<text name="sys_description" lang="sp" extra="true">
+			<text>3DO, una compañía creada por ex miembros de Electronic Arts, tenía un proyecto de consola universal. Se hizo una asociación con Panasonic, Sanyo, Goldstar, cada uno de los cuales podría fabricar su propia versión de la máquina. El primer 3DO se comercializó en abril de 1993. Con un procesador de 12.5 Mhz, 2 MB de RAM y 2 GPU de 25 Mhz, podía mostrar 320x240 en 16 millones de colores. A un nivel ligeramente más bajo que el de Saturno y la PS1 en 3D, es capaz de reproducir videos en pantalla completa. Pero solo se hicieron algunos juegos interesantes en este medio.</text>
+		</text>
+		
+	</view>
+
+</theme>

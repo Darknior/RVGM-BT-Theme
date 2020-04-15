@@ -46,7 +46,16 @@
 		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
 		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Marquee list (beta)</marqueeDetailViewName>
-			
+		
+		<sysLabel>Manufacturer
+Type
+Generation
+Release
+Media
+Controller
+
+Total</sysLabel>
+
 	</variables>
 	
 	<variables lang="fr">
@@ -93,7 +102,16 @@
 		<tilesTitleshotVideoViewName>Grille d'écrans titre</tilesTitleshotVideoViewName>
 		<tilesScreenshotVideoMarqueeViewName>Grille d'écrans de jeu</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Liste de logos (beta)</marqueeDetailViewName>
-			
+		
+		<sysLabelFr>Fabricant
+Type
+Génération
+Sortie
+Média
+Contrôleur(s)
+
+Total</sysLabelFr>
+
 	</variables>
 	
 	<variables lang="sp">
@@ -141,6 +159,15 @@
 		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
 		
+		<sysLabelSp>Fabricante
+Tipo
+Generación
+Lanzamiento
+Media
+Controles
+
+Total</sysLabelSp>
+
 	</variables>
 
 

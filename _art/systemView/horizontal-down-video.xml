@@ -83,7 +83,7 @@
 			<size>0.95 0.93</size>
 
 			<path>{random}</path>                 
-			<path>./../../_videos/${videoType}/${system.theme}.mp4</path>
+			<path>./../../../../videos/RVGM-Theme/${videoType}/${system.theme}/playlist.m3u</path>
 			<delay>0</delay>
 			<effect>${videoEffect}</effect>
 			<zIndex>10</zIndex>      

@@ -33,10 +33,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<videoType>random</videoType>			<!-- Video type on system view ${videoType} -->
 		
 		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     	${themeFavorisColor}-->
-		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
 		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
+		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
 
-		<userDarkColor>02588d</userDarkColor> 		<!-- Dark Blue 		${userDarkColor}	-->
+		<userDarkColor>1b76ae</userDarkColor> 		<!-- Dark Blue 		${userDarkColor}	-->
 		<userColor>1f9be7</userColor> 				<!-- Blue 			${userColor}		-->
 		<userLightColor>7BC4F1</userLightColor>		<!-- Light blue		${userLightColor}	-->
 
@@ -138,7 +138,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<menuTextSmall name="menutextsmall">
 			<fontPath>${fontMedium}</fontPath>
 			<fontSize>0.02</fontSize>
-			<color>deec00</color> <!-- Jaune -->
+			<color>userLightColor</color> <!-- Jaune -->
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">
@@ -191,7 +191,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.05 0.0384</size>
             <verticalAlignment>center</verticalAlignment>
 			<color>${themeLightColor}</color>
-			<fontPath>${fontDigib}</fontPath>
+			<fontPath>${fontClock}</fontPath>
 			<fontSize>0.035</fontSize>
 		</text>
 
@@ -208,6 +208,28 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<fontPath>${fontBold}</fontPath>
 			<fontSize>0.024</fontSize>
 		</helpsystem>
+
+        <text name="systemInfo, sys_label, sys_info, sys_description">
+			<origin>0 0</origin>
+			<!-- <backgroundColor>01fb1380</backgroundColor> <!-- 00000000 -->
+			<verticalAlignment>top</verticalAlignment> <!-- top / center / bottom -->
+			<color>${themeDarkColor}</color>
+			<fontSize>0.023</fontSize>
+			<lineSpacing>1.3</lineSpacing>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>${fontMedium}</fontPath>
+			<alignment>left</alignment>			
+			<zIndex>50</zIndex>
+        </text>
+        <text name="sys_label">
+			<fontPath>${fontBold}</fontPath>
+			<color>${userDarkColor}</color>
+			<alignment>right</alignment>
+        </text>
+
+        <text name="sys_description">
+			<lineSpacing>1.2</lineSpacing>
+        </text>
 		
 	</view>
 	
@@ -221,20 +243,30 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
                     md_lbl_description, md_lbl_players, md_lbl_rating, md_lbl_gametime
 					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
 					md_developer, md_publisher, md_genre, md_playcount, md_description,
-					md_gametime, logoText">
+					md_gametime, logoText,
+					sys_label, sys_info, sys_description">
 			<origin>0 0</origin>
 			<pos>2 2</pos>
 			<size>0.15 0.015</size>
 			
-			<color>${userDarkColor}</color>
+			<color>${themeDarkColor}</color>
 			<fontSize>0.024</fontSize>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>${fontMedium}</fontPath>
 			<alignment>right</alignment>			
 			<zIndex>40</zIndex>  <!-- Default for METADATA -->
         </text>
-        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
-			<color>${themeDarkColor}</color>
+        <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
+                    md_lbl_description, md_lbl_players, md_lbl_rating, md_lbl_gametime
+					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime">
+			<fontPath>${fontBold}</fontPath>
+			<color>${userDarkColor}</color>
+			<!-- <glowColor>${themeDarkColor}80</glowColor>
+			<glowSize>1</glowSize> -->
+        </text>
+
+        <text name="md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime,
+					sys_description">
 			<alignment>left</alignment>
 			<lineSpacing>1.2</lineSpacing>
         </text>
@@ -429,7 +461,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_releasedate, 
 					md_lbl_playcount, md_lbl_lastplayed, md_lbl_gametime">
-			<size>0.11 0.03</size>
+			<size>0.115 0.03</size>
 			<alignment>left</alignment>
 		</text>
 		<text name="md_lbl_developer">
@@ -539,7 +571,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- LABEL -->
 		<text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_releasedate">
-			<size>0.085 0.03</size>
+			<size>0.09 0.03</size>
 		</text>
 		<text name="md_lbl_developer">
 			<pos>0.025 0.745</pos>
@@ -558,22 +590,22 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.197 0.03</size>
 		</text>
 		<text name="md_developer">
-			<pos>0.114 0.745</pos>
+			<pos>0.116 0.745</pos>
 		</text>
 		<text name="md_publisher">
-			<pos>0.114 0.780</pos>
+			<pos>0.116 0.780</pos>
 		</text>
 		<text name="md_genre">
-			<pos>0.114 0.815</pos>
+			<pos>0.116 0.815</pos>
 		</text>
 		<datetime name="md_releasedate">
-			<pos>0.114 0.850</pos>
+			<pos>0.116 0.850</pos>
 			<size>0.210 0.03</size>
 		</datetime>
 		
 		<!-- LABEL -->
 		<text name="md_lbl_playcount, md_lbl_lastplayed, md_lbl_gametime">
-			<size>0.11 0.03</size>
+			<size>0.115 0.03</size>
 		</text>
 		<text name="md_lbl_playcount">
 			<pos>0.396 0.695</pos>
@@ -586,15 +618,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</text>
 		<!-- METADATA -->
 		<text name="md_playcount">
-			<pos>0.507 0.695</pos>
+			<pos>0.512 0.695</pos>
 			<size>0.024 0.03</size>
 		</text>
 		<datetime name="md_lastplayed">
-			<pos>0.631 0.695</pos>
+			<pos>0.636 0.695</pos>
 			<size>0.09 0.03</size>
 		</datetime>
 		<text name="md_gametime">
-			<pos>0.631 0.73</pos>
+			<pos>0.636 0.73</pos>
 			<size>0.09 0.03</size>
 		</text>
 		
@@ -651,19 +683,18 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<!-- TRICK pour cacher cette option BUG de ES au 15/04/2020 -->
         <text name="md_lbl_gametime, md_gametime">
 			<origin>1 1</origin>
-			<pos>1 1</pos>
+			<pos>1.5 1</pos>
 			<size>0 0</size>
         </text>
 		
-		<image name="background_video" extra="true">
-			<!-- <visible>false</visible> -->
-			<origin>0 0</origin>
-			<pos>0.0151 0.0445</pos>
-			<size>0.717 0.104</size>
-			<zIndex>10</zIndex>
+		<image name="bg-game" extra="true">
+			<path>${artPath}/gameView/bg-game-right-fullscreen${gamelistOpacity}.png</path>
 		</image>
 		
 		<!-- VIDEO Background -->
+		<image name="background_video" extra="true">
+			<visible>false</visible>
+		</image>
 		<video name="md_video">
 			<origin>0 0</origin>
 			<pos>0.0151 0.0445</pos>
@@ -701,18 +732,18 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</image>
 		
 		<image name="md_marquee">
-			<pos>0.374 0.097</pos>
-			<maxSize>0.2031 0.1007</maxSize>
+			<pos>0.374 0.089</pos>
+			<maxSize>0.216 0.113</maxSize>
 		</image>
 		
 		<text name="md_players">
-			<pos>0.544 0.058</pos>
+			<pos>0.544 0.049</pos>
 			<alignment>right</alignment>
 			<size>0.18 0.079</size>
 			<color>${themeLightColor}</color>
 		</text>
 		<rating name="md_rating">
-			<pos>0.025 0.065</pos>
+			<pos>0.025 0.06</pos>
 			<size>0.1406 0.0594</size>
 			<color>${themeLightColor}</color>
 		</rating>
@@ -874,8 +905,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<imagegrid name="gamegrid">      
 			<pos>0 0.18</pos>
 			<size>0.66 0.754</size>
-			<!-- <pos>0.024 0.18</pos>
-			<size>0.607 0.754</size> -->
 			
 			<padding>0.03 0.05 0.03 0.04</padding>
 			<margin>0.005 0.005</margin>
