@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Atari
+Home video game console
+Second
+1977
+Cartridge
+Joystick, Paddles</text>
+<!-- FRENCH -->
+<text lang="fr">Atari
+Console de salon
+Deuxième
+1977
+Cartouche
+Manette Stick & Paddle</text>
+<!-- SPANISH -->
+<text lang="sp">Atari
+Videoconsola sobremesa
+Segunda
+1977
+Cartucho
+Joystick, Paddles</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Atari 2600, originally called Atari VCS, is a second generation console released in 1977. It comes with a pair of joysticks and a game, it is the most popular console of its Generation. Equipped with a 1.19 Mhz processor, 128 octets RAM and a 2 voice mono sound, it displays 160x192 pixels in 128 colors (16 colors with 8 intensity level) for the NTSC. The console game library includes around 900 titles including original hits like Pitfall, arcade game conversions like Space Invaders and the first licensed games like Raiders of the Lost Ark and E.T..</text>
+<!-- FRENCH -->
+<text lang="fr">L’Atari 2600, à l’origine appelée Atari VCS, est une console de seconde génération sortie en 1977. Elle est livrée avec une paire de joysticks et un jeu, c’est la console la plus populaire de sa génération. Equipée d’un processeur 1.19 Mhz, 128 octets de RAM et un son mono 2 voies, elle affiche du 160x192 pixels en 128 couleurs (16 teintes sur 8 niveaux d’intensité) pour le NTSC. La ludothèque de la console comprend environ 900 titres dont des hits originaux comme Pitfall, des conversions de jeux d’arcade comme Space Invaders et les premiers jeux sous licence comme Raiders of the Lost Ark.</text>
+<!-- SPANISH -->
+<text lang="sp">La Atari 2600, originalmente llamada Atari VCS, es una consola de segunda generación lanzada en 1977. Viene con un par de joysticks y un juego, es la consola más popular de su generación. Equipado con un procesador de 1.19 Mhz, 128 octets de RAM y un sonido mono de 2 voces, muestra 160x192 píxeles en 128 colores (16 tonos en 8 niveles de intensidad) para el NTSC. La biblioteca de juegos de consola incluye alrededor de 900 títulos que incluyen éxitos originales como Pitfall, conversiones de juegos de arcade como Space Invaders y los primeros juegos con licencia como Raiders of the Lost Ark.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

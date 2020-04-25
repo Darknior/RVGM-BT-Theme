@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		
+		<langue>sp</langue>
+		
+		<yes>Si</yes>
+		<no>No</no>
+		<thumbnail>Thumbnail</thumbnail>
+		<image>Image</image>
+
+		<subset.colorset>Esquemas de color</subset.colorset>
+		<colblue>Azul</colblue>
+		<colred>Rojo</colred>
+		<colorange>Naranja</colorange>
+		<colyellow>Amarillo</colyellow>
+		<colgreen>Verde</colgreen>
+	
+		<subset.themeSwapColored>Designación de iconos del sistema</subset.themeSwapColored>
+		<colgray>Gris</colgray>
+		<colored>Colorido</colored>
+		
+		<subset.menuOpacity>Apariencia del menú principal</subset.menuOpacity>
+		<subset.systemlistOpacity>Apariencia de la lista del sistema</subset.systemlistOpacity>
+		<subset.gamelistOpacity>Aparición de la lista de juegos</subset.gamelistOpacity>
+		<translucent>Translúcido</translucent>
+		<opaque>Opaco</opaque>
+
+		<subset.systemView>Vista del sistema</subset.systemView>
+		<menuVertRight>Vertical a la Derecha</menuVertRight>
+		<menuVertLeft>Vertical a la Izquierda</menuVertLeft>
+		<menuHorizBot>Horizontal y Bas</menuHorizBot>
+		<menuHorizBotVideo>Horizontal y Video</menuHorizBotVideo>
+		
+		<!-- <subset.swapImages>Etiqueta de la chaqueta</subset.swapImages> -->
+
+		<subset.systemswapVideo>Vista previa de video del sistema</subset.systemswapVideo>
+		<swapVideoRandom>Toma aleatoria</swapVideoRandom>
+		<swapVideoCommercial>TV comercial</swapVideoCommercial>
+		<swapVideoHide>No hay video</swapVideoHide>
+		
+		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<gamelistInfoLight>Brillante</gamelistInfoLight>
+		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
+
+		<subset.swapVideoEffect>Efecto en videos</subset.swapVideoEffect>
+		<videoEffectDefault>Ninguno</videoEffectDefault>
+		<videoEffectBump>Rebote</videoEffectBump>
+		
+		<videoFullscreenViewName>Video a pantalla completa</videoFullscreenViewName>
+		<gridDetailViewName>Jacket Grid + Detail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Rejilla de pantalla de título</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
+		
+<sysLabel>Fabricante
+Tipo
+Generación
+Lanzamiento
+Media
+Controles
+
+Total</sysLabel>
+
+	</variables>
+	
+</theme>

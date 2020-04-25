@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>fr</langue>
+		
+		<yes>Oui</yes>
+		<no>Non</no>
+		<thumbnail>Thumbnail</thumbnail>
+		<image>Image</image>
+
+		<subset.colorset>Jeux de couleurs</subset.colorset>
+		<colblue>Bleu</colblue>
+		<colred>Rouge</colred>
+		<colorange>Orange</colorange>
+		<colyellow>Jaune</colyellow>
+		<colgreen>Vert</colgreen>
+
+		<subset.themeSwapColored>Désign des icones système</subset.themeSwapColored>
+		<colgray>Gris</colgray>
+		<colored>Colorés</colored>
+		
+		<subset.menuOpacity>Apparence du Menu Principal</subset.menuOpacity>
+		<subset.systemlistOpacity>Apparence de la Liste Système</subset.systemlistOpacity>
+		<subset.gamelistOpacity>Apparence de la Liste des Jeux</subset.gamelistOpacity>
+		<translucent>Translucide</translucent>
+		<opaque>Opaque</opaque>
+
+		<subset.systemView>Menu Vue Système</subset.systemView>
+		<menuVertRight>Vertical à Droite</menuVertRight>
+		<menuVertLeft>Vertical à Gauche</menuVertLeft>
+		<menuHorizBot>Horizontal en Bas</menuHorizBot>
+		<menuHorizBotVideo>Horizontal avec Vidéo</menuHorizBotVideo>
+		
+		<!-- <subset.swapImages>Balise Jaquette</subset.swapImages> -->
+
+		<subset.systemSwapVideo>Aperçu Vidéo Système</subset.systemSwapVideo>
+		<swapVideoRandom>Au hasard</swapVideoRandom>
+		<swapVideoCommercial>Publicités TV</swapVideoCommercial>
+		<swapVideoHide>Aucun</swapVideoHide>
+		
+		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<gamelistInfoLight>Lumineux</gamelistInfoLight>
+		<gamelistInfoDarth>Sombre</gamelistInfoDarth>
+
+		<subset.swapVideoEffect>Effet sur les Vidéos</subset.swapVideoEffect>
+		<videoEffectDefault>Aucun</videoEffectDefault>
+		<videoEffectBump>Rebond</videoEffectBump>
+		
+		<videoFullscreenViewName>Vidéo plein écran</videoFullscreenViewName>
+		<gridDetailViewName>Grille de Jaquettes + Détail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grille d'écrans titre</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grille d'écrans de jeu</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Liste de logos (beta)</marqueeDetailViewName>
+		
+<sysLabel>Fabricant
+Type
+Génération
+Sortie
+Média
+Contrôleur(s)
+
+Total</sysLabel>
+
+	</variables>
+	
+</theme>

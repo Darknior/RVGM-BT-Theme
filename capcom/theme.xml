@@ -1,4 +1,39 @@
 <theme>
 	<formatVersion>7</formatVersion>
 	<include>./../theme.xml</include>
+
+	<view name="system">
+
+		<!-- Background CONTOUR de la VUE --> -->
+		<image name="staticBackground" extra="true">
+			<path>./../_art/systemView/bg-system-vert-left${systemOpacity}.png</path>
+		</image>
+
+		<!-- Background DESSIN du Système -->
+		<image name="bg-image" extra="true">
+			<path>./../_art/systemView/background-default.jpg</path>
+			<path>./background.jpg</path>
+		</image>
+		
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="true">
+			<path>./../_art/system-logo.png</path>
+			<path>./../_art/logos-color/${system.name}.png</path>
+			<path>./system-logo-us.png</path>
+			<path>./system-logo-${langue}.png</path>
+		</image>
+		
+		<!-- Sytem DESCRIPTION -->
+		<image name="synopsys" extra="true">
+			<path>./../_art/systemView/bg-sys-description.png</path>
+		</image>
+
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<path>./../_art/systemView/bg-sys-info.png</path>
+			<path>./info.png</path>
+		</image>
+
+	</view>
+
 </theme>

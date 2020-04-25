@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Multiple
+2D/3D Game Collection
+All
+1980 / 20xx
+All supports 
+Light gun, Wiimote, Gamepad</text>
+<!-- FRENCH -->
+<text lang="fr">Multiple
+Collection de jeu 2D/3D
+Toutes
+1980 / 20xx
+Tous les supports
+Pistolet, Wiimote, Manette</text>
+<!-- SPANISH -->
+<text lang="sp">Multiples
+Colección de Juegos 2D/3D
+Toudas
+1980 / 20xx
+Todos los apoyos
+Pistola luz, Wiimote, Joypad</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >Light gun shooter or light gun game, designates the games where you must aim and shoot at your CRT TV. These games use 'Optical Guns' using infrared light sensors and scanning the cathode ray tube. This concept of the 30s is taken up in the 80s for video games like the famous Duck Hunt. Then, despite the excellent Virtua Cop and Time Crisis of the 90s, as early as 2000 the shooter lost popularity not being compatible with LCD TVs. The Wii revived fashion in 2006 with its Wiimote motion detection controller and R.E. Dark Side Chronicles, Dead Space Extraction, Ghost Squad and Target Terror. </text>
+<!-- FRENCH -->
+<text lang="fr">Le tir au pistolet optique, light gun shooter ou light gun game, désigne les jeux où vous devez viser et tirer sur votre TV CRT. Ces jeux emploient des "Pistolets optiques" utilisant des capteurs lumineux Infra-rouge et le balayage du tube cathodique. Ce concept des années 30 est repris dans les années 80 pour les jeux vidéo comme le célèbre Duck Hunt. Puis malgré les excellents Virtua Cop et Time Crisis des années 90, dès 2000 le jeu de tir perd en popularité n’étant pas compatible avec les TV LCD. La Wii relance la mode en 2006 avec sa manette Wiimote à détection des mouvements.</text>
+<!-- SPANISH -->
+<text lang="sp">El juego de disparos con pistola óptica, tirador de pistola ligera o pistola ligera designa los juegos en los que debes apuntar y disparar a tu TV CRT. Estos juegos usan 'Pistolas ópticas' usando sensores de luz infrarroja y escaneo del tubo de rayos catódicos. Este concepto de los años 30 se retomó en los años 80 para videojuegos como el famoso Duck Hunt. Luego, a pesar de la excelente Virtua Cop y Time Crisis de los años 90, a partir de 2000 el tirador perdió popularidad al no ser compatible con los televisores LCD. La Wii revivió la moda en 2006 con su controlador de detección de movimiento Wiimote.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

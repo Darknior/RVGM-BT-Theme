@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Multiple
+2D/3D Game Collection
+All
+1980 / 20xx
+All supports 
+Gamepad, Keyboard</text>
+<!-- FRENCH -->
+<text lang="fr">Multiple
+Collection de jeu 2D/3D
+Toutes
+1980 / 20xx
+Tous les supports
+Manette, Clavier</text>
+<!-- SPANISH -->
+<text lang="sp">Multiples
+Colección de Juegos 2D/3D
+Toudas
+1980 / 20xx
+Todos los apoyos
+Joypad, Teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >A shoot 'em up, is a genre in which you have to destroy a large number of enemies using more and more powerful weapons as the levels progress. Originally from arcades, with Space Invaders, it experienced a splendid period in late 1980, early 1990. The style varies from cute to seriously, from fantasy and science fiction to historical facts, it can be fixed screen, With single or multi-directional scrolling, on rails or on a tube. Mid 90s an evolution of the genre will be the 'Manic shooter' or 'Danmaku' in Japanese, a real hell...</text>
+<!-- FRENCH -->
+<text lang="fr">Un shoot 'em up, littéralement "abattez-les tous" est un genre dans lequel vous devez détruire un grand nombre d'ennemis à l'aide d'armes de plus en plus puissantes au fur et à mesure des niveaux. Originaire des salles d'arcade, avec Space Invaders, il connaît une période faste fin 1980, début 1990. Le style varie du mignon au sérieux, de la fantasy et de la science-fiction aux faits historiques, il peut être à écran fixe, à défilement mono ou multi directionnel, sur des rails ou sur un tube. Milieu des années 90 une évolution du genre sera la "Manic shooter" ou "Danmaku" en japonais, un enfer...</text>
+<!-- SPANISH -->
+<text lang="sp">Un shoot 'em up, literalmente 'derribarlos a todos' es un género en el que tienes que destruir una gran cantidad de enemigos usando armas cada vez más poderosas a medida que avanzan los niveles. Originalmente de arcadas, con Space Invaders, experimentó un período espléndido a fines de 1980, principios de 1990. El estilo varía de lindo a serio, de fantasía y ciencia ficción a hechos históricos, se puede arreglar la pantalla, Con desplazamiento simple o multidireccional, en rieles o en un tubo. A mediados de los 90, una evolución del género será el 'tirador maníaco' o 'Danmaku' en japonés.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

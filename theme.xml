@@ -17,8 +17,6 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 <theme defaultView="video">
 	<formatVersion>7</formatVersion>
 
-	<include>${artPath}/language/all.xml</include>
-
 	<!-- 
 	System variable come from es_systems.cfg
 	Ex : <path>./art/logo/${system.theme}.svg</path>
@@ -27,87 +25,103 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	${system.theme} <theme>nes</theme>
 	-->
 	<variables>
-		<artPath>./_art</artPath>				<!-- Media path 	${artPath}	-->
-		<langue>us</langue>
-		<videoEffect>none</videoEffect>			<!-- Video effect on show      ${videoEffect} -->
-		<videoType>random</videoType>			<!-- Video type on system view ${videoType} -->
+	
+		<videoEffect>none</videoEffect>					<!-- Video effect on show      ${videoEffect} -->
+		<videoType>random</videoType>					<!-- Video type on system view ${videoType} -->
 		
 		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     	${themeFavorisColor}-->
 		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
 		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
 
-		<userDarkColor>1b76ae</userDarkColor> 		<!-- Dark Blue 		${userDarkColor}	-->
-		<userColor>1f9be7</userColor> 				<!-- Blue 			${userColor}		-->
-		<userLightColor>7BC4F1</userLightColor>		<!-- Light blue		${userLightColor}	-->
+		<userDarkColor>1b76ae</userDarkColor> 			<!-- Dark Blue 		${userDarkColor}	-->
+		<userColor>1f9be7</userColor> 					<!-- Blue 			${userColor}		-->
+		<userLightColor>7BC4F1</userLightColor>			<!-- Light blue		${userLightColor}	-->
 
-		<fontClock>./_art/font/Digib.ttf</fontClock>
-		<fontPlayers>./_art/font/Players.ttf</fontPlayers>
+		<fontClock>Digib.ttf</fontClock>
+		<fontPlayers>Players.ttf</fontPlayers>
 
-		<fontLight>./_art/font/Cabin-Regular.ttf</fontLight> <!-- gamelist -->
-		<fontMedium>./_art/font/Cabin-Regular.ttf</fontMedium>
-		<fontBold>./_art/font/Cabin-Bold.ttf</fontBold>
+		<fontLight>Cabin-Regular.ttf</fontLight> 		<!-- gamelist -->
+		<fontMedium>Cabin-Regular.ttf</fontMedium>
+		<fontBold>Cabin-Bold.ttf</fontBold>
 
-		<systemOpacity></systemOpacity>
-		<gamelistOpacity></gamelistOpacity>
+		<menuOpacity>CC</menuOpacity>					<!-- Main Menu Background -->
+		<infoOpacity>CC</infoOpacity>					<!-- Info Description Background -->
+		<systemOpacity>-transp</systemOpacity>			<!-- System Menu Background   -->
+		<gamelistOpacity>-transp</gamelistOpacity>		<!-- Gamelist Menu Background -->
+	
 	</variables>
 
-	<!-------------------------------------------------------------------------------------------->
-	<!-- GENERAL SWITCH -------------------------------------------------------------------------->
-	
 	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available -->
-	<include lang="fr">${artPath}/language/french.xml</include>
-	<include lang="sp">${artPath}/language/spanish.xml</include>
-	<include lang="jp">${artPath}/language/japan.xml</include> <!-- Only for consoles images, text will stay in english -->
+	<include>./_art/language/english.xml</include>
+	
+	<include lang="fr">./_art/language/france.xml</include>
+	<include lang="sp">./_art/language/espagnol.xml</include>
+	<include lang="br">./_art/language/brazil.xml</include>
+	<include lang="po">./_art/language/brazil.xml</include>
 
-	<!-- Switch Theme Color -->
+	<include lang="jp">./_art/language/japanese.xml</include> <!-- Only for consoles images, text will stay in english -->
+	<include lang="de">./_art/language/deutsch.xml</include>
+	<include lang="it">./_art/language/italiano.xml</include>
+	<include lang="ru">./_art/language/russian.xml</include>
+	<include lang="ko">./_art/language/korean.xml</include>
+
+	<!-------------------------------------------------------------------------------------------->
+	<!-- GENERAL SWAP ---------------------------------------------------------------------------->
+	
+	<!-- Swap Theme Color -->
 	<subset name="colorset" displayName="${subset.colorset}">
 		<include name="Blue" 	displayName="${colblue}"  />
-		<include name="Red" 	displayName="${colred}"    >${artPath}/colors/red.xml</include>
-		<include name="Orange" 	displayName="${colorange}" >${artPath}/colors/orange.xml</include>
-		<include name="Green" 	displayName="${colgreen}"  >${artPath}/colors/green.xml</include>
+		<include name="Red" 	displayName="${colred}"    >./_art/colors/red.xml</include>
+		<include name="Orange" 	displayName="${colorange}" >./_art/colors/orange.xml</include>
+		<include name="Yellow" 	displayName="${colyellow}" >./_art/colors/yellow.xml</include>
+		<include name="Green" 	displayName="${colgreen}"  >./_art/colors/green.xml</include>
 	</subset>
 	
-	<!-- Switch to activate Bump Effect on video -->
-	<subset name="switchVideoEffect" displayName="${subset.switchVideoEffect}">
+	<!-- Swap to activate Bump Effect on video -->
+	<subset name="swapVideoEffect" displayName="${subset.swapVideoEffect}">
 		<include name="videoEffectDefault" displayName="${videoEffectDefault}" /> <!-- No effect -->
-		<include name="videoEffectBump"    displayName="${videoEffectBump}"     >${artPath}/systemView/switchVideoEffect.xml</include>
+		<include name="videoEffectBump"    displayName="${videoEffectBump}"     >./_art/systemView/swapVideoEffect.xml</include>
+	</subset>
+
+	<!-- Swap Background Menu Opacity -->
+	<subset name="menuOpacity" displayName="${subset.menuOpacity}">
+		<include name="menuOpacityTrans" 	displayName="${translucent}"/>
+		<include name="menuOpacityOpaque" 	displayName="${opaque}" 	 >./_art/systemView/swapMenuOpacity.xml</include>
 	</subset>
 	
 	<!-------------------------------------------------------------------------------------------->
-	<!-- SYSTEM SWITCH --------------------------------------------------------------------------->
+	<!-- SYSTEM SWAP ----------------------------------------------------------------------------->
 
-	<!-- Switch Background Menu Opacity -->
-	<subset name="systemMenuOpacity" displayName="${subset.systemMenuOpacity}">
-		<include name="systemMenuOpacityFull" 	displayName="${opacityFull}"  />
-		<include name="systemMenuOpacityMiddle" displayName="${opacityMiddle}" >${artPath}/systemView/menuOpacityMiddle.xml</include>
+	<!-- Swap Background Systemlist Opacity -->
+	<subset name="systemlistOpacity" displayName="${subset.systemlistOpacity}">
+		<include name="systemlistOpacityTrans" 	displayName="${translucent}"/>
+		<include name="systemlistOpacityOpaque" displayName="${opaque}" 	 >./_art/systemView/swapSystemOpacity.xml</include>
 	</subset>
 	
-	<!-- TODO: Switch Logo Color / Gray -->
-	
-	<!-- Switch Video Preview Type -->
-	<subset name="systemSwitchVideo" displayName="${subset.systemSwitchVideo}">
-		<include name="switchVideoRandom" 		displayName="${switchVideoRandom}"	  /> <!-- Video Random -->
-		<include name="switchVideoCommercial"	displayName="${switchVideoCommercial}" >${artPath}/systemView/switchVideoCommercial.xml</include>
-		<include name="switchVideoHide"  		displayName="${switchVideoHide}"   	   >${artPath}/systemView/switchVideoHide.xml</include>
+	<!-- Swap Video Preview Type -->
+	<subset name="systemSwapVideo" displayName="${subset.systemSwapVideo}">
+		<include name="swapVideoRandom" 	displayName="${swapVideoRandom}"	/> <!-- Video Random -->
+		<include name="swapVideoCommercial"	displayName="${swapVideoCommercial}" >./_art/systemView/swapVideoCommercial.xml</include>
+		<include name="swapVideoHide"  		displayName="${swapVideoHide}"   	 >./_art/systemView/swapVideoHide.xml</include>
 	</subset>
 
-	<!-- Switch Carousel View -->
+	<!-- Swap Carousel View -->
 	<subset name="systemView" displayName="${subset.systemView}">
-		<include name="menuVertRight"		displayName="${menuVertRight}"		>${artPath}/systemView/vertical-right.xml</include>
-		<include name="menuVertLeft"		displayName="${menuVertLeft}" 		>${artPath}/systemView/vertical-left.xml</include>
-		<include name="menuHorizBot"		displayName="${menuHorizBot}" 		>${artPath}/systemView/horizontal-down.xml</include>
-		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>${artPath}/systemView/horizontal-down-video.xml</include>
+		<include name="menuVertRight"		displayName="${menuVertRight}"		>./_art/systemView/vertical-right.xml</include>
+		<include name="menuVertLeft"		displayName="${menuVertLeft}" 		>./_art/systemView/vertical-left.xml</include>
+		<include name="menuHorizBot"		displayName="${menuHorizBot}" 		>./_art/systemView/horizontal-down.xml</include>
+		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>./_art/systemView/horizontal-down-video.xml</include>
 	</subset>
 	
 	<!-- <video name="staticBackgroundVideo"> --------------------------------------------------------------------------------------->
 
 	<!-------------------------------------------------------------------------------------------->
-	<!-- GAMELIST SWITCH ------------------------------------------------------------------------->
+	<!-- GAMELIST SWAP --------------------------------------------------------------------------->
 
-	<!-- Switch Background Gamelist Opacity -->
+	<!-- Swap Background Gamelist Opacity -->
 	<subset name="gamelistOpacity" displayName="${subset.gamelistOpacity}" appliesTo="basic,detailed,video,videoFullscreen">
-		<include name="gamelistOpacityFull" 	displayName="${opacityFull}"   /> <!-- Menu Opaque à 100% -->
-		<include name="gamelistOpacityMiddle" 	displayName="${opacityMiddle}"	>${artPath}/gameView/swapOpacityMiddle.xml</include>
+		<include name="gamelistOpacityTrans" 	displayName="${translucent}"/>
+		<include name="gamelistOpacityOpaque" 	displayName="${opaque}"		 >./_art/gameView/swapGamelistOpacity.xml</include>
 	</subset>
 
 	
@@ -115,17 +129,17 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<view name="menu">
 
 		<menuText name="menutitle">
-			<fontPath>${fontBold}</fontPath>
+			<fontPath>./_art/font/${fontBold}</fontPath>
 			<fontSize>0.044</fontSize>
 			<color>${userColor}</color>
 		</menuText>
 		<menuText name="menufooter">
-			<fontPath>${fontMedium}</fontPath>
+			<fontPath>./_art/font/${fontMedium}</fontPath>
 			<fontSize>0.02</fontSize>
 			<color>${themeLightColor}</color>
 		</menuText>
 		<menuText name="menutext">
-			<fontPath>${fontMedium}</fontPath>
+			<fontPath>./_art/font/${fontMedium}</fontPath>
 			<fontSize>0.038</fontSize>
 			<color>${themeLightColor}</color>
 			<separatorColor>${themeLightColor}</separatorColor> <!-- Séparateur -->
@@ -136,37 +150,37 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</menuText>
 		<!-- Popup Updates/Download -->
 		<menuTextSmall name="menutextsmall">
-			<fontPath>${fontMedium}</fontPath>
+			<fontPath>./_art/font/${fontMedium}</fontPath>
 			<fontSize>0.02</fontSize>
 			<color>userLightColor</color> <!-- Jaune -->
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">
-			<color>${themeDarkColor}</color>
+			<color>${themeDarkColor}${menuOpacity}</color>
 			<cornerSize>32 32</cornerSize>
-			<path>${artPath}/popup/frame.png</path>
+			<path>./_art/popup/frame.png</path>
 		</menuBackground>
 		<!-- Icones du menu principal -->
 		<menuIcons name="menuicons">
-			<iconKodi>${artPath}/iconsPopup/Kodi.png</iconKodi>
-			<iconSystem>${artPath}/iconsPopup/System.png</iconSystem>
-			<iconUpdates>${artPath}/iconsPopup/Updates.png</iconUpdates>
-			<iconGames>${artPath}/iconsPopup/Games.png</iconGames>
-			<iconControllers>${artPath}/iconsPopup/Controllers.png</iconControllers>
-			<iconUI>${artPath}/iconsPopup/UI.png</iconUI>
-			<iconSound>${artPath}/iconsPopup/Sound.png</iconSound>
-			<iconNetwork>${artPath}/iconsPopup/Network.png</iconNetwork>
-			<iconScraper>${artPath}/iconsPopup/Scraper.png</iconScraper>
-			<iconAdvanced>${artPath}/iconsPopup/Advanced.png</iconAdvanced>
-			<iconQuit>${artPath}/iconsPopup/Quit.png</iconQuit>
-			<iconRestart>${artPath}/iconsPopup/Restart.png</iconRestart>
-			<iconShutdown>${artPath}/iconsPopup/Shutdown.png</iconShutdown>
-			<iconFastShutdown>${artPath}/iconsPopup/Fastshutdown.png</iconFastShutdown>
-			<iconRetroachievements>${artPath}/iconsPopup/Contest.png</iconRetroachievements>
+			<iconKodi>./_art/iconsPopup/Kodi.png</iconKodi>
+			<iconSystem>./_art/iconsPopup/System.png</iconSystem>
+			<iconUpdates>./_art/iconsPopup/Updates.png</iconUpdates>
+			<iconGames>./_art/iconsPopup/Games.png</iconGames>
+			<iconControllers>./_art/iconsPopup/Controllers.png</iconControllers>
+			<iconUI>./_art/iconsPopup/UI.png</iconUI>
+			<iconSound>./_art/iconsPopup/Sound.png</iconSound>
+			<iconNetwork>./_art/iconsPopup/Network.png</iconNetwork>
+			<iconScraper>./_art/iconsPopup/Scraper.png</iconScraper>
+			<iconAdvanced>./_art/iconsPopup/Advanced.png</iconAdvanced>
+			<iconQuit>./_art/iconsPopup/Quit.png</iconQuit>
+			<iconRestart>./_art/iconsPopup/Restart.png</iconRestart>
+			<iconShutdown>./_art/iconsPopup/Shutdown.png</iconShutdown>
+			<iconFastShutdown>./_art/iconsPopup/Fastshutdown.png</iconFastShutdown>
+			<iconRetroachievements>./_art/iconsPopup/Contest.png</iconRetroachievements>
 		</menuIcons>
 		<menuTextEdit name="menutextedit">
-			<inactive>${artPath}/popup/textinput_ninepatch.png</inactive>
-			<active>${artPath}/popup/textinput_ninepatch_active.png</active>
+			<inactive>./_art/popup/textinput_ninepatch.png</inactive>
+			<active>./_art/popup/textinput_ninepatch_active.png</active>
 		</menuTextEdit>
 
 	</view>
@@ -179,7 +193,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.085 0.025</size>
 			<!--<horizontalAlignment>right</horizontalAlignment>-->
 			<itemSpacing>0.003</itemSpacing>
-			<imagePath>${artPath}/icons/gamepad.png</imagePath>
+			<imagePath>./_art/icons/gamepad.png</imagePath>
 			<color>${themeLightColor}</color>
 			<activityColor>${userColor}</activityColor>
 			<hotkeyColor>${userDarkColor}</hotkeyColor>
@@ -191,7 +205,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.05 0.0384</size>
             <verticalAlignment>center</verticalAlignment>
 			<color>${themeLightColor}</color>
-			<fontPath>${fontClock}</fontPath>
+			<fontPath>./_art/font/${fontClock}</fontPath>
 			<fontSize>0.035</fontSize>
 		</text>
 
@@ -205,7 +219,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.0161 0.9648</pos>
 			<textColor>${themeLightColor}</textColor>
 			<iconColor>${userColor}</iconColor>
-			<fontPath>${fontBold}</fontPath>
+			<fontPath>./_art/font/${fontBold}</fontPath>
 			<fontSize>0.024</fontSize>
 		</helpsystem>
 
@@ -213,16 +227,16 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<!-- <backgroundColor>01fb1380</backgroundColor> <!-- 00000000 -->
 			<verticalAlignment>top</verticalAlignment> <!-- top / center / bottom -->
-			<color>${themeDarkColor}</color>
+			<color>000000</color>
 			<fontSize>0.023</fontSize>
 			<lineSpacing>1.3</lineSpacing>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>${fontMedium}</fontPath>
+			<fontPath>./_art/font/${fontBold}</fontPath>
 			<alignment>left</alignment>			
 			<zIndex>50</zIndex>
         </text>
         <text name="sys_label">
-			<fontPath>${fontBold}</fontPath>
+			<fontPath>./_art/font/${fontBold}</fontPath>
 			<color>${userDarkColor}</color>
 			<alignment>right</alignment>
         </text>
@@ -252,14 +266,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<color>${themeDarkColor}</color>
 			<fontSize>0.024</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>${fontMedium}</fontPath>
+			<fontPath>./_art/font/${fontMedium}</fontPath>
 			<alignment>right</alignment>			
 			<zIndex>40</zIndex>  <!-- Default for METADATA -->
         </text>
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
                     md_lbl_description, md_lbl_players, md_lbl_rating, md_lbl_gametime
 					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime">
-			<fontPath>${fontBold}</fontPath>
+			<fontPath>./_art/font/${fontBold}</fontPath>
 			<color>${userDarkColor}</color>
 			<!-- <glowColor>${themeDarkColor}80</glowColor>
 			<glowSize>1</glowSize> -->
@@ -278,7 +292,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<color>${themeDarkColor}</color>
 			<fontSize>0.024</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>${fontMedium}</fontPath>
+			<fontPath>./_art/font/${fontMedium}</fontPath>
 			<alignment>left</alignment>
 			
 			<!-- <displayRelative>0</displayRelative> Afficher une date relative : 5 jours avant
@@ -287,15 +301,16 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         </datetime>
 
 		<text name="md_players">
-			<fontPath>${fontPlayers}</fontPath>
+			<fontPath>./_art/font/${fontPlayers}</fontPath>
 			<alignment>left</alignment>
 			<fontSize>0.062</fontSize>
 			<color>${themeDarkColor}</color>
+			<linearSmooth>true</linearSmooth>
 			<zIndex>55</zIndex>
 		</text>
 		<rating name="md_rating">
-			<filledPath>${artPath}/icons/star.png</filledPath>
-			<unfilledPath>${artPath}/icons/star-empty.png</unfilledPath>
+			<filledPath>./_art/icons/star.png</filledPath>
+			<unfilledPath>./_art/icons/star-empty.png</unfilledPath>
 			<color>${themeDarkColor}</color>
 		</rating>
 		
@@ -308,7 +323,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<primaryColor>${themeLightColor}</primaryColor> <!-- File color -->
 			<secondaryColor>${userLightColor}</secondaryColor> <!-- Directory color -->
 
-			<fontPath>${fontLight}</fontPath>
+			<fontPath>./_art/font/${fontLight}</fontPath>
 			<fontSize>0.021</fontSize> <!-- Medium / 0.25 / 1.7 -->
 			<lineSpacing>1.5</lineSpacing> <!-- Default 1.5 -->
 			<alignment>right</alignment>
@@ -316,10 +331,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<!-- <forceUppercase>1</forceUppercase> -->
 
 			<selectorColor>${themeDarkColor}00</selectorColor> <!-- Alpha channel RGBA: FF visible / 00 transparent -->
-			<!-- <selectorImagePath>${artPath}/icon.png</selectorImagePath> -->
+			<!-- <selectorImagePath>./_art/icon.png</selectorImagePath> -->
 			<selectorHeight>0.05</selectorHeight>
 			<!-- Sound effect on Scroll -->
-			<scrollSound>${artPath}/sounds/linemove.wav</scrollSound>
+			<scrollSound>./_art/sounds/linemove.wav</scrollSound>
 			<zIndex>30</zIndex> <!-- Default -->
 		</textlist>
 		
@@ -328,7 +343,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/white.png</path>
+			<path>./_art/white.png</path>
 			<color>${themeLightColor}</color>
 			<tile>true</tile> <!-- Repeat / Streach image -->
 			<zIndex>0</zIndex> <!-- Default -->
@@ -338,7 +353,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<pos>0.0151 0.0445</pos>
 			<size>0.9698 0.911</size>
-			<path>${artPath}/empty.png</path>
+			<path>./_art/empty.png</path>
 			<path>./${system.theme}/background.jpg</path>
 			<color>ffffff33</color>
 			<tile>false</tile>
@@ -349,7 +364,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>${artPath}/gameView/bg-game-right${gamelistOpacity}.png</path>
+			<path>./_art/gameView/bg-game-right${gamelistOpacity}.png</path>
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
 
@@ -360,13 +375,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<maxSize>0.2214 0.1119</maxSize>
 			<path>./${system.theme}/system-logo-gray-us.png</path>
 			<path>./${system.theme}/system-logo-gray-${langue}.png</path>
+			<linearSmooth>true</linearSmooth>
 			<zIndex>50</zIndex> <!-- Default -->
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
-			<origin>0.5 0.5</origin>
-			<pos>0.7445 0.1097</pos>
-			<size>0.2214 0.1119</size>
-			<fontSize>0.0444444444444444</fontSize>
+			<origin>0 0</origin>
+			<pos>0.744 0.1077</pos>
+			<size>0.22 0.11</size>
+			<fontSize>0.045</fontSize>
 			<alignment>center</alignment>
 			<forceUppercase>true</forceUppercase>
 			<color>${themeLightColor}</color>
@@ -377,6 +393,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0.5 0.5</origin>
 			<maxSize>0.032 0.032</maxSize>
 			<color>${userDarkColor}</color>
+			<linearSmooth>true</linearSmooth>
 		</image>
 		
 		<!-- BACKGROUND MUSIC used by Theme -->
@@ -392,14 +409,21 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<image name="md_image">
 			<origin>0 0</origin>
 			<pos>2 2</pos>
-			<default>${artPath}/empty.png</default>
+			<path>./_art/empty.png</path>
 			<zIndex>30</zIndex> <!-- Default -->
 		</image>
-		<image name="md_thumbnail">
+		<image name="md_thumbnail"> <!-- COVERS -->
 			<origin>0 0</origin>
 			<pos>2 2</pos>
-			<default>${artPath}/empty.png</default>
+			<path>./_art/empty.png</path>
+			<linearSmooth>true</linearSmooth>
 			<zIndex>30</zIndex> <!-- Default -->
+		</image>
+		<image name="md_marquee">
+			<origin>0.5 0.5</origin> <!-- Center -->
+			<pos>2 2</pos>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>35</zIndex> <!-- Default -->
 		</image>
 		
 		<!-- VIDEO -->
@@ -407,7 +431,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0 0</origin>
 			<tile>true</tile>
 			<color>${themeDarkColor}80</color>
-			<path>${artPath}/white.png</path>
+			<path>./_art/white.png</path>
 			<zIndex>40</zIndex> <!-- Default 10 for extra -->
 		</image>
 		<video name="md_video">
@@ -438,11 +462,11 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	<view name="detailed" displayName="${detailedViewName}">
 		
-		<image name="md_image, md_thumbnail, md_marquee">
+		<image name="md_image, md_thumbnail">
 			<origin>0.5 0.5</origin>
 		</image>
 
-		<!-- md_image / md_thumbnail SWITCH REMOVED -->
+		<!-- md_image / md_thumbnail SWAP REMOVED -->
 		<image name="md_thumbnail">
 			<pos>0.595 0.737</pos>
 			<maxSize>0.229 0.39</maxSize>
@@ -545,18 +569,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	<view name="video" displayName="${videoViewName}">
 
-		<!-- md_image / md_thumbnail SWITCH REMOCED -->
+		<!-- md_image / md_thumbnail SWAP REMOVED -->
 		<image name="md_thumbnail">
 			<pos>0.0255 0.0639</pos>
 			<maxSize>0.3766 0.6689</maxSize>
 		</image>
 		
 		<image name="md_marquee">
-			<origin>0.5 0.5</origin> <!-- Center -->
 			<pos>0.62 0.134</pos>
 			<maxSize>0.203 0.149</maxSize>
-			<default>${artPath}/empty.png</default>
-			<zIndex>35</zIndex> <!-- Default -->
 		</image>
 		
 		<image name="background_video" extra="true">
@@ -645,21 +666,31 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.16 0.032</size>
 		</rating>
 		
-		<!-- STATUS Icons -->
+		<!-- TODO : STATUS Icons -->
 
 		<image name="md_hidden">
 			<pos>0.423 0.08</pos>
-			<path>${artPath}/icons/hidden.png</path>
+			<path>./_art/icons/hidden.png</path>
 		</image>
 		<image name="md_kidgame">
 			<pos>0.455 0.08</pos>
-			<path>${artPath}/icons/kid.png</path>
+			<path>./_art/icons/kid.png</path>
 		</image>
 		<image name="md_favorite">
 			<pos>0.487 0.08</pos>
-			<path>${artPath}/icons/heart.png</path>
+			<path>./_art/icons/heart.png</path>
 		</image>
+		
+		<!-- TODO : FLAG Icons -->
 
+		<image name="md_flag"> 
+			   <origin>0 0.5</origin>
+			   <pos>0.530 0.9</pos>
+			   <maxSize>0.02 0.05</maxSize>
+		</image>
+		
+		<!-- Add text name="folderpath" Prise en charge dans les vues de jeu pour afficher les chemins parent en tant que fil d'Ariane lors de la navigation dans un dossier. -->
+		
 	</view>
 	
 	<!-- TODO: view video left -->
@@ -688,7 +719,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         </text>
 		
 		<image name="bg-game" extra="true">
-			<path>${artPath}/gameView/bg-game-right-fullscreen${gamelistOpacity}.png</path>
+			<path>./_art/gameView/bg-game-right-fullscreen${gamelistOpacity}.png</path>
 		</image>
 		
 		<!-- VIDEO Background -->
@@ -710,7 +741,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.0151 0.0445</pos>
 			<size>0.9698 0.911</size>
 
-			<path>${artPath}/video/crt.png</path>
+			<path>./_art/video/crt.png</path>
 			<color>FFFFFF90</color>
 			<tile>true</tile>
 			<zIndex>6</zIndex>
@@ -719,12 +750,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.0151 0.0445</pos>
 			<size>0.9698 0.911</size>
 
-			<path>${artPath}/video/crt_border.png</path>
+			<path>./_art/video/crt_border.png</path>
 			<color>FFFFFF80</color>
 			<zIndex>7</zIndex>
 		</image>
 		
-		<!-- md_image / md_thumbnail SWITCH REMOCED -->
+		<!-- md_image / md_thumbnail SWAP REMOVED -->
 		<image name="md_thumbnail">
 			<origin>0 1</origin>
 			<pos>0.028 0.925</pos>
@@ -758,7 +789,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
-			<path>${artPath}/gameView/bg-game-grid.png</path>
+			<path>./_art/gameView/bg-game-grid.png</path>
 		</image>
 		
 		<!-- HIDE ELEMENTS -->
@@ -772,18 +803,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<visible>false</visible>
         </datetime>
 		
-		<!-- LOGO Systeme -->
-		<image name="logo"> <!-- System -->
+		<!-- GRAY System LOGO -->
+		<image name="logo">
 			<pos>0.715 0.09</pos>
 			<maxSize>0.159 0.062</maxSize>
-
-			<!-- <path>./${system.theme}/system-logo-gray-us.png</path>
-			<path>./${system.theme}/system-logo-gray-${langue}.png</path> -->
 			<color>${themeDarkColor}</color>
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
-			<pos>0.715 0.096</pos>
-			<maxSize>0.159 0.062</maxSize>
+			<pos>0.6465 0.057</pos>
+			<maxSize>0.136 0.066</maxSize>
 			<color>${themeDarkColor}</color>
 		</text>
 		
@@ -796,6 +824,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.1</pos>
 			<maxSize>0.234 0.1</maxSize>
+			<linearSmooth>true</linearSmooth>
 		</image>
 
 		<text name="md_players">
@@ -819,7 +848,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 			<imageSource>thumbnail</imageSource> <!-- image / marquee -->
 			<animateSelection>true</animateSelection> <!-- Anime le deplacement du fond -->
-			 <!-- <folderImage>${artPath}/...png</folderImage> <!-- Image des dossiers -->
+			 <!-- <folderImage>./_art/...png</folderImage> <!-- Image des dossiers -->
 		</imagegrid>
 		<video name="imagegrid.video">
 			<loops>3</loops>
@@ -843,16 +872,33 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<padding>10 10</padding>
 		</gridtile>
 		
-		<!-- Légende de l'image -->
+		<!-- Remplace la JAQUETTE ou le MARQUEE -->
 		<text name="gridtile">
+			<pos>0 0</pos>
+			<size>1 1</size>
+
+			<fontPath>./_art/font/${fontBold}</fontPath>
+			<fontSize>0.030</fontSize>
+			<lineSpacing>1.1</lineSpacing> <!-- Default 1.5 -->
+			<alignment>center</alignment>
+			<singleLineScroll>false</singleLineScroll>
+			<padding>0.1 0</padding>      
+			
+			<color>${themeLightColor}</color>
+			<backgroundColor>00000000</backgroundColor>
+			<glowColor>${themeDarkColor}20</glowColor>
+			<glowSize>3</glowSize>
 			<visible>false</visible>
 		</text>
 		<text name="gridtile_selected">
+			<color>${userLightColor}</color>
+			<glowColor>${userDarkColor}20</glowColor>
+			<glowSize>3</glowSize>
 			<visible>false</visible>
 		</text>
 	
 		<image name="gridtile.favorite">
-			<path>${artPath}/icons/fav-corner.png</path>
+			<path>./_art/icons/fav-corner.png</path>
 			<pos>0.75 0</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<horizontalAlignment>right</horizontalAlignment>
@@ -874,7 +920,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
-			<path>${artPath}/gameView/bg-game-grid-detailed${gamelistOpacity}.png</path>
+			<path>./_art/gameView/bg-game-grid-detailed${gamelistOpacity}.png</path>
 		</image>
 
 		<!-- LOGO Systeme -->
@@ -884,8 +930,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<color>FFFFFFFF</color> <!-- RESET -->
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
-			<pos>0.807 0.106</pos>
-			<maxSize>0.234 0.118</maxSize>
+			<pos>0.711 0.047</pos>
+			<maxSize>0.192 0.12</maxSize>
 			<color>${themeLightColor}</color>
 		</text>
 		
@@ -923,7 +969,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 			<color>${userColor}</color>
 			<fontSize>0.025</fontSize>
-			<fontPath>${fontBold}</fontPath>
+			<fontPath>./_art/font/${fontBold}</fontPath>
 			<alignment>center</alignment>
 			<!-- <glowColor>Ab000020</glowColor>
 			<glowSize>2</glowSize> -->
@@ -1012,7 +1058,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 		<!-- FAVORIS -->
 		<image name="gridtile.favorite">
-			<path>${artPath}/icons/star.png</path>
+			<path>./_art/icons/star.png</path>
 			<pos>0.88 0.13</pos>
 			<maxSize>0.20 0.20</maxSize>
 			<origin>0.5 0.5</origin>
@@ -1025,7 +1071,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- Ombrage interieur de la tuile -->
 		<image name="gridtile.overlay">
-			<path>${artPath}/gameView/overlay.png</path>
+			<path>./_art/gameView/overlay.png</path>
 			<color>FFFFFF50</color>
 
 			<!-- <roundCorners>0.03</roundCorners> REMOVE for RPI to slow -->
@@ -1040,30 +1086,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- Remplace le Marquee si manquant -->
 		<text name="gridtile">
-			<pos>0 0</pos>
-			<size>1 1</size>
-
-			<color>${themeLightColor}D0</color>
-			<backgroundColor>00000000</backgroundColor>
-
-			<fontPath>${fontBold}</fontPath>
-			<fontSize>0.040</fontSize>
-			<alignment>center</alignment>
-			<singleLineScroll>true</singleLineScroll>
-			<padding>0.1 0</padding>      
-			<glowColor>00000008</glowColor>
-			<glowSize>3</glowSize>
-			
 			<visible>true</visible>
 		</text>
 		<text name="gridtile_selected">
-			<color>FFFFFF</color>
-			<glowColor>${userDarkColor}20</glowColor>
-			<glowSize>3</glowSize>
-			
 			<visible>true</visible>
 		</text>
-
+		
 		<!-- MARQUEE -->
 		<image name="gridtile.marquee">
 			<color>FFFFFFD0</color>
@@ -1087,7 +1115,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 		<!-- Image de Background VIDE -->
 		<image name="bg-game" extra="true">
-			<path>${artPath}/systemView/bg-system-vert-right${gamelistOpacity}.png</path>
+			<path>./_art/systemView/bg-system-vert-right${gamelistOpacity}.png</path>
 		</image>
 		
 		<!-- LOGO Systeme -->
@@ -1159,27 +1187,32 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</customView>
 	
 	<!-------------------------------------------------------------------------------------------->
-	<!-- GAMELIST SWITCH ------------------------------------------------------------------------->
+	<!-- GAMELIST SWAP ------------------------------------------------------------------------->
 
-	<!-- Switch Thumbnail and Image for the COVER and VIDEO --
-	<subset name="switchImages" displayName="${subset.switchImages}" appliesTo="detailed,video,videoFullscreen,gridDetail,gridTitleshot,gridScreenshot,marquee">
-		<include name="thumbnail" displayName="${thumbnail}">${artPath}/gameView/swapThumbnail.xml</include>
-		<include name="image"     displayName="${image}"    >${artPath}/gameView/swapImage.xml</include>
+	<!-- Swap Thumbnail and Image for the COVER and VIDEO --
+	<subset name="swapImages" displayName="${subset.swapImages}" appliesTo="detailed,video,videoFullscreen,gridDetail,gridTitleshot,gridScreenshot,marquee">
+		<include name="thumbnail" displayName="${thumbnail}">./_art/gameView/swapThumbnail.xml</include>
+		<include name="image"     displayName="${image}"    >./_art/gameView/swapImage.xml</include>
 	</subset> REMOVED IMPOSSIBLE TO HERIT on with INLUDE in CUSTOMVIEW -->
 	
-	<!-- Switch Theme Light / Darth -->
+	<!-- Swap Theme Light / Darth -->
 	<subset name="gamelistInfoColor" displayName="${subset.gamelistInfoColor}" appliesTo="basic,detailed,video,videoFullscreen,grid,gridDetail,gridTitleshot,gridScreenshot,marquee">
 		<include name="gamelistInfoLight" 	displayName="${gamelistInfoLight}" /> <!-- Fond clair -->
-		<include name="gamelistInfoDarth" 	displayName="${gamelistInfoDarth}"	>${artPath}/gameView/swapInfoDarth.xml</include>
+		<include name="gamelistInfoDarth" 	displayName="${gamelistInfoDarth}"	>./_art/gameView/swapInfoDarth.xml</include>
 	</subset>
 
-	<!-- TODO: Switch Cover or Not on Video Fullscreen -->
+	<!-- TODO: Swap Cover or Not on Video Fullscreen -->
 	
-	
+	<!-- Swap between Gray and Colored Theme -->
+	<subset name="themeSwapColored" displayName="${subset.themeSwapColored}">
+		<include name="themeGray" 	 displayName="${colgray}"/>
+		<include name="themeColored" displayName="${colored}" >./_art/systemView/swapThemeColored.xml</include>
+	</subset>
+		
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">
 	    <image name="bg-game" extra="true">
-	     	<path>${artPath}/bg-game-nohelp-${langue}.png</path>
+	     	<path>./_art/bg-game-nohelp-${langue}.png</path>
 	    </image>
 		<textlist name="gamelist">
 			<size>0.2214 0.6639</size>
@@ -1191,19 +1224,19 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	<!-- BRUITAGES du MENU --
     <sound name="systemscroll">
-			<path>${artPath}/sounds/linemove.wav</path>
+			<path>./_art/sounds/linemove.wav</path>
 	</sound>
 	<sound name="systemselect">
-			<path>${artPath}/sounds/select.wav</path>
+			<path>./_art/sounds/select.wav</path>
 	</sound>
 	<sound name="back">
-			<path>${artPath}/sounds/cancel.wav</path>
+			<path>./_art/sounds/cancel.wav</path>
 	</sound>
 	<sound name="launch">
-			<path>${artPath}/sounds/click.wav</path>
+			<path>./_art/sounds/click.wav</path>
 	</sound>
 	<sound name="menuopen">
-			<path>${artPath}/sounds/transition.wav</path>
+			<path>./_art/sounds/transition.wav</path>
 	</sound> -->
 
 </theme>

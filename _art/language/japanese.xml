@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>jp</langue>
+		
+<sysLabel>メーカー
+タイプ
+世代
+解放する
+メディア
+コントローラ
+
+合計</sysLabel>
+		
+	</variables>
+	
+</theme>

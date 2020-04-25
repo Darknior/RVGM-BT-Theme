@@ -1,0 +1,12 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<!-- Rotation AVATAR -->
+		<image name="avatar" extra="true">
+			<pos>0.323 0.101</pos>
+			<rotation>90</rotation>
+		</image>
+	</view>
+
+</theme>

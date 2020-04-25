@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>us</langue>
+		
+		<yes>Yes</yes>
+		<no>No</no>
+		<thumbnail>Thumbnail</thumbnail>
+		<image>Image</image>
+
+		<subset.colorset>Theme Color</subset.colorset>
+		<colblue>Blue</colblue>
+		<colred>Red</colred>
+		<colorange>Orange</colorange>
+		<colyellow>Yellow</colyellow>
+		<colgreen>Green</colgreen>
+		
+		<subset.themeSwapColored>Design of system icons</subset.themeSwapColored>
+		<colgray>Gray</colgray>
+		<colored>Colored</colored>
+		
+		<subset.menuOpacity>Main Menu Appearance</subset.menuOpacity>
+		<subset.systemlistOpacity>System List Appearance</subset.systemlistOpacity>
+		<subset.gamelistOpacity>Appearance of the Games List</subset.gamelistOpacity>
+		<translucent>Translucent</translucent>
+		<opaque>Opaque</opaque>
+		
+		<subset.systemView>System Menu view</subset.systemView>
+		<menuVertRight>Vertical Right</menuVertRight>
+		<menuVertLeft>Vertical Left</menuVertLeft>
+		<menuHorizBot>Horizontal Bottom</menuHorizBot>
+		<menuHorizBotVideo>Horizontal with Video</menuHorizBotVideo>
+		
+		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
+
+		<subset.systemSwapVideo>System Video Preview</subset.systemSwapVideo>
+		<swapVideoRandom>Random gameplay</swapVideoRandom>
+		<swapVideoCommercial>Commercial TV</swapVideoCommercial>
+		<swapVideoHide>Nothing</swapVideoHide>
+		
+		<subset.gamelistInfoColor>Theme Design</subset.gamelistInfoColor>
+		<gamelistInfoLight>Light</gamelistInfoLight>
+		<gamelistInfoDarth>Darth</gamelistInfoDarth>
+		
+		<subset.swapVideoEffect>Video Effect</subset.swapVideoEffect>
+		<videoEffectDefault>None</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+		
+		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
+		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Marquee list (beta)</marqueeDetailViewName>
+		
+<sysLabel>Manufacturer
+Type
+Generation
+Release
+Media
+Controller
+
+Total</sysLabel>
+
+	</variables>
+	
+</theme>

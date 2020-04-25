@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Atari
+Home video game console
+Third
+1986
+Cartridge
+Analog Joystick</text>
+<!-- FRENCH -->
+<text lang="fr">Atari
+Console de salon
+Troisième
+1986
+Cartouche
+Stick Analogique</text>
+<!-- SPANISH -->
+<text lang="sp">Atari
+Videoconsola sobremesa
+Tercera
+1986
+Cartucho
+Joystick analógico</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Atari 7800 ProSystem, or simply Atari 7800, is a console released by the Atari Company in January 1986 in collaboration with GCC, which had some experience in creating arcade games. It rivals the NES of Nintendo and the Master System of Sega with its ability to display a hundred of moving objects. Equipped with a 1.79 Mhz processor, a 7.16 Mhz GPU and 4 KB of RAM, it displays 160x224 or 320x216 in 256 colors (16 shades on 16 intensity levels). It also has new simple 2-button controllers and remains backward compatible with the Atari 2600.</text>
+<!-- FRENCH -->
+<text lang="fr">L'Atari 7800 ProSystem, ou simplement Atari 7800, est une console sortie par la Société Atari en janvier 1986 en colaboration avec GCC, qui avait une certaine expérience dans la création de jeux d'arcade. Elle rivalise avec la NES de Nintendo et la Master System de Sega avec sa capacité d'afficher une 100ène d'objets en mouvement. Equipée d’un processeur 1.79 Mhz, un GPU à 7.16 Mhz et 4 Ko de RAM elle affiche du 160x224 ou 320x216 en 256 couleurs (16 teintes sur 16 niveaux d’intensité). Elle dispose aussi de nouveles manettes simples à 2 boutons et reste retrocompatible avec l'Atari 2600.</text>
+<!-- SPANISH -->
+<text lang="sp">El Atari 7800 ProSystem, o simplemente Atari 7800, es una consola lanzada por Atari Company en enero de 1986 en colaboración con GCC, que tenía cierta experiencia en la creación de juegos de arcade. Compite con el NES de Nintendo y el Master System de Sega con su capacidad de mostrar cientos de objetos en movimiento. Equipado con un procesador de 1.79 Mhz, una GPU de 7.16 Mhz y 4 KB de RAM, muestra 160x224 o 320x216 en 256 colores (16 tonos en 16 niveles de intensidad). También tiene nuevos controladores simples de 2 botones y sigue siendo compatible con el Atari 2600.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

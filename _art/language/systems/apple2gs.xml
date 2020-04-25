@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Apple
+Personal computer
+Third
+1986
+3½ or 5¼ floppy disk
+Joystick, keyboard, mouse</text>
+<!-- FRENCH -->
+<text lang="fr">Apple
+Ordinateur personnel
+Troisième
+1986
+Disquette 5¼ ou 3½
+Manette, clavier, souris</text>
+<!-- SPANISH -->
+<text lang="sp">Apple
+Ordenador personal
+Tercera
+1986
+Disquetes de 3½ o 5¼
+Joystick, teclado, ratón</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Apple IIgs is the fifth and latest model in the series of Apple II personal computers. It was marketed from 1986 to 1993. 'GS' means, Graphics and Sound, referring to its advanced multimedia functions. It innovates with a 16-bit architecture compatible with the previous Apple II 8bits and GS / OS, an operating system derived from Mac OS. 256 KB of RAM expandable to 8 MB, an external 3 ½ floppy drive, a joystick port, a 640x200 display in 6 colors or 320x200 from 16 to 3200 colors as well as an Ensoniq sound processor with 32 channels.</text>
+<!-- FRENCH -->
+<text lang="fr">L'Apple IIgs est le cinquième et le dernier modèle de la série des ordinateurs personnels Apple II. Il fut commercialisé de 1986 à 1993. «GS» signifie, Graphiques et Sonores, se référant à ses fonctions avancées de multimédia. Il innove avec une architecture 16-bit compatible avec les précédents Apple II 8bits et GS/OS, un système d'exploitation dérivé de Mac OS. 256 Ko de RAM extensible à 8 Mo, un lecteur de disquettes 3 ½ externe, un port joystick, un affichage du 640x200 en 6 couleurs ou 320x200 de 16 à 3200 couleurs ainsi qu'un processeur sonore Ensoniq doté de 32 voies.</text>
+<!-- SPANISH -->
+<text lang="sp">El Apple IIgs es el quinto y último modelo de la serie de computadoras personales Apple II. Se comercializó de 1986 a 1993. 'GS' significa Gráficos y Sonido, en referencia a sus funciones multimedia avanzadas. Innova con una arquitectura de 16 bits compatible con los anteriores Apple II 8bits y GS / OS, un sistema operativo derivado de Mac OS. 256 KB de RAM ampliable a 8 MB, una unidad de disquete externa de 3 ½, un puerto de joystick, una pantalla de 640x200 en 6 colores o 320x200 de 16 a 3200 colores, así como un procesador de sonido Ensoniq con 32 canales.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

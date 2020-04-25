@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>ru</langue>
+		
+<sysLabel>Производитель
+Тип
+Поколение
+Выпуск
+СМИ
+Контроллер
+
+Общее</sysLabel>
+		
+	</variables>
+	
+</theme>
