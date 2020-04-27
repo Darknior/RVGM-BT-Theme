@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Atari
+Handheld game console
+Fourth
+1989
+Cartridge
+2 buttons joypad</text>
+<!-- FRENCH -->
+<text lang="fr">Atari
+Console portable
+Quatrième
+1989
+Cartouche
+Manette 2 boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Atari
+Consola portatil
+Cuarta
+1989
+Cartucho
+Joypad 2 botones</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >This color laptop developed by Epyx under the name 'Handy' in 1987 was marketed by Atari in 1989 after the company was acquired. This after modification of the internal speaker and removal of the stick on the pad. Equipped with a 4 Mhz processor, a 16 Mhz GPU with 3D support and 64 KB of RAM it displayed 480x102 in 16 colors. The 1991 'Lynx II' will bring a new design, a better screen and a power saving option. We could also invert the screen for left-handers and play up to 8 on the network, but it was impressive and too greedy in batteries.</text>
+<!-- FRENCH -->
+<text lang="fr">Cette portable couleur développée par Epyx sous le nom "Handy" en 1987, fut commercialisée par Atari en 1989 après le rachat de l’entreprise. Ceci après modification du haut-parleur interne et suppression du stick sur le pad. Équipé d’un processeur 4 Mhz, un GPU 16 Mhz avec support 3D et 64 Ko de RAM elle affichait du 480x102 en 16 couleurs. La "Lynx II" de 1991 apportera un nouveau design, un meilleur écran et une option d’économie d’énergie. On pouvait aussi inverser l'écran pour les gauchers et jouer jusqu'à 8 en réseau, mais elle était imposante et trop gourmande en piles.</text>
+<!-- SPANISH -->
+<text lang="sp">Esta computadora portátil en color desarrollada por Epyx bajo el nombre 'Handy' en 1987 fue comercializada por Atari en 1989 después de que la compañía fuera adquirida. Esto después de la modificación del altavoz interno y la extracción del palo en la almohadilla. Equipado con un procesador de 4 Mhz, una GPU de 16 Mhz con soporte 3D y 64 KB de RAM, mostró 480x102 en 16 colores. El 1991 'Lynx II' traerá un nuevo diseño, una mejor pantalla y una opción de ahorro de energía. También pudimos invertir la pantalla para zurdos y jugar hasta 8 en la red, pero era impresionante y demasiado codicioso en baterías.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

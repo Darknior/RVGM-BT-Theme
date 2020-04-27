@@ -3,16 +3,22 @@
 	
 	<view name="system">
 
-		<!-- Bison Sprite -->
-		<image name="info" extra="true">
-			<pos>0.027 0.275</pos>
-			<path>./info-horizontal-down.png</path>
-		</image>
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>	
 		
 		<!-- Sytem VIDEO PREVIEW removed -->
 		<video name="videoPreview" extra="true">
 			<visible>false</visible>
 		</video>
+		
+		
+		<!-- Bison Sprite -->
+		<image name="info" extra="true">
+			<pos>0.03 0.275</pos>
+			<path>./info-horizontal-down.png</path>
+		</image>
 		
 	</view>
 </theme>

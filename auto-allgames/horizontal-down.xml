@@ -3,10 +3,14 @@
 	
 	<view name="system">
 
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>
 		<!-- Mario Sprite -->
 		<image name="info" extra="true">
 			<origin>0 0</origin>
-			<pos>0.0234 0.2658</pos>
+			<pos>0.022 0.266</pos>
 			<path>./info-horizontal-down.png</path>
 		</image>
 	

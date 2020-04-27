@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_info" extra="true">
+		
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >This section includes all the « 4 player » games in your collection, all systems combined and listed in alphabetical order. It’s perfect for a good retro-gaming party with your family or when you receive friends ... It includes all the action games playable in team or death match, simulations or arcade racing games, beat'em up, sports games, etc ... We immediately think of Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc ... All the usual sorting filters are available to help you.</text>
+<!-- FRENCH -->
+<text lang="fr">Cette section regroupe tous les jeux « 4 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez des amis... Elle regroupe tous les jeux d’action frénétique jouable en équipe ou en match à mort, les simulations ou jeux d’arcade automobile, les beat’em up, les jeux de sport, etc... On pense immédiatement à Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, etc... Tous les filtres de tri habituels y sont disponibles.</text>
+<!-- SPANISH -->
+<text lang="sp">Esta sección incluye todos los juegos de "4 jugadores" en su colección, todos los sistemas combinados y listados en orden alfabético. Es perfecto para una buena fiesta de juegos retro con tu familia o cuando recibes amigos ... Incluye todos los juegos de acción jugables en equipo o muerte, simulaciones o juegos de carreras arcade, beat'em up, juegos deportivos, etc. Inmediatamente pensamos en Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc. Todos los filtros de clasificación habituales están disponibles para ayudarlo.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

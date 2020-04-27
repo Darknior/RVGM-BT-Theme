@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_info" extra="true">
+		
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >This section includes all the « 2 player » games in your collection, all systems combined and listed in alphabetical order. It's perfect for a good retro-gaming party with your family or when you get a friend. It includes all the action games, car racing, platform, beat'em up, fighting, etc ... playable in cooperative or versus mode. We immediately think of Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc ... All the usual sorting filters are available.</text>
+<!-- FRENCH -->
+<text lang="fr">Cette section regroupe tous les jeux « 2 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez un ami. Elle regroupe tous les jeux d’action, course automobile, plateforme, beat’em up, combat, etc... jouables en coopératif ou un contre un. On pense immédiatement à Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc... Tous les filtres de tri habituels y sont disponibles.</text>
+<!-- SPANISH -->
+<text lang="sp">Esta sección incluye todos los juegos de "2 jugadores" en su colección, todos los sistemas combinados y listados en orden alfabético. Es perfecto para una buena fiesta de juegos retro con tu familia o cuando consigues un amigo. Incluye todos los juegos de acción, carreras de autos, plataformas, beat'em up, peleas, etc ... jugables en modo cooperativo o versus. Inmediatamente pensamos en Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

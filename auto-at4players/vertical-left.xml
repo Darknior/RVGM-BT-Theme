@@ -3,12 +3,10 @@
 	
 	<view name="system">
 
-		<!-- Buble Counter -->
-		<image name="console" extra="true">
-			<origin>1 0</origin>
-			<pos>0.98 0.685</pos>
-		</image>
-		
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>	
 		<!-- Kangourou Sprite -->
 		<image name="info" extra="true">
 			<pos>0.18 0.046</pos>
@@ -25,6 +23,13 @@
 		<video name="videoPreview" extra="true">
 			<visible>false</visible>
 		</video>
+		
+		
+		<!-- Buble Counter -->
+		<image name="console" extra="true">
+			<origin>1 0</origin>
+			<pos>0.98 0.685</pos>
+		</image>
 		
 	</view>
 </theme>

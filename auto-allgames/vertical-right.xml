@@ -3,9 +3,17 @@
 	
 	<view name="system">
 
-		<!-- Maro Sprite -->
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>
+		<!-- Mario Sprite -->
+		<image name="info" extra="true">
+			<pos>0.015 0.265</pos>
+		</image>
+	
+		<!-- Sytem AVATAR -->
 		<image name="avatar" extra="true">
-			<pos>0.3335 0.1425</pos>
 			<rotation>90</rotation>
 		</image>
 		

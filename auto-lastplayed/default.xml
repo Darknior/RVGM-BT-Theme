@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem VIDEO PREVIEW removed -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
+
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>
+		
+		<!-- Sytem LABEL -->
+		<text name="sys_label" extra="true">
+			<forceUppercase>true</forceUppercase>
+			<color>3f3a1f</color>
+		</text>
+		
+	</view>
+	
+</theme>

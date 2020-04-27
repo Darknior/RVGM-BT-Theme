@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_info" extra="true">
+		
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >This section groups all the games in your collection, any system confused and arranged in alphabetical order. All the usual sorting filters are available to help you quickly find a game. Whether by name, system, creator, rating, number of players or even date added to your collection.
+It’s an extremely useful and practical search tool for anyone who knows or doesn’t know by heart his huge collection of games.</text>
+<!-- FRENCH -->
+<text lang="fr">Cette section regroupe tous les jeux de votre collection, tous systèmes confondus et classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. Que ce soit par nom, par système, par créateur, par note, par nombre de joueur ou même par date d'ajout à votre collection. C'est un outil de recherche extrêmement puisant et pratique pour qui connait ou ne connait pas par coeur son immense collection de jeux.</text>
+<!-- SPANISH -->
+<text lang="sp">Esta sección agrupa todos los juegos de tu colección, cualquier sistema confuso y organizado en orden alfabético. Todos los filtros de clasificación habituales están disponibles para ayudarte a encontrar rápidamente un juego. Ya sea por nombre, sistema, creador, clasificación, número de jugadores o incluso fecha agregada a su colección.
+Es una herramienta de búsqueda extremadamente útil y práctica para cualquiera que conozca o no sepa de memoria su gran colección de juegos.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

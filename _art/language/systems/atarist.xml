@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Atari
+Personal computer
+Fourth
+1985
+Floppy disk
+Joystick 1bt, keyboard, mouse</text>
+<!-- FRENCH -->
+<text lang="fr">Atari
+Ordinateur personnel
+Quatrième
+1985
+Disquette
+Manette 1 bt, souris, clavier</text>
+<!-- SPANISH -->
+<text lang="sp">Atari
+Ordenador personal
+Cuarto
+1985
+Disquete
+Joystick 1 bt, teclado, mouse</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Atari ST platform marked the second half of the 1980s. Its success was as much general public (games), as professional (publication and MIDI music). The 520 ST, entry-level model, had a Motorola 68000 processor at 8 MHz, 512 KB of RAM, a Yamaha 3-way sound chipset and a 320x200 pixel display in 16 colors or 640x200 pixels in 4 colors among 512. ST Stands for Sixteen / Thirty-two and refers to the mixed 16/32 bit architecture of its CPU. It was also said to be the initials of Sam Tramiel, son of Jack Tramiel, president of Atari at the time.</text>
+<!-- FRENCH -->
+<text lang="fr">La plateforme Atari ST a marqué la deuxième moitié des années 1980. Son succès fut autant grand public (jeux), que professionnel (publication et musique MIDI). Le 520 ST, modèle d'entrée de gamme, disposait d'un processeur Motorola 68000 à 8mhz, 512 Ko de RAM, un chipset sonore Yamaha 3 voies et un affichage 320x200 pixels en 16 couleurs ou 640x200 pixels en 4 couleurs parmi 512. ST signifie Sixteen/Thirty-two et fait référence à l'architecture mixte 16/32 bits de son CPU. On a dit qu'il s'agissait également des initiales de Sam Tramiel, fils de Jk. Tramiel, président d'Atari.</text>
+<!-- SPANISH -->
+<text lang="sp">La plataforma Atari ST marcó la segunda mitad de la década de 1980. Su éxito fue tanto público general (juegos) como profesional (publicación y música MIDI). El 520 ST, modelo básico, tenía un procesador Motorola 68000 a 8 MHz, 512 KB de RAM, un chipset de sonido Yamaha de 3 vías y una pantalla de 320x200 píxeles en 16 colores o 640x200 píxeles en 4 colores entre 512. ST Significa dieciséis / treinta y dos y se refiere a la arquitectura mixta de 16/32 bits de su CPU. También se dijo que eran las iniciales de Sam Tramiel, hijo de Jack Tramiel, presidente de Atari en ese momento.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

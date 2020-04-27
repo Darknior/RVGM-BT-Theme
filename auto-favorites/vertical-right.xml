@@ -3,6 +3,10 @@
 
 	<view name="system">
 		
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>
 		<!-- Coupa Sprite -->
 		<image name="info" extra="true">
 			<pos>0.039 0.259</pos>

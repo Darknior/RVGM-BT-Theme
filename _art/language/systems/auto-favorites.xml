@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_info" extra="true">
+		
+<!-- ALL -->
+<text> </text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >This section groups all the "favorite" games in your collection, any system confused and sorted alphabetically. As a result, it is a huge "Best of" in the world of retro-gaming, and includes all the major titles that have for some launched huge saga still developed today. We immediately think of Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+All the usual sorting filters are available for you to quickly find one of those games that marked your childhood game.</text>
+<!-- FRENCH -->
+<text lang="fr">Cette section regroupe tous les jeux «favoris» de votre collection, tous systèmes confondus et classés par ordre alphabétique. De ce fait elle est un immense «Best of» de l’univers du rétro-gaming, et regroupe tous les plus grands titres qui ont pour certains lancé d’immenses saga encore développés aujourd’hui. On pense immédiatement à Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement l’un de ces jeux qui ont marqué votre enfance jeu.</text>
+<!-- SPANISH -->
+<text lang="sp">Esta sección agrupa todos los juegos "favoritos" en su colección, cualquier sistema confundido y ordenado alfabéticamente. Como resultado, es un gran "Lo mejor de" en el mundo de los juegos retro e incluye todos los títulos principales que para algunos han lanzado una gran saga aún desarrollada hoy en día. Inmediatamente pensamos en Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+Todos los filtros de clasificación habituales están disponibles para que pueda encontrar rápidamente uno de esos juegos que marcaron su juego de la infancia.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

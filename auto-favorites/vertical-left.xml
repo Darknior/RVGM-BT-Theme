@@ -3,10 +3,14 @@
 
 	<view name="system">
 	
+		<!-- Sytem INFO -->
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>
 		<!-- Coupa Sprite -->
 		<image name="info" extra="true">
 			<origin>1 0</origin>
-			<pos>0.97 0.255</pos>
+			<pos>0.98 0.258</pos>
 		</image>
 		
 		<!-- Princess Peach Sprite -->
