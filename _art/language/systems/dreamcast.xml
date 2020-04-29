@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Sega
+Home video game console
+Sixth
+1998
+GD-Rom (1,2 Go)
+Analog stick, joypad 7 buttons</text>
+<!-- FRENCH -->
+<text lang="fr">Sega
+Console de salon
+Sixième
+1998
+GD-Rom (1,2 Go)
+Stick analogi., pad, 7 boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Sega
+Videoconsola sobremesa
+Sexto
+1998
+GD-Rom (1.2 Go)
+Stick analógico, pad, 7 botones</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Dreamcast is a home video game console developed by Sega to succeeds the Saturn. Launched in November 1998 in Japan, it is the first sixth generation console preceding PS2 and XBOX, and to offer an online play experience. Unfortunately it will end prematurely in 2004 and will remain the last console of SEGA because of a bad marketing. It’s equipped with a 32-bit processor that includes a 128-bit arithmetic coprocessor, 16 MB of RAM, and an NEC PowerVR2 GPU to display 7 million polygons second and 16 million color simultaneously. It’s near a NAOMI arcade system board.</text>
+<!-- FRENCH -->
+<text lang="fr">La Dreamcast est la console développée par Sega qui succède à la Saturn. Commercia- lisée dès novembre 1998 au Japon, elle est la première console de sixième génération avant la PS2 et la XBOX, et à proposer le jeu en ligne. Elle connaîtra une fin prématurée en 2004 et restera la dernière console de SEGA. Elle est équipée d’un processeur 32 bits embarquant un coprocesseur arithmétique 128 bits, 16 Mo de RAM et d’un GPU NEC PowerVR2 lui permettant d’afficher 7 millions de polygones seconde et 16 millions de couleurs simultanément. Son hardware est très proche des bornes NAOMI.</text>
+<!-- SPANISH -->
+<text lang="sp">Dreamcast es la consola desarrollada por Sega que sucede a Saturno. Comercializado en noviembre de 1998 en Japón, es la primera consola de sexta generación antes de PS2 y XBOX, y ofrece juegos en línea. Terminará prematuramente en 2004 y seguirá siendo la última consola de SEGA. Está equipado con un procesador de 32 bits que incorpora un coprocesador aritmético de 128 bits, 16 MB de RAM y una GPU NEC PowerVR2 que le permite mostrar 7 millones de polígonos segundos y 16 millones de colores simultáneamente. Su hardware está muy cerca de las máquinas recreativas NAOMI.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

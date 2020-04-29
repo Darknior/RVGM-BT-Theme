@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Capcom
+Arcade video game cabinet
+Fourth
+1988
+PCB Jamma, CD-Rom
+Arcade stick</text>
+<!-- FRENCH -->
+<text lang="fr">Capcom
+Borne d’Arcade
+Quatrième
+1988
+PCB Jamma, CD-Rom
+Arcade stick</text>
+<!-- SPANISH -->
+<text lang="sp">Capcom
+Máquina de arcade
+Cuarto
+1988
+PCB Jamma, CD-Rom
+Arcade stick</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The CPS is a JAMMA arcade system built by the Japanese company Capcom in 1988. Based on a Sharp X68000, it was a 16-bit system far ahead of the rest. But in 1990 the Neo-Geo MVS made its appearance and the first update of CPS came out in 1992 with the Q-Sound stereo system. Then the CPS2 in 1993 with a QSound3 chip and cheaper to produce. Finally comes the CPS3 in 1996 with a new chip Hitachi 25 MHz. Despite the smoothness and fluidity of its animation the CPS3 has not met with great success with only six games in total.</text>
+<!-- FRENCH -->
+<text lang="fr">Le CPS est un système pour borne d'arcade à la norme JAMMA et créé par la société japonaise Capcom en 1988. Basé sur un Sharp X68000, c'était un système 16 bits très en avance sur les autres. Mais en 1990 la Neo-Geo MVS fait son apparition et sa première mise à jour sort en 1992 avec le système Q-Sound stéréo. Puis le CPS2 en 1993 avec une puce QSound3 et moins cher à produire. Enfin sort le CPS3 en 1996 avec une nouvelle puce Hitachi à 25 MHz. Malgré la finesse et la fluidité de son animation le CPS3 n'aura pas rencontré un grand succès avec seulement six jeux au total.</text>
+<!-- SPANISH -->
+<text lang="sp">El CPS es un sistema arcade estándar JAMMA creado por la compañía japonesa Capcom en 1988. Basado en un Sharp X68000, era un sistema de 16 bits muy por delante de los demás. Pero en 1990 apareció el Neo-Geo MVS y su primera actualización fue lanzada en 1992 con el sistema estéreo Q-Sound. Luego CPS2 en 1993 con un chip QSound3 y más barato de producir. Finalmente lanzó el CPS3 en 1996 con un nuevo chip Hitachi a 25 MHz. A pesar de la suavidad y fluidez de su animación, el CPS3 no habrá tenido un gran éxito con solo seis juegos en total.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

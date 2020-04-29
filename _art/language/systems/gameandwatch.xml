@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Nintendo
+Handheld console
+Second
+1980
+None
+Arrow keys and buttons</text>
+<!-- FRENCH -->
+<text lang="fr">Nintendo
+Console portable
+Deuxième
+1980
+Aucun
+Touches de direction, boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Nintendo
+Consola portatil
+Segundo
+1980
+No
+Teclas de flecha, botones</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >Game and Watch are pocket electronic games produced by Nintendo from 1980 to 1991, they also act as watches and alarm clocks. They were created by Gunpei Yokoi, the creator of the Game Boy, and the very first game was Ball. The concept is based on a liquid crystal screen, where the game images are pre-printed and successively illuminated during the game. The success was immediate with children and there were a total of 60 divided into ten series. Their production was stopped due to the success of portable consoles with multiple games on cartridges.</text>
+<!-- FRENCH -->
+<text lang="fr">Les Game and Watch sont des jeux électroniques de poche produits par Nintendo de 1980 à 1991, ils font également office de montres et de réveils. Ils ont été imaginés par Gunpei Yokoi le créateur de la Game Boy et le tout premier jeu fut Ball. Le concept repose sur un écran à cristaux liquides, où les images du jeu sont pré-imprimées et illuminées successivement pendant la partie. Le succès est immédiat auprès des enfants et il en existe au total 60 répartis en dix séries. Leur production fût arrêté en raison du succès des consoles portables avec de multiples jeux sur cartouches.</text>
+<!-- SPANISH -->
+<text lang="sp">Game and Watch son juegos electrónicos de bolsillo producidos por Nintendo desde 1980 hasta 1991, también actúan como relojes y despertadores. Fueron creados por Gunpei Yokoi, el creador de Game Boy, y el primer juego fue Ball. El concepto se basa en una pantalla de cristal líquido, donde las imágenes del juego se imprimen previamente y se iluminan sucesivamente durante el juego. El éxito fue inmediato con los niños y hubo un total de 60 divididos en diez series. Su producción se detuvo debido al éxito de las consolas portátiles con múltiples juegos en cartuchos.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

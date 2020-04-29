@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Fujitsu, Casino
+Personnal computer
+Fourth / Fifth
+1989
+CD-Rom
+2/4 button Joypad</text>
+<!-- FRENCH -->
+<text lang="fr">Fujitsu, Casio
+Ordinateur personnel
+Quatrième / Cinquième
+1989
+CD-Rom
+Manette de jeu 2/4 boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Fujitsu, Casino
+Ordenador personal
+Cuarta / Quinta
+1989
+CD-Rom
+2/4 botones Joypad</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Fujitsu FM Towns system, released in 1989, is a variant of the PC that focuses on multimedia and video games. As it evolved until 1997, it was equipped with x386, x486 and Pentium from 16 to 100 Mhz. It includes graphic modes ranging from 320x240 to 640x480 pixels, in 16 to 32 thousand colors on a pallet ranging from 4096 to 16 million. It can display 1024 sprites simultaneously and for audio it is equipped with CDRom as well as 8 PCM voices and 6 FM channels. Its catalog of games is very varied and includes many arcade (perfect) conversions and many Hentai (adult) games.</text>
+<!-- FRENCH -->
+<text lang="fr">Le système FM Towns de Fujitsu sorti en 1989, est une variante du PC axé sur le multimédia et le jeu vidéo. Au fil de ses évolutions jusqu’en 1997, il a été équipé de x386, x486 et Pentium de 16 à 100 Mhz. Il inclut des modes graphiques allant de 320x240 à 640x480 pixels, en 16 à 32 mille couleurs sur une palette allant de 4096 à 16 millions. Il peut afficher 1024 sprites simultanément et pour l’audio il est équipé du CDRom ainsi que de 8 voix PCM et de 6 canaux FM. Son catalogue de jeux est très varié et comporte beaucoup de conversions d'arcade (parfaites) et de nombreux jeux Hentai (adulte).</text>
+<!-- SPANISH -->
+<text lang="sp">El sistema FM Towns de Fujitsu lanzado en 1989 es una variante de la PC centrada en multimedia y videojuegos. Durante su evolución hasta 1997, estaba equipado con x386, x486 y Pentium de 16 a 100 Mhz. Incluye modos gráficos que van desde 320x240 a 640x480 píxeles, en 16 a 32 mil colores en una paleta que va desde 4096 a 16 millones. Puede mostrar 1024 sprites simultáneamente y para audio está equipado con CDRom, así como 8 voces PCM y 6 canales FM. Su catálogo de juegos es muy variado e incluye muchas conversiones de arcade (perfectas) y muchos juegos de Hentai (adultos).</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Commodore International
+Personal computer
+Third
+1985
+Cassette tape, floppy disk
+Joystick, keyboard</text>
+<!-- FRENCH -->
+<text lang="fr">Commodore International
+Ordinateur personnel
+Troisième
+1985
+Cartouches, cassette
+Joystick, clavier</text>
+<!-- SPANISH -->
+<text lang="sp">Commodore International
+Ordenador personal
+Tercero
+1985
+Casete, disquete
+Joystick 1 botone, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >Extended and compatible version of the Commodore 64 but revamped (look that would inspire the Amiga 500) with 128 KB of RAM. It was equipped with the C64 6510 processor to ensure 100% compatibility, but also with a new 8502 processor. It also contained a Zilog Z80 processor with the CP / M operating system. Finally, it proposed screen switching from standard 40 column mode to 80 column mode. Little sold and little supported by publishers, the Commodore 128 was the last 8-bit machine marketed by Commodore Business Machines, shortly before the release of the Amiga.</text>
+<!-- FRENCH -->
+<text lang="fr">Version étendue et compatible du C64 mais relooké (look dont allait s'inspirer l'Amiga 500) avec 128 ko de mémoire vive. Il était doté du processeur 6510 du C64 pour lui assurer une compatibilité à 100%, mais également d'un nouveau processeur 8502. Il contenait également un processeur Zilog Z80 avec le système d'exploitation CP/M. Enfin, il proposait une commutation d'écran du mode standard 40 colonnes vers un mode 80 colonnes. Peu vendu et peu supporté par les éditeurs, le C128 a été la dernière machine 8 bits commercialisée par Commodore B.M., peu avant la sortie de l'Amiga.</text>
+<!-- SPANISH -->
+<text lang="sp">Versión extendida y compatible del C64 pero renovada (aspecto que inspiraría al Amiga 500) con 128 KB de RAM. Estaba equipado con el procesador C64 6510 para garantizar una compatibilidad del 100%, pero también con un nuevo procesador 8502. También contenía un procesador Zilog Z80 con el sistema operativo CP / M. Finalmente, propuso cambiar la pantalla del modo estándar de 40 columnas al modo de 80 columnas. Poco vendido y poco respaldado por los editores, el C128 fue la última máquina de 8 bits comercializada por Commodore B.M., poco antes del lanzamiento de Amiga.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

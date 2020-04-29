@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Pioneer, Philips and others
+Arcade video game
+Fourth
+1982
+Laser disc
+Arcade stick and others</text>
+<!-- FRENCH -->
+<text lang="fr">Pioneer, Philips et autres
+Borne d’Arcade
+Quatrième
+1982
+Laser disc
+Arcade stick et autres</text>
+<!-- SPANISH -->
+<text lang="sp">Pioneer, Philips y otros
+Máquina de arcade
+Cuarto
+1982
+Disco laser
+Arcade stick y otros</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >A Laserdisc video game is a game that uses prerecorded videos played from a laser disc to decorate and displays interactive elements on them. This trick allowed time to compensate for the low resolution of games at the expense of a highly simplified experience. The first laserdisc arcade game was Astron Belt, by Sega in 1982. However, the first LD game to become popular was released in Dragon's Lair in 1983. It contains scenes animated by Don Bluth and you will have to press a specific button at the time Suitable. To move forward, like a modern 'Quick Time Event'.</text>
+<!-- FRENCH -->
+<text lang="fr">Un jeu vidéo Laserdisc est un jeu qui utilise des vidéos pré-enregistrés lue à partir d'un disque laser pour les décors et affiche par-dessus des éléments interactifs. Cette astuce permettait à l’époque de compenser la basse résolution des jeux au détriment d’une expérience très simplifié. Le premier jeu d'arcade laserdisc fut Astron Belt, par Sega en 1982. Cependant, le premier jeu LD à devenir populaire serra Dragon's Lair en 1983. Il contient des scènes animées par Don Bluth et vous devrez appuyer sur un bouton spécifique au bon moment pour avancer, comme un "Quick Time Event".</text>
+<!-- SPANISH -->
+<text lang="sp">Un videojuego Laserdisc es un juego que utiliza videos pregrabados reproducidos desde un disco láser para decorar y muestra elementos interactivos sobre ellos. Este truco permitió tiempo para compensar la baja resolución de los juegos a expensas de una experiencia muy simplificada. El primer juego arcade de laserdisc fue Astron Belt, de Sega en 1982. Sin embargo, el primer juego LD que se hizo popular se lanzó en Dragon's Lair en 1983. Contiene escenas animadas por Don Bluth y tendrás que presionar un botón específico en el momento adecuado. Para avanzar, como un 'Quick Time Event'.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

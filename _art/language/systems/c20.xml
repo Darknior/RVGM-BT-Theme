@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Commodore International
+Personal computer
+Second
+1980
+Cassette tape, floppy disk
+Joystick, keyboard</text>
+<!-- FRENCH -->
+<text lang="fr">Commodore International
+Ordinateur personnel
+Seconde
+1980
+Cartouches, cassette
+Joystick, clavier</text>
+<!-- SPANISH -->
+<text lang="sp">Commodore International
+Ordenador personal
+Segunda
+1980
+Casete, disquete
+Joystick 1 botone, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The VIC-20 is an 8-bit personal computer designed by Commodore with 5 kb of RAM (including 3.5 kb for BASIC applications) and a central unit based on a MOS 6502 processor. It resembled its successors the C64 and the C16 . The VIC-20 appeared in June 1980, 2 years and 9 months after the release of Commodore's first personal computer, the PET. It was designed to better compete with the new Apple II as well as the Tandy TRS-80 and it sold a million copies. Due to its low memory and low-resolution display, it was used for educational or recreational purposes.</text>
+<!-- FRENCH -->
+<text lang="fr">Le VIC-20 est un ordinateur personnel 8 bits conçu par Commodore avec 5 ko de RAM (dont 3,5 ko pour les applications BASIC) et une unité centrale basée sur un processeur MOS 6502. Il ressemblait à ses successeurs le C64 et le C16. Le VIC-20 apparut en juin 1980, 2 ans et 9 mois après la sortie du premier ordinateur personnel de Commodore, le PET. Il fut conçu pour mieux concurrencer les nouveaux Apple II ainsi que le Tandy TRS-80 et il se vendit à un million d'exemplaires. En raison de sa faible mémoire et de son affichage à basse résolution, il servit à des fins éducatives ou ludiques.</text>
+<!-- SPANISH -->
+<text lang="sp">El VIC-20 es una computadora personal de 8 bits diseñada por Commodore con 5 kb de RAM (incluyendo 3.5 kb para aplicaciones BASIC) y una unidad central basada en un procesador MOS 6502. Se parecía a sus sucesores el C64 y el C16 . El VIC-20 apareció en junio de 1980, 2 años y 9 meses después del lanzamiento de la primera computadora personal de Commodore, el PET. Fue diseñado para competir mejor con el nuevo Apple II y el Tandy TRS-80 y vendió un millón de copias. Debido a su poca memoria y pantalla de baja resolución, se utilizó con fines educativos o recreativos.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

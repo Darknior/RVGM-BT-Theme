@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>VTech
+Home video game console
+Second
+1981
+Cartridge
+Joystick & membrane keypad</text>
+<!-- FRENCH -->
+<text lang="fr">VTech
+Console de salon
+Deuxième
+1981
+Cartouche
+Stick et clavier membrane</text>
+<!-- SPANISH -->
+<text lang="sp">VTech
+Videoconsola sobremesa
+Segundo
+1981
+Cartucho
+Teclado de palo y membrana</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The VTech CreatiVision was a hybrid of computer and second generation video games console  produced by VTech  in 1981. This hybrid unit is similar in concept to computers such as the Family Computer VideoBrain. It features a 8-bit CPU Rockwell 6502 with a speed of 2 MHz, 1 KB RAM and 16 KB of video memory for graphic resolution of 256 x 192 with 16 colors and 32 sprites. The console has two controllers integrated with membrane keyboard and joystick.</text>
+<!-- FRENCH -->
+<text lang="fr">La VTech CreatiVision est un hybride d'ordinateur et de console de jeux vidéo de deuxième génération produite par VTech en 1981. Cette unité hybride est semblable dans le concept à des ordinateurs d'entrée de gamme. Elle arbore un CPU 8-bit Rockwell 6502 avec une vitesse de 2 MHz, 1 Ko de RAM et 16 Ko de mémoire vidéo pour une résolution graphique de 256 x 192 avec 16 couleurs et 32 ​​sprites. Elle possède 2 contrôleurs intégrés, avec clavier membrane et joystick.</text>
+<!-- SPANISH -->
+<text lang="sp">El VTech CreatiVision es un híbrido de consola de computadora y videojuegos de segunda generación producido por VTech en 1981. Esta unidad híbrida es similar en concepto a las computadoras de nivel básico. Tiene una CPU Rockwell 6502 de 8 bits con una velocidad de 2 MHz, 1 KB de RAM y 16 KB de memoria de video para una resolución gráfica de 256 x 192 con 16 colores y 32 sprites. Cuenta con 2 controladores integrados, con teclado de membrana y joystick.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

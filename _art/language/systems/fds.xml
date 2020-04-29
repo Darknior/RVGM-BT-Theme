@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Nintendo
+Video game console add-on
+Third
+1986
+Floppy disks
+2 button Joypad</text>
+<!-- FRENCH -->
+<text lang="fr">Nintendo
+Périphérique console de jeux
+Troisième
+1986
+Disquette
+Manette de jeu 2 boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Nintendo
+Videoconsola sobremesa
+Tercero
+1986
+Disquete
+Joystick de 2 botones</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The FDS dz full name Family Computer Disk System, is a device of the Famicom video game console released on February 21, 1986 only in Japan. This device is placed under the console and allows you to use a proprietary floppy format allowing you to store larger games than on a cartridge, as well as to save games. It also incorporates an FM synthesizer allowing games to have richer music. The Legend of Zelda was originally created for this system as well as several games that have been very successful such as Shin Onigashima.</text>
+<!-- FRENCH -->
+<text lang="fr">Le FDS dz son nom complet Family Computer Disk System, est un périphérique de la console de jeux vidéo Famicom sorti le 21 février 1986 uniquement au Japon. Ce périphérique se place sous la console et permet d’utiliser un format propriétaire de disquette permettant de stocker des jeux plus volumineux que sur cartouche, ainsi que de sauvegarder les parties. Il intègre aussi un synthétiseur FM permettant aux jeux d'avoir une musique plus riche. The Legend of Zelda fut à la base créée pour ce système ainsi que plusieurs jeux qui ont remporté un grand succès tel Shin Onigashima.</text>
+<!-- SPANISH -->
+<text lang="sp">El nombre completo de FDS dz Family Computer Disk System, es un dispositivo de la consola de videojuegos Famicom lanzada el 21 de febrero de 1986 solo en Japón. Este dispositivo se coloca debajo de la consola y le permite utilizar un formato de disquete patentado que le permite almacenar juegos más grandes que en un cartucho, así como guardar juegos. También incorpora un sintetizador FM que permite que los juegos tengan una música más rica. The Legend of Zelda se creó originalmente para este sistema, así como para varios juegos que han tenido mucho éxito, como Shin Onigashima.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>
