@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>From id Software engine
+3D game engine
+2.5.0+
+2008
+WAD files
+Joystick, keyboard, mouse</text>
+<!-- FRENCH -->
+<text lang="fr">From id Software engine
+Moteur de jeu 3D
+2.5.0+
+2008
+Fichiers WAD
+Manette de jeu, clavier, souris</text>
+<!-- SPANISH -->
+<text lang="sp">Desde el motor del software id
+Motor de juego 3D
+2.5.0+
+2008
+Archivos WAD
+Joystick, teclado, mouse</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >Prboom, is a Doom port supporting Doom, Doom II, Ultimate Doom and other wads released later. It is also compatible with FreeDoom. It is now possible to play in OpenGL and therefore enjoy higher resolutions and improved effects. The goal is to expand functionality while maintaining compatibility. It brings in particular MIDI synthesizers, OGG and MP3 formats, high resolution textures and sprites, the possibility of looking up and down, a tracking camera, treadmills, silent teleporters, NPCs, Etc ...</text>
+<!-- FRENCH -->
+<text lang="fr">Prboom, est un port de Doom supportant Doom, Doom II, Ultimate Doom et les autres wads sortis ultérieurement. Il est aussi compatible avec FreeDoom. Il est désormais possible de jouer en OpenGL et donc de profiter de résolutions plus élevées et d'effets améliorés. L'objectif est d’étendre les fonctionnalités en préservant la compatibilité. Il apporte notamment des synthétiseurs MIDI, les formats OGG et MP3, des textures et sprites haute résolution, la possibilité de regarder vers le haut et le bas, une caméra suiveuse, des tapis roulants, des téléporteurs silencieux, des NPC, etc...</text>
+<!-- SPANISH -->
+<text lang="sp">Prboom, es un puerto Doom compatible con Doom, Doom II, Ultimate Doom y otros tacos lanzados más tarde. También es compatible con FreeDoom. Ahora es posible jugar en OpenGL y, por lo tanto, disfrutar de resoluciones más altas y efectos mejorados. El objetivo es expandir la funcionalidad mientras se mantiene la compatibilidad. Trae en particular sintetizadores MIDI, formatos OGG y MP3, texturas y sprites de alta resolución, la posibilidad de mirar hacia arriba y hacia abajo, una cámara de seguimiento, cintas de correr, teletransportadores silenciosos, NPC, Etc ...</text>
+			
+		</text>
+		
+	</view>
+
+</theme>
