@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Nintendo
+Handheld console
+Fourth
+1989
+Cartridge
+2 buttons Joypad</text>
+<!-- FRENCH -->
+<text lang="fr">Nintendo
+Console portable
+Quatrième
+1989
+Cartouche
+Manette 2 boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Nintendo
+Consola portátil
+Cuarto
+1989
+Cartucho
+Controlador de 2 botones</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Game Boy is an 8-bit portable console developed by Nintendo in 1989. It is the very first portable console of the Game Boy line and it was designed by Gunpei Yokoi and Nintendo Research & Development, the same team that designed the series Game & Watch as well as many popular games on NES. It has a 4 MHz processor, 8 KB of RAM and displays 160x144 in 4 shades of gray with a battery life of 30 hours. The game originally included in the package squeezed the famous Tetris. A 'Light' version with integrated backlight will be released in 1998.</text>
+<!-- FRENCH -->
+<text lang="fr">Le Game Boy est une console portable 8-bits développée par Nintendo en 1989. Elle est la toute première console portable de la lignée des Game Boy et elle a été conçue par Gunpei Yokoi et Nintendo Research & Development, la même équipe ayant conçue la série des Game & Watch ainsi que de nombreux jeux popularisés sur NES. Elle dispose d’un processeur 4 Mhz, 8 ko de RAM et affiche du 160x144 en 4 nuances de gris avec une autonomie de 30 heures. Le jeu initialement inclus dans le package serra le célèbre Tetris. Une version «Light» avec rétro-éclairage intégré sortira en 1998.</text>
+<!-- SPANISH -->
+<text lang="sp">Game Boy es una consola portátil de 8 bits desarrollada por Nintendo en 1989. Es la primera consola portátil de la línea Game Boy y fue diseñada por Gunpei Yokoi y Nintendo Research & Development, el mismo equipo que diseñó la serie. Game & Watch, así como muchos juegos populares en NES. Tiene un procesador de 4 MHz, 8 KB de RAM y muestra 160x144 en 4 tonos de gris con una duración de batería de 30 horas. El juego originalmente incluido en el paquete exprimió el famoso Tetris. En 1998 se lanzará una versión 'Light' con retroiluminación integrada.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>
