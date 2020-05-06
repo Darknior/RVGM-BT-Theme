@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Nintendo
+Videoconsola sobremesa
+Quinta
+1996
+Cartucho
+Joypad 10 botones + Joystick</text>
+<!-- FRENCH -->
+<text lang="fr">Nintendo
+Console de salon
+Cinquième
+1996
+Cartouche
+Joypad 10 boutons + Joystick</text>
+<!-- SPANISH -->
+<text lang="sp">Nintendo
+Home video game console
+Fifth
+1996
+Cartridge
+10 button Joypad + Joystick</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Nintendo 64 is a home console released in 1996, created by Nintendo in collaboration with Silicon Graphics. It was the last of the fifth generation consoles to be released, competing with the Saturn and PlayStation. Equipped with a 93 Mhz processor, two 64 Mhz GPUs and 4 MB of RAM expandable to 8, it displays 640x480 pixels in 2 thousand colors over 16 million and 150 miles of textured polygons. Its main innovation was its controller with an analog stick. It is also the last home console to use ROM cartridges to store its games.</text>
+<!-- FRENCH -->
+<text lang="fr">La Nintendo 64 est une console de salon sortie en 1996, créée par Nintendo en collaboration avec Silicon Graphics. Elle fut la dernière des consoles de cinquième génération à être sortie, en compétition avec la Saturn et la PlayStation. Équipée d’un processeur 93 Mhz, deux GPU 64 Mhz et 4 Mo de RAM extensibles à 8, elle affiche du 640x480 pixels en 2 mille couleurs sur 16 millions et 150 miles polygones texturés. Sa principale innovation fut sa manette avec un stick analogique. Elle est aussi la dernière console de salon à utiliser des cartouches ROM pour stocker ses jeux.</text>
+<!-- SPANISH -->
+<text lang="sp">La Nintendo 64 es una consola doméstica lanzada en 1996, creada por Nintendo en colaboración con Silicon Graphics. Fue la última de las consolas de quinta generación en ser lanzada, compitiendo con Saturn y PlayStation. Equipado con un procesador de 93 Mhz, dos GPU de 64 Mhz y 4 MB de RAM ampliable a 8, muestra 640x480 píxeles en 2 mil colores en 16 millones y 150 millas de polígonos texturizados. Su principal innovación fue su controlador con un stick analógico. También es la última consola doméstica que utiliza cartuchos ROM para almacenar sus juegos.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Many
+Arcade video game cabinet
+1971 / 20xx
+2003
+PCB Jamma, CD-Rom
+Arcade stick and other</text>
+<!-- FRENCH -->
+<text lang="fr">Multiple
+Borne d’Arcade
+Toutes
+1971 / 20xx
+PCB (Jamma), CD-Rom
+Arcade stick et autres</text>
+<!-- SPANISH -->
+<text lang="sp">Multiples
+Cabinas videojuegos arcade
+Todas
+1971 / 20xx
+Placas de PCB), CD-Rom
+Stick arcade y otros</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >MAME, an acronym for "Multiple Arcade Machine Emulator", is an emulator whose goal is to faithfully reproduce how arcade games work to preserve the history of video games. MAME is available on almost all platforms thanks to Libretro and the first public release of Nicola Salmoria, released on February 5, 1997. Version 0.78 of 2003 is the lightest version and capable of running fine on small systems like a Raspberry. And "Plus" means that its drivers have been back ported from recent versions to handle many more games or with les bugs than the original one.</text>
+<!-- FRENCH -->
+<text lang="fr">MAME, acronyme signifiant « Multiple Arcade Machine Emulator », est un émulateur dont le but est de reproduire fidèlement le fonctionnement des jeux d'arcade afin de préserver l'histoire du jeu vidéo. MAME est disponible sur presque toutes les plateformes grace à Libretro et la première version publique par Nicola Salmoria, est sortie le 5 février 1997. La version 0.78 de 2003 est la version la plus légère et capable de fonctionner sur les petits systèmes. Et le «Plus» signifie qu’elle à énormément été updaté au  niveau de ses drivers pour gérer beaucoup plus de jeux que d’origine.</text>
+<!-- SPANISH -->
+<text lang="sp">MAME, acrónimo que significa 'Emulador de máquina de arcade múltiple', es un emulador cuyo objetivo es reproducir fielmente el funcionamiento de los juegos de arcade para preservar la historia de los videojuegos. MAME está disponible en casi todas las plataformas gracias a Libretro y la primera versión pública de Nicola Salmoria fue lanzada el 5 de febrero de 1997. La versión 0.78 de 2003 es la versión más liviana capaz de ejecutarse en sistemas pequeños. Y el 'Plus' significa que se ha actualizado enormemente en términos de sus controladores para administrar muchos más juegos que el original.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

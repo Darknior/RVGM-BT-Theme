@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>From Remdy Software
+Bomberman clone
+4.9+
+2017
+Single game
+8 Joystick 3 buttons, keyboard</text>
+<!-- FRENCH -->
+<text lang="fr">From Remdy Software
+Clone de Bomberman
+4.9+
+2017
+Jeu unique
+8 Manettes 3 boutons, clavier</text>
+<!-- SPANISH -->
+<text lang="sp">Desde Remdy Software
+Clon de bomberman
+4.9+
+2017
+Juego individual
+8 Joystick 3 botones, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >Mr.Boom is a Bomberman clone under DOS, released at the end of the 90s, then converted for libretro in 2017. Originally the game is only multi-player, playable in a network of eight, but this version provides bots So you can play it alone. The matches are played by team or each for itself, with two or four teams and we are differentiated by sex or color. It was also added the fact of being able to push the bombs, the remote controls, training courses and new musics, the kangaroos, etc ... When there are not 8 players, one can activate or not monsters on the map.</text>
+<!-- FRENCH -->
+<text lang="fr">Mr.Boom est un clone de Bomberman sous DOS, sorti à la fin des années 90, puis converti pour libretro en 2017. À l’origine le jeu est uniquement multi‐joueur, jouable en réseau à huit, mais cette version fournit des bots pour pouvoir y jouer seul. Les matchs se jouent par équipe ou chacun pour soi, avec deux ou quatre équipes et on se différencie par le sexe ou la couleur. Il a aussi été rajouté le fait de pouvoir pousser les bombes, les télécommandes, des stages et de nouvelles musiques, les kangourous, etc... Quand il n’y a pas 8 joueurs, on peut activer ou pas des monstres sur la carte.</text>
+<!-- SPANISH -->
+<text lang="sp">Mr.Boom es un clon de Bomberman bajo DOS, lanzado a finales de los años 90, luego convertido para libretro en 2017. Originalmente, el juego solo es multijugador, se puede jugar en una red de ocho, pero esta versión proporciona bots Para que puedas jugarlo solo. Los partidos se juegan por equipo o cada uno por sí mismo, con dos o cuatro equipos y nos diferenciamos por sexo o color. También se agregó el hecho de poder empujar las bombas, los controles remotos, los cursos de entrenamiento y las nuevas músicas, los canguros, etc. Cuando no hay 8 jugadores, uno puede activar o no monstruos en el mapa.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

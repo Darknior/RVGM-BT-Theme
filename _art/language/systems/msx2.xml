@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Microsoft & Sony, Pioneer
+Personnal computer
+Third
+1985
+Cartridge, floppy disk 3"5
+Joystick, mouse, keyboard</text>
+<!-- FRENCH -->
+<text lang="fr">Microsoft & Sony, Pioneer
+Ordinateur personnel
+Troisième
+1985
+Cartouche, disquette 3"5
+Manette, souris, clavier</text>
+<!-- SPANISH -->
+<text lang="sp">Microsoft & Sony, Pioneer
+Ordenator personal
+Tercera
+1985
+Cartucho, disquete 3"5
+Joystick, ratón, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >MSX, the Japanese home microphone standard using MSX-DOS 1 from Microsoft, evolved in 1988 with MSX-DOS 2 from ASCII. Endowed with 64k or 128k, the MSX2 was released in 1985 and can display graphics up to 512 × 212 pixels with 16 colors from 512 as well as 256 colors in 256x212 pixels. It incorporates integrated hardware accelerator functions for vertical scrolling, copying and filling in areas. It is possible to add extensions to this machine such as an 8-channel MSX-Audio or FM-PAC cartridge with library, with the addition of a Memory Mapper memory extension.</text>
+<!-- FRENCH -->
+<text lang="fr">MSX, le standard micro domestique japonais utilisant le MSX-DOS 1 de Microsoft évolue en 1988 avec le MSX-DOS 2 de ASCII. Doté de 64k ou 128k, le MSX2 sort en 1985 et permet d’afficher des graphismes jusqu’en 512×212 pixels avec 16 couleurs parmi 512 ainsi que 256 couleurs en 256x212 pixels. Il intègre des fonctions accélératrices matérielles intégrées de scrolling (défilement) vertical, de copie et remplissage de zones. Il est possible d'additionner les extensions sur cette machine comme une cartouche MSX-Audio ou FM-PAC 8 avec une extension mémoire Memory Mapper.</text>
+<!-- SPANISH -->
+<text lang="sp">MSX, el estándar de micrófono doméstico japonés que usa MSX-DOS 1 de Microsoft, evolucionó en 1988 con MSX-DOS 2 de ASCII. Dotado de 64k o 128k, el MSX2 fue lanzado en 1985 y puede mostrar gráficos de hasta 512 × 212 píxeles con 16 colores de 512, así como 256 colores en 256x212 píxeles. Incorpora funciones de acelerador de hardware integradas para desplazamiento vertical, copia y relleno de áreas. Es posible agregar extensiones a esta máquina, como un cartucho MSX-Audio de 8 canales o FM-PAC con biblioteca, con la adición de una extensión de memoria Memory Mapper.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

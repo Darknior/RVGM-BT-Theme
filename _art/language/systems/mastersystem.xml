@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Sega
+Home video game console
+Third
+1985
+Cartridge, Sega card
+2 buttons joypad, Light phaser</text>
+<!-- FRENCH -->
+<text lang="fr">Sega
+Console de salon
+Troisième
+1985
+Cartouche, Sega card
+Manette 2 boutons, pistolet</text>
+<!-- SPANISH -->
+<text lang="sp">Sega
+Videoconsola sobremesa
+Tercero
+1985
+Cartucho, tarjeta Sega
+Joystick de 2 botones, pistola</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The Sega Mark III is an 8-bit console produced by Sega in 1985 in Japan to compete with the NES. Then it will be redesigned and renamed as a Master System or SMS to be released in the rest of the world in 1986, one year after the release of the NES. Equipped with a 3.5 Mhz processor, 8 KB of RAM, 128 KB of video RAM and a 3-voice mono sound, it displays 256x192 pixels in 32 colors, 64 with a trick. In 1987, a new version was released in Japan, incorporating an FM module that could be used for games. But it will never catch up and will only be a real success in Europe and Brazil.</text>
+<!-- FRENCH -->
+<text lang="fr">La Sega Mark III est une console 8 bits produite par Sega en 1985 au Japon pour concurrencer la NES. Puis elle sera redessinée et rebaptisée en Master System ou SMS pour sortir dans le reste du monde en 1986, soit un an après la sortie de la NES. Équipée d’un processeur 3.5 Mhz, 8 ko de RAM, 128 ko de RAM vidéo et un son 3 voix mono, elle affiche du 256x192 pixels en 32 couleurs, 64 avec une astuce. En 1987 sort au Japon une nouvelle version incorporerant un module FM qu'exploiteront peux de jeux. Mais elle ne rattrapera jamais son retard et ne rapportera qu’en Europe et au Brésil.</text>
+<!-- SPANISH -->
+<text lang="sp">La Sega Mark III es una consola de 8 bits producida por Sega en 1985 en Japón para competir con la NES. Luego será rediseñado y renombrado como Sistema Maestro o SMS para ser lanzado en el resto del mundo en 1986, un año después del lanzamiento de la NES. Equipado con un procesador de 3.5 Mhz, 8 kb de RAM, 128 kb de RAM de video y un sonido mono de 3 voces, muestra 256x192 píxeles en 32 colores, 64 con un truco. En 1987, se lanzó una nueva versión en Japón, que incorpora un módulo FM que podría usarse para juegos. Pero nunca se pondrá al día y solo será un verdadero éxito en Europa y Brasil.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

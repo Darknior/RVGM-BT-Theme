@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Amstrad
+Home video game console
+Third
+1990
+Cartridge
+2 buttons joypad</text>
+<!-- FRENCH -->
+<text lang="fr">Amstrad
+Console de salon
+Troisième
+1990
+Cartouche
+Manette de jeu 2 boutons</text>
+<!-- SPANISH -->
+<text lang="sp">Amstrad
+Videoconsola sobremesa
+Tercero
+1990
+Cartucho
+Controlador de 2 botones</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The GX-4000 is an 8-bit video game console from Amstrad that went on sale in 1990. It is built on the basis of the CPC Plus and therefore shares the same characteristics. It is equipped with a 4 MHz processor, 64 kb of RAM, a 3-voice stereo sound and can display a resolution of 192x272 pixels in 31 colors on a palette of 4096, with 16 sprites in 15 colors each. In addition it finally includes a pixel by pixel scrolling in hardware. But with a game library essentially inherited from the CPC, sold too expensive against the NES and exceeded by the 16-bit Megadrive, it will be a commercial failure.</text>
+<!-- FRENCH -->
+<text lang="fr">La GX-4000 est une console de jeux vidéo 8 bits d'Amstrad mise en vente en 1990. Elle est construite sur la base du CPC Plus et partage donc les mêmes caractéristiques. Elle est équipée d’un processeur 4 Mhz, 64 ko de RAM, un son 3 voix stéréo et peut afficher une résolution de 192x272 pixels en 31 couleurs sur une palette de 4096, avec 16 sprites en 15 couleurs chacun. De plus elle inclut enfin un scrolling pixel par pixel en hardware. Mais avec une ludothèque essentiellement héritée du CPC, vendue trop chère face à la NES et dépassé par la 16 bits Megadrive, elle sera un échec commercial.</text>
+<!-- SPANISH -->
+<text lang="sp">La GX-4000 es una consola de videojuegos de 8 bits de Amstrad que salió a la venta en 1990. Está construida sobre la base del CPC Plus y, por lo tanto, comparte las mismas características. Está equipado con un procesador de 4 MHz, 64 kb de RAM, un sonido estéreo de 3 voces y puede mostrar una resolución de 192x272 píxeles en 31 colores en una paleta de 4096, con 16 sprites en 15 colores cada uno. Además, finalmente incluye un desplazamiento de píxel por píxel en hardware. Pero con una biblioteca de juegos esencialmente heredada del CPC, vendida demasiado cara contra el NES y superada por el Megadrive de 16 bits, será un fracaso comercial.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

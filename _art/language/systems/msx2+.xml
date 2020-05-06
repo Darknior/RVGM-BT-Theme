@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<!-- ENGLISH -->
+<text>Microsoft, Panasonic, Sony
+Personnal computer
+Third
+1988
+Cartridge, floppy disk
+Joystick, keyboard, mouse</text>
+<!-- FRENCH -->
+<text lang="fr">Microsoft, Panasonic, Sony
+Ordinateur personnel
+Troisième
+1988
+Cartouche, disquette
+Manette, clavier, souris</text>
+<!-- SPANISH -->
+<text lang="sp">Microsoft, Panasonic, Sony
+Ordenator personal
+Tercera
+1988
+Cartucho, disquete
+Joystick, ratón, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<!-- ENGLISH -->
+<text          >The first MSX2+, produced by Panasonic and Sony, were released exclusively in Japan on October 21, 1988. It will bring a 256x212 pixel mode with 19,268 colors as well as horizontal hardware scrolling in addition to the vertical. A Yamaha MSX-Music cartridge offering an extension to 9 FM channels is also available. The MSX Turbo R is the last generation of MSX put on the market in 1990 to compensate for the cancellation of the MSX3. Only Panasonic has marketed its FS-A1ST and FS-A1GT in Japan. With a 16-bit RISC processor, it is the fastest of the entire MSX range.</text>
+<!-- FRENCH -->
+<text lang="fr">Les premiers MSX2+, produits par Panasonic et Sony, sont sortis exclusivment au Japon le 21 Octobre 1988. Il apportera un mode 256x212 pixels avec 19 268 couleurs ainsi qu’un scrolling matériel horizontal en plus du vertical. Une cartouche Yamaha MSX-Music offrant une extension à 9 canaux FM est aussi disponible. Le MSX Turbo R est la dernière generation de MSX mise sur le marché en 1990 pour compenser l'annulation du MSX3. Seul Panasonic a commercialisé ses FS-A1ST et FS-A1GT au Japon. Doté d'un processeur RISC 16 bits, il est le plus rapide de toute la gamme MSX.</text>
+<!-- SPANISH -->
+<text lang="sp">El primer MSX2+, producido por Panasonic y Sony, se lanzó exclusivamente en Japón el 21 de octubre de 1988. Traerá un modo de 256x212 píxeles con 19,268 colores, así como desplazamiento horizontal del hardware además del vertical. También está disponible un cartucho Yamaha MSX-Music que ofrece una extensión a 9 canales FM. El MSX Turbo R es la última generación de MSX puesta en el mercado en 1990 para compensar la cancelación del MSX3. Solo Panasonic ha comercializado su FS-A1ST y FS-A1GT en Japón. Con un procesador RISC 16 bits, es el más rápido de toda la gama.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>
