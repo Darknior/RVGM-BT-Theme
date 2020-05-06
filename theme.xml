@@ -51,21 +51,34 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	</variables>
 
-	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available -->
-	<include>./_art/language/en.xml</include>
+	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available
+	https://github.com/batocera-linux/batocera-emulationstation/tree/master/locale/lang -->
+	<include>./_art/language/english.xml</include>
 	<include>./_art/language/en/${system.theme}.xml</include>
 	
-	<include lang="fr">./_art/language/france.xml</include>
-	<include lang="sp">./_art/language/espagnol.xml</include>
-	<include lang="br">./_art/language/brazil.xml</include>
-	<include lang="po">./_art/language/brazil.xml</include>
-
-	<include lang="jp">./_art/language/japanese.xml</include>
-	<include lang="de">./_art/language/deutsch.xml</include>
-	<include lang="it">./_art/language/italiano.xml</include>
-	<include lang="ru">./_art/language/russian.xml</include>
-	<include lang="ko">./_art/language/korean.xml</include>
-	<include lang="ch">./_art/language/chineese.xml</include>
+	<include lang="ar">./_art/language/arabe.xml</include>				<!-- Arabe -->
+	<include lang="ca">./_art/language/espagnol.xml</include> 			<!-- Catalan -> Espagnol - OK -->
+	<include lang="de">./_art/language/deutsch.xml</include>			<!-- Allemand -->
+	<include lang="el">./_art/language/greek.xml</include>				<!-- Grec -->
+	<include lang="es">./_art/language/espagnol.xml</include> 			<!-- Espagnol - OK -->
+	<!-- <include lang="es_MX">./_art/language/espagnol.xml</include> 	<!-- Mexico -> Espagnol -->
+	<include lang="eu">./_art/language/espagnol.xml</include> 			<!-- eu_ES / Basque -> Espagnol - OK -->
+	<include lang="fr">./_art/language/french.xml</include> 			<!-- Français - OK -->
+	<include lang="hu">./_art/language/hungarian.xml</include>			<!-- Hongrois -->
+	<include lang="it">./_art/language/italian.xml</include>			<!-- Italien -->
+	<include lang="jp">./_art/language/japanese.xml</include>			<!-- Japonnais -->
+	<include lang="ko">./_art/language/korean.xml</include>				<!-- Korée -->
+	<include lang="nb">./_art/language/norwegian.xml</include>			<!-- nb_NO / Norvégien ?? -->
+	<include lang="nl">./_art/language/netherlander.xml</include>		<!-- Néerlandais -->
+	<include lang="nn">./_art/language/norwegian.xml</include>			<!-- nn_NO / Norvégien ?? -->
+	<include lang="pl">./_art/language/polack.xml</include>				<!-- Polonais -->
+	<include lang="pt">./_art/language/brazilian.xml</include> 			<!-- pt_BR / Brésilien -> Portugais - OK -->
+	<!-- <include lang="pt_PT">./_art/language/brazilian.xml</include> 	<!-- Portugais - OK -->
+	<include lang="ru">./_art/language/russian.xml</include>			<!-- ru_RU / Russe -->
+	<include lang="sv">./_art/language/swede.xml</include>				<!-- sv_SE / Suédois -->
+	<include lang="tr">./_art/language/turkish.xml</include>			<!-- Turc -->
+	<include lang="zh">./_art/language/chineese.xml</include>			<!-- zh_CN / Chinois -->
+	<!-- <include lang="zh">./_art/language/chineese.xml</include>		<!-- zh_TW / Chinois -> Taiwan -->
 	
 	<include>./_art/language/${langue}/${system.theme}.xml</include>
 
@@ -226,6 +239,20 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<iconColor>${userColor}</iconColor>
 			<fontPath>./_art/font/${fontBold}</fontPath>
 			<fontSize>0.024</fontSize>
+			<!--
+            <iconColor>FFFFFFFF</iconColor>
+            <iconUpDown>./../arts/arcade/updown.png</iconUpDown>
+            <iconLeftRight>./../arts/arcade/leftright.png</iconLeftRight>
+            <iconUpDownLeftRight>./../arts/arcade/all.png</iconUpDownLeftRight>
+            <iconA>./../arts/arcade/a.png</iconA>
+            <iconB>./../arts/arcade/b.png</iconB>
+            <iconX>./../arts/arcade/x.png</iconX>
+            <iconY>./../arts/arcade/y.png</iconY>
+            <iconL>./../arts/arcade/l.png</iconL>
+            <iconR>./../arts/arcade/r.png</iconR>
+            <iconStart>./../arts/arcade/start.png</iconStart>
+            <iconSelect>./../arts/arcade/select.png</iconSelect>
+			-->
 		</helpsystem>
 
         <text name="systemInfo, sys_label, sys_info, sys_description">

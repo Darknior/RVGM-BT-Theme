@@ -4,17 +4,17 @@
 	
 	<variables>
 		
-		<langue>zh</langue>
-		
-<sysLabel>制造商
-类型
-代
-释放
-媒体
-控制者
+		<langue>hu</langue>
 
-总</sysLabel>
-		
+<sysLabel>Gyártó
+Típus
+Generáció
+Kiadás
+Média
+Vezérlő
+
+Teljes</sysLabel>
+
 	</variables>
 	
 </theme>
