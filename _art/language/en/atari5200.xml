@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Home video game console
+Second
+1982
+Cartridge
+Analog Joystick, Paddles</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Atari 5200 is a video game console released in 1982, created to compete with the consoles of Coleco and Mattel, at that time the most powerful and the cheapest on the market. It is essentially an Atari 400 without keyboard which despite its 4 serial joystick ports will be a commercial failure. Equipped with a 1.79 Mhz processor, 16 KB of RAM and a 4-way sound, it displays 320x192 pixels in 128 colors (16 colors with 8 intensity level). It also brings a new revolutionary joystick with an analog handle, an automatic shot and function keys, Start, Pause and Reset.</text>
+		</text>
+		
+	</view>
+
+</theme>

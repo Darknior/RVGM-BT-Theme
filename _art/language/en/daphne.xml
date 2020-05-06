@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Pioneer, Philips and others
+Arcade video game
+Fourth
+1982
+Laser disc
+Arcade stick and others</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>A Laserdisc video game is a game that uses prerecorded videos played from a laser disc to decorate and displays interactive elements on them. This trick allowed time to compensate for the low resolution of games at the expense of a highly simplified experience. The first laserdisc arcade game was Astron Belt, by Sega in 1982. However, the first LD game to become popular was released in Dragon's Lair in 1983. It contains scenes animated by Don Bluth and you will have to press a specific button at the time Suitable. To move forward, like a modern 'Quick Time Event'.</text>
+		</text>
+		
+	</view>
+
+</theme>

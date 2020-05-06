@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Mattel
+Home video game console
+Second
+1979
+Cartridge
+16 direction pad, 15 button</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Intellivision is a video game console produced by Mattel and released in 1980. It was the first system to be a serious threat to the domination of Atari. It is equipped with an 895 kHz processor, 371 oct of RAM, a 3 voice sound and can display a resolution of 160x196 pixels in 16 colors. It was the first 16-bit game console and the first system in 1981 to use ‘broadband’ with the ‘play cable’ which enabled Intellivision games to be downloaded via cable TV for 24 hours. In 2014 the ‘IntyBASIC’ simplified language was released which revived the Homebrew scene.</text>
+		</text>
+		
+	</view>
+
+</theme>

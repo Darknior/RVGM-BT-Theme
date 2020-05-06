@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Ordenador personal
+Cuarta
+1987
+Disquete, disco duro IDE
+Joystick, ratón, teclado</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>El Amiga 500 (A500) es la primera computadora de nivel básico de 16/32 bits de Commodore. Lanzado en 1987, compite directamente con el Atari 520 ST. El Amiga 500 utiliza un procesador Motorola 68000 con velocidad de reloj de 7 MHz, 512 KB de RAM como estándar, un chip Denise para visualización y un chip Paula para administrar el sonido en 4 canales (Chris Hülsbeck logró montar hasta 8). Ofrecia resoluciones de 320×256 píxeles y 32 colores o 640×512 píxeles y 16 colores, pero a finales de 1989 con modos especiales subió hasta los 128 colores en pantalla.</text>
+		</text>
+		
+	</view>
+
+</theme>

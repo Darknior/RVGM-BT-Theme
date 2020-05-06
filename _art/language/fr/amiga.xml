@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Ordinateur personnel
+Quatrième et Cinquième
+1987 / 1992 ...
+Disquette, DD IDE, CD-Rom
+Manette, souris, clavier</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Amiga 500 est le premier ordinateur 16/32 bits Commodore. Sorti en 1987, il utilise un processeur 68000 cadencé à 7 MHz, 512 Ko de RAM et une puce Paula pour gérer le son sur 4 voies (Chris Hülsbeck arrivera à monter jusqu’à 8). Il peut afficher en 320×256 pixels et 32 puis 128 couleurs fin 1989 avec les modes spéciaux. Il sera suivi en 1992 par le 1200 avec un processeur 2 fois plus puissant à 14 Mhz et un Chipset graphique AGA passant alors à 262 mille couleurs parmi 16 millions. En même temps sort le 4000 pouvant inclure un processeur 50 Mhz, plus de 512 Mo de RAM et une carte PowerPC.</text>
+		</text>
+		
+	</view>
+
+</theme>

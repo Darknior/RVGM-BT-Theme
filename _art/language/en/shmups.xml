@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+2D/3D Game Collection
+All
+1980 / 20xx
+All supports 
+Gamepad, Keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>A shoot 'em up, is a genre in which you have to destroy a large number of enemies using more and more powerful weapons as the levels progress. Originally from arcades, with Space Invaders, it experienced a splendid period in late 1980, early 1990. The style varies from cute to seriously, from fantasy and science fiction to historical facts, it can be fixed screen, With single or multi-directional scrolling, on rails or on a tube. Mid 90s an evolution of the genre will be the 'Manic shooter' or 'Danmaku' in Japanese, a real hell...</text>
+		</text>
+		
+	</view>
+
+</theme>

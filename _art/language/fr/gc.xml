@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console de salon
+Sixième
+2001
+Mini Disc 1.5 Go
+Manette, Wavebird</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 2001, la GC ne rencontra pas le succès de ses ainées, face aux PS2, XBox et Dreamcast. Un câble permettait pourtant d'utiliser des GBA comme manette avec écran déporté pour Zelda Four Swords Adv. et en 2002 sorti la Wavebird, première manette sans fil par onde radio. Dotée d'un processeur à 486 Mhz, une puce graphique ATI à 162 Mhz et 40 Mo de RAM elle peut calculer 15 millions de polygones. Elle affiche du 640×480 60 Hz ou du 768x576 50 Hz et propose un son en Dolby Pro Logic 2. Elle présente un catalogue de 644 jeux dont Resident Evil 4, Pikmin, Ikagura et Viewtiful Joe.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft & Intel, AMD
+Ordinateur personnel
+Quatrième / Cinquième
+1989
+CD-Rom, disque dur, disquette
+Manette, clavier, souris</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>On appelle DOS (disk operating system) le système d'exploitation en ligne de commande sur PC développé par Microsoft. L'Intel i486 lancé en 1989 permetra une exécution de 24 à 80 Mhz, les jeux sont alors en VGA 640x480 16 couleurs ou 320x200 256 coueurs. Nouvelle explosion dés 1993 avec la famile des Pentium, les jeux sont alors en SVGA 640x480 256 couleurs ou 1024x768 16 couleurs. Couplé à sans cesse plus de mémoire RAM, des nouvelles cartes vidéo 2D, puis des cartes accélératrices 3D, il cèdera finalement sa place à Windows 98 sur les plus grands jeux de l’époque.</text>
+		</text>
+		
+	</view>
+
+</theme>

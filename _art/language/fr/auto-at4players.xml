@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> </text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cette section regroupe tous les jeux « 4 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour ce faire une bonne soirée rétro-gaming en famille ou quand vous recevez des amis... Elle regroupe tous les jeux d’action frénétique jouable en équipe ou en match à mort, les simulations ou jeux d’arcade automobile, les beat’em up, les jeux de sport, etc... On pense immédiatement à Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, etc... Tous les filtres de tri habituels y sont disponibles.</text>
+		</text>
+		
+	</view>
+
+</theme>

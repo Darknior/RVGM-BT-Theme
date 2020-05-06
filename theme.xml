@@ -52,18 +52,23 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</variables>
 
 	<!-- Translate Systems Info & Description images, change Systems Logo & Console images when available -->
-	<include>./_art/language/english.xml</include>
+	<include>./_art/language/en.xml</include>
+	<include>./_art/language/en/${system.theme}.xml</include>
 	
 	<include lang="fr">./_art/language/france.xml</include>
 	<include lang="sp">./_art/language/espagnol.xml</include>
 	<include lang="br">./_art/language/brazil.xml</include>
 	<include lang="po">./_art/language/brazil.xml</include>
 
-	<include lang="jp">./_art/language/japanese.xml</include> <!-- Only for consoles images, text will stay in english -->
+	<include lang="jp">./_art/language/japanese.xml</include>
 	<include lang="de">./_art/language/deutsch.xml</include>
 	<include lang="it">./_art/language/italiano.xml</include>
 	<include lang="ru">./_art/language/russian.xml</include>
 	<include lang="ko">./_art/language/korean.xml</include>
+	<include lang="ch">./_art/language/chineese.xml</include>
+	
+	<include>./_art/language/${langue}/${system.theme}.xml</include>
+
 
 	<!-------------------------------------------------------------------------------------------->
 	<!-- GENERAL SWAP ---------------------------------------------------------------------------->
@@ -140,7 +145,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>./_art/font/${fontMedium}</fontPath>
-			<fontSize>0.038</fontSize>
+			<fontSize>0.035</fontSize>
 			<color>${themeLightColor}</color>
 			<separatorColor>${themeLightColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
@@ -148,11 +153,11 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<selectedColor>${userColor}</selectedColor>
 			<selectorGradientType>horizontal</selectorGradientType>
 		</menuText>
-		<!-- Popup Updates/Download -->
+		<!-- Popup MiddleTitles -->
 		<menuTextSmall name="menutextsmall">
-			<fontPath>./_art/font/${fontMedium}</fontPath>
-			<fontSize>0.02</fontSize>
-			<color>userLightColor</color> <!-- Jaune -->
+			<fontPath>./_art/font/${fontLight}</fontPath>
+			<fontSize>0.030</fontSize>
+			<color>${userLightColor}</color> <!-- Jaune -->
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">

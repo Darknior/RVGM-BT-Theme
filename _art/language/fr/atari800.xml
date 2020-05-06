@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ordinateur personnel
+Deuxième
+1979 / 1983 / 1985 / 1987
+Cartouche
+Stick Analogique</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La famille 'Atari 8-bits' est une série d'ordinateurs personnels lancée par Atari en 1979. Basés sur un processeur 6502 à 1.79 Mhz, Atari sont les premiers à lui adjoindre un coprocesseur lui permettant d’afficher une résolution de 384 pixels par ligne en 256 couleurs et un son 4 voies. Cela pour concurrencer l'Apple II, le Commodore PET et le TRS-80. Les deux premiers modèles, le 400 et le 800 sortent respectivement avec 16 et 48 Ko de RAM et 4 ports joystick. Ils seront re désigné en 1983 et 1985 avec les séries XL et XE qui ne feront que leur enlever 2 ports joystick et passer à 64 et 128 Ko de RAM.</text>
+		</text>
+		
+	</view>
+
+</theme>

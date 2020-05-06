@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Videoconsola de sobremesa
+Sexto
+1998
+GD-Rom (1.2 Go)
+Stick analógico, pad, 7 botones</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Dreamcast es la consola desarrollada por Sega que sucede a Sega Saturn. Comercializado en noviembre de 1998 en Japón, fué la primer consola de sexta generación antes de PS2 y XBOX, y ofrece juegos en línea. Terminó su ciclo prematuramente en 2004,siendo la última consola de SEGA. Está equipado con un procesador de 32 bits que incorpora un coprocesador aritmético de 128 bits, 16 MB de RAM y una GPU NEC PowerVR2 que le permite mostrar 7 millones de polígonos por segundo y 16 millones de colores simultáneamente. Su hardware está muy cerca de las máquinas recreativas NAOMI.</text>
+		</text>
+		
+	</view>
+
+</theme>

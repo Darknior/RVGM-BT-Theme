@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Amstrad
+Home video game console
+Third
+1990
+Cartridge
+2 buttons joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The GX-4000 is an 8-bit video game console from Amstrad that went on sale in 1990. It is built on the basis of the CPC Plus and therefore shares the same characteristics. It is equipped with a 4 MHz processor, 64 kb of RAM, a 3-voice stereo sound and can display a resolution of 192x272 pixels in 31 colors on a palette of 4096, with 16 sprites in 15 colors each. In addition it finally includes a pixel by pixel scrolling in hardware. But with a game library essentially inherited from the CPC, sold too expensive against the NES and exceeded by the 16-bit Megadrive, it will be a commercial failure.</text>
+		</text>
+		
+	</view>
+
+</theme>

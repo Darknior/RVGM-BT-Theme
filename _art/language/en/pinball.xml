@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+2D/3D Game Collection
+All
+1980 / 20xx
+All supports 
+Gamepad, Keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The pinball machine has its origins in the 18th century. Its ancestor is Bagatelle, an old game table invented in France. In 1930, with the invention of the coin mechanism, the pinball machine took on a new dimension. It becomes lucrative and arouses new interest. Between 1950 and 1970, the game knew a splendid period, it developed in the United States then exported to Europe and the rest of the world. In the 1980s, the pinball machine lost market share to the video game on which it was adapted. Nowadays, physical play is mainly carried by a clientele of nostalgic and new collectors.</text>
+		</text>
+		
+	</view>
+
+</theme>

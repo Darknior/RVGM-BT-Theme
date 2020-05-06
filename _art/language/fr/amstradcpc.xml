@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Amstrad
+Ordinateur personnel
+Troisième
+1984
+Cassette, disquette
+Manette, souris, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Amstrad CPC (Colour Personal Computer) est un ordinateur personnel 8 bits produit entre 1984 et 1990. Basé sur le processeur Zilog Z80, il fut décliné en 5 modèles: CPC464, CPC664, CPC6128, 464plus et 6128plus. Plusieurs périphériques étaient vendus, comme une imprimante, un joystick, une souris et un lecteur de disquettes. Conçu avant tout pour une clientèle familiale, son installation est la plus simple possible, et est directement utilisable même par un profane dès la mise sous tension. L'Amstrad CPC s'est vendu à environ trois millions d'exemplaires dans le monde.</text>
+		</text>
+		
+	</view>
+
+</theme>

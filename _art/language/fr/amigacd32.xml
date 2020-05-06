@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore
+Console de salon
+Quatrième
+1993
+CD-Rom
+Manette 7 boutons, souris</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 1993 l’Amiga CD32 est une console de cinquième génération. Son architecture est similaire à l’Amiga 1200 avec l’ajout d’une puce Akiko pour le mode bitplan (C2P) et le lecteur de CD-Rom. Première 32-bit à voir le jour en occident, elle est précédée au Japon par la FM Towns Marty. Comme la 3DO ou la Jaguar, commercialisées à la même période, la CD32 n'est pas parvenue à percer sur le marché face à la PSX et la Saturn. Faute à ses limitations techniques, ses limitations dans l'affichage des jeux en 3D texturée alors à la mode. Une partie du catalogue CDTV est compatible avec la console.</text>
+		</text>
+		
+	</view>
+
+</theme>

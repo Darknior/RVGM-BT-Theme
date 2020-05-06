@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Console de salon
+Deuxième
+1982
+Cartouche
+Stick Analogique, Track-Ball</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Atari 5200 est une console de jeux vidéo sortie en 1982, créée pour concurrencer les consoles de Coleco et Mattel, à cette époque les plus puissantes et les moins chères du marché. Elle est essentiellement un Atari 400 sans clavier qui malgré ses 4 ports joystick de série sera un échec commercial. Equipée d’un processeur 1.79 Mhz, 16 Ko de RAM et un son 4 voies, elle affiche du 320x192 pixels en 128 couleurs (16 teintes sur 8 niveaux d’intensité). Elle apporte aussi un nouveau joystick révolutionnaire avec un manche analogique, un tir automatique et des touches de fonction.</text>
+		</text>
+		
+	</view>
+
+</theme>

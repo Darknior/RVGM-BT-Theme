@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal computer
+Fourth
+1987
+Floppy disk, IDE hard drive
+Joystick, mouse, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Amiga 500 (A500) is Commodore's first 16/32-bit entry-level computer. Released in 1987, it is in direct competition with the Atari 520 ST. The Amiga 500 uses a Motorola 68000 processor clocked at 7 MHz, 512 KB of RAM as standard, a Denise chip for display and a Paula chip to manage the sound on 4 channels (Chris Hülsbeck will manage to mount up to 8) . It can originate display in 320 × 256 pixels and 32 colors or 640 × 512 pixels and 16 colors, but in late 1989 with special modes they go up to 128 colors on the screen. Cult games will then see the day as Shadow of the Beast.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>From Remdy Software
+Bomberman clone
+4.9+
+2017
+Single game
+8 Joystick 3 buttons, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Mr.Boom is a Bomberman clone under DOS, released at the end of the 90s, then converted for libretro in 2017. Originally the game is only multi-player, playable in a network of eight, but this version provides bots So you can play it alone. The matches are played by team or each for itself, with two or four teams and we are differentiated by sex or color. It was also added the fact of being able to push the bombs, the remote controls, training courses and new musics, the kangaroos, etc ... When there are not 8 players, one can activate or not monsters on the map.</text>
+		</text>
+		
+	</view>
+
+</theme>

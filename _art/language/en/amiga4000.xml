@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal computer
+Fourth
+1992
+IDE hard drive, CD-Rom
+Joystick, mouse, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Amiga 4000, an expandable pro computer, was released in 1992. It was the last developed by Commodore before its bankruptcy in 1994. Still used in 1996, it could include, as in our Workbench configuration, a 68060 processor running at 50Mhz, a minimum of 512MB of RAM, a PowerPC 604e 233Mhz card and an RTG (Real Time Graphics) display for True Color 24-bit rendering in addition to the AGA chipset. A CD-ROM drive and IDE hard drives were also included. Our game set runs from 1996 to 2002.</text>
+		</text>
+		
+	</view>
+
+</theme>

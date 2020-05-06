@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Collection de jeu 2D/3D
+Toutes
+1980 / 20xx
+Tous les supports
+Manette, Clavier</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Un shoot 'em up, littéralement "abattez-les tous" est un genre dans lequel vous devez détruire un grand nombre d'ennemis à l'aide d'armes de plus en plus puissantes au fur et à mesure des niveaux. Originaire des salles d'arcade, avec Space Invaders, il connaît une période faste fin 1980, début 1990. Le style varie du mignon au sérieux, de la fantasy et de la science-fiction aux faits historiques, il peut être à écran fixe, à défilement mono ou multi directionnel, sur des rails ou sur un tube. Milieu des années 90 une évolution du genre sera la "Manic shooter" ou "Danmaku" en japonais, un enfer...</text>
+		</text>
+		
+	</view>
+
+</theme>

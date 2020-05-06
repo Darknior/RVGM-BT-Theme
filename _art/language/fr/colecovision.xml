@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Coleco Industies
+Console de salon
+Deuxième
+1982
+Cartouche
+Stick analogique & 14 boutons</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Colecovision est une console de jeu vidéo de seconde génération commercialisée par Coleco (Connecticut Leather Company) et sortie en août 1982. Equipée d’un processeur 3.58 Mhz, 1 ko de RAM, 3 générateurs de ton et 1 de bruit, elle affiche une résolution de 256x192 pixels et 32 sprites en 16 couleurs. Celà lui permet de proposer des graphismes similaires aux jeux d'arcade de l'époque. Environ 170 titres sont sortis pendant toute sa vie, et il continue encore de sortir de Homebrew en 2020. Coleco a aussi commercialisé un module qui rend la console compatible avec l'Atari 2600.</text>
+		</text>
+		
+	</view>
+
+</theme>

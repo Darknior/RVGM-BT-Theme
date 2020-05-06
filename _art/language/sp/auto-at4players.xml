@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> </text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Esta sección incluye todos los juegos de "4 jugadores" en su colección, todos los sistemas combinados y listados en orden alfabético. Es perfecto para una buena fiesta de juegos retro con tu familia o cuando recibes amigos ... Incluye todos los juegos de acción jugables en equipo o duelo a muerte, simulaciones o juegos de carreras arcade, beat'em up, juegos deportivos, etc. Inmediatamente pensamos en Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc. Todos los filtros de clasificación habituales están disponibles para ayudarlo.</text>
+		</text>
+		
+	</view>
+
+</theme>

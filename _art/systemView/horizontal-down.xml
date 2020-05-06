@@ -114,8 +114,10 @@
 			<pos>0.0349 0.063</pos>
 			<size>0.2469 0.6769</size>
 			<path>./bg-sys-info-empty.png</path>
-			<color>FFFFFF${infoOpacity}</color>
 			<zIndex>20</zIndex>
+		</image>
+		<image name="info-bg" extra="true">
+			<color>FFFFFF${infoOpacity}</color>
 		</image>
 		<!-- Sytem INFO -->
 		<image name="info" extra="true">
@@ -171,11 +173,8 @@
 		
 	</view>
 	
-	<!-- Sytem TEXTS Translation -->
-	<include>./../language/systems/${system.theme}.xml</include>
-	
 	<!-- Auto Views Design -->
-	<include>./../../${system.theme}/horizontal-down.xml</include>
 	<include>./../../${system.theme}/default.xml</include>
+	<include>./../../${system.theme}/horizontal-down.xml</include>
 	
 </theme>

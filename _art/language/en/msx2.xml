@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft & Sony, Pioneer
+Personnal computer
+Third
+1985
+Cartridge, floppy disk 3"5
+Joystick, mouse, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MSX, the Japanese home microphone standard using MSX-DOS 1 from Microsoft, evolved in 1988 with MSX-DOS 2 from ASCII. Endowed with 64k or 128k, the MSX2 was released in 1985 and can display graphics up to 512 × 212 pixels with 16 colors from 512 as well as 256 colors in 256x212 pixels. It incorporates integrated hardware accelerator functions for vertical scrolling, copying and filling in areas. It is possible to add extensions to this machine such as an 8-channel MSX-Audio or FM-PAC cartridge with library, with the addition of a Memory Mapper memory extension.</text>
+		</text>
+		
+	</view>
+
+</theme>

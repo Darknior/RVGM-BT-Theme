@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> </text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>This section groups all the "favorite" games in your collection, any system confused and sorted alphabetically. As a result, it is a huge "Best of" in the world of retro-gaming, and includes all the major titles that have for some launched huge saga still developed today. We immediately think of Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+All the usual sorting filters are available for you to quickly find one of those games that marked your childhood game.</text>
+		</text>
+		
+	</view>
+
+</theme>

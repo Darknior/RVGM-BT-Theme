@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal computer
+First
+1977
+Cassette, floppy, hard disk
+Keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Commodore launched in 1977 an integrated machine for personal use, under the name of Commodore PET 2001. This precursor computer is part of the famous '1977 Trinity' with the Apple II and the Tandy TRS-80. This Personal Electronic Transactor (or PET) was designed by Chuck Peddle as a monobloc box, incorporating keyboard, reduced screen and cassette player, the first microcomputer ready to operate as soon as it is connected. Current competitors like the Apple II and the TRS-80 required an external tape recorder.</text>
+		</text>
+		
+	</view>
+
+</theme>

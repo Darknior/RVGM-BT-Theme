@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> </text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>This section includes all the « 2 player » games in your collection, all systems combined and listed in alphabetical order. It's perfect for a good retro-gaming party with your family or when you get a friend. It includes all the action games, car racing, platform, beat'em up, fighting, etc ... playable in cooperative or versus mode. We immediately think of Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, etc ... All the usual sorting filters are available.</text>
+		</text>
+		
+	</view>
+
+</theme>

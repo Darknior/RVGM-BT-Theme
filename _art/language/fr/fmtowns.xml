@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Fujitsu, Casio
+Ordinateur personnel
+Quatrième / Cinquième
+1989
+CD-Rom
+Manette de jeu 2/4 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le système FM Towns de Fujitsu sorti en 1989, est une variante du PC axé sur le multimédia et le jeu vidéo. Au fil de ses évolutions jusqu’en 1997, il a été équipé de x386, x486 et Pentium de 16 à 100 Mhz. Il inclut des modes graphiques allant de 320x240 à 640x480 pixels, en 16 à 32 mille couleurs sur une palette allant de 4096 à 16 millions. Il peut afficher 1024 sprites simultanément et pour l’audio il est équipé du CDRom ainsi que de 8 voix PCM et de 6 canaux FM. Son catalogue de jeux est très varié et comporte beaucoup de conversions d'arcade (parfaites) et de nombreux jeux Hentai (adulte).</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Borne d’Arcade
+Toutes
+1971 / 20xx
+PCB (Jamma)
+Arcade stick et autres</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Redécouvrez tous les grands classiques qui ont écrit l'histoire des jeux d’arcade avec MAME et FBA. Arcade regroupe une séléction de tous les meilleurs titres tout support confondu. Pacman, Killer Instinct, Space Invaders, Pang ou encore Les Tortues Ninja...
+Ce sont des milliers de titres qui vous attendent sur des bornes mythiques!
+Profitez des nombreux avantages des émulateurs, comme jouer à des jeux rares, utiliser des filtres graphiques, pouvoir sauvegarder, utiliser des cheat codes, mais surtout de pouvoir jouer avec un crédit illimité...</text>
+		</text>
+		
+	</view>
+
+</theme>

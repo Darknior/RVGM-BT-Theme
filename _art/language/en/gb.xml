@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Handheld console
+Fourth
+1989
+Cartridge
+2 buttons Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Game Boy is an 8-bit portable console developed by Nintendo in 1989. It is the very first portable console of the Game Boy line and it was designed by Gunpei Yokoi and Nintendo Research & Development, the same team that designed the series Game & Watch as well as many popular games on NES. It has a 4 MHz processor, 8 KB of RAM and displays 160x144 in 4 shades of gray with a battery life of 30 hours. The game originally included in the package squeezed the famous Tetris. A 'Light' version with integrated backlight will be released in 1998.</text>
+		</text>
+		
+	</view>
+
+</theme>

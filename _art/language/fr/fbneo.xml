@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Borne d’Arcade
+Multiple
+1971 / 20xx
+Cartes PCB
+Stick arcade et autres</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il s'agit de la suite de Final Burn Alpha créé en 2004 par TrebbleWinner, lui même basé sur Fianl Burn créé en 2000 par Dave et devenu FB-Neo en 2019. Ce projet est devenu au fil du temps l'un des meilleurs émulateur arcade disponible, grace à Lantus et IQ_132 pour leurs diverses optimisations. Il est mis à jour très souvent et émule différents systèmes tel que le MVS, le CPS1, le CPS2, le System 16, System 18, X Board, Y Board de Sega, et toute une liste de jeux Cave Toaplan, Taito, Psikyo et Kaneko. tout comme MAME il propose les fonctionnalités de filtres graphiques, sauvegardes, etc ...</text>
+		</text>
+		
+	</view>
+
+</theme>

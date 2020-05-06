@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> </text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>This section includes all the « 4 player » games in your collection, all systems combined and listed in alphabetical order. It’s perfect for a good retro-gaming party with your family or when you receive friends ... It includes all the action games playable in team or death match, simulations or arcade racing games, beat'em up, sports games, etc ... We immediately think of Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc ... All the usual sorting filters are available to help you.</text>
+		</text>
+		
+	</view>
+
+</theme>

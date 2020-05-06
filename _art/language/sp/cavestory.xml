@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Pixel
+Acción, Plataforma
+Todas
+2005
+Ejecutable
+Joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cave Story es un juego de plataformas de acción, aventura y desplazamiento horizontal en la tradición del famoso Wonderboy o Castlevania. Controlas a un pequeño personaje que ha decidido ayudar a las criaturas que se parecen a los conejos, los Mimigas, y debes encontrar tu camino en el gigantesco laberinto de pasajes subterráneos de una isla voladora. Puedes recoger varias armas, cambiarlas a voluntad, acumular puntos de experiencia matando enemigos y así elevarlos al nivel 3. Pero recibir daño hace que se pierdan puntos de experiencia, o incluso niveles.</text>
+		</text>
+		
+	</view>
+
+</theme>

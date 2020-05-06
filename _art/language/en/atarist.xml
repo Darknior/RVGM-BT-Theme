@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Personal computer
+Fourth
+1985
+Floppy disk
+Joystick 1bt, keyboard, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Atari ST platform marked the second half of the 1980s. Its success was as much general public (games), as professional (publication and MIDI music). The 520 ST, entry-level model, had a Motorola 68000 processor at 8 MHz, 512 KB of RAM, a Yamaha 3-way sound chipset and a 320x200 pixel display in 16 colors or 640x200 pixels in 4 colors among 512. ST Stands for Sixteen / Thirty-two and refers to the mixed 16/32 bit architecture of its CPU. It was also said to be the initials of Sam Tramiel, son of Jack Tramiel, president of Atari at the time.</text>
+		</text>
+		
+	</view>
+
+</theme>

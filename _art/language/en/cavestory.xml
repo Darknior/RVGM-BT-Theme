@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Pixel
+Action, Patform
+Second
+2005
+Cartridge
+Joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cave Story is an action-adventure and horizontal scrolling platform game in the tradition of the famous Wonderboy or Castlevania. You control a small character who has decided to help creatures resembling rabbits, the Mimigas and must find your way in the gigantic labyrinth of underground passages of a flying island. You can collect multiple weapons, change them at will, collect experience points by killing enemies and thus raise them to level 3. But taking damage causes experience points, or even levels, to be lost.</text>
+		</text>
+		
+	</view>
+
+</theme>

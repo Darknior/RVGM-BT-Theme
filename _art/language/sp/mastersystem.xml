@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Videoconsola sobremesa
+Tercero
+1985
+Cartucho, tarjeta Sega
+Joystick de 2 botones, pistola</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Sega Mark III es una consola de 8 bits producida por Sega en 1985 en Japón para competir con la NES. Luego será rediseñado y renombrado como Sistema Maestro o SMS para ser lanzado en el resto del mundo en 1986, un año después del lanzamiento de la NES. Equipado con un procesador de 3.5 Mhz, 8 kb de RAM, 128 kb de RAM de video y un sonido mono de 3 voces, muestra 256x192 píxeles en 32 colores, 64 con un truco. En 1987, se lanzó una nueva versión en Japón, que incorpora un módulo FM que podría usarse para juegos. Pero nunca se pondrá al día y solo será un verdadero éxito en Europa y Brasil.</text>
+		</text>
+		
+	</view>
+
+</theme>

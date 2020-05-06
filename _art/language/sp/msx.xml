@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft & Sony, Pioneer
+Ordenator personal
+Tercera
+1983 / 1985 / 1988 / 1990
+Cartucho, disquete, casete
+Joystick, ratón, teclado</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MSX (Machines with Software eXchangeability) es un estándar de microcomputadoras con vocación doméstica de origen japonés, lo que permite que las máquinas producidas por varios fabricantes sean compatibles entre sí gracias a MSX DOS1 de Microsoft y luego DOS2 de ASCII después de 1988. En 1983 el MSX muestra gráficos en 256 × 192 píxeles con 16 colores, en 1985 el MSX2 con 64 o 128k muestra 256 colores (o 16 de 512 en 512x212) y agrega desplazamiento de hardware. Finalmente, en 1988, el MSX2+ permite 19,268 colores, así como un sonido FM de 9 canales con un cartucho.</text>
+		</text>
+		
+	</view>
+
+</theme>

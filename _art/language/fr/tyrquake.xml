@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>From id Software engine
+Moteur de jeu 3D
+0.61+
+2009
+Fichiers PAK
+Manette de jeu, clavier, souris</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Quake est une série de jeux de tir à la première personne développée par Id Software pour succéder à sa série Doom. Premier FPS en véritable 3D polygonale, il fut une véritable révolution. Il y a 4 jeux : Quake, Quake II, Quake III Arena et Quake 4. TyrQuake est une version optimisée du moteur Quake original, le code source du moteur ayant été publié sous licence GPLv2 le 21 décembre 1999. Cela a permis sans modifier l’expérience de jeu originale, d'apporter diverses améliorations comme un meilleur support OpenGL, une amélioration des éclairages, des cartes plus détaillées, etc.</text>
+		</text>
+		
+	</view>
+
+</theme>

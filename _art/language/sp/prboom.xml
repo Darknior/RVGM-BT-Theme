@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Motor de juego de Id software
+Motor de juego 3D
+2.5.0+
+2008
+Archivos WAD
+Joystick, teclado, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Prboom, es una adaptacion del motor de Doom compatible con Doom, Doom II, Ultimate Doom y otros WADS lanzados más tarde. También es compatible con FreeDoom. Ahora es posible jugar en OpenGL y, por lo tanto, disfrutar de resoluciones más altas y efectos mejorados. El objetivo es expandir la funcionalidad mientras se mantiene la compatibilidad. Prboom cuenta con soporte para sintetizadores MIDI, formatos OGG y MP3, texturas y sprites de alta resolución, la posibilidad de mirar hacia arriba y hacia abajo, una cámara de seguimiento, cintas de correr, teletransportadores silenciosos, NPC, etc...</text>
+		</text>
+		
+	</view>
+
+</theme>

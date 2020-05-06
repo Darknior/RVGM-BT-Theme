@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Apple
+Personal computer
+Fourth
+1986
+3½ or 5¼ floppy disk
+Joystick, keyboard, mouse</text>
+<!-- MAX SIZE -----------|------>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Apple IIgs is the fifth and latest model in the series of Apple II personal computers. It was marketed from 1986 to 1993. 'GS' means, Graphics and Sound, referring to its advanced multimedia functions. It innovates with a 16-bit architecture compatible with the previous Apple II 8bits and GS / OS, an operating system derived from Mac OS. 256 KB of RAM expandable to 8 MB, an external 3 ½ floppy drive, a joystick port, a 640x200 display in 6 colors or 320x200 from 16 to 3200 colors as well as an Ensoniq sound processor with 32 channels.</text>
+		</text>
+		
+	</view>
+
+</theme>

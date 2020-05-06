@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console portable
+Quatrième
+1989
+Cartouche
+Manette 2 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Game Boy est une console portable 8-bits développée par Nintendo en 1989. Elle est la toute première console portable de la lignée des Game Boy et elle a été conçue par Gunpei Yokoi et Nintendo Research & Development, la même équipe ayant conçue la série des Game & Watch ainsi que de nombreux jeux popularisés sur NES. Elle dispose d’un processeur 4 Mhz, 8 ko de RAM et affiche du 160x144 en 4 nuances de gris avec une autonomie de 30 heures. Sélection des jeux multi-joueur à l'époque jouables avec un câble link, aujourd'hui jouables en écran partagé horizontalement.</text>
+		</text>
+		
+	</view>
+
+</theme>

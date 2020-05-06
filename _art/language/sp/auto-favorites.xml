@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> </text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Esta sección agrupa todos los juegos "favoritos" en su colección, todos los sistemas están ordenados alfabéticamente. Como resultado, es tu propia colección de "Lo mejor de" en el mundo de los juegos retro e incluye todos los títulos principales que para algunos, han significado una gran saga aún desarrollada hoy en día. Inmediatamente pensamos en Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, etc.
+Todos los filtros de clasificación habituales están disponibles para que puedas encontrar rápidamente uno de esos juegos que marcaron su juego de la infancia.</text>
+		</text>
+		
+	</view>
+
+</theme>

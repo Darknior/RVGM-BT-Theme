@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft & Intel, AMD
+Ordenador personal
+Tercera / Cuarta
+1982
+Disquete 5¼ 3½, disco duro
+Joystick, teclado, ratón</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Llamamos DOS (sistema operativo de disco) al sistema operativo de PC equipado por defecto con una interfaz de línea de comandos desarrollada por Microsoft en 1981. Con el procesador de 6 a 20 MHz de Intel 80286 lanzado en 1982 seguido por el i386 capaz de funcionar de 12 a 40 MHz en 1985. Este sistema operativo se utilizó en muchas computadoras personales, su potencia se explotó para crear los primeros microjuegos en CGA 320x200 a 4 colores y luego desde 1984 en EGA 640x350 a 16 colores. Comenzando desde Rogue o Troll’s Tale, terminando con el primer Leisure Suit Larry y luego Battle Chess.</text>
+		</text>
+		
+	</view>
+
+</theme>

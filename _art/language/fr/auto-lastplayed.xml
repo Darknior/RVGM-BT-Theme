@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> 
+ 
+ 
+ 
+ 
+ 
+ 
+Total</text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cette section regroupe les derniers jeux auxquels vous avez joué, tous systèmes confondus et classés par ordre chronologique pour vous permettre de les retrouver rapidement et continuer vos passionnantes aventures ...
+A la manière d'un voyage dans le temps vous pouvez remonter la liste de vos parties pour visualiser votre parcours de joueur.
+Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement ce que vous cherchez.</text>
+		</text>
+		
+	</view>
+
+</theme>

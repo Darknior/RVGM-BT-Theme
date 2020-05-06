@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label" extra="true">
+<text> 
+ 
+ 
+ 
+ 
+ 
+ 
+Total</text>
+		</text>
+		<text name="sys_info" extra="true">
+<text> </text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Esta sección contiene los últimos juegos que ha jugado, todos los sistemas están organizados en orden cronológico para permitirle encontrarlos rápidamente y continuar sus aventuras ...
+Como un viaje en el tiempo, puedes regresar para ver la progresión de tu jugador.
+Todos los filtros de clasificación habituales están disponibles para ayudarlo a encontrar rápidamente lo que está buscando.</text>
+		</text>
+		
+	</view>
+
+</theme>

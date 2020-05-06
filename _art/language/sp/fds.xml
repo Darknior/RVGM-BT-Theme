@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Videoconsola de sobremesa
+Tercero
+1986
+Disquete
+Joystick de 2 botones</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>El nombre completo de FDS es Family Computer Disk System, es un dispositivo de la consola de videojuegos Famicom lanzada el 21 de febrero de 1986 solo en Japón. Este dispositivo se coloca debajo de la consola y le permite utilizar un formato de disquete patentado que le permite almacenar juegos más grandes que en un cartucho, así como guardar juegos. También incorpora un sintetizador FM que permite que los juegos tengan una música de mayor calidad. The Legend of Zelda se creó originalmente para este sistema, así como para varios juegos que han tenido mucho éxito, como Shin Onigashima.</text>
+		</text>
+		
+	</view>
+
+</theme>

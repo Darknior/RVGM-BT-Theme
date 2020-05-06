@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Consola portátil
+Sexto
+2001
+Cartuchos GBA, GB, GBC
+Controlador de 4 botones</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Boy Advance es una consola portátil creada por Nintendo en 2001. Tiene una pantalla a color y un procesador de 32 bits, pero no soporta instrucciones en 3D. Era la consola portátil más potente del momento. Equipado con un procesador de 16 Mhz, una GPU de 8 Mhz y 380 KB de RAM, muestra una resolución de 240x160 en 511 colores. En 2003, Nintendo lanzó el GBA SP, con mejoras tales como una pantalla retroiluminada, un tamaño reducido, así como una batería recargable de iones de litio. Finalmente, en 2005, Nintendo lanzó Game Boy Micro, la última versión de esta consola portátil.</text>
+		</text>
+		
+	</view>
+
+</theme>

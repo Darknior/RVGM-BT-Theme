@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Home video game console
+Sixth
+2001
+Mini Disc 1.5 Go
+Controller, Wavebird</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 2001, the GC did not meet the success of its elders, facing the PS2, XBox and Dreamcast. A cable however made it possible to use GBA as a controller with a remote screen for Zelda Four Swords Adv. and in 2002 released the Wavebird, the first wireless controller by radio wave. Equipped with a processor at 486 Mhz, an ATI graphics chip at 162 Mhz and 40 MB of RAM it can calculate 15 million polygons. It displays 640×480 60 Hz or 768x576 50 Hz and offers sound in Dolby Pro Logic 2. It presents a catalog of 644 games including games like Resident Evil 4 and Viewtiful Joe.</text>
+		</text>
+		
+	</view>
+
+</theme>

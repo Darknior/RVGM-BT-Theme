@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal computer
+Third
+1984
+Cassette tape, floppy disk
+Joystick, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 1984 to replace the VIC-20, the Commodore C116, C16 and Plus / 4 range targeted the entry-level market. A MOS7501 or 8501 processor succeeds the 6502 and is 75% faster. However only one TED co-processor is included for audio and video. Also unlike the C64, no hardware acceleration exists on these machines. The Plus / 4 has 32k of RAM and integrates four office applications into it. This project was a commercial failure in the USA and stopped in 1985 even if copies were sold in Europe and especially in the east, behind the iron curtain.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Videoconsola sobremesa
+Quinta
+1996
+Cartucho
+Joypad 10 botones + Joystick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Nintendo 64 is a home console released in 1996, created by Nintendo in collaboration with Silicon Graphics. It was the last of the fifth generation consoles to be released, competing with the Saturn and PlayStation. Equipped with a 93 Mhz processor, two 64 Mhz GPUs and 4 MB of RAM expandable to 8, it displays 640x480 pixels in 2 thousand colors over 16 million and 150 miles of textured polygons. Its main innovation was its controller with an analog stick. It is also the last home console to use ROM cartridges to store its games.</text>
+		</text>
+		
+	</view>
+
+</theme>

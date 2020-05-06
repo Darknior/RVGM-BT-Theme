@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Home video game console
+Fourth
+1991
+CD-Rom
+Remote control, mouse, keyb.</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 1991 Amiga CDTV is a third generation console. Its architecture is based on the Amiga 500 with a 6800 to 7.16 Mhz processor, an ECS graphics chip, 1 MB of RAM and a CD-ROM drive. Comes with a joystick it was intended for a family audience neophyte in computer, interested in games but also by multimedia capabilities and interactivity. For example, the Grolier encyclopedia was one of its flagship products. It was a commercial failure and less than one hundred games were released on Amiga CDTV. A large part are reissues of Amiga 500 games.</text>
+		</text>
+		
+	</view>
+
+</theme>

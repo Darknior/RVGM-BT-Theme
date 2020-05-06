@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal computer
+Fourth and Fifth
+1987 / 1992 ...
+Floppy disk, IDE HD, CD-Rom
+Joystick, mouse, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Amiga 500 is the first Commodore 16/32 bit computer. Released in 1987, it uses a 7 Mhz 68000 processor, 512 KB of RAM and a Paula chip to manage sound on 4 channels (Chris Hülsbeck will increase to 8). It can display in 320 × 256 pixels and 32 then 128 colors at the end of 1989 with special modes. It will be followed in 1992 by the 1200 with a processor 2 times more powerful at 14 Mhz and an AGA graphic Chipset passing then to 262 thousand colors. At the same time the 4000 comes out which can include a 50 Mhz processor, more than 512 MB of RAM and a PowerPC graphic card.</text>
+		</text>
+		
+	</view>
+
+</theme>

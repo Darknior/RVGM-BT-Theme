@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Ordenador personal
+Tercero
+1985
+Casete, disquete
+Joystick 1 botone, teclado</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Versión extendida y compatible del C64 pero renovada (aspecto que inspiraría al Amiga 500) con 128 KB de RAM. Estaba equipado con el procesador C64 6510 para garantizar una compatibilidad del 100%, pero también con un nuevo procesador 8502. También contenía un procesador Zilog Z80 con el sistema operativo CP / M. Finalmente, propuso cambiar la pantalla del modo estándar de 40 columnas al modo de 80 columnas. Poco vendido y poco respaldado por los editores, el C128 fue la última máquina de 8 bits comercializada por Commodore B.M., poco antes del lanzamiento de Amiga.</text>
+		</text>
+		
+	</view>
+
+</theme>

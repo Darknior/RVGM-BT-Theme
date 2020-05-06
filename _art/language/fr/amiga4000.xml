@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Ordinateur personnel
+Quatrième
+1992
+Disque dur IDE, CD-Rom
+Manette, souris, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Amiga 4000, ordinateur pro extensible comme un PC, est sorti en 1992. Il fut le dernier développé par Commodore avant sa faillite en 1994. Toujours utilisé en 1996, il pouvait inclure, comme dans notre configuration Workbench, un processeur 68060 cadencé à 50 Mhz, un minimum de 512 Mo de RAM, une carte PowerPC 604e à 233 Mhz ainsi qu'un affichage RTG (Real Time Graphics) pour un rendu True Color en 24-bit en sus du chipset AGA. Un lecteur de CD-ROM et des disques durs IDE étaient aussi inclus. Notre set de jeux s'étend de 1996 à 2002.</text>
+		</text>
+		
+	</view>
+
+</theme>

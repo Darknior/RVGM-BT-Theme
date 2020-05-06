@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ordenador personal
+Cuarto
+1985
+Disquete
+Joystick 1 bt, teclado, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La plataforma Atari ST marcó la segunda mitad de la década de 1980. Su éxito fue tanto público general (juegos) como profesional (publicación y música MIDI). El 520 ST, modelo básico, tenía un procesador Motorola 68000 a 8 MHz, 512 KB de RAM, un chipset de sonido Yamaha de 3 vías y una pantalla de 320x200 píxeles en 16 colores o 640x200 píxeles en 4 colores entre 512. ST Significa dieciséis / treinta y dos y se refiere a la arquitectura mixta de 16/32 bits de su CPU. También se dijo que eran las iniciales de Sam Tramiel, hijo de Jack Tramiel, presidente de Atari en ese momento.</text>
+		</text>
+		
+	</view>
+
+</theme>

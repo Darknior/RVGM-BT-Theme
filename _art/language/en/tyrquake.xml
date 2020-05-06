@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>From id Software engine
+3D game engine
+0.61+
+2009
+PAK files
+Joystick, keyboard, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Quake is a series of first-person shooters developed by Id Software to succeed its Doom series. First FPS in true polygonal 3D, it was a real revolution. There are 4 games: Quake, Quake II, Quake III Arena and Quake 4. TyrQuake is an optimized version of the original Quake engine, the engine source code having been released under GPLv2 license on December 21, 1999. This allowed without modifying the Original gaming experience, to make various improvements such as better OpenGL support, improved lighting, more detailed maps, etc.</text>
+		</text>
+		
+	</view>
+
+</theme>

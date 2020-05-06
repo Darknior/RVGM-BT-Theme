@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Home video game console
+Second
+1977
+Cartridge
+Joystick, Paddles</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Atari 2600, originally called Atari VCS, is a second generation console released in 1977. It comes with a pair of joysticks and a game, it is the most popular console of its Generation. Equipped with a 1.19 Mhz processor, 128 octets RAM and a 2 voice mono sound, it displays 160x192 pixels in 128 colors (16 colors with 8 intensity level) for the NTSC. The console game library includes around 900 titles including original hits like Pitfall, arcade game conversions like Space Invaders and the first licensed games like Raiders of the Lost Ark and E.T..</text>
+		</text>
+		
+	</view>
+
+</theme>

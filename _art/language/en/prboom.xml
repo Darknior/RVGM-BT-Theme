@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>From id Software engine
+3D game engine
+2.5.0+
+2008
+WAD files
+Joystick, keyboard, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Prboom, is a Doom port supporting Doom, Doom II, Ultimate Doom and other wads released later. It is also compatible with FreeDoom. It is now possible to play in OpenGL and therefore enjoy higher resolutions and improved effects. The goal is to expand functionality while maintaining compatibility. It brings in particular MIDI synthesizers, OGG and MP3 formats, high resolution textures and sprites, the possibility of looking up and down, a tracking camera, treadmills, silent teleporters, NPCs, Etc ...</text>
+		</text>
+		
+	</view>
+
+</theme>
