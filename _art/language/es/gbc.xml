@@ -10,13 +10,13 @@
 Consola portátil
 Quinta
 1998
-GBC, cartuchos GB
-Controlador de 2 botones</text>
+Cartuchos GBC, GB
+Joypad + 2 botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Game Boy Color fue creado en 1989 por Nintendo, es la consola portátil que sucede al Game Boy. Incorpora una pantalla a color apenas más grande que la de Game Boy, pero tiene un procesador de 8 Mhz, 32 KB de RAM, 16 KB de memoria de video y muestra una resolución de 160x144 píxeles en 56 colores. Es compatible con todos los juegos de Game Boy de primera generación y su batería era capaz de ofrecer una autonomía de 10 horas de duración. Estaba disponible en 6 colores diferentes durante su lanzamiento: púrpura, verde, rosa, azul, amarillo y morado claro. Posteriormente llegaron ediciones limitadas como negro, translúcido, dorado, Pokémon ...</text>
+<text>El Game Boy Color fue creado en 1989 por Nintendo, es la consola portátil que sucede al Game Boy. Incorpora una pantalla a color apenas más grande que la de Game Boy, pero tiene un procesador de 8 Mhz, 32 KB de RAM, 16 KB de memoria de video y muestra una resolución de 160x144 píxeles en 56 colores. Es compatible con todos los juegos de Game Boy de primera generación y su batería era capaz de ofrecer una autonomía de 10 horas. Estaba disponible en 6 colores diferentes durante su lanzamiento: púrpura, verde, rosa, azul, amarillo y morado claro.</text>
 		</text>
 		
 	</view>

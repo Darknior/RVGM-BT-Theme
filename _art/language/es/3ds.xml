@@ -8,15 +8,15 @@
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
 Consola portatil
-Octavo
+Octava
 2011
 Cartucho
-Gamepad 6 botones + Stick</text>
+Gamepad, Joystick + 6 botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La 3DS es la consola portátil de octava generación de Nintendo, que tiene como particularidad una pantalla 3D estereoscópica sin gafas. Está equipada con un procesador ARM11 de 2 núcleos a 268 MHz y un ARM9 de 134 MHz para ofrecer retrocompatibilidad con su predecesor, el Nintendo DS, además cuenta con una GPU Nvidia de 268 MHz, 128MB de RAM y conexión a internet. Muestra 400x240 en 3D, 320x240 para la pantalla táctil y ofrece un sonido envolvente virtual equivalente a 5.1. La versión NEW 3DS lanzada en 2014 tiene un procesador de 4 núcleos de 804 Mhz, 128 MB de RAM, una cámara, los botones ZL y ZR.</text>
+<text>La 3DS es la consola portátil de octava generación de Nintendo, que tiene como particularidad una pantalla 3D estereoscópica sin gafas. Está equipada con un procesador ARM11 de 2 núcleos a 268 MHz y un ARM9 de 134 MHz para ofrecer retrocompatibilidad con Nintendo DS, además cuenta con una GPU Nvidia de 268 MHz, 128MB de RAM y conexión a internet. Muestra 400x240 en la pantalla 3D y 320x240 en la pantalla táctil, además ofrece un sonido envolvente virtual equivalente a 5.1. En 2014 fue lanzada la revisión New 3DS, que era más potente, incluía una cámara y los botones ZL y ZR.</text>
 		</text>
 		
 	</view>

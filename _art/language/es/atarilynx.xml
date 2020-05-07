@@ -11,12 +11,12 @@ Consola portátil
 Cuarta
 1989
 Cartucho
-Joypad 2 botones</text>
+Joypad + 2 botones</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Esta computadora portátil en color desarrollada por Epyx bajo el nombre 'Handy' en 1987 fue comercializada por Atari en 1989 después de que la compañía fuera adquirida. Esto después de la modificación del altavoz interno y la eliminación de la palanca del mando. Equipado con un procesador de 4 Mhz, una GPU de 16 Mhz con soporte 3D y 64 KB de RAM, mostró 480x102 en 16 colores. El 1991 'Lynx II' traerá un nuevo diseño, una mejor pantalla y una opción de ahorro de energía. También pudimos invertir la pantalla para zurdos y jugar hasta 8 en la red, pero era impresionante y demasiado exigente en el uso de la batería.</text>
+<text>Esta consola portátil a color desarrollada por Epyx bajo el nombre 'Handy' en 1987 fue comercializada por Atari en 1989 después de que la compañía fuera adquirida. Esto después de la modificación del altavoz interno y la eliminación de la palanca del mando. Equipado con un procesador de 4 Mhz, una GPU de 16 Mhz con soporte 3D y 64 KB de RAM, mostró 480x102 en 16 colores. En 1991 'Lynx II' trajo un nuevo diseño, una mejor pantalla y una opción de ahorro de energía. Permitió invertir la pantalla para zurdos y jugar hasta 8 en la red a costa de un consumo exigente de la batería.</text>
 		</text>
 		
 	</view>

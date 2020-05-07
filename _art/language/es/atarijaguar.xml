@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Atari
-Videoconsola de sobremesa
+Consola de sobremesa
 Quinta
 1993
 Cartucho, CD-Rom
-Joystick</text>
+Joystick + 17 botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Atari Jaguar es una consola de sobremesa con cartuchos (el reproductor de CD se vendia por separado) lanzada en 1993, la cual tiene una biblioteca de juegos limitada debido a su escaso éxito. Fue en su momento la única consola de 64 bits, ya que PlayStation y Saturn eran de 32 bits, lo que causó controversia. Los dos procesadores de 64 bits del Jaguar no son más que aceleradores gráficos, su procesador gráfico es de 32 bits y su CPU es de 16 bits a 13 MHz. Con sus 2 MB de RAM, muestra una resolución de 720x526 píxeles en 16 millones de colores. Uno de sus juegos de culto será 'Alien vs. Predator'.</text>
+<text>Atari Jaguar es una consola de sobremesa de cartuchos (el reproductor de CD se vendia por separado) lanzada en 1993, que tuvo una biblioteca de juegos limitada debido a su escaso éxito. Fue en su momento la única consola de 64 bits, ya que PlayStation y Saturn eran de 32 bits. Eso causó controversia, ya que los dos procesadores de 64 bits del Jaguar no son más que aceleradores gráficos, su procesador gráfico es de 32 bits y su CPU es de 16 bits a 13 MHz. Con sus 2 MB de RAM, soporta resolución de 720x526 píxeles en 16 millones de colores. Uno de sus juegos de culto erá Alien vs. Predator.</text>
 		</text>
 		
 	</view>

@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Mattel
-Videoconsola sobremesa
-Segundo
+Consola de sobremesa
+Segunda
 1979
 Cartucho
-Almohadilla de 16 vías, 15 botones</text>
+Perilla de 16 vías + 15 botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Intellivision es una consola de videojuegos producida por Mattel y lanzada en 1980. Fue el primer sistema en ser una seria amenaza para el dominio de Atari. Está equipado con un procesador de 895 kHz, 371 oct de RAM, un sonido de 3 voces y puede mostrar una resolución de 160x196 píxeles en 16 colores. Fue la primera consola de juegos de 16 bits y el primer sistema en 1981 en usar 'banda ancha' con el 'cable de reproducción' que permitió que los juegos de Intellivision se descargaran por televisión por cable durante 24 horas. En 2014 se lanzó el lenguaje simplificado 'IntyBASIC' que revivió la escena Homebrew.</text>
+<text>La Intellivision es una consola de videojuegos producida por Mattel y lanzada en 1980. Fue el primer sistema en ser una seria amenaza para el dominio de Atari. Está equipado con un procesador de 895 kHz, 371 bytes de RAM, un sonido de 3 voces y puede mostrar una resolución de 160x196 píxeles en 16 colores. Fue la primera consola de juegos de 16 bits y el primer sistema en 1981 en usar 'banda ancha' que permitió que los juegos de Intellivision se descargaran por televisión por cable durante 24 horas. En 2014 se lanzó el lenguaje simplificado 'IntyBASIC' que revivió la escena Homebrew.</text>
 		</text>
 		
 	</view>

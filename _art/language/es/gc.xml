@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Videoconsola de sobremesa
-Sexto
+Consola de sobremesa
+Sexta
 2001
 Mini Disc 1.5 Gb
-Joystick, Wavebird</text>
+Joystick + 8 botones, Wavebird</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzado en 2001, el GC no alcanzó el éxito de sus antecesores, frente a PS2, XBox y Dreamcast. Sin embargo, un cable permitió utilizar GBA como controlador con una pantalla remota para Zelda Four Swords y en 2002 lanzó el Wavebird, el primer controlador inalámbrico por ondas de radio. Equipado con un procesador a 486 Mhz, un chip gráfico ATI a 162 Mhz y 40 MB de RAM, puede calcular 15 millones de polígonos. Muestra 640×480 60 Hz o 768x576 50 Hz y ofrece sonido en Dolby Pro Logic 2. Presenta un catálogo de 644 juegos que incluye juegos como Resident Evil 4 y Viewtiful Joe.</text>
+<text>Lanzado en 2001, el GC no alcanzó el éxito de sus antecesores al hacer frente a PS2, XBox y Dreamcast. Sin embargo, un cable permitió utilizar GBA como controlador con una pantalla remota para Zelda Four Swords y en 2002 lanzó el Wavebird, el primer controlador inalámbrico por ondas de radio. Equipado con un procesador a 486 Mhz, un chip gráfico ATI a 162 Mhz y 40 MB de RAM, puede calcular 15 millones de polígonos. Muestra 640×480 60 Hz o 768x576 50 Hz y ofrece sonido en Dolby Pro Logic 2. Presenta un catálogo de 644 juegos que incluye juegos como Resident Evil 4 y Viewtiful Joe.</text>
 		</text>
 		
 	</view>

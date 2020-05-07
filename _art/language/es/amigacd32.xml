@@ -7,11 +7,11 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Commodore
-Videoconsola de sobremesa
+Consola de sobremesa
 Cuarta
 1993
 CD-Rom
-Gamepad 7 botones, ratón</text>
+Gamepad + 7 botones, ratón</text>
 		</text>
 		
 		<text name="sys_description" extra="true">

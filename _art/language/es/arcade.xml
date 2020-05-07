@@ -7,7 +7,7 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Multiples
-Cabinas de videojuegos arcade
+Sistema arcade
 Todas
 1971 / 20xx
 PCB (Jamma)
@@ -16,9 +16,9 @@ Stick arcade y otros</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Redescubre todos los grandes clásicos que han escrito la historia de los juegos de arcade con MAME y FBA. Arcade reúne una selección de todos los mejores títulos en cualquier medio. Pacman, Killer Instinct, Space Invaders, Pang o The Ninja Turtles ...
-¡Miles de títulos te esperan en míticos gabinetes de arcade!
-Aproveche los muchos beneficios de los emuladores, como jugar juegos raros, usar filtros gráficos, poder guardar, usar códigos de trucos, pero especialmente para jugar con un crédito ilimitado ...</text>
+<text>Redescubre todos los grandes clásicos que han escrito la historia de los juegos de arcade con MAME y FBA. Arcade reúne una selección de todos los mejores títulos de cualquier máquina arcade. Pacman, Killer Instinct, Space Invaders, Pang o The Ninja Turtles ...
+¡Miles de títulos te esperan en míticas máquinas de arcade!
+Aproveche los  beneficios de los emuladores, como jugar juegos raros, usar filtros gráficos, poder guardar, usar códigos de trucos, pero especialmente... para jugar con un crédito ilimitado ...</text>
 		</text>
 		
 	</view>

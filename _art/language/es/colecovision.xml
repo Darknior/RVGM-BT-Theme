@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Coleco Industries
-Videoconsola de sobremesa
-Segundo
+Consola de sobremesa
+Segunda
 1982
 Cartucho
-Stick analógico y 14 botones</text>
+Joystick analógico + 14 botones</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Colecovision es una consola de videojuegos de segunda generación comercializada por Coleco (Connecticut Leather Company) y lanzada en agosto de 1982. Equipada con un procesador de 3.58 Mhz, 1 kb de RAM, 3 tonos y 1 generador de ruido, muestra un Resolución de 256x192 píxeles y 32 sprites en 16 colores. Esto le permite ofrecer gráficos similares a los juegos de arcade de la época. Se lanzaron alrededor de 170 títulos durante su vida, y aún continúa dejando Homebrew en 2020. Coleco también ha comercializado un módulo que hace que la consola sea compatible con el Atari 2600.</text>
+<text>La Colecovision es una consola de videojuegos de segunda generación comercializada por Coleco (Connecticut Leather Company) y lanzada en agosto de 1982. Equipada con un procesador de 3.58 Mhz, 1 kb de RAM, 3 tonos y 1 generador de ruido, muestra un Resolución de 256x192 píxeles y 32 sprites en 16 colores. Esto le permite ofrecer gráficos similares a los juegos de arcade de la época. Se lanzaron alrededor de 170 títulos durante su vida. Coleco también ha comercializado un módulo que hace que la consola sea compatible con el Atari 2600.</text>
 		</text>
 		
 	</view>

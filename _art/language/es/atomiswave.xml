@@ -8,15 +8,15 @@
 <!-- MAX SIZE -----------|------>
 <text>Sammy
 Sistema Arcade
-Sexto
+Sexta
 2003
 ROM Cartucho
-Arcade stick, pistolet, volante</text>
+Arcade stick, pistola, volante</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Atomiswave es un sistema de cartucho para una máquina arcade JAMMA, creado por la compañía japonesa Sammy en 2003. Es un sistema modular y de bajo costo, con la posibilidad de conectar fácilmente una pistola, un volante o una bola de seguimiento. Está equipado con un procesador de 200 MHz, 32 MB de RAM y PowerVR 2. Desde su lanzamiento, cuenta con el apoyo de la empresa SNK Playmore, que decidio utilizar este sistema para sus futuros juegos, al igual que Dimps, IGS y Arc System Works, pero la mayoría de títulos fueron desarrollados por Sammy, quien se fusionó con Sega en 2004.</text>
+<text>El Atomiswave es un sistema de cartucho para una máquina arcade JAMMA, creado por la compañía japonesa Sammy en 2003. Es un sistema modular y de bajo costo, con la posibilidad de conectar fácilmente una pistola, un volante o una bola de seguimiento. Está equipado con un procesador de 200 MHz, 32 MB de RAM y PowerVR 2. Desde su lanzamiento contó con el apoyo de SNK Playmore, que decidio utilizar este sistema para sus juegos, al igual que Dimps, IGS y Arc System Works, pero la mayoría de títulos fueron desarrollados por Sammy, quien se fusionó con Sega en 2004.</text>
 		</text>
 		
 	</view>

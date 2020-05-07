@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Videoconsola de sobremesa
-Sexto
+Consola de sobremesa
+Sexta
 1998
-GD-Rom (1.2 Go)
-Stick analógico, pad, 7 botones</text>
+GD-Rom (1.2 Gb)
+Joystick analógico, Joypad + 7 botones</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Dreamcast es la consola desarrollada por Sega que sucede a Sega Saturn. Comercializado en noviembre de 1998 en Japón, fué la primer consola de sexta generación antes de PS2 y XBOX, y ofrece juegos en línea. Terminó su ciclo prematuramente en 2004,siendo la última consola de SEGA. Está equipado con un procesador de 32 bits que incorpora un coprocesador aritmético de 128 bits, 16 MB de RAM y una GPU NEC PowerVR2 que le permite mostrar 7 millones de polígonos por segundo y 16 millones de colores simultáneamente. Su hardware está muy cerca de las máquinas recreativas NAOMI.</text>
+<text>Dreamcast es la consola desarrollada por Sega que sucede a Sega Saturn. Comercializado en noviembre de 1998 en Japón, fué la primer consola de sexta generación y la primera en ofrecer juegos en línea. Terminó su ciclo prematuramente en 2004, siendo la última consola de SEGA. Está equipado con un procesador de 32 bits que incorpora un coprocesador aritmético de 128 bits, 16 MB de RAM y una GPU NEC PowerVR2 que le permite mostrar 7 millones de polígonos por segundo y 16 millones de colores simultáneamente. Su hardware está muy cerca de las máquinas recreativas NAOMI.</text>
 		</text>
 		
 	</view>

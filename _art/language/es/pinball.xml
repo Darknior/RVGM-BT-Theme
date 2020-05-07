@@ -7,7 +7,7 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Multiples
-Colección de Juegos 2D/3D
+Maquina de Pinball
 Todas
 1980 / 20xx
 Todos los soportes
@@ -16,7 +16,7 @@ Joypad, Teclado</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La máquina de pinball tiene sus orígenes en el siglo XVIII. Su antepasado es Bagatelle, una vieja mesa de juego inventada en Francia. En 1930, con la invención del mecanismo de monedas, la máquina de pinball adquirió una nueva dimensión, se volvio lucrativo y desperto un nuevo interés. Entre 1950 y 1970, el juego conoció un período espléndido, se desarrolló en los Estados Unidos y luego se exportó a Europa y al resto del mundo. En la década de 1980, la máquina de pinball perdió cuota de mercado contra el sector de los videojuegos. Hoy en día, las maquinas físicas son jugadas principalmente por una clientela de nostálgicos y nuevos coleccionistas.</text>
+<text>La máquina de pinball tiene sus orígenes en el siglo XVIII. Su antepasado es Bagatelle, una vieja mesa de juego inventada en Francia. En 1930, con la invención del mecanismo de monedas, la máquina de pinball adquirió una nueva dimensión, se volvio lucrativo y desperto de nuevo interés. Entre 1950 y 1970, el juego conoció un período espléndido de desarrolló en los Estados Unidos. En la década de 1980, la máquina de pinball perdió cuota de mercado contra los videojuegos. Hoy en día, las maquinas físicas son jugadas principalmente por una clientela de nostálgicos y nuevos coleccionistas.</text>
 		</text>
 		
 	</view>

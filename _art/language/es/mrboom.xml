@@ -6,12 +6,12 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Desde Remdy Software
+<text>Remdy Software
 Clon de bomberman
 4.9+
 2017
 Juego individual
-8 Joystick 3 botones, teclado</text>
+Joystick + 3 botones, teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">

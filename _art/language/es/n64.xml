@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Home video game console
-Fifth
+Consola de sobremesa
+Quinta
 1996
-Cartridge
-10 button Joypad + Joystick</text>
+Cartucho
+Joystick analógico, Joypad + 10 botones</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Nintendo 64 es una consola doméstica lanzada en 1996, creada por Nintendo en colaboración con Silicon Graphics. Fue la última de las consolas de quinta generación en ser lanzada, compitiendo con Saturn y PlayStation. Equipado con un procesador de 93 Mhz, dos GPU de 64 Mhz y 4 MB de RAM ampliable a 8, muestra 640x480 píxeles en 2 mil colores en 16 millones y 150 millas de polígonos texturizados. Su principal innovación fue su controlador con un stick analógico. También es la última consola doméstica que utiliza cartuchos ROM para almacenar sus juegos.</text>
+<text>La Nintendo 64 es una consola doméstica lanzada en 1996, creada por Nintendo en colaboración con Silicon Graphics. Fue la última de las consolas de quinta generación en ser lanzada, compitiendo con Saturn y PlayStation 1. Equipado con un procesador de 93 Mhz, dos GPU de 64 Mhz y 4 MB de RAM ampliable a 8, muestra 640x480 píxeles de 2 mil colores en 16 millones, capaz de desplegar 150 millas de polígonos texturizados. Su principal innovación fue su control con un stick analógico. También fue la última consola doméstica que utilizaba cartuchos ROM para almacenar sus juegos.</text>
 		</text>
 		
 	</view>

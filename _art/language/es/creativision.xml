@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>VTech
-Videoconsola de sobremesa
-Segundo
+Consola de sobremesa
+Segunda
 1981
 Cartucho
-Teclado de palo y membrana</text>
+Joystick, teclado de membrana</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El VTech CreatiVision es un híbrido de consola de computadora y videojuegos de segunda generación producido por VTech en 1981. Esta unidad híbrida es similar en concepto a las computadoras de nivel básico. Tiene una CPU Rockwell 6502 de 8 bits con una velocidad de 2 MHz, 1 KB de RAM y 16 KB de memoria de video para una resolución gráfica de 256 x 192 con 16 colores y 32 sprites. Cuenta con 2 controladores integrados, con teclado de membrana y joystick.</text>
+<text>El VTech CreatiVision es un híbrido de consola de computadora y videojuegos de segunda generación producido por VTech en 1981. Esta unidad híbrida es similar en concepto a las computadoras de nivel básico. Tiene una CPU Rockwell 6502 de 8 bits con una velocidad de 2 MHz, 1 KB de RAM y 16 KB de memoria de video para una resolución gráfica de 256x192 con 16 colores y 32 sprites. Cuenta con 2 controladores integrados, con teclado de membrana y joystick.</text>
 		</text>
 		
 	</view>

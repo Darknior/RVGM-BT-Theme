@@ -8,15 +8,15 @@
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
 Consola portátil
-Cuarto
+Cuarta
 1989
 Cartucho
-Controlador de 2 botones</text>
+Joypad + 2 botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Game Boy es una consola portátil de 8 bits desarrollada por Nintendo en 1989. Es la primera consola portátil de la línea Game Boy y fue diseñada por Gunpei Yokoi y Nintendo Research & Development, el mismo equipo que diseñó la serie Game & Watch, así como muchos juegos populares en NES. Tiene un procesador de 4 MHz, 8 KB de RAM, muestra una resolución de 160x144 en 4 tonos de gris y su batería era capaz de ofrecer una autonomía de 10 horas de duración. El juego originalmente incluido en el paquete exprimió el famoso Tetris. En 1998 se lanzará una versión 'Light' con retroiluminación integrada.</text>
+<text>Game Boy es una consola portátil de 8 bits desarrollada por Nintendo en 1989. Es la primera consola portátil de la línea Game Boy y fue diseñada por Gunpei Yokoi y Nintendo Research & Development, el mismo equipo que diseñó la serie Game & Watch, así como muchos juegos populares en NES. Tiene un procesador de 4 MHz, 8 KB de RAM, muestra una resolución de 160x144 en 4 tonos de gris y su batería era capaz de ofrecer una autonomía de 10 horas. El juego originalmente incluido con la consola fue el famoso Tetris. En 1998 se lanzó una versión 'Light' con retroiluminación integrada.</text>
 		</text>
 		
 	</view>

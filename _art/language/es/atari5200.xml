@@ -7,7 +7,7 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Atari
-Videoconsola de sobremesa
+Consola de sobremesa
 Segunda
 1982
 Cartucho
@@ -16,7 +16,7 @@ Joystick analógico, Paddles</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Atari 5200 es una consola de videojuegos lanzada en 1982, creada para competir con las consolas de Coleco y Mattel, en ese momento la más poderosa y la más barata del mercado. Es esencialmente un Atari 400 sin teclado que, a pesar de contar con 4 puertos serie para joysticks, resulto ser un fracaso comercial. Equipado con un procesador de 1.79 Mhz, 16 KB de RAM y un sonido de 4 vías, muestra 320x192 píxeles en 128 colores (16 tonos en 8 niveles de intensidad). También contaba con un nuevo joystick revolucionario con un mango analógico, un boton de disparo automático y teclas de función, Inicio, pausa y reinicio.</text>
+<text>La Atari 5200 es una consola de videojuegos lanzada en 1982, creada para competir con las consolas de Coleco y Mattel, en ese momento la más poderosa y la más barata del mercado. Es esencialmente un Atari 400 sin teclado que, a pesar de contar con 4 puertos serie para joysticks, resulto ser un fracaso comercial. Equipado con un procesador de 1.79 Mhz, 16 KB de RAM y un sonido de 4 vías, muestra 320x192 píxeles en 128 colores. También contaba con un nuevo joystick revolucionario con un mango analógico, un boton de disparo automático y teclas de función, Inicio, pausa y reinicio.</text>
 		</text>
 		
 	</view>

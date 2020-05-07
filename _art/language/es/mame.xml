@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Multiples
-Cabinas videojuegos arcade
+Sistema arcade
 Todas
 1971 / 20xx
-Placas de PCB), CD-Rom
-Stick arcade y otros</text>
+Placas de PCB, CD-Rom
+Joystick arcade y otros</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MAME, acrónimo que significa 'Emulador de máquina de arcade múltiple', es un emulador cuyo objetivo es reproducir fielmente el funcionamiento de los juegos de arcade para preservar la historia de los videojuegos. MAME está disponible en casi todas las plataformas gracias a Libretro y la primera versión pública de Nicola Salmoria fue lanzada el 5 de febrero de 1997. La versión 0.78 de 2003 es la versión más liviana capaz de ejecutarse en sistemas pequeños. Y el 'Plus' significa que se ha actualizado enormemente en términos de sus controladores para administrar muchos más juegos que el original.</text>
+<text>MAME, acrónimo que significa 'Emulador Múltiple de Máquinas Arcade', es un emulador cuyo objetivo es reproducir fielmente el funcionamiento de los juegos de arcade para preservar la historia de los videojuegos. MAME está disponible en casi todas las plataformas gracias a Libretro y la primera versión pública de Nicola Salmoria fue lanzada el 5 de febrero de 1997. La versión 0.78 de 2003 es la versión más liviana capaz de ejecutarse en sistemas pequeños. En cambio la versión 'Plus' se ha actualizado enormemente en términos de compatibilidad para correr más juegos que el original.</text>
 		</text>
 		
 	</view>

@@ -7,7 +7,7 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Multiples
-Cabinas videojuegos arcade
+Sistema arcade
 Todas
 1971 / 20xx
 Placas de PCB
@@ -16,7 +16,7 @@ Stick arcade y otros</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Esta es una continuación de Final Burn Alpha creado en 2004 por TrebbleWinner, basado en Fianl Burn creado en 2000 por Dave y convertido en FB-Neo en 2019. Este proyecto se ha convertido con el tiempo en uno de los mejores emuladores Arcade disponibles, gracias a Lantus y IQ_132 por sus diversas optimizaciones. Se actualiza con mucha frecuencia y emula diferentes sistemas como MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board of Sega y una lista completa de Cave Toaplan, Taito, Psikyo y Kaneko. Al igual que MAME, ofrece las características de sombreadores gráficos, etc.</text>
+<text>Esta es una continuación de Final Burn Alpha creado en 2004 por TrebbleWinner, basado en Fianl Burn creado en 2000 por Dave y convertido en FB-Neo en 2019. Este proyecto se ha convertido con el tiempo en uno de los mejores emuladores Arcade disponibles, gracias a Lantus y IQ_132 por sus diversas optimizaciones. Se actualiza con mucha frecuencia y emula diferentes sistemas como MVS, CPS1, CPS2, System 16, System 18, X Board y placas de Sega. Al igual que MAME, ofrece las características de sombreadores gráficos, etc.</text>
 		</text>
 		
 	</view>
