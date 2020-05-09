@@ -123,6 +123,7 @@
 		<image name="info" extra="true">
 			<path>./../empty.png</path>
 			<path>./../../${system.theme}/info.png</path>
+			<path>./../../${system.theme}/info-${langue}.png</path>
 			<zIndex>21</zIndex>
 		</image>
 		
