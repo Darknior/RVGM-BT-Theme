@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Videoconsola sobremesa
+Quinta
+1994
+CD-Rom
+Joypad 9 botones</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lanzado en 1994, Saturn es la consola de 32 bits de Sega. Siendo su sexta consola, recibe el nombre del sexto planeta en el sistema solar. Fruto de los esfuerzos de Sega of Japan que compitió con Sega of America, que desarrolló el 32X, tiene 11 procesadores, 2 MB de RAM y una pantalla en 320x240, 640x240 hasta 60 fps. Genera hasta 300,000 polígonos texturizados, 750,000 sombreados por segundo, tiene 32 voces PCM y FM para sonido. A pesar de su fracaso comercial porque es complejo de programar, tiene juegos de culto como Nights into Dreams, Sega Rally, ¡pero no Sonic!</text>
+		</text>
+		
+	</view>
+	
+</theme>

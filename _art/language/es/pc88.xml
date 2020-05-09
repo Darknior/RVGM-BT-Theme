@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Corporation,
+Ordenador personal
+Cuarto
+1981
+Disquete, disco duro
+Joypad, teclado, ratón</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La PC-88 (por su nombre completo NEC PC-8801) es una microcomputadora japonesa creada por NEC en 1981. Nunca se vendió fuera de Japón, donde tuvo mucho éxito. Para su época, ofrecía una pantalla de alta definición en 640x200, pero solo podía mostrar 8 colores simultáneamente en una paleta de 512, con capacidades de sonido muy avanzadas. Varias compañías conocidas como Enix, Square, Sega, Nintendo han desarrollado un software exclusivo para esta plataforma, como Dragon Slayer, Snatcher, Super Mario Bros. Especial (niveles perdidos), Thexder, XZR II (Exilio) e Ys.</text>
+		</text>
+		
+	</view>
+	
+</theme>

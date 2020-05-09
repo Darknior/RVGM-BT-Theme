@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Ports & Games engine
+All
+1999
+Files
+Joystick, Keyboard, Mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>There are a lot of poorly known amateur games. They are either hijackings, parodies or simply unofficial continuations of a cult universe to prolong the playful video experience. They generally use the original graphics like the exceptional Zelda from Solarus and Street of Rage from OpenBOR with new stories and a lot of surprises ... Either these are completely new games, which create their own universe on gameplay Existing or not, such as Cave Story or Gudule. For this they create their own graphics and music, often from scratch ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

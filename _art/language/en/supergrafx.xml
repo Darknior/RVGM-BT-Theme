@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Home Electronics
+Home video game console
+Fourth
+1989
+HuCard
+2 button Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>SuperGrafx is a video game console manufactured by NEC Corporation and launched in December 1989 in Japan. This is an improved version of the PC-Engine (CoreGrafX). It keeps the same processor at 8Mhz, but adds four times more memory. As well as a second video chip with its own memory and a controller to combine them in different ways. The maximum resolution is 512x242 (games use 256x242) in 126 colors out of 512 and the sound remains in 6 stereo voices. Only 5 games will be released on this medium, including Ghouls'n Ghosts and 1941 Counter Attack.</text>
+		</text>
+		
+	</view>
+	
+</theme>

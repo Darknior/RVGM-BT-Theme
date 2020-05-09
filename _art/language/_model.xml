@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Console de salon
+Cinquième
+1994
+CD-Rom
+Manette 9 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 1994, la Saturn est la console 32 bits de Sega. Étant sa sixième console, elle reçoit le nom de la sixième planète du système solaire. Fruit des efforts de Sega of Japan alors en concurrence avec Sega of America qui développait la 32X, elle possède 11 processeurs, 2 Mo de RAM et un affichage en 320x240, 640x240 jusqu'à 60 ips. Elle génère jusqu'à 300 000 polygones texturés, 750 000 ombrés par seconde, dispose de 32 voix PCM et FM pour le son. Malgré son échec commercial car complexe à programmer elle possède des jeux cultes comme Nights into Dreams mais aucun Sonic!</text>
+		</text>
+		
+	</view>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Home video game console
+Fifth
+1994
+CD-Rom
+9 buttons joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 1994, the Saturn is Sega's 32-bit console. Being its sixth console, it receives the name of the sixth planet of the solar system. Fruit of the efforts of Sega of Japan then in competition with Sega of America which developed the 32X, it possesses 11 processors, 2 MB of RAM and a display in 320x240, 640x240 up to 60 fps. It generates up to 300,000 textured polygons, 750,000 shaded per second, and has 32 PCM and FM voices for sound. Despite its commercial failure as complex to program it has cult games like Nights into Dreams, Sega Rally, Panzer Dragoon, but no Sonic!</text>
+		</text>
+		
+	</view>
+	
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Videoconsola sobremesa
+Quinta
+1994
+CD-Rom
+Joypad 9 botones</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lanzado en 1994, Saturn es la consola de 32 bits de Sega. Siendo su sexta consola, recibe el nombre del sexto planeta en el sistema solar. Fruto de los esfuerzos de Sega of Japan que compitió con Sega of America, que desarrolló el 32X, tiene 11 procesadores, 2 MB de RAM y una pantalla en 320x240, 640x240 hasta 60 fps. Genera hasta 300,000 polígonos texturizados, 750,000 sombreados por segundo, tiene 32 voces PCM y FM para sonido. A pesar de su fracaso comercial porque es complejo de programar, tiene juegos de culto como Nights into Dreams, Sega Rally, ¡pero no Sonic!</text>
+		</text>
+		
+	</view>
+	
+</theme>

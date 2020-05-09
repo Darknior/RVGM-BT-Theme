@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Senile Team, Chronocrash
+Motor de Juegos 2D
+28xx, 3400, 4432, 6412
+2005
+Fichero PAK
+Joystick, teclado</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Senile Team publicó en 2004 Beats of Rage, un beat'em up gratuito inspirado en la serie Streets of Rage de SEGA que utiliza los sprites de la serie King of Fighters. Distribuyen rápidamente un paquete que permite a cualquier persona interesada crear su propio modo con el motor BOR. En 2005, Kirby2000 le pidió al Equipo Senil que distribuyera el código fuente. Aceptan y nace OpenBOR. El desarrollo continúa hoy por una comunidad entera en el sitio de Lavalit. El motor cada vez más potente ve cada vez más juegos locos cada año.</text>
+		</text>
+		
+	</view>
+	
+</theme>

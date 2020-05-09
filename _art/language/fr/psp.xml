@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Console portable
+Septième
+2004
+UMD, Memory Stick
+Joypad + Stick & 7 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La PlayStation Portable (ou PSP) est la première console de jeux vidéo portable de sony, commercialisé entre 2004 et 2014. Elle marque un tournant dans l’histoire des consoles portable en proposant une qualité d’image et des capacités générales approchant celle de la PlayStation 2, une console de salon. Le dernier modèle sorti sera la PSP Go en octobre 2009, avec son écran coulissant, plus de mémoire et une liaison Bluetooth. Elle dispose d’un processeur 32 bits cadencé à 333 Mhz, de deux processeurs graphiques 3D et elle est capable en natif de lire le H.264 sur son écran 16/9.</text>
+		</text>
+		
+	</view>
+
+</theme>

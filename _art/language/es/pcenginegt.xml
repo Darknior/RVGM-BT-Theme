@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Home Electronics
+Consola portatil
+Cuarta
+1990
+HuCard
+Joypad 2 botones</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>El PC-Engine GT o Turbo GT (llamado TurboExpress en los Estados Unidos) es una consola portátil fabricada por NEC en 1991. En realidad, es un PC-Engine portátil equipado con una pantalla LCD a color con matriz activa 6.6 centímetros. Es capaz de ejecutar todos los juegos de PCE y el renderizado en su pantalla es suntuoso, siguió siendo durante mucho tiempo la más potente de las consolas portátiles muy por delante de Lynx, Game Boy y GameGear. Sus únicas fallas son, de hecho, su autonomía, 6 baterías LR6 para solo 3 horas de juego y un peso mayor que el de Game Boy de 435 gramos.</text>
+		</text>
+		
+	</view>
+	
+</theme>

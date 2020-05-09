@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console de salon
+Troisième
+1983
+Cartouche
+Manette 2 boutons, pistolet</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Nintendo Entertainment System (NES) est une console 8 bits de Nintendo sortie en 1985, l’équivalent de la Family Computer (Famicom) au Japon sortie en 1983. Elle est équipée d’un processeur 8 bit à 1.66 Mhz en PAL, 2 Ko de RAM, une résolution de 256x240 pixels en 52 couleurs et une sortie audio sur 5 canaux. Le succès de la console fut énorme et aida à re-dynamiser l'industrie du jeu vidéo après le krach de 1983, et fixa les normes pour les consoles suivantes du game design aux procédures de gestion, grâce à Super Mario Bros, mais aussi les Castlevania, Zelda, Megaman, etc...</text>
+		</text>
+		
+	</view>
+	
+</theme>

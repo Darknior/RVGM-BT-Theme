@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal Computer
+Quarta Generazione
+1987
+Floppy disk, IDE hard drive
+Joystick, mouse, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Amiga 500 (A500) è il primo computer entry-level a 16/32 bit di Commodore. Rilasciato nel 1987, è in diretta concorrenza con l'Atari 520 ST. L'Amiga 500 utilizza un processore Motorola 68000 con clock a 7 MHz, 512 KB di RAM di serie, un chip Denise per la visualizzazione e un chip Paula per gestire il suono su 4 canali (Chris Hülsbeck riuscirà a montare fino a 8). Può originare la visualizzazione a 320 × 256 pixel e 32 colori o 640 × 512 pixel e 16 colori, ma alla fine del 1989 con modalità speciali arrivano fino a 128 colori sullo schermo. Tra giochi di culto ricordiamo Shadow of the Beast.</text>
+		</text>
+		
+	</view>
+
+</theme>

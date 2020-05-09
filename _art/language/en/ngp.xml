@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Handheld game console
+Fifth
+1998
+Cartridge
+2 buttons joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Neo-Geo Pocket is the first handheld console from SNK. She left Japan in late 1998 and was arrested in 1999 when the Neo-Geo Pocket Color arrived. However there was no western release, being exclusive to Japan. Only nine games are out, but it is compatible with NGP color games. It has 40 hours of battery life for only two AA batteries. It has a 16-bit 6Mhz processor, 16K of RAM, a 256x256 display in 20 gray levels among 4096 and a 4-channel sound. Despite its commercial failure some important games have come out such as Samurai Shodown and King of Fighters R-1.</text>
+		</text>
+		
+	</view>
+	
+</theme>

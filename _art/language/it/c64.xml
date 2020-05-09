@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore
+Personal computer
+Terza Generazione
+1982
+Cartucce, cassette, floppy
+Joystick, keyboard, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il Commodore 64 è un Personal Computer progettato dalla ditta di Jack Tramiel nel 1982. Rimane il modello più venduto del suo decennio con 13 milioni di copie vendute in tutto il mondo. Utilizza un microprocessore 8-bit 6510  ed ha 64 kilobytes di RAM. Il suo chip grafico, VIC-II, offre 16 colori e funzionalità di scolling e sprite hardware. Il chip audio, SID, ha tre voci, diverse forme d'onda, modulazioni sonore e capacità di filtraggio. È molto avanzato per i suoi tempi. Il suo designer, Bob Yannes, sarà il co-fondatore della società di sintetizzatori Ensoniq.</text>
+		</text>
+		
+	</view>
+
+</theme>

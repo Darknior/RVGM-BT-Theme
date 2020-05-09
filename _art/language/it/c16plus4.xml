@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Personal Computer
+Terza Generazione
+1984
+Cassette, floppy disk
+Joystick, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Rilasciato nel 1984 per sostituire il VIC-20, la gamma Commodore C116, C16 e Plus / 4 si rivolge al mercato entry-level. Un processore MOS7501 o 8501 subentra al 6502 ed è più veloce del 75%. Tuttavia, è incluso solo un coprocessore TED per audio e video. Inoltre, diversamente dal C64, su queste macchine non esiste alcuna accelerazione hardware. Plus / 4 ha 32k di RAM e integra quattro applicazioni per ufficio. Questo progetto fu un fallimento commerciale negli Stati Uniti e si interruppe nel 1985 anche se copie furono vendute in Europa e specialmente ad est, dietro la cortina di ferro.</text>
+		</text>
+		
+	</view>
+
+</theme>

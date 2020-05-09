@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Borne d’Arcade
+Quatrième
+1990
+Cartouche ROM
+Arcade stick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Neo Geo MVS est un système d'arcade lancée en 1990 par la société japonaise SNK. Il fut commercialisée en tant que 24 bits et pouvait affiche une résolution de 320×224 en 4096 couleurs parmi 65536. Le MVS offre aux salles d’arcade la possibilité de placer jusqu'à six cartouches dans une seule borne. La console est strictement identique et nomé AES. Il est connue pour sa ludothèque de jeu d'arcade 2D de qualité, dont une grande partie sont des jeux de combat. Les exclusivités NG-CD ont été convertis en ROM, on y perd les musiques originales mais on y gagne quelques corrections de bugs.</text>
+		</text>
+		
+	</view>
+	
+</theme>

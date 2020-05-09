@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Portages & Moteurs
+Toutes
+1999
+Exécutables
+Manette, Clavier, Souris</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il existe énormément de jeux amateurs mal connus. Ce sont soit des détournements, des parodies ou simplement des suites non officielles d’univers culte pour en prolonger l’expérience vidéo ludique. Ils utilisent alors en général les graphismes d’origine comme les exceptionnel Zelda de Solarus et Street of Rage de OpenBOR avec de nouvelles histoires et pas mal de surprises... Soit ce sont des jeux complètement nouveaux, qui créent leur propre univers sur un gameplay existant ou pas, tel que Cave Story ou encore Gudule. Pour cela ils créent leurs propres graphismes et musiques...</text>
+		</text>
+		
+	</view>
+
+</theme>

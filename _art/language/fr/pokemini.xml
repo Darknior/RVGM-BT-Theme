@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console portable
+Sixième
+2002
+Cartouches
+Joypad 2 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Pokémon-mini fabriqué et distribué par Nintendo en 2001, est la plus petite console de jeux à cartouches existante. C'est une console portable 8 bit, elle pèse 70 g et dispose d’une autonomie de 60 heures pour une seule pile LR03.  Elle dispose d’un écran noir et blanc, une horloge, un vibreur, un détecteur de choc et d'une connexion infra-rouge permettant le jeu multijoueur. Elle est conçue pour les jeunes enfants, les jeux officiels sont simples et courts, et tous ont pour thème l'univers des Pokémon. Il existe différents coloris, bleu (Axoloto), mauve (Lippouti) et vert (Germignon).</text>
+		</text>
+		
+	</view>
+
+</theme>

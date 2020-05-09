@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiples
+Ports y Motores de juegos
+Todas
+1999
+Ejecutables
+Joystick, teclado y ratón</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Hay muchos juegos de aficionados poco conocidos. Son secuestros, parodias o simplemente continuaciones no oficiales de un universo de culto para prolongar la experiencia de video lúdico. Generalmente usan los gráficos originales como el excepcional Zelda de Solarus y Street of Rage de OpenBOR con nuevas historias y muchas sorpresas ... O bien, estos son juegos completamente nuevos, que crean su propio universo en el juego Existente o no, como Cave Story o Gudule. Para esto crean sus propios gráficos y música, a menudo desde cero ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

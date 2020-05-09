@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Console de salon
+Cinquième
+1994
+CD-Rom
+Manette 9 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 1994, la Saturn est la console 32 bits de Sega. Étant sa sixième console, elle reçoit le nom de la sixième planète du système solaire. Fruit des efforts de Sega of Japan alors en concurrence avec Sega of America qui développait la 32X, elle possède 11 processeurs, 2 Mo de RAM et un affichage en 320x240, 640x240 jusqu'à 60 ips. Elle génère jusqu'à 300 000 polygones texturés, 750 000 ombrés par seconde, dispose de 32 voix PCM et FM pour le son. Malgré son échec commercial car complexe à programmer elle possède des jeux cultes comme Nights into Dreams mais aucun Sonic!</text>
+		</text>
+		
+	</view>
+	
+</theme>

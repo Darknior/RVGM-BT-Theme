@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Arcade System Board
+Fourth
+1990
+ROM Cartridge
+Arcade stick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Neo Geo MVS is an arcade system launched in 1990 by the Japanese company SNK. It was marketed as 24-bit and could display a resolution of 320 × 224 in 4096 colors among 65536. The MVS offers arcades the ability to place up to six cartridges in a single terminal, an economic consideration for operators with limited floorspace, as well as saving money in the long-run. The console is strictly identical and named AES. It is known for its quality 2D game library, much of which is fighting games. The exclusives NG-CD were converted into ROM, we lose the original music but we gain some bug fixes.</text>
+		</text>
+		
+	</view>
+	
+</theme>

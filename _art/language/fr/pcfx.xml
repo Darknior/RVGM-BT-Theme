@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Corporation
+Console de salon
+Cinquième
+1994
+CD-Rom
+Manette 6 boutons, souris</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 1994, la PC-FX qui succède à la SuperGrafX est la console 32-bit de NEC et fut uniquement commercialisé au Japon. Ses jeux sont au format CD-ROM et la manette ressemble beaucoup à la manette 6 boutons de la Megadrive. Elle dispose d’un processeur à 21 Mhz, 2 Mo de RAM, d’un affichage de 256x240 à 341x240 pixels en 16 millions de couleurs et 8 canaux pour le son. Contrairement aux autres consoles de sa génération elle n’avait pas de système 3D et misait tout sur le Full Motion Video et les capacités de jeu 2D.  Il est sorti 62 jeux sur la machine dont beaucoup sont des Hentai.</text>
+		</text>
+		
+	</view>
+	
+</theme>

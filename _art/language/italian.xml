@@ -6,15 +6,77 @@
 		
 		<langue>it</langue>
 		
-<sysLabel>Fabbricante
+		<yes>Si</yes>
+		<no>No</no>
+		<thumbnail>Miniatura</thumbnail>
+		<image>Immagine</image>
+
+		<subset.colorset>Colore Tema</subset.colorset>
+		<colblue>Blue</colblue>
+		<colred>Rosso</colred>
+		<colorange>Arancio</colorange>
+		<colyellow>Biallo</colyellow>
+		<colgreen>Verde</colgreen>
+		
+		<subset.themeSwapColored>Progettazione di icone di sistema</subset.themeSwapColored>
+		<colgray>Grigio</colgray>
+		<colored>Colorato</colored>
+		
+		<subset.menuOpacity>Aspetto del menu principale</subset.menuOpacity>
+		<subset.systemlistOpacity>Aspetto dell'elenco di sistema</subset.systemlistOpacity>
+		<subset.gamelistOpacity>Aspetto della Lista Giochi</subset.gamelistOpacity>
+		<translucent>Traslucido</translucent>
+		<opaque>Opaco</opaque>
+		
+		<subset.systemView>Vista del Menu di Sistema</subset.systemView>
+		<menuVertRight>Verticale Destra</menuVertRight>
+		<menuVertLeft>Verticale Sinistra</menuVertLeft>
+		<menuHorizBot>Fondo orizzontale</menuHorizBot>
+		<menuHorizBotVideo>Orizzontale con video</menuHorizBotVideo>
+		
+		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
+
+		<subset.systemSwapVideo>Anteprima Video di Sistema</subset.systemSwapVideo>
+		<swapVideoRandom>Gameplay casuale</swapVideoRandom>
+		<swapVideoCommercial>TV commerciale</swapVideoCommercial>
+		<swapVideoHide>Niente</swapVideoHide>
+		
+		<subset.gamelistInfoColor>Design un Tema</subset.gamelistInfoColor>
+		<gamelistInfoLight>Acceso</gamelistInfoLight>
+		<gamelistInfoDarth>Cupo</gamelistInfoDarth>
+		
+		<subset.swapVideoEffect>Effetto Video</subset.swapVideoEffect>
+		<videoEffectDefault>Nessuno</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+		
+		<videoFullscreenViewName>Fullscreen Video</videoFullscreenViewName>
+		<gridDetailViewName>Copertina + dettaglio</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Griglia Titleshot</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Griglia Screenshot</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista Marquee (beta)</marqueeDetailViewName>
+		
+<sysLabel>Produttore
+Tipo
 Genere
-Generazione
-Pubblicazione
+Pubblicato
 Media
-Controllore
+Controller
 
 Totale</sysLabel>
-		
+
 	</variables>
 	
 </theme>
+
+<!--
+
+favorites    = preferiti
+2 players    = 2 giocatori
+4 players    = 4 giocatori
+last played  = ultimo giocato
+all games    = tutti i giochi
+
+Never played = Mai giocato
+Collections  = Collezioni
+
+-->

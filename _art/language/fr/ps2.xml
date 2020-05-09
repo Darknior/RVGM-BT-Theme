@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Console de salon
+Sixème
+2000
+DVD-Rom, CD-Rom, USB
+DualShock 2, EyeToy</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La PS2, console 128 bits de Sony sortie en 2000, est la plus vendue de l'histoire des jeux vidéo. Une version Slim sorti fin 2004. Dotée du processeur Emotion Engine cadencé à 150 Mhz, secondé de deux autre sous processeurs, 32 Mb de RAM, 4 Mb de RAM vidéo, d'un disque dur et d'une connexion internet, elle peut calculer 16 millions de polygones par seconde. Elle affiche du 480p 16/9 en 720×480 et 4/3 en 640×480 pixels. Sortie son digitale restituant du DTS-ES. Elle présente un catalogue de plus de 10 035 jeux et des franchises phares comme God of War, Ratchet & Clank et Jak’n Daxter.</text>
+		</text>
+		
+	</view>
+	
+</theme>

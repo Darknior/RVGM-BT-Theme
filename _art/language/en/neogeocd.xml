@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Videoconsola sobremesa
+Cuarta
+1994
+CD-Rom
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Neo-Geo CD is a video game console launched in 1994 in Japan by SNK. It is based on the architecture of the Neo-Geo, and uses CD-ROMs instead of cartridges, with the aim to reduce the price of games. This advantage is also its main drawback, its transfer speed of 150 kio / s (single speed) associated with the small amount of available RAM (56Mo) impose significant loading time during the game. Conversion of game cartridges have been amputated from some graphics and animations to be lighter to load. As a result, the only interest of this system are its few exclusives games or with music remix.</text>
+		</text>
+		
+	</view>
+	
+</theme>

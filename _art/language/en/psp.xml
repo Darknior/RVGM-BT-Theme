@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Handheld game console
+Seventh
+2004
+UMD, Memory Stick
+Joypad + Stick & 7 buttons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The PlayStation Portable (PSP) is a handheld game console developed by Sony and marketed between 2004 and 2014. It marks a turning point in the history of portable consoles by providing image quality and general capabilities approaching the PlayStation 2, a home console. The latest model released will be the PSP Go in October 2009, with its sliding screen, more memory and a Bluetooth connection. It has a 32-bit processor, two 3D graphics processors and it’s able to read H.264 on its 16/9 screen. It was the first real competitor to Nintendo's handheld domination.</text>
+		</text>
+		
+	</view>
+	
+</theme>
