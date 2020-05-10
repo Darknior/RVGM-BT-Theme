@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Videoconsola sobremesa
+Séptimo
+2006
+CD-Rom, CD-Mini, SDC
+Gamepad, Wii mote, Nunchuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lanzada en 2006, la Wii es la consola doméstica más vendida de su generación con 101,63 millones de copias. Tiene la particularidad de utilizar un acelerómetro capaz de detectar la posición, orientación y movimientos en el espacio del joystick. Tiene un procesador de 729 Mhz, un chip gráfico ATI de 243 Mhz, 88 MB de RAM, 512 MB de memoria flash y una conexión a Internet. Muestra 640×480 60 Hz o 768x576 50 Hz y sonido Dolby Pro Logic 2. Su catálogo de más de 1220 juegos ofrece juegos como MadWorld, Muramasa, Xenoblade, Monster Hunter y todos los juegos de  Nintendo.</text>
+		</text>
+		
+	</view>
+	
+</theme>

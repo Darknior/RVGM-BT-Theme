@@ -5,11 +5,8 @@
 	<view name="system">
 		
 		<!-- Sytem TEXTS -->
-		<text name="sys_label" extra="true">
-<text> </text>
-		</text>
-		<text name="sys_info" extra="true">
-<text> </text>
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
 		</text>
 
 		<text name="sys_description" extra="true">

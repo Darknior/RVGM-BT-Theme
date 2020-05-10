@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Interton
+Console de salon
+Deuxième
+1978
+Cartouche
+Joystick avec 14+2 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Interton VC4000 est une console de jeux vidéo 8-bits à cartouches produite par Interton et sortie en 1977 en Allemagne. La console est assez peu connue hors du pays, mais de nombreux systèmes aux logiciels compatibles peuvent être trouvés sous le nom de la "1292 Advanced Programmable Video System" sortie en 1976. Les consoles ne sont pas toutes compatibles entre-elles en raison de différences dans les formes et les dimensions des emplacements de cartouches.</text>
+		</text>
+		
+	</view>
+	
+</theme>

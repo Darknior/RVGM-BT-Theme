@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sinclair Research, Timex
+Personnal computer
+First
+1981
+Tape
+Keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The ZX81 is an 8-bit computer designed by Sinclair Research and marketed by Timex Corp. in March 1981. Sold at a reduced price, it’s based on a Zilog Z80A microprocessor clocked at 3.25 MHz and had 1 to 16 KB of RAM. The display was in black and white (24 lines of 32 characters) 64x48 pixels on a standard TV, without sound but with an extra-flat sensitive keyboard membrane. The Chroma 81 interface released in 2014 allows the display of 15 colors, the use of sound and facilitates the WRX graphics support which allows the display of pseudo-high resolution games in 256x192.</text>
+		</text>
+		
+	</view>
+	
+</theme>

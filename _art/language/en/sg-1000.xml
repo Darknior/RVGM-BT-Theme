@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Home video game console
+Third
+1983
+Cartridge, tape, Sega card
+2 buttons joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The SG-1000 is the first game console produced by Sega and released in Japan on July 15, 1983. It was released at the same time as the SC-3000 computer, which is compatible with all its applications and games. By adding a keyboard it can be used as a computer and with an adapter cartridge it can read the 'Sega My Card' game cards. It is equipped with a Zilog Z80 8bits 3.58 MHz processor, 4 KB of RAM and is able to display up to 16 colors. Its game library has 29 Sega My Card games and 68 cartridge games, 26 of which require the keyboard connection.</text>
+		</text>
+		
+	</view>
+	
+</theme>

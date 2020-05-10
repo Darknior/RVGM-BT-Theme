@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SIMIV (Thomson)
+Ordenador personal
+Segunda
+1984 / 1986
+Cartucho, disquete, casete
+Joystick, teclado, Lápiz óptico</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MO5 y TO7 fueron creados en 1984 por la compañía francesa Thomson, con motivo del plan 'Computing for All' destinado a equipar escuelas y hogares. Viene con un reproductor de cassette y un lápiz óptico que le permite dibujar directamente en el televisor. Le seguirá en 1986 MO6 en el rango particular y TO9 en 1985 y luego TO8 1986 en el juego profesional. Este último está equipado con un Motorola 6809E a 1 MHz, 256 a 512 KB de RAM, puede mostrar un juego en 160×200 16 colores entre 4096 en 25 cuadros por segundo y música digital en tres voces, como en Mission Liftoff.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Video game console add-on
+Fourth
+1994
+Cartridge, CD-Rom
+Joypad with 3 or 6 button</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The 32X is an extension for the Megadrive / Genesis designed to counteract the Jaguar's release. Plugged into the cartridge port, it adds 256 KB of RAM and the 32-bit processor at 23 Mhz multiplies its power by 40. The Megadrive finally has an improved palette of 32 thousand colors, a rendering of 50 thousand polygons second, 3D mapped and rotation / distortion / sprite zoom. As the Saturn's output is too close, only 34 games were released on the cartridge and 6 more on CD. It's a shame when you see pearls like Knuckles Chaotix, Kolibri and Virtua Racing.</text>
+		</text>
+		
+	</view>
+	
+</theme>

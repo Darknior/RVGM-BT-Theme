@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Interton
+Home video game console
+Second
+1978
+Cartridge
+14+2 buttons 2 axes joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The VC 4000 is an early 8-bit cartridge-based game console released in Germany in 1977 by Interton.  The console is quite obscure outside Germany, but many software compatible systems can be found in many European countries under the name of "1292 Advanced Programmable Video System" released in 1976. Not every console is compatible with others due to differences in the shapes and dimensions of the cartridge slots, but all of the consoles are software compatible.</text>
+		</text>
+		
+	</view>
+	
+</theme>

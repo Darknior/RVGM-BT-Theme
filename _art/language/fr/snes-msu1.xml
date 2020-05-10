@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo, Sony Computer
+Périphérique console
+Quatrième
+1991 (Prototype)
+CD-Rom, Cartouche
+Manette 6 boutons, pistolet</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Dévoilé en 1991, le Super Disc System est un système de CD-ROM pour la Super Nintendo. En module externe ou modèle autonome, il est équipé d'une puce d'extension MSU1 pour lire le Full Motion Vidéo et la musique de qualité CD. Il est développé en partenariat avec Sony durant 3 ans, avant que Nintendo pour cause d'un désaccord sur les droits de licence des jeux, ne confie le projet à Philips, puis le stope. Une erreur qui conduira Sony à continuer seul pour créer sa Playstation. Redécouvert en 2015, le prototype sera réparé en 2017 et depuis de nombreux jeux sortent pour émulateur.</text>
+		</text>
+		
+	</view>
+	
+</theme>

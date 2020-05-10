@@ -16,7 +16,7 @@ Cartridge
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Game Gear is a portable color game console released in 1990 by Sega to compete with the Nintendo Game Boy. It is so close to its big sister, the Master System, that its toy library is largely made up of game conversions made for the latter that can be used directly with the Master Gear Converter, but it will have its own exclusives like the GG Shinobi. It has a 3.58 Mhz CPU, 22 KB of RAM, and displays 160x144 in 16 colors. However, it never really achieved the expected success because of its autonomy of 4 hours.</text>
+<text>The Game Gear is a portable color game console released in 1990 by Sega to compete with the Nintendo Game Boy. It is so close to its big sister, the Master System, that its toy library is largely made up of game conversions made for the latter that can be used directly with the Master Gear Converter, but it will have its own exclusives like the GG Shinobi. It has a 3.58 Mhz CPU, 8 KB of RAM, and displays 160x144 in 32 colors. However, it never really achieved the expected success because of its autonomy of 4 hours.</text>
 		</text>
 		
 	</view>

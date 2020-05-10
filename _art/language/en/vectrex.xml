@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Smith Engineering
+Home video game console
+Second
+1982
+Cartridge
+Joystick with 4 buttons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released at the end of 1982, the Vectrex is an 8-bit console developed by Smith Engineering. It includes its own monitor unlike other consoles connected to the television. It allows it to display monochrome vector graphics very fine and superior to competing machines that work in bitmap. To overcome the lack of color, all games are provided with a colorful plastic filter to slide in front of the screen. Equipped with its Motorola processor at 1.6 Mhz and 1 KB of RAM, it will be the first console to offer 3D non-textured Hight Resolution graphics and 3D glasses.</text>
+		</text>
+		
+	</view>
+	
+</theme>

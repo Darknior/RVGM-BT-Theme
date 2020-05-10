@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Périphérique console
+Quatrième
+1994
+Cartouche, CD-Rom
+Manette 3 ou 6 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le 32X est une extension pour la Megadrive / Genesis destiné à conter la sortie de la Jaguar. Branché dans le port cartouche, il lui ajoute 256 Ko de RAM et le processeur 32 bits à 23 Mhz multiplie sa puissance par 40. La Megadrive dispose enfin d’une palette améliorée de 32 mille couleurs, d’un rendu de 50 mille polygones seconde, de 3D mappée et de rotation / distorsion / zoom de sprite. La sortie de la Saturn étant trop proche, seulement 34 jeux sont sortis sur cartouche et 6 autres sur CD. C’est vraiment dommage quand on vois des perles comme Knuckles Chaotix, Kolibri et Virtua Racing.</text>
+		</text>
+		
+	</view>
+	
+</theme>

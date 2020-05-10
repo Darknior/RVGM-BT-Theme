@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Home video game console
+Seventh
+2006
+CD-Rom, CD-Mini, SDC
+Controller, Wii mote, Nunchuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 2006, the Wii is the best-selling home console of its generation with 101.63 million copies. It has the particularity of using an accelerometer capable of detecting the position, orientation and movements in the space of the joystick. It has a processor clocked at 729 Mhz, an ATI 243 Mhz graphics chip, 88 MB of RAM, 512 MB of flash memory and an internet connection. It displays 640×480 60 Hz or 768x576 50 Hz and Dolby Pro Logic 2 sound. Its catalog of more than 1220 games offers cult games like MadWorld, Muramasa, Xenoblade, Monster Hunter, The Conduit & all Nintendo games.</text>
+		</text>
+		
+	</view>
+	
+</theme>

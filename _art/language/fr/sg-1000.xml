@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Console de salon
+Troisième
+1983
+Cartouche, cassette, SgCard
+Stick avec 2 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La SG-1000 est la première console de jeux produite par Sega et sort au Japon le 15 juillet 1983. Elle est sortie en même temps que l'ordinateur SC-3000, don’t elle est compatible avec toutes ses applications et jeux. En lui ajoutant un clavier elle peut être utilisée comme un ordinateur et avec une cartouche adaptatrice elle peut lire les cartes de jeux «Sega My Card». Elle est équipée d’un processeur 3.58 Mhz, de 4 Ko de RAM et elle est capable d’afficher jusqu’à 16 couleurs. Sa ludothèque compte 29 jeux SegaCard et 68 jeux cartouches dont 26 exigent la connexion du clavier.</text>
+		</text>
+		
+	</view>
+	
+</theme>

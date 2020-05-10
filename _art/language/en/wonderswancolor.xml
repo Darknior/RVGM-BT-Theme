@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+Handheld game console
+Fifth
+2000
+Cartridge
+2 buttons joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The WSC is an enhancement of the original WonderSwan. It released on December 30, 2000 in Japan and met a fairly successful, taking up to 8% of the Japanese market then dominated by Nintendo and its various GameBoy. The screen displays a maximum of 4096 colors and the battery life goes down to 20 hours. The WonderSwan Color is compatible with all games of the original WonderSwan. In November 2002, Bandai released an evolution of WonderSwan Color under the name of SwanCrystal, benefiting from a better LCD screen. The adventure games only in Japanese are not playable.</text>
+		</text>
+		
+	</view>
+	
+</theme>

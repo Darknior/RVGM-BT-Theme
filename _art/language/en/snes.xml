@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Home video game console
+Fourth
+1990
+Cartridge
+6 buttons gamepad, Light gun</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Super Nintendo, known as the Super Famicom in Japan, is a video game console marketed by the Japanese Nintendo in late November 1990. In North America, the console output with a decidedly different look and is more precisely called Super Nintendo Entertainment System (or SNES). The Super Nintendo console generation 16-bit output to counter the Sega Megadrive (16 bits) and to a lesser extent the NEC PC-Engine and the Neo-Geo AES SNK (16 bits). The Satellaview, or BS-X, was released in 1995 on Japan to download exclusive satellite games on the St.GIGA network.</text>
+		</text>
+		
+	</view>
+	
+</theme>

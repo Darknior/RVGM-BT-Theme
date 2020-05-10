@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Handheld game console
+Fifth
+1995
+Cartridge
+2 buttons gamepad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Virtual Boy created by Gunpei Yokoi, the creator of Game & Watch and Game Boy, is the only real commercial failure of Nintendo. Released in 1995 after the Super Nintendo and before the Nintendo 64, this home console never exceeded the Japanese and American borders. It’s the first 32 bit Nintendo console. The graphics were displayed in red and black via small diodes on two separate screens (one per eye) to give a relief effect. But this pseudo virtual reality was poorly exploited and few games are really immersive. There are still some unique hits like Wario Land & Mario Clash.</text>
+		</text>
+		
+	</view>
+	
+</theme>

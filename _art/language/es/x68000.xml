@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sharp Corporation
+Ordenador personal
+Cuarto
+1987
+Disquete, disco duro
+Joypad, teclado, ratón</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>El Sharp X68000, comúnmente conocido como X68000 o X68k, es una computadora personal de Sharp Corporation comercializada en Japón desde 1987. El último modelo, lanzado en 1993, se ejecutaba en una CPU Motorola 68030 a 25 MHz, con 4 MB de RAM y Un disco duro SCSI de 80 MB. La arquitectura del X68000 lo acercó a los sistemas arcade de la época. En consecuencia, se han desarrollado varios juegos arcade acreditados en esta computadora. El sistema CPS-1 es un derivado independiente del X68000. De ahí las versiones perfectas en píxeles de Final Fight y Ghouls'n Ghosts.</text>
+		</text>
+		
+	</view>
+	
+</theme>

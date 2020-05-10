@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Varios
+Motor de juegos point’n clic
+Todas
+2001
+Ficheros de juegos
+Joystick, teclado, ratón</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lanzado en 2001, ScummVM es una colección de motores de juegos de aventura de apuntar y hacer clic. Originalmente diseñado para jugar solo juegos de aventura LucasArts que usan el sistema SCUMM (VM significa máquina virtual), ahora es compatible con otros motores como el de Sierra On-Line con la serie King's Quest and Leisure Traje a Larry, el de Adventure Soft con Simon the Sorcerer y el de Humongous con sus excelentes juegos para niños Marine Malice y Sam Pyjamas. Finalmente, también se admiten traducciones no oficiales de los juegos.</text>
+		</text>
+		
+	</view>
+	
+</theme>

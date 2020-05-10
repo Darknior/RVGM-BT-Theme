@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Watara
+Consola portatil
+Cuarta
+1992
+Cartucho
+Gamepad 2 botones</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Watara Supervision es una consola portátil monocromática, originaria de Hong Kong, y presentada en 1992 como competidora de Game Boy. Fue distribuido en Francia por la empresa AudioSonic. Los principales argumentos disponibles para la Supervisión fueron su pantalla más grande (6 x 6 cm) y su bajo precio. Sin embargo, la consola no alcanzó el éxito esperado, en particular debido a su biblioteca de software muy pequeña y la calidad de la pantalla.</text>
+		</text>
+		
+	</view>
+	
+</theme>

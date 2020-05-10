@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Point’n clic game engine
+All
+2001
+Games files
+Joystick, keyboard, mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 2001, ScummVM is a collection of «point and click» adventure game engines. Designed initially to play only LucasArts adventure games that use the SCUMM system (VM meaning virtual machine), it now supports other engines such as Sierra On-Line with the King's Quest and Leisure Suit Larry series, Coktel Vision with the Goblins serie, Adventure Soft with the Simon the Sorcerer serie and Humongous with their great children's games Freddi Fish and Pajama Sam series. Unofficial games translations are also supported. Every one can contribute to this engine on their GIT. </text>
+		</text>
+		
+	</view>
+	
+</theme>

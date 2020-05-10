@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console de salon
+Septième
+2006
+CD-Rom, Mini CD, SDC
+Manette, Wii mote, Nunchuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 2006, la Wii est la console de salon la plus vendue de sa génération avec 101,63 millions d'exemplaires. Elle a comme particularité d'utiliser un accéléromètre capable de détecter la position, l'orientation et les mouvements dans l'espace de la manette. Elle est dotée du processeur cadencé à 729 Mhz, une puce graphique ATI 243 Mhz, 88 Mo de RAM, 512 Mo de mémoire flash et une connexion internet. Elle affiche du 640×480 60 Hz ou du 768x576 50 Hz et un son Dolby Pro Logic 2. Son catalogue de plus 1220 jeux propose des jeux cultes comme MadWorld et Muramasa.</text>
+		</text>
+		
+	</view>
+	
+</theme>
