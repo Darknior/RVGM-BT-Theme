@@ -5,7 +5,7 @@
 	<view name="system, basic, detailed, video, grid">
 		
 		<image name="logo">
-			<path>./../../${system.theme}/system-logo-us.png</path>
+			<path>./../../${system.theme}/system-logo.png</path>
 			<path>./../../${system.theme}/system-logo-${langue}.png</path>
 		</image>
 	

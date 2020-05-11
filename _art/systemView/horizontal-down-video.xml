@@ -59,7 +59,7 @@
 
 		<!-- Logo système GRAY pour le CAROUSSEL -->
 		<image name="logo">
-			<path>./../../${system.theme}/system-logo-gray-us.png</path>
+			<path>./../../${system.theme}/system-logo-gray.png</path>
 			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
 		</image>
 		
@@ -100,7 +100,7 @@
 			<pos>0.9651 0.1387</pos>
 			<maxSize>0.375 0.1849</maxSize>
 			<path>./../system-logo.png</path>
-			<path>./../../${system.theme}/system-logo-us.png</path>
+			<path>./../../${system.theme}/system-logo.png</path>
 			<path>./../../${system.theme}/system-logo-${langue}.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>15</zIndex>

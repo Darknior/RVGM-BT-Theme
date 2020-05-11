@@ -405,7 +405,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<origin>0.5 0.5</origin> <!-- Center -->
 			<pos>0.8536 0.161</pos>
 			<maxSize>0.2214 0.1119</maxSize>
-			<path>./${system.theme}/system-logo-gray-us.png</path>
+			<path>./${system.theme}/system-logo-gray.png</path>
 			<path>./${system.theme}/system-logo-gray-${langue}.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>50</zIndex> <!-- Default -->

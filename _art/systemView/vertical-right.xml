@@ -59,7 +59,7 @@
 		
 		<!-- Logo système GRAY pour le CAROUSSEL -->
 		<image name="logo">
-			<path>./../../${system.theme}/system-logo-gray-us.png</path>
+			<path>./../../${system.theme}/system-logo-gray.png</path>
 			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
 		</image>
 		
@@ -82,7 +82,7 @@
 			<maxSize>0.375 0.1849</maxSize>
 			<path>./../system-logo.png</path>
 			<path>./../logos-color/${system.name}.png</path>
-			<path>./../../${system.theme}/system-logo-us.png</path>
+			<path>./../../${system.theme}/system-logo.png</path>
 			<path>./../../${system.theme}/system-logo-${langue}.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>15</zIndex>
@@ -132,7 +132,7 @@
 			<origin>0.5 0.5</origin> <!-- center -->
 			<pos>0.1469 0.4907</pos>
 			<maxSize>0.222 0.2591</maxSize>
-			<path>./../../${system.theme}/console-us.png</path>
+			<path>./../../${system.theme}/console.png</path>
 			<path>./../../${system.theme}/console-${langue}.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>22</zIndex>

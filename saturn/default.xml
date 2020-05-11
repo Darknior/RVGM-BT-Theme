@@ -4,7 +4,7 @@
 	<view name="system">
 		<!-- Rotation AVATAR -->
 		<image name="avatar" extra="true">
-			<rotation>90</rotation>
+			<rotation>-40</rotation>
 		</image>
 	</view>
 
