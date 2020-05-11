@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<text>Esta seção inclui todos os jogos "4 jogadores" da sua coleção, todos os sistemas combinados e listados em ordem alfabética. É perfeito para uma boa festa de jgoos retro com sua família ou quando você recebe amigos ... Inclui todos os jogos de ação jogáveis em equipe, simulações ou jogos de corrida de arcade, beat'em up, jogos esportivos, etc. Pensamos imediatamente em Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe, etc ... Todos os filtros de classificação usuais estão disponíveis para ajudá-lo.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

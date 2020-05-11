@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Apple
+Computador pessoal
+Quarta
+1986
+Disquete de 3½ ou 5¼
+Joystick, teclado, mouse</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O Apple IIgs é o quinto e mais recente modelo da série de computadores pessoais Apple II. Foi comercializado de 1986 a 1993. 'GS' significa Gráficos e Som, referindo-se às suas funções avançadas de multimídia. Inova com uma arquitetura de 16 bits compatível com os anteriores Apple II 8bits e GS / OS, um sistema operacional derivado do Mac OS. 256 KB de RAM expansível para 8 MB, uma unidade de disquete externa de 3½, uma porta de joystick, uma tela de 640x200 em 6 cores ou 320x200 de 16 a 3200 cores, além de um processador de som Ensoniq com 32 canais.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

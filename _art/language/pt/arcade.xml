@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Múltiplo
+Máquina de Arcade
+Todos
+1971 / 20xx
+PCB (Jamma)
+Arcade stick e outros</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>Redescubra todos os grandes clássicos que escreveram a história dos jogos de arcade com MAME e FBA. O Arcade reúne uma seleção dos melhores títulos em qualquer meio. Pacman, Killer Instinct, Space Invaders, Pang ou As Tartarugas Ninjas ...
+Milhares de títulos esperando por você, como nas antigas casas de fliperama!
+Aproveite os muitos benefícios dos emuladores, como jogar jogos raros, usar filtros gráficos, poder salvar, usar códigos de truques, mas principalmente jogar com um crédito ilimitado.</text>			
+		</text>
+		
+	</view>
+
+</theme>

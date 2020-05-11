@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore International
+Computador pessoal
+Quarta
+1992
+Disco rígido, CD-Rom
+Joystick, mouse, teclado</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O Amiga 4000, um computador profissional expansível, foi lançado em 1992. Foi o último desenvolvido pela Commodore antes de sua falência em 1994. Ainda usado em 1996, poderia incluir, como em nossa configuração do Workbench, um processador 68060 com 50Mhz, mínimo de 512MB de RAM, uma placa PowerPC 604e 233Mhz e uma tela RTG (Real Time Graphics) para renderização True Color de 24 bits, além do chipset AGA. Uma unidade de CD-ROM e discos rígidos IDE também foram incluídos. Nosso conjunto de jogos vai de 1996 a 2002.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

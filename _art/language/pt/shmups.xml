@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Múltiplos
+Coleção de Jogos 2D/3D
+Todos
+1980 / 20xx
+Todos os suportes
+Joystick, Teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>O shoot'em up, é um gênero no qual você tem que destruir um grande número de inimigos usando armas cada vez mais poderosas à medida que os níveis progridem. Originalmente de arcades, com Space Invaders, ele passou por um período esplêndido no final de 1980, no início de 1990. O estilo varia de fofo a sério, de fantasia e ficção científica a fatos históricos, pode ser tela fixa, com rolagem única ou multidirecional, em trilhos ou em um tubo. Meados dos anos 90, uma evolução do gênero será o 'manic shooter' ou 'Danmaku' em japonês, um verdadeiro inferno...</text>
+		
+	</view>
+
+</theme>

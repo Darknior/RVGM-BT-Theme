@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Sega
+Console de videogame
+Sexta
+1998
+GD-Rom (1.2 GB)
+Joystick com analógico e 7 botões</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<text>O Dreamcast é um console de videogame doméstico desenvolvido pela Sega para suceder o Saturn. Lançado em novembro de 1998 no Japão, é o primeiro console de sexta geração anterior ao PS2 e XBOX, e oferece uma experiência de jogo online. Infelizmente, ele terminará prematuramente em 2004 e continuará sendo o último console da SEGA por causa de um mau marketing. É equipado com um processador de 32 bits que inclui um coprocessador aritmético de 128 bits, 16 MB de RAM e uma GPU NEC PowerVR2 para exibir 7 milhões de polígonos por segundo e 16 milhões de cores simultaneamente. É perto de uma placa de sistema de arcade NAOMI.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Máquina de Arcade
+Sexta
+1998
+Cartucho de ROM, GD-Rom
+Arcade stick, pistola, volante</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Naomi é um sistema de arcade desenvolvido pela Sega e lançado em 1998 para suceder ao sistema Sega Model 3. Sua arquitetura é muito semelhante à do console Dreamcast, com um processador Hitachi SH-4 a 200 MHz, um processador gráfico PowerVR e som Yamaha AICA; Mas com o dobro de RAM e memória de vídeo. Os jogos são armazenados em um cartucho ou em um GD-ROM. Também foi projetado para funcionar em rede e oferecer jogos para vários jogadores. Enquanto o Dreamcast teve um destino infeliz, o sistema Naomi foi um sucesso para a Sega, os jogos lançados eram frequentemente considerados os melhores.</text>
+		</text>
+		
+	</view>
+
+</theme>

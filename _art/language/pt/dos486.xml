@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>IBM, Microsoft, Intel & AMD
+Computador pessoal
+Quarta / Quinta
+1989
+CD-Rom, disco rígido, disquete
+Joystick, teclado, mouse</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>Chamamos DOS (sistema operacional de disco) o sistema operacional de linha de comando no PC desenvolvido pela Microsoft. O processador Intel i486 lançado em 1989 permitirá a execução de 24 a 80 MHz, os jogos são então em VGA 640x480 16 cores ou 320x200 256 cores. Nova explosão de 1993 com a família Pentium, os jogos são então em SVGA 640x480 256 cores ou 1024x768 16 cores. Juntamente com cada vez mais RAM, novas placas de vídeo 2D e placas aceleradoras 3D, o DOS finalmente abrirá caminho para o Windows 98 nos maiores jogos 2D e 3D da época.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

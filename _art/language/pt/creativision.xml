@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>VTech
+Console de videogame
+Segunda
+1981
+Cartucho
+Joystick e teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>O VTech CreatiVision era um híbrido console de videogame e um computador e segunda geração produzido pela VTech em 1981. Esta unidade híbrida é semelhante em conceito a computadores como o Family Computer VideoBrain. Possui uma CPU Rockwell 6502 de 8 bits com uma velocidade de 2 MHz, 1 KB de RAM e 16 KB de memória de vídeo para resolução gráfica de 256 x 192 com 16 cores e 32 sprites. O console possui dois controladores integrados com teclado de membrana e joystick.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

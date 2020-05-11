@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Máquina de Arcade
+Quarta
+1990
+Cartucho
+Arcade stick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Neo Geo MVS é um sistema de arcade lançado em 1990 pela empresa japonesa SNK. Foi comercializado como 24 bits e poderia exibir uma resolução de 320×224 em 4096 cores entre 65536. O MVS oferece aos fliperamas a capacidade de colocar até seis cartuchos em um único terminal, uma consideração econômica para operadores com espaço limitado, além de como economizar dinheiro a longo prazo. O console é estritamente idêntico e denominado AES. É conhecida por sua biblioteca de jogos 2D de qualidade, grande parte dos quais são jogos de luta.</text>
+		</text>
+		
+	</view>
+	
+</theme>

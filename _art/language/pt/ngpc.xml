@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Console portátil
+Sexta
+1999
+Cartucho
+joystick de 2 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Neo-Geo Pocket Color (ou NGPC) é o console portátil de 16 bits da SNK lançado em 1999 e segue a versão monocromática. Ele permite que você defina o idioma no sistema que é usado pelos jogos, existe um cabo para jogar com os amigos em rede e possui 40 horas de autonomia para apenas 2 pilhas AA. Ele possui um processador de 16 bits a 6Mhz, 16K de RAM, uma tela de 256x256 em 146 cores em 4096 e um som com 4 canais. Apesar de seus sucessos como King of Fighters R-2, Metal Slug, Sonic Pocket Adventure e SNK vs. Capcom, será um fracasso por falta de comunicação.</text>
+		</text>
+		
+	</view>
+	
+</theme>

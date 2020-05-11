@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console portátil
+Quinta
+1995
+Cartucho
+joystick 2 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Virtual Boy criado por Gunpei Yokoi, criador da Game & Watch e Game Boy, é o único fracasso comercial real da Nintendo. Lançado em 1995 após o Super Nintendo e antes do Nintendo 64, esse console doméstico nunca excedeu as fronteiras japonesa e americana. É o primeiro console da Nintendo de 32 bits. Os gráficos foram exibidos em vermelho e preto através de pequenos diodos em duas telas separadas (uma por olho) para dar um efeito de alívio. Mas essa realidade pseudo-virtual foi pouco explorada e poucos jogos são realmente imersivos. Ainda existem alguns hits únicos como Wario Land e Mario Clash.</text>
+		</text>
+		
+	</view>
+	
+</theme>

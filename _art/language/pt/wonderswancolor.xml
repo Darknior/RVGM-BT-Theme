@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+Console portátil
+Quinta
+2000
+Cartucho
+joystick 2 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>A WonderSwan Color é um aprimoramento do WonderSwan original. Foi lançado em 30 de dezembro de 2000 no Japão e alcançou um sucesso significativo, ocupando até 8% do mercado japonês então dominado pela Nintendo e seus diversos GameBoy. Uma tela selecionada no máximo 4096 núcleos e uma duração de bateria reduzida por 20 horas. O WonderSwan Color é compatível com todos os jogos do WonderSwan original. Em novembro de 2002, um Bandai lançou uma evolução do WonderSwan Color sob o nome de SwanCrystal, beneficiando-se de uma melhor tela LCD. Os jogos de aventura apenas em japonês não são jogáveis.</text>
+		</text>
+		
+	</view>
+	
+</theme>

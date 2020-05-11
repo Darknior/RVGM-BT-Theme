@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+Console portátil
+Quinta
+1999
+Cartucho
+Joystick 2 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O WonderSwan lançado no Japão em março de 1999, é um console de videogame portátil de 16 bits criado pela Bandai. É um console monocromático que vende bem no Japão, apesar do lançamento um ano antes do Game Boy Color, graças ao seu tamanho pequeno e sua grande autonomia de 30 horas. Com um processador NEC de 3 Mhz, 16 KB de RAM, uma tela de 224x144 pixels em 8 níveis de cinza e um som estéreo, ele pode ser reproduzido na vertical e na horizontal. Alguns jogos usam o design de nível. Possui uma biblioteca de jogos bastante grande, com muitos títulos baseados em animação da Bandai, Square e Capcom.</text>
+		</text>
+		
+	</view>
+	
+</theme>

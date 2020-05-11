@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Watara
+Console portátil
+Quarta
+1992
+Cartucho
+Joystick 2 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Watara Supervision (também conhecido como QuickShot Supervision no Reino Unido) é um console de videogame portátil monocromático, originário da Ásia e introduzido em 1992 como um concorrente de preço baixo para o Game Boy da Nintendo. Ele veio com um jogo chamado Crystball, que é semelhante ao Breakout. Uma característica única do Supervision era que ele podia ser conectada a uma televisão por meio de um cabo de ligação. Os jogos jogados dessa maneira seriam exibidos em quatro cores.</text>
+		</text>
+		
+	</view>
+	
+</theme>

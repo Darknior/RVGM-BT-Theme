@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Nintendo
+Periférico de disquete
+Terceira
+1986
+Disquetes
+Joystick de 2 botões</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O nome completo do FDS dz Family Computer Disk System, é um dispositivo do console de videogame Famicom lançado em 21 de fevereiro de 1986 apenas no Japão. Este dispositivo é colocado sob o console e permite que você use um formato de disquete proprietário, permitindo armazenar jogos maiores do que em um cartucho, além de salvar jogos. Ele também incorpora um sintetizador de FM, permitindo que os jogos tenham músicas mais ricas. The Legend of Zelda foi originalmente criado para este sistema, além de vários jogos que tiveram muito sucesso, como Shin Onigashima.</text>			
+
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Fujitsu, Casio
+Computador pessoal
+Quarta / Quinta
+1989
+CD-Rom
+Joystick de 2/4 botões</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O sistema Fujitsu FM Towns, lançado em 1989, é uma variante do PC que se concentra em videogames e multimídia. Como evoluiu até 1997, foi equipado com x386, x486 e Pentium de 16 a 100 Mhz. Inclui modos gráficos que variam de 320x240 a 640x480 pixels, em 16 a 32 mil cores em um palete que varia de 4096 a 16 milhões. Pode exibir 1024 sprites simultaneamente e, para áudio, é equipado com CDRom, além de 8 vozes PCM e 6 canais FM. Seu catálogo de jogos é muito variado e inclui muitas conversões arcadas (perfeitas) e muitos jogos Hentai (adultos).</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

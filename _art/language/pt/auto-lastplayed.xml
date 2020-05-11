@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>Esta seção contém os jogos mais recentes que você jogou, qualquer sistema confuso e organizado em ordem cronológica para permitir que você os encontre rapidamente e continue suas aventuras ...
+Como uma viagem no tempo, você pode voltar para ver a progressão do seu jogador.
+Todos os filtros de classificação usuais estão disponíveis para ajudá-lo a encontrar rapidamente o que está procurando.</text>
+		</text>
+		
+	</view>
+
+</theme>

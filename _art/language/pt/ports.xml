@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiplos
+Ports & Motores de Jogos
+Todas
+1999
+Arquivos
+Joystick, Teclado, Mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Existem muitos jogos amadores pouco conhecidos. Eles são conversões, paródias ou simplesmente continuações não oficiais de um universo cult para prolongar a divertida experiência de jogo. Eles geralmente usam os gráficos originais, como o excepcional Zelda de Solarus e Street of Rage do OpenBOR com novas histórias e muitas surpresas ... Ou esses são jogos completamente novos, que criam seu próprio universo na jogabilidade Existente ou não, como Cave Story ou Gudule. Para isso, eles criam seus próprios gráficos e músicas, muitas vezes do zero ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore
+Computador pessoal
+Terceira
+1982
+Cartucho, fita digital, disquete
+Joystick, teclado, mouse</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<text>O Commodore 64 é um computador pessoal projetado pela empresa de Jack Tramiel em 1982. Ele continua sendo o modelo mais vendido da década, com 13 milhões de cópias vendidas em todo o mundo. Ele usa um microprocessador 6510 de 8 bits e possui 64 kilobytes de RAM. Seu chip gráfico, VIC-II, oferece 16 cores e recursos de rolagem e sprite de hardware. O chip de som, SID, possui três vozes, várias formas de onda, modulações de som e recursos de filtragem. É muito avançado para o seu tempo. Seu designer, Bob Yannes, será o co-fundador da empresa de sintetizadores Ensoniq.</text>			
+		</text>
+		
+	</view>
+
+</theme>

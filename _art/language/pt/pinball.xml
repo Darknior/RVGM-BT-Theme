@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Múltiplo
+Coleção de jogos 2D/3D
+Todos
+1980 / 20xx
+Todos os suportes
+Joystick, Teclado</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O fliperama tem suas origens no século XVIII. Seu ancestral é Bagatelle, uma velha mesa de jogo inventada na França. Em 1930, com a invenção do mecanismo de moedas, as máquinas de pinball assumiram uma nova dimensão. Tornando-se lucrativo e despertando novos interesses. Entre 1950 e 1970, o jogo conheceu um período esplêndido, desenvolvido nos Estados Unidos e depois exportado para a Europa e o resto do mundo. Nos anos 80, a máquina de pinball perdeu participação de mercado no videogame no qual foi adaptada. Atualmente, o jogo físico é realizado principalmente por uma clientela de colecionadores nostálgicos.</text>
+		</text>
+		
+	</view>
+
+</theme>

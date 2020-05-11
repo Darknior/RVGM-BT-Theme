@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Atari
+Console de videogame
+Segunda
+1977
+Cartucho
+Joystick, Paddles</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O Atari 2600, originalmente chamado Atari VCS, é um console de segunda geração lançado em 1977. Ele vem com um par de joysticks e um jogo, é o console mais popular de sua geração. Equipado com um processador de 1,19 Mhz, 128 octetos de RAM e um som mono de 2 vozes, exibe 160x192 pixels em 128 cores (16 cores com 8 níveis de intensidade) para o NTSC. A biblioteca de jogos para console inclui cerca de 900 títulos, incluindo hits originais como Pitfall, conversões de jogos de arcade como Space Invaders e os primeiros jogos licenciados como Raiders of the Lost Ark e E.T.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

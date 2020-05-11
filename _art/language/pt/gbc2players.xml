@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console portátil
+Quinta
+1998
+Cartucho GBC, GB
+Joystick 2 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Game Boy Color criado em 1989 pela Nintendo é o console portátil que sucede o Game Boy. Ele incorpora uma tela colorida um pouco maior que a do Game Boy, mas possui um processador de 8 Mhz, 32 KB de RAM, 16 KB de memória de vídeo e exibe uma resolução de 160x144 pixels em 56 cores. É compatível com todos os jogos Game Boy da primeira geração, disponível em várias cores e séries limitadas e tem 10 horas de duração da bateria. Seleção de jogos multiplayer no momento jogáveis com um cabo de ligação, agora jogáveis em uma tela dividida horizontalmente.</text>
+		</text>
+		
+	</view>
+
+</theme>

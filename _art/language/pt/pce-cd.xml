@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Corp., Hudson Soft
+Console de videogame
+Quarta
+1991
+HuCard, CD-Rom
+Joystick de 2 e 6 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Em 1988 lançou o sistema CD-ROM² (1.0 e 2.0). Esta extensão permite adicionar um CD player ao PCE, um novo BIOS e 64 KB de memória. Em 1991, lançou o Super CD-ROM² System (3.0), que acelera o leitor, altera o BIOS e adiciona 256 KB de memória. A versão all-in-one sai com o nome de PC-Engine Duo, ou TurboDuo. O Duo-R e o RX são apenas versões redesenhadas. O CD-ROM do Arcade² foi lançado em 1994, na forma de um U-Card e expande a memória para 2 MB. Apenas vinte jogos serão lançados nesta evolução. Essas adições de memória beneficiam todos os jogos.</text>
+		</text>
+		
+	</view>
+	
+</theme>

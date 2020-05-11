@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore International
+Computador pessoal
+Terceira
+1984
+Fita Cassette, disquete
+Joystick, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<text>Lançado em 1984 para substituir o VIC-20, a linha Commodore C116, C16 e Plus/4 visava o mercado de nível básico. Um processador MOS7501 ou 8501 sucede ao 6502 e é 75% mais rápido. No entanto, apenas um co-processador TED está incluído para áudio e vídeo. Também ao contrário do C64, não existe aceleração de hardware nessas máquinas. O Plus/4 possui 32k de RAM e integra quatro aplicativos de escritório. Este projeto foi um fracasso comercial nos EUA e parou em 1985, mesmo que as cópias fossem vendidas na Europa e especialmente no leste, atrás da cortina de ferro.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

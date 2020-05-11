@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<!-- ENGLISH -->
+<text>Magnavox, Philips
+Home video game console
+Second
+1978
+Cartridge
+Joystick, keyboard</text>
+<!-- PORTUGUESE -->
+<text lang="pt">Magnavox, Philips
+Console de videogame
+Segunda
+1978
+Cartuchos
+Joystick, teclado</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<!-- ENGLISH -->
+<text>Released in 1978, the Odyssey² is Philips' second-generation console, distributed in the United States by Magnavox and named Videopac G7000 elsewhere in the world. Created to compete with the Atari 2600, it technically paints by using a 1.7 Mhz microcontroller rather than an authentic microprocessor. It has 256 bytes of RAM, a 128 x 64 x 16 color display and a 1 channel 8 voices sound. In 1983 comes the Videopac +, but not the Odyssey² +, an improved version capable of displaying backgrounds sets. It will be much less successful than the Atari 2600 and other Mattel Intellivision.</text>
+<!-- PORTUGUESE -->
+<text lang="pt">Lançado em 1978, o Odyssey² é o console de segunda geração da Philips, distribuído nos Estados Unidos pela Magnavox e nomeado Videopac G7000 em outras partes do mundo. Criado para competir com o Atari 2600, tecnicamente pinta usando um microcontrolador de 1,7 Mhz em vez de um microprocessador autêntico. Possui 256 bytes de RAM, uma tela colorida de 128 x 64 x 16 e um som de 8 vozes e 1 canal. Em 1983, chega o Videopac +, mas não o Odyssey² +, uma versão aprimorada capaz de exibir cenários de fundo. Terá muito menos sucesso do que o Atari 2600 e outros como Mattel Intellivision.</text>
+		</text>
+		
+	</view>
+	
+</theme>

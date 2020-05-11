@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Sytem TEXTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<text>Esta seção agrupa todos os jogos da sua coleção, qualquer sistema confuso e organizado em ordem alfabética. Todos os filtros de classificação usuais estão disponíveis para ajudá-lo a encontrar rapidamente um jogo. Seja por nome, sistema, criador, classificação, número de jogadores ou mesmo data adicionada à sua coleção.
+É uma ferramenta de pesquisa extremamente útil e prática para quem conhece ou não conhece de cor sua enorme coleção de jogos.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

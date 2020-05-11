@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Atari
+Console portátil
+Quarta
+1989
+Cartucho
+Joystick de 2 botões</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>Este portátil colorido desenvolvido pela Epyx sob o nome 'Handy' em 1987 foi comercializado pela Atari em 1989 após a aquisição da empresa. Isso após a modificação do alto-falante interno e a remoção do manche na almofada. Equipado com um processador de 4 Mhz, uma GPU de 16 Mhz com suporte a 3D e 64 KB de RAM, exibia 480x102 em 16 cores. O 'Lynx II' de 1991 trará um novo design, uma tela melhor e uma opção de economia de energia. Também poderíamos inverter a tela para canhotos e reproduzir até 8 na rede, além de impressionante, consumia demais as baterias.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore International
+Computador Pessoal
+Quarta e Quinta
+1987 / 1992 ...
+Disquete, Disco rígido, CD-Rom
+Joystick, mouse, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>O Amiga 500 é o primeiro computador Commodore de 16/32 bits. Lançado em 1987, utiliza um processador 68000 de 7 Mhz, 512 KB de RAM e um chip Paula para gerenciar o som em 4 canais (Chris Hülsbeck aumentará para 8). Pode ser exibido em 320 × 256 pixels e 32 e 128 cores no final de 1989 com modos especiais. Ele será seguido em 1992 pelo 1200, com um processador duas vezes mais potente a 14 Mhz e um chipset gráfico AGA passando então para 262 mil cores. Ao mesmo tempo, sai o 4000, que pode incluir um processador de 50 Mhz, mais de 512 MB de RAM e uma placa gráfica PowerPC.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

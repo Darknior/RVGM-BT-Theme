@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore
+Console de videogame
+Quinta
+1993
+CD-Rom
+Joystick de 7 botões, mouse</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O Amiga CD32 é um console de videogame de quinta geração comercializado pela Commodore em setembro de 1993. É um console cuja arquitetura é semelhante ao Amiga 1200 com uma unidade de CD-ROM. É o primeiro 32-bit a ser lançado no Ocidente, o FM Towns Marty o precedeu no Japão. Como o 3DO ou o Jaguar, comercializado ao mesmo tempo, o CD32 não conseguiu entrar no mercado diante do PSX e Saturn. Devido a suas limitações técnicas, seu modo de exibição de bitmap o limita bastante na exibição de jogos 3D texturizados e na moda. Parte do catálogo da CDTV é compatível com o console.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

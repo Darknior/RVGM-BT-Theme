@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Atari
+Console de videogame
+Quinta
+1993
+Cartucho, CD-Rom
+Joystick</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O Jaguar é um console de videogames com cartuchos (CD player vendido separadamente) lançado em 1993 e com uma biblioteca de brinquedos limitada, porque não teve muito sucesso. Na época, era o único console de 64 bits, PlayStation e Saturn sendo de 32 bits, causando polêmica. Os dois processadores de 64 bits do Jaguar nada mais são do que aceleradores gráficos, seu processador gráfico é de 32 bits e sua CPU é de 16 bits a 13 MHz. Com seus 2 MB de RAM, ele exibe uma resolução de 720x526 pixels em 16 milhões de cores. Um de seus jogos cult será 'Alien vs. Predator'.</text>			
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Periférico de videogame
+Quarta
+1994
+Cartucho, CD-Rom
+Joystick de 3 ou 6 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>No início da era de 32 bits, a Sega tinha 2 projetos, Saturn no Japão e Neptune nos EUA. Foi o projeto Saturn que venceu e, para não perder o emprego, a Sega of America lançou o 32X. Uma extensão para o Megadrive, conectada à porta do cartucho. Ele adiciona 256 KB de RAM, um processador de 32 bits a 23 Mhz que multiplica sua potência por 40, para renderização de 50 mil polígonos em segundo no 3D mapeado, uma exibição em 32 mil cores, efeitos de rotação, distorção e zoom do Sprite . Sendo a saída de Saturno muito próxima, restam apenas 34 reproduções no cartucho e outras 6 em CD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

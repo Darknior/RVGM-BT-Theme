@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Sega
+Console portátil
+Quarto
+1990
+Cartucho
+Joytick 2 botões</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>O Game Gear é um console portátil colorido lançado em 1990 pela Sega para competir com o Nintendo Game Boy. É tão perto de seu irmão mais velho, o Master System, que sua biblioteca de jogos é composta principalmente de conversões de jogos feitas e podem ser usadas diretamente com o Master Gear Converter, mas terá seus próprios exclusivos, como o GG Shinobi . Ele possui uma CPU de 3,58 Mhz, 8 KB de RAM e exibe 160x144 em 32 cores. No entanto, nunca alcançou o sucesso esperado devido à sua autonomia de 4 horas.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

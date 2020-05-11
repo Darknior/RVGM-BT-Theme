@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore International
+Computador pessoal
+Terceira
+1985
+Fita Cassette, disquete
+Joystick, teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+		
+<text>Versão estendida e compatível do Commodore 64, mas renovada (aparência que inspiraria o Amiga 500) com 128 KB de RAM. Foi equipado com o processador C64 6510 para garantir 100% de compatibilidade, mas também com um novo processador 8502. Ele também continha um processador Zilog Z80 com o sistema operacional CP / M. Por fim, propôs a troca de tela do modo padrão de 40 colunas para o modo de 80 colunas. Pouco vendido e pouco suportado pelos editores, o Commodore 128 foi a última máquina de 8 bits comercializada pela Commodore Business Machines, pouco antes do lançamento do Amiga.</text>			
+		</text>
+		
+	</view>
+
+</theme>

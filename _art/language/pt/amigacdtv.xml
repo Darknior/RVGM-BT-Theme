@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore International
+Console de videogame
+Quarta
+1991
+CD-Rom
+Controle Remoto, mouse, teclado</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>Lançado em 1991, o Amiga CDTV é um console de quarta geração. Sua arquitetura é baseada no Amiga 500, com um processador de 6800 a 7,16 Mhz, um chip gráfico ECS, 1 MB de RAM e uma unidade de CD-ROM. Vem com um joystick, destinado a um neófito do público familiar no computador, interessado em jogos, mas também por recursos multimídia e interatividade. Por exemplo, a enciclopédia Grolier foi um de seus principais produtos. Foi um fracasso comercial e menos de cem jogos foram lançados na Amiga CDTV. Grande parte são reedições dos jogos Amiga 500.</text>
+			
+		</text>
+		
+	</view>
+
+</theme>

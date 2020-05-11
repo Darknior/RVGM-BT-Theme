@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Commodore International
+Computer pessoal
+Primeiro
+1977
+Cassette, disquete, disco rígido
+Teclado</text>
+
+		</text>
+
+		<text name="sys_description" extra="true">
+<text>A Commodore lançou em 1977 uma máquina integrada para uso pessoal, sob o nome de Commodore PET 2001. Este computador precursor faz parte do famoso 'Trinity 1977' com o Apple II e o Tandy TRS-80. Este Transator Eletrônico Pessoal (ou PET) foi projetado por Chuck Peddle como uma caixa monobloco, incorporando teclado, tela reduzida e toca-fitas, o primeiro microcomputador pronto para operar assim que for conectado. Os concorrentes atuais, como o Apple II e o TRS-80, precisavam de um gravador externo.</text>			
+		</text>
+		
+	</view>
+
+</theme>

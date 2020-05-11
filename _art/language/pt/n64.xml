@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console de videogame
+Quinta
+1996
+Cartucho
+Joystick de 10 botões</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Nintendo 64 é um console doméstico lançado em 1996, criado pela Nintendo em colaboração com a Silicon Graphics. Foi o último dos consoles da quinta geração a ser lançado, competindo com o Saturn e o PlayStation. Equipado com um processador de 93 Mhz, duas GPUs de 64 Mhz e 4 MB de RAM expansível para 8, exibe 640x480 pixels em 2 mil cores, mais de 16 milhões e 150 milhas de polígonos texturizados. Sua principal inovação foi seu joystick com um analógico. É também o último console doméstico a usar cartuchos de ROM para armazenar seus jogos.</text>
+		</text>
+		
+	</view>
+
+</theme>

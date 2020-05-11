@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Corporation
+Computador pessoal
+Terceira
+1981
+Disquete, disco rígido
+Joystick, teclado, mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O PC-98 ou PC-9801 é um microcomputador japonês criado pela NEC em 1982. Possui uma CPU de 5 Mhz, 128 KB de RAM e uma exibição máxima em 640x480 px e 8 cores. Em 1992, no x386, ele exibe 256 cores, depois muda para o x486 e, finalmente, o Pentium, antes de desaparecer em 2000. Existem milhares de videogames projetados exclusivamente para esse suporte, em particular a função do tipo 'Dōjin'. Apesar de sua potência muito menor do que as FM-Towns e o X68000, os desenvolvedores japoneses preferiram que ele aproveitasse sua grande frota de máquinas instaladas.</text>
+		</text>
+		
+	</view>
+	
+</theme>
