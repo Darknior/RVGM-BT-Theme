@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Computer di casa
+Seconda Generazione
+1979 / 1983 / 1985 / 1987
+Cartucce
+Joystick analogico</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La famiglia "Atari 8 bit" è una serie di personal computer lanciati da Atari nel 1979. Basato su un processore 6502 a 1,79 Mhz, Atari è il primo ad aggiungere un coprocessore che gli consente di visualizzare una risoluzione di 384 pixel per linea in 256 colori e suono a 4 vie. Questo per competere con Apple II, Commodore PET e TRS-80. I primi due modelli, 400 e 800 escono rispettivamente con 16 e 48 KB di RAM e 4 porte joystick. Saranno riproposti nuovamente nel 1983 e nel 1985 con le serie XL e XE che rimuoveranno solo 2 porte joystick e passeranno a 64 e 128 KB di RAM.</text>
+		</text>
+		
+	</view>
+
+</theme>

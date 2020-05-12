@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Consola portátil
+Consola Portátil
 Cuarta
 1990
 Cartucho
-Joypad + 2 botones</text>
+Joypad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Game Gear es una consola de juegos portátil con pantalla a color lanzada en 1990 por Sega para competir con Game Boy. Está tan cerca de su hermana mayor, el Master System, que su biblioteca de juegos está compuesta principalmente por conversiones de juegos para este último que se pueden usar directamente con el Master Gear Converter. Cuenta con una CPU de 3.58 Mhz, 8 KB de RAM y muestra una resolución de 160x144 en 32 colores. Sin embargo, nunca logró realmente el éxito esperado debido a su autonomía de 4 horas.</text>
+<text>Game Gear es una consola de juegos portátil con pantalla a color lanzada en 1990 por Sega para competir con el Game Boy de Nintendo. Está tan cerca de su hermana mayor, el Master System, que su biblioteca de juegos está compuesta principalmente por conversiones de juegos para este último que se pueden usar directamente con el Master Gear Converter. Cuenta con una CPU de 3.58 Mhz, 8 KB de RAM y muestra una resolución de 160x144 en 32 colores. Sin embargo, nunca logró realmente el éxito esperado debido a su autonomía de 4 horas.</text>
 		</text>
 		
 	</view>

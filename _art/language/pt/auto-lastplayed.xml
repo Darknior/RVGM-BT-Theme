@@ -3,11 +3,6 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
-		<!-- Sytem TEXTS -->
-		<text name="sys_label, sys_info" extra="true">
-			<visible>false</visible>
-		</text>
 
 		<text name="sys_description" extra="true">
 <text>Esta seção contém os jogos mais recentes que você jogou, qualquer sistema confuso e organizado em ordem cronológica para permitir que você os encontre rapidamente e continue suas aventuras ...

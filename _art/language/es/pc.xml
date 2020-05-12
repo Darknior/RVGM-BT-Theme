@@ -6,12 +6,12 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Intel, AMD
-Ordenador personal
+<text>Microsoft, Intel, AMD
+Ordenador Personal
 Tercera / Quinta
 1982 / 1993
-CD-Rom, disco duro, disquete
-Joypad, teclado, ratón</text>
+CD-Rom, Disco Duro
+Joypad, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">

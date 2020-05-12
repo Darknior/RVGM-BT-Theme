@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Console per videogiochi domestica
+Terza Generazione
+1986
+Cartucce
+Joystick Analogico</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari 7800 ProSystem, o semplicemente Atari 7800, è una console rilasciata dalla società Atari nel gennaio 1986 in collaborazione con GCC, che aveva una certa esperienza nella creazione di giochi arcade. Rivaleggia con il NES di Nintendo e il Master System di Sega con la sua capacità di visualizzare un centinaio di oggetti in movimento. Dotato di un processore da 1,79 Mhz, una GPU a 7,16 Mhz e 4 KB di RAM, visualizza 160x224 o 320x216 in 256 colori (16 tonalità su 16 livelli di intensità). Ha anche nuovi controller a 2 pulsanti semplici e rimane retrocompatibile con l'Atari 2600.</text>
+		</text>
+		
+	</view>
+
+</theme>

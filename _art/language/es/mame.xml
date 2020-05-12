@@ -6,12 +6,12 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiples
-Sistema arcade
+<text>Múltiples
+Sistema Arcade
 Todas
 1971 / 20xx
-Placas de PCB, CD-Rom
-Joystick arcade y otros</text>
+Placas PCB, CD-Rom
+Stick Arcade y otros</text>
 		</text>
 		
 		<text name="sys_description" extra="true">

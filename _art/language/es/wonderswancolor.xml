@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Bandai
-Consola portatil
+Consola Portátil
 Quinta
 2000
 Cartucho
-Joypad 2 botones</text>
+Joypad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El WSC es una mejora en el WonderSwan original. Fue lanzado el 30 de diciembre de 2000 en Japón y tuvo un gran éxito, ocupando hasta el 8% del mercado japonés dominado por Nintendo y sus diversos GameBoys. La pantalla muestra un máximo de 4096 colores y la autonomía se reduce a 20 horas. El WonderSwan Color es compatible con todos los juegos del WonderSwan original. En noviembre de 2002, Bandai lanzó una evolución de WonderSwan Color bajo el nombre de SwanCrystal, beneficiándose de una mejor pantalla LCD. Dado que los juegos de aventura son solo en japonés, no son jugables.</text>
+<text>El WSC es una mejora en el WonderSwan original. Fue lanzado el 30 de diciembre de 2000 en Japón y tuvo un gran éxito, ocupando hasta el 8% del mercado japonés dominado por Nintendo y sus diversos GameBoys. La pantalla muestra un máximo de 4,096 colores y la autonomía se reduce a 20 horas. El WonderSwan Color es compatible con todos los juegos del WonderSwan original. En noviembre de 2002, Bandai lanzó una evolución de WonderSwan Color bajo el nombre de SwanCrystal, beneficiándose de una mejor pantalla LCD.</text>
 		</text>
 		
 	</view>

@@ -6,12 +6,12 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Intel, AMD
-Ordenador personal
+<text>Microsoft, Intel, AMD
+Ordenador Personal
 Tercera / Cuarta
 1982
-Disquete 5¼ 3½, disco duro
-Joystick, teclado, ratón</text>
+Disquete 5¼ 3½, Disco Duro
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">

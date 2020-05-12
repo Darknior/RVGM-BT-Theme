@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Complemento videoconsola
+Complemento de Consola
 Cuarta
 1991
 CD-Rom
-Joypad 3/6 botones</text>
+Joypad + 3 o 6 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Mega-CD, o Sega CD en Estados Unidos, es un dispositivo Megadrive / Genesis lanzado en 1991. Para competir con PC Engine Duo, agrega una unidad de CD-ROM, duplica la velocidad del procesador, agrega 512 KB de RAM y 10 canales de sonido . Sega cometerá el error de enfocarse demasiado en los juegos en FMV (Full Motion Video) que incluso en 128 a 256 colores tienen una reproducción de video deficiente y muy poco interés de video lúdico. Este es el caso de los 6 juegos compatibles con 32x. Algunos siguen siendo geniales como Road Avenger y Night Trap, así como éxitos más clásicos como Silpheed.</text>
+<text>El Mega-CD, o Sega CD en Estados Unidos, es un dispositivo Megadrive / Genesis lanzado en 1991. Para competir con PC Engine Duo, agrega una unidad de CD-ROM, duplica la velocidad del procesador, agrega 512 KB de RAM y 10 canales de sonido. Sega cometió el error de enfocarse demasiado en los juegos en FMV (Full Motion Video) que incluso en 128 a 256 colores tuvieron una reproducción de video deficiente. Este es el caso de los 6 juegos compatibles con 32x. Algunos siguen siendo geniales como Road Avenger y Night Trap, así como éxitos más clásicos como Silpheed.</text>
 		</text>
 		
 	</view>

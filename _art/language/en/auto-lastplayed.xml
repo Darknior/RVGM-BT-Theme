@@ -3,19 +3,12 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
-		<!-- Sytem TEXTS -->
-		<text name="sys_label, sys_info" extra="true">
-			<visible>false</visible>
-		</text>
-
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
 <text>This section contains the latest games you have played, any system confused and arranged in chronological order to allow you to find them quickly and continue your adventures ...
 Like a trip back in time you can go back to view your player progression.
 All the usual sorting filters are available to help you quickly find what you are looking for.</text>
 		</text>
-		
 	</view>
 
 </theme>

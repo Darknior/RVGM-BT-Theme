@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Magnavox, Philips
-Videoconsola sobremesa
+Consola de Sobremesa
 Segunda
 1978
 Cartucho
-Joystick, teclado</text>
+Joystick, Teclado</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzada en 1978, la Videopac G7000 es la consola de segunda generación de Philips, también distribuida en los Estados Unidos por su filial Magnavox bajo el nombre Odyssey². Creado para competir con el Atari 2600, técnicamente sufrirá por el uso de un microcontrolador de 1.7 Mhz en lugar de un microprocesador auténtico. Tiene 256 bytes de RAM, una pantalla en 128 x 64 x 16 colores y un sonido de 1 canal y 8 canales. En 1983 se lanzó Videopac +, pero no Odyssey² +, una versión mejorada capaz de mostrar conjuntos. Tendrá mucho menos éxito que el Atari 2600 y otros Mattel Intellivision.</text>
+<text>Lanzada en 1978, la Videopac G7000 es la consola de segunda generación de Philips, también distribuida en los Estados Unidos por su filial Magnavox bajo el nombre Odyssey². Creado para competir con el Atari 2600, técnicamente sufrió por el uso de un microcontrolador de 1.7 Mhz en lugar de un microprocesador auténtico. Tiene 256 bytes de RAM, una pantalla en 128x64 a 16 colores y un sonido de 1-8 canales. En 1983 se lanzó Videopac +, pero no Odyssey² +, una versión mejorada capaz de mostrar conjuntos de fondos. Tuvo menos éxito que Atari 2600 y Mattel Intellivision.</text>
 		</text>
 		
 	</view>

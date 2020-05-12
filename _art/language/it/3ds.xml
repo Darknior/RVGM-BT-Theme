@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console di gioco portatile
+Ottava Generazione
+2011
+Cartucce
+Gamepad a 6 pulsanti + Stick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il 3DS è la console portatile Nintendo di ottava generazione, con la particolarità del display 3D auto-stereoscopico senza occhiali. È dotato di un processore ARM11 268 MHz 2 core e un ARM9 134 MHz per retrocompatibilità DS, una GPU Nvidia 268 MHz, 128 MB di RAM e internet. Visualizza 400x240 in 3D, 320x240 per il touchscreen e offre un suono surround virtuale equivalente a 5.1. La nuova versione rilasciata nel 2014 avrà un processore a 4 core da 804 Mhz, 128 MB di RAM, una fotocamera, i pulsanti ZL e ZR e giochi esclusivi come Xenoblade Chronicles e Fire Emblem Warrior.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Consola de sobremesa
+Consola de Sobremesa
 Cuarta
 1988
 Cartucho
-Joystick + 3 o 6 botones</text>
+Joystick + 3 o 6 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzado en 1988, Megadrive o Genesis en America, es la nueva consola de Sega basada en la arquitectura de su arcade System 16. Al superar a Nintendo en el mercado de 16 bits, Sega logra posicionarla en los Estados Unidos y Europa. Tiene un procesador de 7.6 Mhz, 74 KB de RAM, soporta resoluciones de hasta 320x224 con una paleta de 512 colores y sonido estéreo FM. En 1991, se lanzó Sonic, la mascota de la marca, seguida de 2 excelentes entregas. Pero además también cuenta con Aladdin, los juegos deportivos de EA y la versión sin censura de Mortal Kombat.</text>
+<text>Lanzado en 1988, Megadrive o Genesis en America, es la nueva consola de Sega basada en la arquitectura de su arcade System 16. Al superar a Nintendo en el mercado de 16 bits, Sega logró posicionarla en los Estados Unidos y Europa. Tiene un procesador de 7.6 Mhz, 74 KB de RAM, soporta resoluciones de hasta 320x224 con una paleta de 512 colores y sonido estéreo FM. En 1991, se lanzó Sonic, la mascota de la marca, seguida de 2 excelentes entregas. Pero además también cuenta con Aladdin, los juegos deportivos de EA y la versión sin censura de Mortal Kombat.</text>
 		</text>
 		
 	</view>

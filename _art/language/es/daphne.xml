@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Pioneer, Philips y otros
-Sistema arcade
+Sistema Arcade
 Cuarta
 1982
-Disco laser
-Arcade stick y otros</text>
+Disco Laser
+Stick Arcade y otros</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Un videojuego LaserDisc es un juego que utiliza videos pregrabados reproducidos desde un disco láser para decorar y mostrar elementos interactivos sobre ellos. Este truco permitió tiempo para compensar la baja resolución de los juegos a expensas de una experiencia muy simplificada. El primer juego arcade de LaserDisc fue Astron Belt, de Sega en 1982. Sin embargo, el primer juego LaserDisc que se hizo popular fue Dragon's Lair en 1983. Contiene escenas animadas por Don Bluth, en el cual tenias que presionar un botón específico en el momento adecuado para avanzar, como en un 'Quick Time Event'.</text>
+<text>Un videojuego LaserDisc es un juego que utiliza videos pregrabados reproducidos desde un disco láser para decorar y mostrar elementos interactivos sobre ellos. Este truco permitió tiempo para compensar la baja resolución de los juegos a expensas de una experiencia muy simplificada. El primer juego arcade de LaserDisc fue Astron Belt, de Sega en 1982. Sin embargo, el primer juego LaserDisc que se hizo popular fue Dragon's Lair en 1983. Contiene escenas animadas por Don Bluth, en el cual tenias que presionar un botón específico para avanzar, como en un 'Quick Time Event'.</text>
 		</text>
 		
 	</view>

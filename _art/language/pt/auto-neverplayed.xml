@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Vá, tenha coragem, seja corajoso e curioso, não fuja da luta antes de começar! Esta seção reúne todos os jogos da sua coleção que você nunca jogou, joias escondidas que você perdeu, com todos os filtros disponíveis para classificá-lo de acordo com o seu gosto. Quer se trate de um homebrew lançado recentemente e que é completamente desconhecido para você ... um jogo antigo lançado no suporte original e que você nunca poderia adquirir, ou que o assustou por sua dificuldade excessiva, hoje com o 'Savestate' e o 'Retroceder' é sua chance, não a desperdice ...</text>
+		</text>
+		
+	</view>
+
+</theme>

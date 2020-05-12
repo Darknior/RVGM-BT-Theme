@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Questa sezione raggruppa tutti i giochi della tua raccolta, qualsiasi sistema confuso e organizzato in ordine alfabetico. Tutti i soliti filtri di ordinamento sono disponibili per aiutarti a trovare rapidamente un gioco. Sia per nome, sistema, creatore, valutazione, numero di giocatori o anche la data aggiunta alla tua raccolta. È uno strumento di ricerca estremamente utile e pratico per chiunque conosca o non conosca a memoria la sua vasta collezione di giochi.</text>
+		</text>
+		
+	</view>
+
+</theme>

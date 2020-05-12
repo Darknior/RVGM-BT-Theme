@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Commodore International
-Ordenador personal
-Cuarta y Quinta
+Ordenador Personal
+Cuarta / Quinta
 1987 / 1992 ...
 Disquete, DD IDE, CD-Rom
-Joystick, ratón, teclado</text>
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Amiga 500 es la primera computadora Commodore de 16/32 bits. Lanzada en 1987, utiliza un procesador 68000 de 7 Mhz, 512 KB de RAM y un chip Paula para administrar el sonido en 4 canales (Chris Hülsbeck logró aumentar a 8). Ofrecia resoluciones de 320×256 píxeles a 32 y luego a 128 colores a finales de 1989 con modos especiales. Fue seguido en 1992 por el Amiga 1200 con un procesador 2 veces más potente a 14 Mhz y un Chipset gráfico AGA que luego pasó hasta los 262 mil colores. Al mismo tiempo, se lanzó el Amiga 4000, que incluia un procesador de 50 MHz, más de 512 MB de RAM y una tarjeta PowerPC.</text>
+<text>Amiga 500 es la primera computadora Commodore de 16/32 bits. Lanzada en 1987, utiliza un procesador 68000 de 7 Mhz, 512 KB de RAM y un chip Paula para administrar el sonido en 4 canales (Chris Hülsbeck logró aumentar a 8). Ofrecia resoluciones de 320×256 píxeles a 32 y luego a 128 colores a finales de 1989. Fue seguido en 1992 por Amiga 1200 con un procesador 2 veces más potente a 14 Mhz y un Chipset gráfico AGA que luego pasó hasta los 262 mil colores. Al mismo tiempo, se lanzó Amiga 4000, que incluyó un procesador de 50 MHz, más de 512 MB de RAM y una tarjeta PowerPC.</text>
 		</text>
 		
 	</view>

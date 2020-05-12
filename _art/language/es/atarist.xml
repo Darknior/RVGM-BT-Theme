@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Atari
-Ordenador personal
+Ordenador Personal
 Cuarta
 1985
 Disquete
-Joystick + 1 botón, teclado, mouse</text>
+Joystick + 1 Botón, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La plataforma Atari ST marcó la segunda mitad de la década de 1980. Su éxito fue tanto público general (juegos) como profesional (publicación y música MIDI). El 520 ST, modelo básico, tenía un procesador Motorola 68000 a 8 MHz, 512 KB de RAM, un chipset de sonido Yamaha de 3 vías y una pantalla de 320x200 píxeles en 16 colores o 640x200 píxeles en 4 colores entre 512. ST Significa dieciséis / treinta y dos y se refiere a la arquitectura mixta de 16/32 bits de su CPU. También se dijo que eran las iniciales de Sam Tramiel, hijo de Jack Tramiel, presidente de Atari en ese momento.</text>
+<text>La plataforma Atari ST marcó la segunda mitad de la década de 1980. Su éxito fue tanto a nivel doméstico (juegos) como profesional (publicación y música MIDI). El 520 ST, modelo básico, tenía un procesador Motorola 68000 a 8 MHz, 512 KB de RAM, un chipset de sonido Yamaha de 3 vías y una pantalla de 320x200 a 16 colores o 640x200 a 4 colores entre 512. ST Significa dieciséis / treinta y dos, que se refiere a la arquitectura mixta de 16/32 bits de su CPU. También se dijo que eran las iniciales de Sam Tramiel, hijo de Jack Tramiel, presidente de Atari en ese momento.</text>
 		</text>
 		
 	</view>

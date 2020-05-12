@@ -4,11 +4,6 @@
 
 	<view name="system">
 		
-		<!-- Sytem TEXTS -->
-		<text name="sys_label, sys_info" extra="true">
-			<visible>false</visible>
-		</text>
-
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
 <text>This section groups all the games in your collection, any system confused and arranged in alphabetical order. All the usual sorting filters are available to help you quickly find a game. Whether by name, system, creator, rating, number of players or even date added to your collection.

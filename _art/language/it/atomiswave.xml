@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sammy
+Scheda di Sistema Arcade
+Sesta Generazione
+2003
+ROM Cartucce
+Arcade Stick, pistola, volante</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Atomiswave è un sistema a cartuccie per una macchina arcade JAMMA, creato dalla società giapponese Sammy nel 2003. È un sistema economico e modulare, con la possibilità di collegare facilmente una pistola, un volante o una trackball. È dotato di un processore da 200 MHz, 32 MB di RAM e PowerVR 2. Dal suo lancio, ha il supporto della società SNK Playmore che decide di utilizzare questo sistema per i suoi giochi futuri, proprio come Dimps, IGS e Arc System Works , ma la maggior parte dei titoli Atomiswave è sviluppata da Sammy che si è fusa con Sega nel 2004.</text>
+		</text>
+		
+	</view>
+
+</theme>

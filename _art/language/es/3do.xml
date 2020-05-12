@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Panasonic, Sanyo, Goldstar
-Consola de sobremesa
+Consola de Sobremesa
 Quinta
 1993
 CD-Rom
-Joystick + 5 botones</text>
+Joystick + 5 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>3DO, una compañía creada por ex miembros de Electronic Arts, tenía un proyecto de consola universal. Hizo una asociación con Panasonic, Sanyo y Goldstar, cada uno de los cuales podría fabricar su propia versión de la máquina. El primer 3DO se comercializó en abril de 1993. Con un procesador de 12.5 Mhz, 2 MB de RAM y 2 GPU de 25 Mhz, podía mostrar 320x240 en 16 millones de colores. A un nivel ligeramente más bajo que el de Saturn y la PS1 en 3D, es capaz de reproducir videos en pantalla completa.</text>
+<text>3DO, una compañía creada por ex miembros de Electronic Arts, tenía un proyecto de consola universal. Hizo una asociación con Panasonic, Sanyo y Goldstar, cada uno de los cuales podría fabricar su propia versión de la máquina. El primer 3DO se comercializó en abril de 1993. Con un procesador de 12.5 Mhz, 2 MB de RAM y 2 GPU de 25 Mhz, podía mostrar 320x240 a 16 millones de colores. A un nivel ligeramente más bajo que el de Saturn y la PS1 en 3D, es capaz de reproducir videos en pantalla completa.</text>
 		</text>
 		
 	</view>

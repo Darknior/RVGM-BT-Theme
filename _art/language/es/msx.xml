@@ -6,12 +6,12 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Sony, Pioneer
-Ordenador personal
+<text>Microsoft, Sony, Pioneer
+Ordenador Personal
 Tercera
 1983 / 1985 / 1988 / 1990
-Cartucho, disquete, casete
-Joystick, ratón, teclado</text>
+Cartucho, Disquete
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">

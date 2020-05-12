@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Commodore International
-Ordenador personal
+Ordenador Personal
 Cuarta
 1991
 CD-Rom
-Mando a distancia, ratón, teclado</text>
+Mando a Distancia, Ratón, Teclado</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzado en 1991, Amiga CDTV es una consola de tercera generación. Su arquitectura se basa en el Amiga 500 con un procesador de 6800 a 7,16 Mhz, un chip de gráficos ECS, 1 MB de RAM y una unidad de CD-ROM. Viene con un joystick que estaba destinado a una audiencia familiar neófita en la computadora, interesada en los juegos, pero también por las capacidades multimedia y la interactividad. Por ejemplo, la enciclopedia Grolier fue uno de sus productos estrella. Fue un fracaso comercial y se lanzaron menos de cien juegos en Amiga CDTV. Una gran parte eran reediciones de juegos de Amiga 500.</text>
+<text>Lanzado en 1991, Amiga CDTV es una consola de tercera generación. Su arquitectura se basa en el Amiga 500 con un procesador de 6800 a 7,16 Mhz, un chip de gráficos ECS, 1 MB de RAM y una unidad de CD-ROM. La consola estaba destinada a una audiencia familiar neófita en la computadora, interesada en los juegos, pero también por las capacidades multimedia y la interactividad. Por ejemplo, la enciclopedia Grolier fue uno de sus productos estrella. Fue un fracaso comercial y se lanzaron menos de cien juegos, una gran parte eran reediciones de juegos de Amiga 500.</text>
 		</text>
 		
 	</view>

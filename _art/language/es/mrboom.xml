@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Remdy Software
-Clon de bomberman
+Clon de Bomberman
 4.9+
 2017
-Juego individual
-Joystick + 3 botones, teclado</text>
+Juego Multijugador
+Joystick + 3 Botones, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Mr.Boom es un clon de Bomberman bajo DOS, lanzado a finales de los años 90, luego convertido para libretro en 2017. Originalmente, el juego solo es multijugador, se puede jugar en una red de ocho, pero esta versión proporciona bots Para que puedas jugarlo solo. Los partidos se juegan por equipo o cada uno por sí mismo, con dos o cuatro equipos y nos diferenciamos por sexo o color. También se agregó el hecho de poder empujar las bombas, los controles remotos, los cursos de entrenamiento y las nuevas músicas, los canguros, etc. Cuando no hay 8 jugadores, uno puede activar o no monstruos en el mapa.</text>
+<text>Mr.Boom es un clon de Bomberman bajo DOS, lanzado a finales de los años 90, luego convertido para libretro en 2017. Originalmente, el juego solo es multijugador, se puede jugar en una red de ocho, pero esta versión proporciona bots para que puedas jugarlo solo. Los partidos se juegan por equipo o cada uno por sí mismo y nos diferenciamos por sexo o color. También se agregó la opción de empujar las bombas, los controles remotos, los cursos de entrenamiento, los canguros y nuevas canciones. Cuando no hay 8 jugadores, uno puede activar o no monstruos en el mapa.</text>
 		</text>
 		
 	</view>

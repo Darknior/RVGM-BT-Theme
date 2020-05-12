@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Console per videogiochi domestica
+Quinta Generazione
+1993
+Cartucce, CD-Rom
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Jaguar è una console da salotto con cartucce (lettore CD venduto separatamente) rilasciata nel 1993 e con una libreria di giochi limitata perché non ha avuto molto successo. A suo tempo era l'unica console a 64 bit, la PlayStation e Saturn erano a 32 bit, causando polemiche. I due processori a 64 bit della Jaguar non sono altro che acceleratori grafici, il suo processore grafico è a 32 bit e la sua CPU è a 16 bit a 13 MHz. Con i suoi 2 MB di RAM mostra una risoluzione di 720x526 pixel in 16 milioni di colori. Uno dei suoi giochi di culto sarà "Alien vs. Predator".</text>
+		</text>
+		
+	</view>
+
+</theme>

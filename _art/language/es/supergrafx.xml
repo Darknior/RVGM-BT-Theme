@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>NEC Home Electronics
-Videoconsola sobremesa
+Consola de Sobremesa
 Cuarta
 1989
 HuCard
-Joypad 2 botones</text>
+Joypad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La SuperGrafx es una consola de videojuegos fabricada por NEC Corporation y lanzada en diciembre de 1989 en Japón. Es una versión mejorada de PC-Engine (CoreGrafX). Mantiene el mismo procesador a 8 MHz, pero le agrega cuatro veces más memoria. Además de un segundo chip de video con memoria propia y un controlador para combinarlos de diferentes maneras. La resolución máxima es 512x242 (los juegos usan 256x242) en 126 colores de 512 y el sonido permanece en 6 voces estéreo. Solo se lanzarán 5 juegos en este medio, incluidos Ghouls’n Ghosts y Counter Attack de 1941.</text>
+<text>La SuperGrafx es una consola de videojuegos fabricada por NEC Corporation y lanzada en diciembre de 1989 en Japón. Es una versión mejorada de PC-Engine (CoreGrafX). Mantiene el mismo procesador a 8 MHz, pero le agrega cuatro veces más memoria. Además de un segundo chip de video con memoria propia y un controlador para combinarlos de diferentes maneras. La resolución máxima es 512x242 (los juegos usan 256x242) en 126 colores de 512 y el sonido permanece en 6 voces estéreo. Solo se lanzarán 5 juegos, incluidos Ghouls’n Ghosts y Counter Attack de 1941.</text>
 		</text>
 		
 	</view>

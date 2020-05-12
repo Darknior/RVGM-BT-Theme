@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Questa sezione raggruppa tutti i giochi "preferiti" della tua raccolta, qualsiasi sistema confuso e in ordine alfabetico. Di conseguenza, è un enorme "Best of" nel mondo dei giochi retrò, e include tutti i principali titoli che hanno lanciato per qualche saga enorme ancora sviluppato oggi. Pensiamo subito a Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy, ecc.
+Tutti i soliti filtri di ordinamento sono disponibili per trovare rapidamente uno di quei giochi che hanno segnato il tuo gioco d'infanzia.</text>
+		</text>
+		
+	</view>
+
+</theme>

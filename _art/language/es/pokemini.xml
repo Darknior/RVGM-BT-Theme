@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Consola portátil
-Sexto
+Consola Portátil
+Sexta
 2002
 Cartuchos
-Joypad de 2 botones</text>
+Joypad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Pokémon-mini, fabricado y distribuido por Nintendo en 2001, es la consola de juegos de cartucho más pequeña que existe. Es una consola portátil de 8 bits, pesa 70 gy tiene 60 horas de autonomía para una sola batería LR03. Tiene una pantalla en blanco y negro, un reloj, un vibrador, un detector de golpes y una conexión infrarroja que permite jugar en el modo multijugador. Está diseñado para niños pequeños, los juegos oficiales son simples y cortos, y todos tienen como tema el universo de Pokémon. Hay diferentes colores, azul (Axoloto), malva (Lippouti) y verde (Germignon).</text>
+<text>El Pokémon-mini, fabricado y distribuido por Nintendo en 2001, es la consola de juegos de cartucho más pequeña que existe. Es una consola portátil de 8 bits, pesa 70 gramos y ofrece 60 horas de autonomía con una sola batería LR03. Tiene una pantalla en blanco y negro, reloj, vibración, detector de golpes y una conexión infrarroja que permite jugar en el modo multijugador. Está diseñado para niños pequeños, los juegos oficiales son simples y cortos, y todos con tema del universo de Pokémon. Hay diferentes colores, azul (Axoloto), malva (Lippouti) y verde (Germignon).</text>
 		</text>
 		
 	</view>

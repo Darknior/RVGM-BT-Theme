@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Apple
+Personal Computer
+Prima Generazione
+1977
+Cassette, 5¼ floppy disk
+Joystick, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Apple II è uno dei primi personal computer su larga scala al mondo. Progettato da Steve Wozniak e commercializzato il 10 giugno 1977 da Apple, ha iniziato la sua carriera con individui appassionati. L'Apple II utilizza un'architettura a 8 bit, 4 KB di RAM, un lettore di cassette e consente una visualizzazione a 280x192 in 6 colori in uscita video composito. L'Apple IIe Enhanced rilasciato nel 1984 ha 128k di RAM. Il display si evolve per raggiungere 560x192 in bianco e nero, 280x192 in 6 colori e 140x192 in 16 colori. Apple interromperà la produzione della sua linea Apple II nel 1993.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Console di gioco portatile
+Quarta Generazione
+1989
+Cartucce
+ Joypad a 2 bottoni</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Questo laptop a colori sviluppato da Epyx con il nome "Handy" nel 1987 è stato commercializzato da Atari nel 1989 dopo l'acquisizione dell'azienda. Questo dopo la modifica dell'altoparlante interno e la rimozione dello stick sul pad. Dotato di un processore da 4 Mhz, una GPU da 16 Mhz con supporto 3D e 64 KB di RAM, visualizzava 480x102 in 16 colori. "Lynx II" del 1991 porterà un nuovo design, uno schermo migliore e un'opzione di risparmio energetico. Potremmo anche invertire lo schermo per i mancini e giocare fino a 8 sulla rete, ma era impressionante il veloce comsumo delle batterie.</text>
+		</text>
+		
+	</view>
+
+</theme>

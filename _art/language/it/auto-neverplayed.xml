@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Vai, abbi coraggio, sii coraggioso e curioso, non fuggire dalla lotta prima di iniziare! Questa sezione riunisce tutti i giochi della tua collezione che non hai mai giocato, gemme nascoste che ti sei perso, con tutti i filtri disponibili per ordinarle secondo i tuoi gusti. Che si tratti di un homebrew rilasciato di recente e che è completamente sconosciuto a te ... un vecchio gioco rilasciato sul supporto originale e che non potresti mai acquisire, o che ti ha spaventato per la sua eccessiva difficoltà, oggi con "Savestate" e " Riavvolgi è la tua occasione, uccidilo davvero ...</text>
+		</text>
+		
+	</view>
+
+</theme>

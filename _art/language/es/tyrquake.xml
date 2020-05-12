@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Id software
-Motor de juego 3D
+<text>Id Software
+Motor de Juego 3D
 0.61+
 2009
 Archivos PAK
-Joystick, teclado, mouse</text>
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Quake es una serie de shooters en primera persona desarrollado por Id Software para suceder a su serie Doom. Fué el primer FPS con graficos 3D verdaderos, lo cual significó una verdadera revolución. Hay 4 juegos: Quake, Quake II, Quake III Arena y Quake 4. TyrQuake es una versión optimizada del motor del Quake original, el código fuente del motor ha sido lanzado bajo licencia GPLv2 el 21 de diciembre de 1999. Esto permitió sin modificar la experiencia del juego original, hacer varias mejoras tales como ampliaar el soporte de OpenGL, iluminación mejorada, mapas más detallados, etc.</text>
+<text>Quake es una serie de shooters en primera persona desarrollado por Id Software para suceder a su serie Doom. Fué el primer FPS con graficos 3D verdaderos, lo cual significó una verdadera revolución. Hay 4 juegos: Quake, Quake II, Quake III Arena y Quake 4. TyrQuake es una versión optimizada del motor del Quake original, el código fuente del motor fue lanzado bajo licencia GPLv2 el 21 de diciembre de 1999. Esto permitió sin modificar la experiencia original, hacer varias mejoras tales como ampliaar el soporte de OpenGL, iluminación mejorada, mapas más detallados, etc.</text>
 		</text>
 		
 	</view>

@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Sony, Pioneer
-Ordenador personal
+<text>Microsoft, Sony, Pioneer
+Ordenador Personal
 Tercera
 1985
-Cartucho, disquete 3"5
-Joystick, ratón, teclado</text>
+Cartucho, Disquete 3"5
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MSX es un estándar de microcomputadoras domésticas de origen japonés que usa MSX-DOS 1 de Microsoft, evolucionó en 1988 con MSX-DOS 2 de ASCII. Dotado de 64k o 128k, el MSX2 fue lanzado en 1985 y puede mostrar gráficos de hasta 512×212 píxeles con 16 colores de 512, así como 256 colores en 256x212 píxeles. Incorpora funciones de acelerador de hardware integradas para desplazamiento vertical, copiado y relleno de áreas. Es posible agregar extensiones a esta máquina, como un cartucho MSX-Audio de 8 canales o bibliotecas FM-PAC, con la adición de una extensión de memoria "Memory Mapper".</text>
+<text>MSX es un estándar de microcomputadoras domésticas de origen japonés que usa MSX-DOS 1 de Microsoft, evolucionó en 1988 con MSX-DOS 2 de ASCII. Dotado de 64k o 128k, el MSX2 fue lanzado en 1985 y puede mostrar gráficos de hasta 512×212 píxeles con 16 colores de 512, así como 256 colores en 256x212 píxeles. Incorpora funciones de acelerador de hardware para desplazamiento vertical, copiado y relleno de áreas. Es posible agregar extensiones, como un cartucho MSX-Audio de 8 canales o librerias FM-PAC, con la adición de una extensión de memoria "Memory Mapper".</text>
 		</text>
 		
 	</view>

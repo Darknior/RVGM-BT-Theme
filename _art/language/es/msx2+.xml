@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft, Panasonic, Sony
-Ordenador personal
+<text>Microsoft, Sony, Panasonic
+Ordenador Personal
 Tercera
 1988
-Cartucho, disquete
-Joystick, ratón, teclado</text>
+Cartucho, Disquete
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El primer MSX2+, producido por Panasonic y Sony, se lanzó exclusivamente en Japón el 21 de octubre de 1988. Cuenta con un modo de 256x212 píxeles con 19,268 colores, así como desplazamiento horizontal por hardware, además del vertical. También está disponible un cartucho Yamaha MSX-Music que ofrece una extensión a 9 canales FM. El MSX Turbo R es la última generación de MSX puesta en el mercado en 1990 para compensar la cancelación del MSX3. Solo Panasonic ha comercializado su FS-A1ST y FS-A1GT en Japón. Con un procesador RISC 16 bits, es el más rápido de toda la gama.</text>
+<text>El primer MSX2+, producido por Panasonic y Sony, se lanzó exclusivamente en Japón el 21 de octubre de 1988. Cuenta con un modo de 256x212 píxeles a 19,268 colores, así como desplazamiento horizontal y vertical por hardware. También está disponible un cartucho Yamaha MSX-Music que ofrece una extensión a 9 canales FM. El MSX Turbo R fue la última generación de MSX puesta en el mercado en 1990 para compensar la cancelación del MSX3. Solo Panasonic ha comercializado su FS-A1ST y FS-A1GT en Japón. Con un procesador RISC 16 bits, es el más rápido de toda la gama.</text>
 		</text>
 		
 	</view>

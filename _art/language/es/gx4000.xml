@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Amstrad
-Consola sobremesa
+Consola de Sobremesa
 Tercera
 1990
 Cartucho
-Joypad + 2 botones</text>
+Joypad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La GX-4000 es una consola de videojuegos de 8 bits de Amstrad que salió a la venta en 1990. Está construida sobre la base del CPC Plus y, por lo tanto, comparte las mismas características. Está equipado con un procesador de 4 MHz, 64 kb de RAM, un sonido estéreo de 3 voces y puede mostrar una resolución de 160x200 píxeles en 31 colores en una paleta de 4096, con 16 sprites de 15 colores cada uno. Cuenta con una biblioteca de juegos esencialmente heredada del CPC, vendida demasiado cara contra el NES y superada por el Megadrive de 16 bits, fye un fracaso comercial.</text>
+<text>La GX-4000 es una consola de videojuegos de 8 bits de Amstrad que salió a la venta en 1990. Está construida sobre la base del CPC Plus y, por lo tanto, comparte las mismas características. Está equipado con un procesador de 4 MHz, 64 kb de RAM, un sonido estéreo de 3 voces y puede mostrar una resolución de 192x272 píxeles en 31 colores en una paleta de 4096, con 16 sprites de 15 colores cada uno. Cuenta con una biblioteca de juegos esencialmente heredada del CPC, vendida demasiado cara contra el NES y superada por el Megadrive de 16 bits, fue un fracaso comercial.</text>
 		</text>
 		
 	</view>

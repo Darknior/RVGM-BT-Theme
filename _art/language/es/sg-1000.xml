@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Videoconsola sobremesa
+Consola de Sobremesa
 Tercera
 1983
-Cartucho, casete, Sega card
-Joystick de 2 botones</text>
+Cartucho, Tarjeta Sega
+Joystick + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La SG-1000 es la primera consola de juegos producida por Sega y lanzada en Japón el 15 de julio de 1983. Fue lanzada al mismo tiempo que la computadora SC-3000, por lo que es compatible con todas sus aplicaciones y juegos. Al agregar un teclado se puede usar como computadora y con un cartucho adaptador puede leer las tarjetas de juego 'Sega My Card'. Está equipado con un procesador 3.58 Mhz, 4 KB de RAM y es capaz de mostrar hasta 16 colores. Su biblioteca de juegos tiene 29 juegos SegaCard y 68 juegos de cartucho, 26 de los cuales requieren que se conecte el teclado.</text>
+<text>La SG-1000 es la primera consola de juegos producida por Sega, lanzada en Japón el 15 de julio de 1983. Fue lanzada al mismo tiempo que la computadora SC-3000, por lo que es compatible con todas sus aplicaciones y juegos. Al agregar un teclado se puede usar como computadora y con un cartucho adaptador puede leer las tarjetas de juego 'Sega My Card'. Está equipado con un procesador 3.58 Mhz, 4 KB de RAM y es capaz de mostrar hasta 16 colores. Su biblioteca de juegos tiene 29 juegos SegaCard y 68 juegos de cartucho, 26 de los cuales requieren que se conecte el teclado.</text>
 		</text>
 		
 	</view>

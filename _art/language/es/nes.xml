@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Videoconsola sobremesa
+Consola de Sobremesa
 Tercera
 1983
 Cartucho
-Joypad 2 botones, pistola luz</text>
+Joypad + 2 Botones, Pistola</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Nintendo Entertainment System (NES) es una consola Nintendo de 8 bits lanzada en 1985, el equivalente de la Family Computer (Famicom) en Japón lanzada en 1983. Está equipada con un procesador de 8 bits a 1.66 Mhz en PAL, 2 KB de RAM, una resolución de 256x240 píxeles en 52 colores y una salida de audio en 5 canales. El éxito de la consola fue enorme y ayudó a revitalizar la industria de los videojuegos después del colapso de 1983, y estableció los estándares para las siguientes consolas desde el diseño del juego hasta los procedimientos de administración, gracias a Super Mario Bros, etc.</text>
+<text>La Nintendo Entertainment System (NES) es una consola de 8 bits lanzada en 1985, es el equivalente al Family Computer (Famicom) de Japón lanzado en 1983. Está equipada con un procesador de 8 bits a 1.66 Mhz en PAL, 2 KB de RAM, una resolución de 256x240 píxeles en 52 colores y una salida de audio en 5 canales. El éxito de la consola fue enorme y ayudó a revitalizar la industria de los videojuegos después del colapso de 1983, y estableció los estándares para las siguientes consolas desde el diseño de juegos, hasta los procedimientos de administración, gracias a Super Mario Bros.</text>
 		</text>
 		
 	</view>

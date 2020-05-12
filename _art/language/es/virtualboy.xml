@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Consola portatil
+Consola de Sobremesa
 Quinta
 1995
 Cartucho
-Gamepad 2 botones</text>
+Gamepad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Virtual Boy creado por Gunpei Yokoi, el creador de Game & Watch y Game Boy, es el único fracaso comercial real de Nintendo. Lanzada en 1995 después de la Super Nintendo y antes de la Nintendo 64, esta consola doméstica nunca ha cruzado las fronteras japonesa y estadounidense. Los gráficos se mostraban en rojo y negro a través de pequeños diodos en dos pantallas separadas (una por ojo) para dar un efecto de alivio. Pero esta pseudo realidad virtual fue mal explotada y pocos juegos son realmente inmersivos. Todavía hay algunos éxitos únicos como Wario Land y Mario Clash.</text>
+<text>El Virtual Boy creado por Gunpei Yokoi, el creador de Game & Watch y Game Boy, es el único fracaso comercial real de Nintendo. Lanzada en 1995 después de la Super Nintendo y antes de la Nintendo 64, esta consola doméstica nunca ha cruzado las fronteras japonesas y estadounidense. Los gráficos se mostraban en rojo y negro a través de pequeños diodos en dos pantallas separadas (una por ojo) para dar un efecto de relieve. Pero esta pseudo realidad virtual fue mal explotada y pocos juegos resultaron inmersivos. Cuenta con éxitos únicos como Wario Land y Mario Clash.</text>
 		</text>
 		
 	</view>

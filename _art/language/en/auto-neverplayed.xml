@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Go, have courage, be brave and curious, do not flee the fight before you have started! This section brings together all the games in your collection that you have never played, hidden gems that you have missed, with all the filters available to sort it according to your taste. Whether it is a homebrew released recently and which is completely unknown to you ... an old game released on the original support and which you never could acquire, or which scared you by its excessive difficulty, today with The 'Savestate' and the 'Rewind' it's your chance, kill him real bad ...</text>
+		</text>
+	</view>
+
+</theme>

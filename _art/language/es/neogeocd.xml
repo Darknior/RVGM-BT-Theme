@@ -7,8 +7,8 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>SNK
-Home video game console
-Fourth
+Consola de Sobremesa
+Cuarta
 1994
 CD-Rom
 Joystick</text>
@@ -16,7 +16,7 @@ Joystick</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El CD Neo-Geo es una consola de videojuegos lanzada en 1994 en Japón por SNK. Se basa en la arquitectura de Neo-Geo y utiliza CD-ROM en lugar de cartuchos, con el objetivo de reducir el precio de los juegos. Esta ventaja es también su principal inconveniente, su velocidad de transferencia de 150 kio / s (velocidad única) asociada con la pequeña cantidad de RAM disponible (56Mo) impone un tiempo de carga significativo durante el juego. La conversión de los cartuchos de juego se ha amputado de algunos gráficos y animaciones para que sea más ligera de cargar.</text>
+<text>El CD Neo-Geo es una consola de videojuegos lanzada en 1994 en Japón por SNK. Se basa en la arquitectura de Neo-Geo y utiliza CD-ROM en lugar de cartuchos, con el objetivo de reducir el precio de los juegos. Esta ventaja es también su principal inconveniente, su velocidad de transferencia de 150 Kb/s (velocidad única) asociada con la pequeña cantidad de RAM disponible (56 Mb) impone un tiempo de carga significativo durante el juego. La conversión de los cartuchos de juego ha recortado algunos gráficos y animaciones para que sea más ligera de cargar.</text>
 		</text>
 		
 	</view>

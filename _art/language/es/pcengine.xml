@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>NEC Corp., Hudson Soft
-Videoconsola sobremesa
+Consola de Sobremesa
 Cuarta
 1987
 HuCard
-Joypad 2/6 botones</text>
+Joypad + 2 o 6 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzado en 1987 en Japón, el PC-Engine (TurboGrafx-16 en América) es la consola de 8 bits de NEC Corporation. Es su primera consola, y fuera de Japón y Norteamérica, la consola, poco o no distribuida, conocía una existencia confidencial. Tiene un procesador de gráficos de 16 bits que a menudo ha sido confuso. Muestra una resolución de 256 × 240 a 512 × 240 píxeles en 32 colores de 512, con sonido en 6 canales PCM estéreo. Con su biblioteca de juguetes de más de 600 juegos, es conocido por sus excelentes disparos como Gunhed y Parodius, pero también PC Kid, Cadash ...</text>
+<text>Lanzado en 1987 en Japón, el PC-Engine (TurboGrafx-16 en América) es la consola de 8 bits de NEC Corporation. Fue su primera consola, y fuera de Japón y Norteamérica, la consola fue poco distribuida y su existencia pasó desapercibida. Tiene un procesador de gráficos de 16 bits que a menudo resultó ser muy confuso. Muestra una resoluciones de 256×240 a 512×240 píxeles en 32 colores de 512, con sonido en 6 canales PCM estéreo. Con su biblioteca de más de 600 juegos, es conocido por sus excelentes juegos de disparos como Gunhed y Parodius, pero también por PC Kid y Cadash.</text>
 		</text>
 		
 	</view>

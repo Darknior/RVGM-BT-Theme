@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Consola portátil
+Consola Portátil
 Quinta
 1998
 Cartuchos GBC, GB
-Joypad + 2 botones</text>
+Joypad + 2 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Game Boy Color fue creado en 1989 por Nintendo, es la consola portátil que sucede al Game Boy. Incorpora una pantalla a color apenas más grande que la de Game Boy, pero tiene un procesador de 8 Mhz, 32 KB de RAM, 16 KB de memoria de video y muestra una resolución de 160x144 píxeles en 56 colores. Es compatible con todos los juegos de Game Boy de primera generación, disponible en varios colores y en ediciones limitadas, su batería era capaz de ofrecer una autonomía de 10 horas. Esta consola permitió el modo multijugador gracias a un cable de enlace que interconectaba las dos consolas.</text>
+<text>El Game Boy Color fue creado en 1989 por Nintendo, es la consola que sucede al Game Boy. Incorpora una pantalla a color apenas más grande que la de Game Boy, pero tiene un procesador de 8 Mhz, 32 KB de RAM, 16 KB de memoria de video y muestra una resolución de 160x144 píxeles en 56 colores. Es compatible con todos los juegos de la Game Boy original, disponible en varios colores y en ediciones limitadas, su batería era capaz de ofrecer una autonomía de 10 horas. Esta consola permitió el modo multijugador gracias a un cable de enlace que interconectaba las dos consolas.</text>
 		</text>
 		
 	</view>

@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Complemento videoconsola
+Complemento de Consola
 Cuarta
 1994
 Cartucho, CD-Rom
-Joypad con 3 / 6 botones</text>
+Joypad + 3 o 6 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>En los albores de la era de los 32 bits, Sega tenía 2 proyectos, Saturno en Japón y Neptuno en los Estados Unidos. Fue el proyecto Saturno el que ganó, y para no perder su trabajo, Sega of America lanzó el 32X. Una extensión para Megadrive, conectada al puerto del cartucho. Agrega 256 KB de RAM, un procesador de 32 bits a 23 Mhz que multiplica su potencia por 40, para una representación de 50 mil polígonos segundos en 3D mapeado, una pantalla en 32 mil colores, efectos de rotación, distorsión y zoom de Sprite La salida de Saturno está demasiado cerca, solo quedan 34 reproducciones en cartucho y otras 6 en CD.</text>
+<text>El 32X es una extensión para el Megadrive / Genesis destinado a contrarrestar el lanzamiento de Atari Jaguar. Conectado al puerto del cartucho, agrega 256 KB de RAM y el procesador de 32 bits a 23 Mhz multiplica su potencia x40. El Megadrive finalmente obtiene una paleta mejorada de 32 mil colores y 50 mil polígonos por segundo. Soporta mapeado en 3D, rotación, distorsión y zoom de sprites. Con la inminente salida de Saturn, solo se lanzaron 34 juegos en cartucho y 6 más en CD. Es una pena cuando ves perlas como Knuckles Chaotix, Kolibri y Virtua Racing.</text>
 		</text>
 		
 	</view>

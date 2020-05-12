@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Atari
-Ordenador personal
+Ordenador Personal
 Segunda
 1979 / 1983 / 1985 / 1987
 Cartucho
-Joystick analógico</text>
+Joystick Analógico</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La familia 'Atari de 8 bits' es una serie de computadoras personales lanzadas por Atari en 1979. Basado en un procesador 6502 a 1.79 Mhz, Atari es el primero en agregar un coprocesador que le permitia mostrar una resolución de 384 píxeles por Línea en 256 colores y sonido de 4 vías. Esto para competir con el Apple II, el Commodore PET y el TRS-80. Los dos primeros modelos, el 400 y el 800, salen respectivamente con 16 y 48 KB de RAM y 4 puertos de joystick. Serán designados en 1983 y 1985 con las series XL y XE, que solo eliminarian 2 puertos de joystick y contaban con 64 y 128 KB de RAM.</text>
+<text>La familia 'Atari de 8 bits' es una serie de computadoras personales lanzadas por Atari en 1979. Basado en un procesador 6502 a 1.79 Mhz, Atari fue el primero en agregar un coprocesador que le permitia mostrar una resolución de 384 píxeles por línea en 256 colores y sonido de 4 vías, esto para competir con el Apple II, el Commodore PET y el TRS-80. Los dos primeros modelos, el 400 y el 800, tenian respectivamente 16 y 48 KB de RAM y 4 puertos de joystick. Fueron reemplazados en 1983 y 1985 con las series XL y XE, que contaban solo con 2 puertos de joystick y con 64 y 128 KB de RAM.</text>
 		</text>
 		
 	</view>

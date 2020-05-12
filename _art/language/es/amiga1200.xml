@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Commodore International
-Ordenador personal
+Ordenador Personal
 Cuarta
 1992
-Disquete, disco duro IDE
-Joystick, ratón, teclado</text>
+Disquete, Disco Duro IDE
+Joystick, Ratón, Teclado</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>El Amiga 1200 (A1200) lanzado en 1992 es la computadora de cuarta generación de Commodore. Incorpora un procesador 68020 2 veces más potente con una velocidad de reloj de 14 MHz compatible con un chipset gráfico AGA, 2 MB de RAM de serie y el sonido siempre en 8 bits estéreo de 4 vías. La pantalla del modo normal cambia a 256 colores y 262,144 colores en el modo HAM-8 desde una paleta de 16,777,216. Existiern dos tipos de juegos, aquellos simplemente adaptados para usar el AGA como Chaos Engine, y aquellos que aprovechaban el 100%, juegos de culto como Payback, Guardian, Banshee, Alien Breed 3D y Pinball Illusions.</text>
+<text>El Amiga 1200 lanzado en 1992 es la computadora de cuarta generación de Commodore. Incorpora un procesador 68020 2 veces más potente con una velocidad de reloj de 14 MHz compatible con un chipset gráfico AGA, 2 MB de RAM de serie y sonido 8 bits estéreo de 4 vías. La pantalla en modo normal cambia a 256 colores y a 262,144 colores en modo HAM-8 desde una paleta de 16,777,216. Existiern dos tipos de juegos, aquellos adaptados para usar el AGA como Chaos Engine y los que aprovechaban todo el potencial, como Payback, Guardian, Banshee, Alien Breed 3D y Pinball Illusions.</text>
 		</text>
 		
 	</view>

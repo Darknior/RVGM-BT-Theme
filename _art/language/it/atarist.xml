@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Personal Computer
+Quarta Generazione
+1985
+Floppy disk
+Joystick 1 bottone, keyboard, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La piattaforma Atari ST ha segnato la seconda metà degli anni '80. Il suo successo fu tanto pubblico (giochi), quanto professionale (pubblicazione e musica MIDI). Il 520 ST, modello entry-level, aveva un processore Motorola 68000 a 8 MHz, 512 KB di RAM, un chipset audio Yamaha a 3 vie e un display 320x200 pixel in 16 colori o 640x200 pixel in 4 colori tra 512. ST sta per Sedici / Trentadue e si riferisce all'architettura mista a 16/32 bit della sua CPU. Si diceva anche che fossero le iniziali di Sam Tramiel, figlio di Jack Tramiel, all'epoca presidente di Atari.</text>
+		</text>
+		
+	</view>
+
+</theme>

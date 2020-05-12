@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Questa sezione include tutti i giochi «2 giocatori» della tua collezione, tutti i sistemi combinati ed elencati in ordine alfabetico. È perfetto per una buona festa di retro-gioco con la tua famiglia o quando hai un amico. Include tutti i giochi d'azione, le corse automobilistiche, la piattaforma, i picchiaduro, i combattimenti, ecc ... giocabili in modalità cooperativa o contro. Pensiamo subito a Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Comando, Tetris Battle Gaiden, Maginal Adventure, ecc ... Sono disponibili tutti i soliti filtri di ordinamento.</text>
+		</text>
+		
+	</view>
+
+</theme>

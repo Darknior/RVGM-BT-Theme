@@ -7,8 +7,8 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sony Computer Ent.
-Videoconsola sobremesa
-Sexto
+Consola de Sobremesa
+Sexta
 2000
 DVD-Rom, CD-Rom, USB
 DualShock 2, EyeToy</text>
@@ -16,7 +16,7 @@ DualShock 2, EyeToy</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La consola PS2 de 128 bits de Sony lanzada en 2000 es la más vendida en la historia de los videojuegos. Una versión Slim lanzada a fines de 2004. Equipada con el procesador Emotion Engine con una velocidad de reloj de 150 Mhz, compatible con otros dos subprocesadores, 32 Mb de RAM, 4 Mb de RAM de video, un disco duro y una conexión a Internet, puede Calcule 16 millones de polígonos por segundo. Muestra 480p 16/9 en 720×480 y 4/3 en 640×480. Salida de sonido digital DTS-ES. Presenta un catálogo de más de 10,035 juegos y franquicias emblemáticas como God of War, Ratchet & Clank.</text>
+<text>La consola PS2 de 128 bits de Sony lanzada en 2000 es la más vendida en la historia de los videojuegos. Equipada con el procesador Emotion Engine con una velocidad de reloj de 150 Mhz, compatible con otros dos subprocesadores, 32 Mb de RAM, 4 Mb de RAM de video, un disco duro y una conexión a internet, puede calcular 16 millones de polígonos por segundo. Muestra 480p 16/9 en 720×480 y 4/3 en 640×480. Salida de sonido digital DTS-ES. Presenta un catálogo de más de 10,035 juegos y franquicias emblemáticas como God of War, Ratchet & Clank.</text>
 		</text>
 		
 	</view>

@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Videoconsola sobremesa
+Consola de Sobremesa
 Cuarta
 1990
 Cartucho
-Gamepad 6 botones,pistola luz</text>
+Gamepad + 6 Botones, Pistola</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Super Nintendo, conocida como Super Famicom en Japón, es una consola de videojuegos comercializada por la Nintendo japonesa a finales de noviembre de 1990. En América del Norte, la consola salió con un aspecto decididamente diferente, y se llama más precisamente Super Nintendo Sistema de entretenimiento (o Super NES). La Super Nintendo es una consola de generación de 16 bits, lanzada para contrarrestar el Sega Megadrive (16 bits) y, en menor medida, el NEC PC-Engine. En 1995, Satellaview, o BS-X, un módulo satelital se lanzó en Japón para descargar juegos exclusivos de la red St. GIGA.</text>
+<text>La Super Nintendo, conocida como Super Famicom en Japón, es una consola de videojuegos comercializada por la Nintendo japonesa a finales de noviembre de 1990. En América del Norte, la consola salió con un aspecto decididamente diferente, y fue lanzada con el nombre de Super Nintendo Entertainment System (o Super NES). La Super Nintendo es una consola de generación de 16 bits, lanzada para contrarrestar el Sega Megadrive (16 bits) y, en menor medida, el NEC PC-Engine.</text>
 		</text>
 		
 	</view>

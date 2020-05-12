@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Mattel
-Videoconsola sobremesa
+Consola de Sobremesa
 Segunda
 1979
 Cartucho
-Pad 16 direcciones,15 botones</text>
+Pad 16 Direcciones + 15 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Interton VC4000 es una consola de videojuegos de 8 bits con cartuchos producida por Interton y lanzada en 1977 en Alemania. La consola es poco conocida fuera del país, pero muchos sistemas con software compatible se pueden encontrar bajo el nombre de '1292 Advanced Programmable Video System' lanzado en 1976. Las consolas no son compatibles entre sí debido a diferencias En las formas y dimensiones de las ranuras de los cartuchos.</text>
+<text>La Interton VC4000 es una consola de videojuegos de 8 bits producida por Interton y lanzada en 1977 en Alemania. La consola es poco conocida fuera del país, pero muchos sistemas con software compatible se pueden encontrar bajo el nombre de '1292 Advanced Programmable Video System' lanzado en 1976. Las consolas no son compatibles entre sí debido a diferencias en las formas y dimensiones de las ranuras de los cartuchos.</text>
 		</text>
 		
 	</view>

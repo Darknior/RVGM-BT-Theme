@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Smith Engineering
-Videoconsola sobremesa
+Consola de Sobremesa
 Segunda
 1982
 Cartucho
-Joystick con 4 botones</text>
+Joystick + 4 Botones</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzado a fines de 1982, Vectrex es una consola de 8 bits desarrollada por Smith Engineering. Incluye su propio monitor a diferencia de otras consolas conectadas a la televisión. Le permite mostrar gráficos vectoriales monocromáticos muy finos superiores a las máquinas de la competencia que operan en mapa de bits. Para compensar la falta de color, todos los juegos se suministran con un filtro de plástico de color para deslizarse frente a la pantalla. Equipada con su procesador Motorola a 1.6 MHz y 1 KB de RAM, será la primera consola en ofrecer gráficos de recursos humanos sin textura 3D y gafas 3D.</text>
+<text>Lanzado a fines de 1982, Vectrex es una consola de 8 bits desarrollada por Smith Engineering. Incluía su propio monitor a diferencia de otras consolas conectadas a la TV. Le permitió mostrar gráficos vectoriales monocromáticos superiores a los de la competencia que operaban en mapa de bits. Para compensar la falta de color, todos los juegos incorporaban un filtro plástico de color para deslizarse frente a la pantalla. Equipada con su procesador Motorola a 1.6 MHz y 1 KB de RAM, fue la primera consola en ofrecer gráficos de alta resolución sin textura 3D y gafas 3D.</text>
 		</text>
 		
 	</view>

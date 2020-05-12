@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sony Computer Ent.
-Videoconsola sobremesa
+Consola de Sobremesa
 Quinta
 1994
 CD-Rom
-2 Ctrl. Analógicos, DualShock</text>
+2 Joysticks Analógicos, DualShock</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lanzada en 1994, la PlayStation es una consola de 32 bits y la primera producida por Sony. El PSX será el más comercializado en su tiempo y será rediseñado y renombrado en PS One a fines de 2000. Está equipado con un procesador RISC que funciona a 34 Mhz, 2 MB de RAM y una salida de sonido ADPCM de 24 canales. Sus resoluciones varían de 256 × 224 a 640 × 480 píxeles, en 16 millones de colores y puede calcular 360,000 polígonos sin procesar o 180,000 texturizados e iluminados por segundo. Presenta un catálogo de más de 7,900 juegos y franquicias emblemáticas como Resident Evil, Metal Gear, Gran Turismo y Final Fantasy.</text>
+<text>Lanzada en 1994, la PlayStation es una consola de 32 bits y la primera producida por Sony. El PSX fue la más comercializada en su tiempo, además fue rediseñado y renombrado por PS One a finales de 2000. Está equipado con un procesador RISC que funciona a 34 Mhz, 2 MB de RAM y una salida de sonido ADPCM de 24 canales. Sus resoluciones varían de 256×224 a 640×480 píxeles, en 16 millones de colores y puede calcular 360,000 polígonos sin procesar. Presenta un catálogo de más de 7,900 juegos, franquicias emblemáticas como Resident Evil, Metal Gear y Final Fantasy.</text>
 		</text>
 		
 	</view>

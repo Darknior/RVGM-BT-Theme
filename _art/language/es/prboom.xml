@@ -6,12 +6,12 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Id software
-Motor de juego 3D
+<text>Id Software
+Motor de Juego 3D
 2.5.0+
 2008
 Archivos WAD
-Joystick, teclado, mouse</text>
+Joystick, Ratón, Teclado</text>
 		</text>
 
 		<text name="sys_description" extra="true">
