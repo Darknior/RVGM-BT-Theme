@@ -4,11 +4,6 @@
 
 	<view name="system">
 		
-		<!-- Sytem TEXTS -->
-		<text name="sys_label, sys_info" extra="true">
-			<visible>false</visible>
-		</text>
-
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
 <text>Cette section regroupe les derniers jeux auxquels vous avez joué, tous systèmes confondus et classés par ordre chronologique pour vous permettre de les retrouver rapidement et continuer vos passionnantes aventures ...
