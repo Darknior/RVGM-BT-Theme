@@ -3,10 +3,17 @@
 	
 	<view name="system">
 	
-		<!-- Sytem INFO -->
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
 		<image name="info-bg" extra="true">
 			<visible>false</visible>
 		</image>	
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
+		
 		<!-- Kangourou Sprite -->
 		<image name="info" extra="true">
 			<pos>0.18 0.046</pos>
@@ -19,16 +26,10 @@
 			<maxSize>0.2625 0.821</maxSize>
 		</image>
 		
-		<!-- Sytem VIDEO PREVIEW removed -->
-		<video name="videoPreview" extra="true">
-			<visible>false</visible>
-		</video>
-		
-		
 		<!-- Buble Counter -->
 		<image name="console" extra="true">
 			<origin>0 0</origin>
-			<pos>0.055 0.686</pos>
+			<pos>0.035 0.686</pos>
 		</image>
 		
 	</view>

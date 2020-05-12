@@ -3,10 +3,32 @@
 
 	<view name="system">
 		
-		<!-- Sytem VIDEO PREVIEW removed -->
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>	
 		<video name="videoPreview" extra="true">
 			<visible>false</visible>
 		</video>
+
+		<!-- Purple Ghost with counter Sprite -->
+		<image name="info" extra="true">
+			<pos>0.03 0.28</pos>
+		</image>
+	
+		<!-- Sytem AVATAR sprite -->
+		<image name="avatar" extra="true">
+			<pos>0.385 0.047</pos>
+		</image>
+		
+		<!-- Pink Ghost -->
+		<image name="console" extra="true">
+			<origin>0 0</origin>
+			<pos>0.667 0.057</pos>
+		</image>
 		
 	</view>
 </theme>

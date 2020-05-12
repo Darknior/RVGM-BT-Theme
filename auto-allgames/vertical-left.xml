@@ -3,10 +3,17 @@
 	
 	<view name="system">
 
-		<!-- Sytem INFO -->
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
 		<image name="info-bg" extra="true">
 			<visible>false</visible>
-		</image>
+		</image>	
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
+
 		<!-- Mario Sprite -->
 		<image name="info" extra="true">
 			<pos>0.72 0.2658</pos>
@@ -16,11 +23,6 @@
 		<image name="avatar" extra="true">
 			<rotation>90</rotation>
 		</image>
-		
-		<!-- Sytem VIDEO PREVIEW removed -->
-		<video name="videoPreview" extra="true">
-			<visible>false</visible>
-		</video>
 		
 	</view>
 </theme>

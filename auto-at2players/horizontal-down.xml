@@ -3,16 +3,16 @@
 	
 	<view name="system">
 
-		<!-- Sytem INFO -->
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
 		<image name="info-bg" extra="true">
 			<visible>false</visible>
 		</image>	
-		
-		<!-- Sytem VIDEO PREVIEW removed -->
 		<video name="videoPreview" extra="true">
 			<visible>false</visible>
 		</video>
-		
 		
 		<!-- Bison Sprite -->
 		<image name="info" extra="true">

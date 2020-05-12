@@ -3,10 +3,17 @@
 
 	<view name="system">
 	
-		<!-- Sytem INFO -->
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
 		<image name="info-bg" extra="true">
 			<visible>false</visible>
-		</image>
+		</image>	
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
+
 		<!-- Coupa Sprite -->
 		<image name="info" extra="true">
 			<origin>0 0</origin>
@@ -26,11 +33,6 @@
 			<pos>0.3655 0.1965</pos>
 			<rotation>90</rotation>
 		</image>
-		
-		<!-- Sytem VIDEO PREVIEW removed -->
-		<video name="videoPreview" extra="true">
-			<visible>false</visible>
-		</video>
 		
 	</view>
 </theme>

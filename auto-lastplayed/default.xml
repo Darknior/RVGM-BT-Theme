@@ -3,21 +3,16 @@
 
 	<view name="system">
 		
-		<!-- Sytem VIDEO PREVIEW removed -->
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="true">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="true">
+			<visible>false</visible>
+		</image>	
 		<video name="videoPreview" extra="true">
 			<visible>false</visible>
 		</video>
-
-		<!-- Sytem INFO -->
-		<image name="info-bg" extra="true">
-			<visible>false</visible>
-		</image>
-		
-		<!-- Sytem LABEL -->
-		<text name="sys_label" extra="true">
-			<forceUppercase>true</forceUppercase>
-			<color>3f3a1f</color>
-		</text>
 		
 	</view>
 	
