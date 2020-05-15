@@ -3,7 +3,7 @@
 	<formatVersion>7</formatVersion>
 
 	<variables>
-		<gamelistOpacity></gamelistOpacity>
+		<gamelistOpacity>-opaque</gamelistOpacity>
 	</variables>
 	
 </theme>

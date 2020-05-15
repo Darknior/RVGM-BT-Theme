@@ -29,7 +29,7 @@
 		<!-- Buble Counter -->
 		<image name="console" extra="true">
 			<origin>0 0</origin>
-			<pos>0.07 0.484</pos>
+			<pos>0.035 0.484</pos>
 		</image>
 		
 	</view>

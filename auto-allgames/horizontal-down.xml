@@ -23,7 +23,7 @@
 	
 		<!-- Sytem AVATAR -->
 		<image name="avatar" extra="true">
-			<pos>0.3335 0.1425</pos>
+			<pos>0.366 0.15</pos>
 			<rotation>90</rotation>
 		</image>
 		

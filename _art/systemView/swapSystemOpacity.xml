@@ -3,8 +3,8 @@
 	<formatVersion>7</formatVersion>
 
 	<variables>
-		<systemOpacity></systemOpacity>
-		<infoOpacity></infoOpacity>
+		<systemOpacity>-opaque</systemOpacity>
+		<infoOpacity>FF</infoOpacity>
 	</variables>
 
 

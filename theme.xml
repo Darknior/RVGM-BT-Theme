@@ -131,7 +131,16 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<include name="menuHorizBotVideo"	displayName="${menuHorizBotVideo}"	>./_art/systemView/horizontal-down-video.xml</include>
 	</subset>
 	
-	<!-- <video name="staticBackgroundVideo"> --------------------------------------------------------------------------------------->
+	<!-- TRY: <video name="staticBackgroundVideo"> for video effect in background ---------------->
+	
+	<!-- 
+	Modifier la gestion des fonds :
+	
+	Laisser les backgrounds ordinaires en scroll en pos 0 0 size 1 1
+	Mettre l'effet de bordure en élément statique séparé
+	Et la barre grise de FOND SYSTEME dans une resource à part static aussi
+	Comme ca la bordure est réutilisable ds les deux vues Horizontales / les deux vues Verticales
+	-->
 
 	<!-------------------------------------------------------------------------------------------->
 	<!-- GAMELIST SWAP --------------------------------------------------------------------------->
@@ -160,7 +169,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<fontPath>./_art/font/${fontMedium}</fontPath>
 			<fontSize>0.035</fontSize>
 			<color>${themeLightColor}</color>
-			<separatorColor>${themeLightColor}</separatorColor> <!-- Séparateur -->
+			<separatorColor>${themeDarkColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
 			<selectorColorEnd>${themeLightColor}</selectorColorEnd>
 			<selectedColor>${userColor}</selectedColor>
@@ -182,7 +191,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<fontPath>./_art/font/${fontBold}</fontPath>
 			<fontSize>0.025</fontSize>
 			<color>${userLightColor}</color>
-			<separatorColor>${themeLightColor}</separatorColor>    
+			<separatorColor>${themeDarkColor}</separatorColor>    
 			<backgroundColor>00000000</backgroundColor>
 			<lineSpacing>2.5</lineSpacing>
 		</menuGroup>
@@ -255,6 +264,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</batteryIndicator>
   
 	</view>
+	
+	<!--TO DO: Add SYSTEM CRT effect here in SCREEN view -->
 	
 	<!-- Helpsystem general design -->
 	<view name="system, basic, detailed, video, grid">

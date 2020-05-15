@@ -95,7 +95,7 @@
 		</image>
 		
 		<!-- Sytem LOGO -->
-		<image name="logo-color" extra="true">
+		<image name="logo-color" extra="static">
 			<origin>1 0.5</origin> <!-- W Right / H Center -->
 			<pos>0.9651 0.1387</pos>
 			<maxSize>0.375 0.1849</maxSize>

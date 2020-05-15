@@ -16,7 +16,8 @@
 
 		<!-- Purple Ghost with counter Sprite -->
 		<image name="info" extra="true">
-			<pos>0.03 0.28</pos>
+			<origin>1 0</origin>
+			<pos>0.98 0.28</pos>
 		</image>
 	
 		<!-- Sytem AVATAR sprite -->
