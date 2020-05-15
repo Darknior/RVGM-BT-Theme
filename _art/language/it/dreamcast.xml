@@ -3,20 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Nintendo
-Console portable
-Cinquième
-1995
-Cartouche
-Manette 2 boutons</text>
+<text>Sega
+Console per videogiochi domestica
+Sesta Generazione
+1998
+GD-Rom (1,2 Go)
+Stick analogico, joypad a 7 bottoni</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le Virtual Boy créé par Gunpei Yokoi, le créateur du Game & Watch et de la Game Boy, est le seul véritable échec commercial de Nintendo. Sorti en 1995 après la Super Nintendo et avant la Nintendo 64, cette console de salon n'a jamais dépassé les frontières japonaises et américaines. Les graphismes étaient affichés en rouge et noir via de petites diodes sur deux écrans séparés (un par oeil) pour donner un effet de relief. Mais cette pseudo réalité virtuelle était mal exploitée et peu de jeux sont réellement immersifs. Il y a tout de même quelques hits uniques comme Wario Land & Mario Clash.</text>
+<text>Il Dreamcast è una console per videogiochi domestica sviluppata da Sega per succedere a Saturn. Lanciata nel novembre 1998 in Giappone, è la prima console di sesta generazione che precede PS2 e XBOX e offre un'esperienza di gioco online. Purtroppo finirà prematuramente nel 2004 e rimarrà l'ultima console di SEGA a causa di un cattivo marketing. È dotato di un processore a 32 bit che include un coprocessore aritmetico a 128 bit, 16 MB di RAM e una GPU NEC PowerVR2 per visualizzare contemporaneamente 7 milioni di poligoni e 16 milioni di colori. È vicino a una scheda di sistema arcade NAOMI.</text>
 		</text>
 		
 	</view>

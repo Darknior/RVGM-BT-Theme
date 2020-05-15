@@ -3,20 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Nintendo
-Console portable
-Cinquième
-1995
-Cartouche
-Manette 2 boutons</text>
+<text>Pioneer, Philips ed altri
+Videogioco arcade
+Quarta Generazione
+1982
+Laser disc
+Arcade stick e altri</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le Virtual Boy créé par Gunpei Yokoi, le créateur du Game & Watch et de la Game Boy, est le seul véritable échec commercial de Nintendo. Sorti en 1995 après la Super Nintendo et avant la Nintendo 64, cette console de salon n'a jamais dépassé les frontières japonaises et américaines. Les graphismes étaient affichés en rouge et noir via de petites diodes sur deux écrans séparés (un par oeil) pour donner un effet de relief. Mais cette pseudo réalité virtuelle était mal exploitée et peu de jeux sont réellement immersifs. Il y a tout de même quelques hits uniques comme Wario Land & Mario Clash.</text>
+<text>Un videogioco Laserdisc è un gioco che utilizza video preregistrati riprodotti da un disco laser per decorare e visualizzare elementi interattivi su di essi. Questo trucco ha permesso al tempo di compensare la bassa risoluzione dei giochi a scapito di un'esperienza altamente semplificata. Il primo gioco arcade laserdisc fu Astron Belt, di Sega nel 1982. Tuttavia, il primo gioco LD a diventare popolare fu Dragon's Lair nel 1983. Contiene scene animate da Don Bluth e dovrai premere un pulsante specifico al momento adatto per andare avanti, come un moderno "Evento Quick Time".</text>
 		</text>
 		
 	</view>

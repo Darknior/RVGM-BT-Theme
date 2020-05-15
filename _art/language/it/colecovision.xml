@@ -3,20 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Nintendo
-Console portable
-Cinquième
-1995
-Cartouche
-Manette 2 boutons</text>
+<text>Coleco Industries
+Console per videogiochi domestica
+Seconda Generazione
+1982
+Cartuccia
+Stick analogico e 14 pulsanti</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le Virtual Boy créé par Gunpei Yokoi, le créateur du Game & Watch et de la Game Boy, est le seul véritable échec commercial de Nintendo. Sorti en 1995 après la Super Nintendo et avant la Nintendo 64, cette console de salon n'a jamais dépassé les frontières japonaises et américaines. Les graphismes étaient affichés en rouge et noir via de petites diodes sur deux écrans séparés (un par oeil) pour donner un effet de relief. Mais cette pseudo réalité virtuelle était mal exploitée et peu de jeux sont réellement immersifs. Il y a tout de même quelques hits uniques comme Wario Land & Mario Clash.</text>
+<text>La Colecovision è una console per videogiochi di seconda generazione commercializzata da Coleco (Connecticut Leather Company) e rilasciata nell'agosto del 1982. Dotato di un processore da 3,58 Mhz, 1 kb di RAM, 3 toni e 1 generatori di rumore, visualizza una risoluzione di 256x192 pixel e 32 sprite in 16 colori. Ciò gli consente di offrire una grafica simile ai giochi arcade dell'epoca. Durante la sua vita sono stati rilasciati circa 170 titoli e continua a lasciare Homebrew nel 2020. Coleco ha anche commercializzato un modulo che rende la console compatibile con l'Atari 2600.</text>
 		</text>
 		
 	</view>

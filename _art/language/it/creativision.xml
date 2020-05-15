@@ -3,20 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Nintendo
-Console portable
-Cinquième
-1995
-Cartouche
-Manette 2 boutons</text>
+<text>VTech
+Console per videogiochi domestica
+Seconda Generazione
+1981
+Cartucce
+Joystick e tastiera a membrana</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le Virtual Boy créé par Gunpei Yokoi, le créateur du Game & Watch et de la Game Boy, est le seul véritable échec commercial de Nintendo. Sorti en 1995 après la Super Nintendo et avant la Nintendo 64, cette console de salon n'a jamais dépassé les frontières japonaises et américaines. Les graphismes étaient affichés en rouge et noir via de petites diodes sur deux écrans séparés (un par oeil) pour donner un effet de relief. Mais cette pseudo réalité virtuelle était mal exploitée et peu de jeux sont réellement immersifs. Il y a tout de même quelques hits uniques comme Wario Land & Mario Clash.</text>
+<text>Il VTech CreatiVision è un ibrido di seconda generazione per computer e videogiochi prodotto da VTech nel 1981. Dotato di una CPU a 8 bit da 2 MHz, 1 KB di RAM e 16 KB di memoria video, visualizza una risoluzione di 256x192 pixel con 16 colori e 32 sprite. Incorpora due controller a membrana che, se collocati in uno scomparto speciale nella parte superiore della console, possono essere utilizzati come tastiera di un computer o come joystick una volta staccati. Il modello Mark-2 sarà dotato di un modulo per giocare ai giochi ColecoVision.</text>
 		</text>
 		
 	</view>

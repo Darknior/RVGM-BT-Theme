@@ -3,20 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Nintendo
-Console portable
-Cinquième
-1995
-Cartouche
-Manette 2 boutons</text>
+<text>Multiplo
+Armadio per videogiochi arcade
+Multiplo
+1971 / 20xx
+Schede PCB 
+Arcade stick ed altro</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le Virtual Boy créé par Gunpei Yokoi, le créateur du Game & Watch et de la Game Boy, est le seul véritable échec commercial de Nintendo. Sorti en 1995 après la Super Nintendo et avant la Nintendo 64, cette console de salon n'a jamais dépassé les frontières japonaises et américaines. Les graphismes étaient affichés en rouge et noir via de petites diodes sur deux écrans séparés (un par oeil) pour donner un effet de relief. Mais cette pseudo réalité virtuelle était mal exploitée et peu de jeux sont réellement immersifs. Il y a tout de même quelques hits uniques comme Wario Land & Mario Clash.</text>
+<text>Questa è una continuazione di Final Burn Alpha creata nel 2004 da TrebbleWinner, a sua volta basata su Fianl Burn creata nel 2000 da Dave e diventata FB-Neo nel 2019. Questo progetto è diventato nel tempo uno dei migliori emulatori Arcade disponibili, grazie a Lantus e IQ_132 per le loro varie ottimizzazioni. Viene aggiornato molto spesso ed emula diversi sistemi come MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board of Sega e un intero elenco di Cave Toaplan, Taito, Psikyo e Kaneko. Proprio come MAME offre le funzionalità di shader grafici, savestate, ecc...</text>
 		</text>
 		
 	</view>
