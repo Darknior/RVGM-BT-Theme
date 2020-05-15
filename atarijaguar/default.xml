@@ -3,7 +3,7 @@
 
 	<view name="system">
 		<!-- Rotation AVATAR -->
-		<image name="avatar" extra="true">
+		<image name="avatar" extra="static">
 			<pos>0.323 0.101</pos>
 			<rotation>90</rotation>
 		</image>

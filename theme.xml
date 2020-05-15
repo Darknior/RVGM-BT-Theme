@@ -1278,7 +1278,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<include name="themeGray" 	 displayName="${colgray}"/>
 		<include name="themeColored" displayName="${colored}" >./_art/systemView/swapThemeColored.xml</include>
 	</subset>
-		
+	
+	<!-- Choice font size by Display size -->
+	<subset name="setDisplaySize" displayName="${subset.setDisplaySize}">
+		<include name="setDisplayHd" 	displayName="${displayHd}"/>
+		<include name="setDisplay1680" 	displayName="${display1680}" >./_art/systemView/setDisplaySize.xml</include>
+	</subset>
+	
+	
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">
 	    <image name="bg-game" extra="true">

@@ -4,23 +4,23 @@
 	<view name="system">
 
 		<!-- HIDDE ELEMENTS -->
-		<text name="sys_label, sys_info" extra="true">
+		<text name="sys_label, sys_info" extra="static">
 			<visible>false</visible>
 		</text>
-		<image name="info-bg" extra="true">
+		<image name="info-bg" extra="static">
 			<visible>false</visible>
 		</image>	
-		<video name="videoPreview" extra="true">
+		<video name="videoPreview" extra="static">
 			<visible>false</visible>
 		</video>
 
 		<!-- Mario Sprite -->
-		<image name="info" extra="true">
+		<image name="info" extra="static">
 			<pos>0.015 0.265</pos>
 		</image>
 	
 		<!-- Sytem AVATAR -->
-		<image name="avatar" extra="true">
+		<image name="avatar" extra="static">
 			<pos>0.366 0.15</pos>
 			<rotation>90</rotation>
 		</image>

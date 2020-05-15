@@ -4,29 +4,29 @@
 	<view name="system">
 		
 		<!-- HIDDE ELEMENTS -->
-		<text name="sys_label, sys_info" extra="true">
+		<text name="sys_label, sys_info" extra="static">
 			<visible>false</visible>
 		</text>
-		<image name="info-bg" extra="true">
+		<image name="info-bg" extra="static">
 			<visible>false</visible>
 		</image>	
-		<video name="videoPreview" extra="true">
+		<video name="videoPreview" extra="static">
 			<visible>false</visible>
 		</video>
 
 		<!-- Coupa Sprite -->
-		<image name="info" extra="true">
+		<image name="info" extra="static">
 			<pos>0.039 0.259</pos>
 		</image>
 		
 		<!-- Peach Princess Sprite -->
-		<image name="console" extra="true">
+		<image name="console" extra="static">
 			<origin>0 0</origin>
 			<pos>0.078 0.565</pos>
 		</image>
 		
 		<!-- Sytem AVATAR -->
-		<image name="avatar" extra="true">
+		<image name="avatar" extra="static">
 			<pos>0.3655 0.1965</pos>
 			<rotation>90</rotation>
 		</image>
