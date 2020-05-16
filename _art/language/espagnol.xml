@@ -55,6 +55,10 @@
 		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
 		
+		<subset.setDisplaySize>Resolución de pantalla</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
 <sysLabel>Fabricante
 Tipo
 Generación

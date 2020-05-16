@@ -55,6 +55,10 @@
 		<tilesScreenshotVideoMarqueeViewName>Griglia Screenshot</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Lista Marquee (beta)</marqueeDetailViewName>
 		
+		<subset.setDisplaySize>Risoluzione del display</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
 <sysLabel>Produttore
 Tipo
 Genere

@@ -54,7 +54,11 @@
 		<tilesTitleshotVideoViewName> Título na grade</tilesTitleshotVideoViewName>
 		<tilesScreenshotVideoMarqueeViewName>Captura de tela na grade</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Lista de Marquee (beta)</marqueeDetailViewName>
-
+		
+		<subset.setDisplaySize>Resolução de vídeo</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
 <sysLabel>Fabricante
 Tipo
 Geração
