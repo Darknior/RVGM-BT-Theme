@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiple
-Collection de jeu 2D/3D
-Toutes
-1980 / 20xx
-Tous les supports
-Manette, Clavier</text>
+<text>Nintendo
+Console per videogiochi domestica
+Sesta Generazione
+2001
+Mini Disc 1.5 Go
+Controller, Wavebird</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le flipper trouve ses origines au 18ème siècle. Il aurait pour ancêtre la Bagatelle, une ancienne table de jeu inventée en France. En 1930, avec l'invention du monnayeur, le flipper prend une nouvelle dimension. Il devient lucratif et suscite de nouveau l’intérêt. Entre 1950 et 1970, le jeu connaît une période faste, il se développe aux États-unis puis s'exporte en Europe et dans le reste du monde. Dans les années 1980, le flipper perd des parts de marché au profit du jeu vidéo sur lequel il est adapté. De nos jours, le jeu physique est essentiellement porté par une clientèle de collectionneurs nostalgiques.</text>
+<text>Rilasciato nel 2001, il GC non ha incontrato il successo dei suoi predecessori, affrontando PS2, XBox e Dreamcast. Un cavo ha reso possibile l'utilizzo di GBA come controller con uno schermo remoto per Zelda Four Swords Adv. e nel 2002 ha rilasciato Wavebird, il primo controller wireless per onda radio. Dotato di un processore a 486 Mhz, un chip grafico ATI a 162 Mhz e 40 MB di RAM può calcolare 15 milioni di poligoni. Visualizza 640 × 480 60 Hz o 768x576 50 Hz e offre audio in Dolby Pro Logic 2. Presenta un catalogo di 644 giochi inclusi giochi come Resident Evil 4 e Viewtiful Joe.</text>
 		</text>
 		
 	</view>

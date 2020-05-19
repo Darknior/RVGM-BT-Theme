@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiple
-Collection de jeu 2D/3D
-Toutes
-1980 / 20xx
-Tous les supports
-Manette, Clavier</text>
+<text>Mattel
+Console per videogiochi domestica
+Seconda Generazione
+1979
+Cartucce
+16 tasti direzionali, 15 pulsanti</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le flipper trouve ses origines au 18ème siècle. Il aurait pour ancêtre la Bagatelle, une ancienne table de jeu inventée en France. En 1930, avec l'invention du monnayeur, le flipper prend une nouvelle dimension. Il devient lucratif et suscite de nouveau l’intérêt. Entre 1950 et 1970, le jeu connaît une période faste, il se développe aux États-unis puis s'exporte en Europe et dans le reste du monde. Dans les années 1980, le flipper perd des parts de marché au profit du jeu vidéo sur lequel il est adapté. De nos jours, le jeu physique est essentiellement porté par une clientèle de collectionneurs nostalgiques.</text>
+<text>L' Intellivision è una console per videogiochi prodotta da Mattel e rilasciata nel 1980. Fu il primo sistema ad essere una seria minaccia al dominio di Atari. È dotato di un processore da 895 kHz, 371 ott di RAM, un suono a 3 voci e può visualizzare una risoluzione di 160x196 pixel in 16 colori. Fu la prima console di gioco a 16 bit e il primo sistema nel 1981 a utilizzare la "banda larga" con il "cavo di gioco" che consentiva di scaricare i giochi Intellivision attraverso TV via cavo per 24 ore. Nel 2014 è stato rilasciato il linguaggio semplificato "IntyBASIC" che ha fatto rivivere la scena dell'homebrew.</text>
 		</text>
 		
 	</view>

@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiple
-Collection de jeu 2D/3D
-Toutes
-1980 / 20xx
-Tous les supports
-Manette, Clavier</text>
+<text>Amstrad
+Console per videogiochi domestica
+Terza Generazione
+1990
+Cartucce
+Joypad a 2 pulsanti</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le flipper trouve ses origines au 18ème siècle. Il aurait pour ancêtre la Bagatelle, une ancienne table de jeu inventée en France. En 1930, avec l'invention du monnayeur, le flipper prend une nouvelle dimension. Il devient lucratif et suscite de nouveau l’intérêt. Entre 1950 et 1970, le jeu connaît une période faste, il se développe aux États-unis puis s'exporte en Europe et dans le reste du monde. Dans les années 1980, le flipper perd des parts de marché au profit du jeu vidéo sur lequel il est adapté. De nos jours, le jeu physique est essentiellement porté par une clientèle de collectionneurs nostalgiques.</text>
+<text>Il GX-4000 è una console per videogiochi a 8 bit di Amstrad che è stata venduta nel 1990. È costruita sulla base del CPC Plus e quindi ha le stesse caratteristiche. È dotato di un processore a 4 MHz, 64 kb di RAM, un suono stereo a 3 voci e può visualizzare una risoluzione di 160x200 pixel in 31 colori su una tavolozza di 4096, con 16 sprite in 15 colori ciascuno. Inoltre, include finalmente uno scorrimento pixel per pixel nell'hardware. Ma con una libreria di giochi essenzialmente ereditata dal CPC, venduta troppo costosa rispetto al NES e superata dal Megadrive a 16 bit, sarà un fallimento commerciale.</text>
 		</text>
 		
 	</view>

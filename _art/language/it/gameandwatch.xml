@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiple
-Collection de jeu 2D/3D
-Toutes
-1980 / 20xx
-Tous les supports
-Manette, Clavier</text>
+<text>Nintendo
+Console portatile
+Seconda Generazione
+1980
+Nessuno
+Tasti freccia e pulsanti</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le flipper trouve ses origines au 18ème siècle. Il aurait pour ancêtre la Bagatelle, une ancienne table de jeu inventée en France. En 1930, avec l'invention du monnayeur, le flipper prend une nouvelle dimension. Il devient lucratif et suscite de nouveau l’intérêt. Entre 1950 et 1970, le jeu connaît une période faste, il se développe aux États-unis puis s'exporte en Europe et dans le reste du monde. Dans les années 1980, le flipper perd des parts de marché au profit du jeu vidéo sur lequel il est adapté. De nos jours, le jeu physique est essentiellement porté par une clientèle de collectionneurs nostalgiques.</text>
+<text>Game and Watch sono giochi elettronici tascabili prodotti da Nintendo dal 1980 al 1991, fungono anche da orologi e sveglie. Sono stati creati da Gunpei Yokoi, il creatore di Game Boy, e il primo gioco è stato Ball. Il concetto si basa su uno schermo a cristalli liquidi, in cui le immagini del gioco sono prestampate e successivamente illuminate durante il gioco. Il successo fu immediato con i bambini. La loro produzione è stata interrotta a causa del successo di console portatili con più giochi su cartucce.</text>
 		</text>
 		
 	</view>

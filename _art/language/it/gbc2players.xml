@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiple
-Collection de jeu 2D/3D
-Toutes
-1980 / 20xx
-Tous les supports
-Manette, Clavier</text>
+<text>Nintendo
+Console di gioco portatile
+Quinta Generazione
+1998
+Cartucce GBC, GB
+Joypad a 2 pulsanti</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le flipper trouve ses origines au 18ème siècle. Il aurait pour ancêtre la Bagatelle, une ancienne table de jeu inventée en France. En 1930, avec l'invention du monnayeur, le flipper prend une nouvelle dimension. Il devient lucratif et suscite de nouveau l’intérêt. Entre 1950 et 1970, le jeu connaît une période faste, il se développe aux États-unis puis s'exporte en Europe et dans le reste du monde. Dans les années 1980, le flipper perd des parts de marché au profit du jeu vidéo sur lequel il est adapté. De nos jours, le jeu physique est essentiellement porté par une clientèle de collectionneurs nostalgiques.</text>
+<text>Il Game Boy Color creato nel 1989 da Nintendo è la console portatile succeduta al Game Boy. Incorpora uno schermo a colori appena più grande di quello del Game Boy, ma ha un processore da 8 Mhz, 32 KB di RAM, 16 KB di memoria video e visualizza una risoluzione di 160x144 pixel in 56 colori. È retrocompatibile con tutti i giochi Game Boy di prima generazione, disponibile in vari colori e quindi in serie limitata e ha una durata della batteria di 10 ore. Selezione di giochi multiplayer al momento giocabili con un cavo di collegamento, ora riproducibili in uno schermo diviso orizzontalmente.</text>
 		</text>
 		
 	</view>

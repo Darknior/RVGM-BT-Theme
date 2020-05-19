@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Multiple
-Collection de jeu 2D/3D
-Toutes
-1980 / 20xx
-Tous les supports
-Manette, Clavier</text>
+<text>Nintendo
+Console di gioco portatile
+Sesta Generazione
+2001
+Cartucce GBA, GB, GBC
+Joypad a 4 pulsanti</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le flipper trouve ses origines au 18ème siècle. Il aurait pour ancêtre la Bagatelle, une ancienne table de jeu inventée en France. En 1930, avec l'invention du monnayeur, le flipper prend une nouvelle dimension. Il devient lucratif et suscite de nouveau l’intérêt. Entre 1950 et 1970, le jeu connaît une période faste, il se développe aux États-unis puis s'exporte en Europe et dans le reste du monde. Dans les années 1980, le flipper perd des parts de marché au profit du jeu vidéo sur lequel il est adapté. De nos jours, le jeu physique est essentiellement porté par une clientèle de collectionneurs nostalgiques.</text>
+<text>Il Game Boy Advance è una console portatile creata da Nintendo nel 2001. Ha uno schermo a colori e un processore a 32 bit, ma senza istruzioni 3D. È la console portatile più potente del momento. Dotato di un processore da 16 Mhz, una GPU da 8 Mhz e 380 KB di RAM, visualizza una risoluzione di 240x160 in 511 colori. Nel 2003, Nintendo ha lanciato GBA SP, con miglioramenti come uno schermo retroilluminato, dimensioni ridotte e una batteria ricaricabile agli ioni di litio. Finalmente nel 2005, Nintendo ha rilasciato Game Boy Micro, l'ultima versione del suo laptop.</text>
 		</text>
 		
 	</view>
