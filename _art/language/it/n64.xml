@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
-		</text>
-		
-		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>Nintendo
+Console di gioco domestica
+Quinta Generazione
+1996
+Cartucce
+Joypad 10 pulsanti + Joystick</text>
 		</text>
 
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il Nintendo 64 è una console domestica rilasciata nel 1996, creata da Nintendo in collaborazione con Silicon Graphics. Fu l'ultima delle console di quinta generazione ad essere lanciata, in competizione con Saturn e PlayStation. Dotato di un processore da 93 Mhz, due GPU da 64 Mhz e 4 MB di RAM espandibile a 8, visualizza 640x480 pixel in 2 milioni di colori su 16 e 150 mila poligoni strutturati. La sua principale innovazione era il controller con una levetta analogica. È anche l'ultima console domestica a utilizzare le cartucce ROM per archiviare i suoi giochi.</text>
+		</text>
+		
 	</view>
-	
+
 </theme>

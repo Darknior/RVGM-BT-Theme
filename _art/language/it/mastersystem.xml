@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
+<text>Sega
+Console per videogiochi domestica
+Terza Generazione
+1985
+Cartucce, Sega card
+Joypad a 2 pulsanti, Light phaser</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>Il Sega Mark III è una console a 8 bit prodotta da Sega nel 1985 in Giappone per competere con il NES. Quindi verrà ridisegnato e rinominato come sistema principale o SMS per essere rilasciato nel resto del mondo nel 1986, un anno dopo l'uscita del NES. Dotato di un processore da 3,5 Mhz, 8 KB di RAM, 128 KB di RAM video e un suono mono a 3 voci, visualizza 256x192 pixel in 32 colori, 64 con un trucco. Nel 1987, una nuova versione è stata rilasciata in Giappone, incorporando un modulo FM che potrebbe essere utilizzato per i giochi. Ma non raggiungerà mai il Nes e sarà un vero successo solo in Europa e in Brasile.</text>
 		</text>
-
+		
 	</view>
-	
+
 </theme>

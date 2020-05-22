@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
-		</text>
-		
-		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>Microsoft & Sony, Pioneer
+Personnal computer
+Terza Generazione
+1985
+Cartucce, floppy disk 3"5
+Joystick, mouse, tastiera</text>
 		</text>
 
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MSX, lo standard giapponese del computer domestico che utilizza MSX-DOS 1 di Microsoft, si è evoluto nel 1988 con MSX-DOS 2 di ASCII. Dotato di 64k o 128k, MSX2 è stato rilasciato nel 1985 e può visualizzare grafica fino a 512 × 212 pixel con 16 colori da 512 e 256 colori in 256x212 pixel. Incorpora funzioni di acceleratore hardware integrate per scorrimento verticale, copia e riempimento di aree. È possibile aggiungere estensioni a questa macchina come una cartuccia MSX-Audio a 8 canali o FM-PAC con libreria, con l'aggiunta di un'estensione di memoria Memory Mapper.</text>
+		</text>
+		
 	</view>
-	
+
 </theme>

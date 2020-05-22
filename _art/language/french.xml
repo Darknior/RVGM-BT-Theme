@@ -6,6 +6,8 @@
 		
 		<langue>fr</langue>
 		
+		<!-- GENERAL -->
+		
 		<yes>Oui</yes>
 		<no>Non</no>
 		<thumbnail>Thumbnail</thumbnail>
@@ -22,9 +24,23 @@
 		<colgray>Gris</colgray>
 		<colored>Colorés</colored>
 		
+		<subset.swapVideoEffect>Effet sur les Vidéos</subset.swapVideoEffect>
+		<videoEffectDefault>Aucun</videoEffectDefault>
+		<videoEffectBump>Rebond</videoEffectBump>
+		
+		<subset.setDisplaySize>Résolution d'affichage</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+		<!-- SYSTEM LIST -->
+		
+		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
+		<showInfos>Bibliothèque</showInfos>
+		<hiddeInfos>Galerie d'art</hiddeInfos>
+		<!-- Médiathèque -->
+		
 		<subset.menuOpacity>Apparence du Menu Principal</subset.menuOpacity>
 		<subset.systemlistOpacity>Apparence de la Liste Système</subset.systemlistOpacity>
-		<subset.gamelistOpacity>Apparence de la Liste des Jeux</subset.gamelistOpacity>
 		<translucent>Translucide</translucent>
 		<opaque>Opaque</opaque>
 
@@ -34,30 +50,10 @@
 		<menuHorizBot>Horizontal en Bas</menuHorizBot>
 		<menuHorizBotVideo>Horizontal avec Vidéo</menuHorizBotVideo>
 		
-		<!-- <subset.swapImages>Balise Jaquette</subset.swapImages> -->
-
 		<subset.systemSwapVideo>Aperçu Vidéo Système</subset.systemSwapVideo>
 		<swapVideoRandom>Au hasard</swapVideoRandom>
 		<swapVideoCommercial>Publicités TV</swapVideoCommercial>
 		<swapVideoHide>Aucun</swapVideoHide>
-		
-		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
-		<gamelistInfoLight>Lumineux</gamelistInfoLight>
-		<gamelistInfoDarth>Sombre</gamelistInfoDarth>
-
-		<subset.swapVideoEffect>Effet sur les Vidéos</subset.swapVideoEffect>
-		<videoEffectDefault>Aucun</videoEffectDefault>
-		<videoEffectBump>Rebond</videoEffectBump>
-		
-		<videoFullscreenViewName>Vidéo plein écran</videoFullscreenViewName>
-		<gridDetailViewName>Grille de Jaquettes + Détail</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Grille d'écrans titre</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Grille d'écrans de jeu</tilesScreenshotVideoMarqueeViewName>
-		<marqueeDetailViewName>Liste de logos (beta)</marqueeDetailViewName>
-		
-		<subset.setDisplaySize>Résolution d'affichage</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
 		
 <sysLabel>Fabricant
 Type
@@ -67,7 +63,23 @@ Média
 Contrôleur(s)
 
 Total</sysLabel>
+		
+		<!-- GAMES LIST -->
 
+		<videoFullscreenViewName>Vidéo plein écran</videoFullscreenViewName>
+		<gridDetailViewName>Grille de Jaquettes + Détail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grille d'écrans titre</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grille d'écrans de jeu</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Liste de logos (beta)</marqueeDetailViewName>
+
+		<subset.gamelistOpacity>Apparence de la Liste des Jeux</subset.gamelistOpacity>
+
+		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<gamelistInfoLight>Lumineux</gamelistInfoLight>
+		<gamelistInfoDarth>Sombre</gamelistInfoDarth>
+		
+		<!-- <subset.swapImages>Balise Jaquette</subset.swapImages> -->
+		
 	</variables>
 	
 </theme>

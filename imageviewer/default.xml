@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- HIDDE ELEMENTS -->
+		<image name="synopsys, info-bg, info, console" extra="true">
+			<visible>false</visible>
+		</image>
+
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
+		
+		<text name="systemInfo, sys_label, sys_info, sys_description" extra="true">
+			<visible>false</visible>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -736,7 +736,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<size>0.16 0.032</size>
 		</rating>
 		
-		<!-- TODO : STATUS Icons --
+		<!-- TODO : STATUS Icons -->
 
 		<image name="md_hidden">
 			<pos>0.423 0.08</pos>
@@ -751,12 +751,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<path>./_art/icons/heart.png</path>
 		</image>
 		
-		<!-- TODO : FLAG Icons --
+		<!-- TODO : FLAG Icons -->
 
-		<image name="md_flag"> 
-			   <origin>0 0.5</origin>
-			   <pos>0.530 0.9</pos>
-			   <maxSize>0.02 0.05</maxSize>
+		<image name="md_flag">
+			   <origin>0 0</origin>
+			   <pos>0.25 0.89</pos>
+			   <maxSize>0.03 0.05</maxSize>
 		</image>
 		
 		<!-- Add text name="folderpath" Prise en charge dans les vues de jeu pour afficher les chemins parent en tant que fil d'Ariane lors de la navigation dans un dossier. -->
@@ -1281,10 +1281,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	<!-- Choice font size by Display size -->
 	<subset name="setDisplaySize" displayName="${subset.setDisplaySize}">
-		<include name="setDisplayHd" 	displayName="${displayHd}"/>
+		<include name="setDisplayHd" 	displayName="${displayHd}"  />
 		<include name="setDisplay1680" 	displayName="${display1680}" >./_art/systemView/setDisplaySize.xml</include>
 	</subset>
 	
+	<!-- Hide System info to show only Backgrounds -->
+	<subset name="hiddeSystemInfo" displayName="${subset.hiddeSystemInfo}">
+		<include name="setShowInfos" 	displayName="${showInfos}" />
+		<include name="setHiddeInfos" 	displayName="${hiddeInfos}" >./_art/systemView/hiddeSystemInfo.xml</include>
+	</subset>
 	
 	<!-- Si l'aide est caché on réaliste ces modifications --
 	<view name="basic, detailed, grid, video" ifHelpPrompts="false">

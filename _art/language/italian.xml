@@ -6,6 +6,8 @@
 		
 		<langue>it</langue>
 		
+		<!-- GENERAL -->
+
 		<yes>Si</yes>
 		<no>No</no>
 		<thumbnail>Miniatura</thumbnail>
@@ -22,9 +24,23 @@
 		<colgray>Grigio</colgray>
 		<colored>Colorato</colored>
 		
+		<subset.swapVideoEffect>Effetto Video</subset.swapVideoEffect>
+		<videoEffectDefault>Nessuno</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+		
+		<subset.setDisplaySize>Risoluzione del display</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+		<!-- SYSTEM LIST --
+		
+		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
+		<showInfos>Library</showInfos>
+		<hiddeInfos>Art gallery</hiddeInfos>
+		<!-- Media library -->
+		
 		<subset.menuOpacity>Aspetto del menu principale</subset.menuOpacity>
 		<subset.systemlistOpacity>Aspetto dell'elenco di sistema</subset.systemlistOpacity>
-		<subset.gamelistOpacity>Aspetto della Lista Giochi</subset.gamelistOpacity>
 		<translucent>Traslucido</translucent>
 		<opaque>Opaco</opaque>
 		
@@ -34,30 +50,10 @@
 		<menuHorizBot>Fondo orizzontale</menuHorizBot>
 		<menuHorizBotVideo>Orizzontale con video</menuHorizBotVideo>
 		
-		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
-
 		<subset.systemSwapVideo>Anteprima Video di Sistema</subset.systemSwapVideo>
 		<swapVideoRandom>Gameplay casuale</swapVideoRandom>
 		<swapVideoCommercial>TV commerciale</swapVideoCommercial>
 		<swapVideoHide>Niente</swapVideoHide>
-		
-		<subset.gamelistInfoColor>Design un Tema</subset.gamelistInfoColor>
-		<gamelistInfoLight>Acceso</gamelistInfoLight>
-		<gamelistInfoDarth>Cupo</gamelistInfoDarth>
-		
-		<subset.swapVideoEffect>Effetto Video</subset.swapVideoEffect>
-		<videoEffectDefault>Nessuno</videoEffectDefault>
-		<videoEffectBump>Bump</videoEffectBump>
-		
-		<videoFullscreenViewName>Fullscreen Video</videoFullscreenViewName>
-		<gridDetailViewName>Copertina + dettaglio</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Griglia Titleshot</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Griglia Screenshot</tilesScreenshotVideoMarqueeViewName>
-		<marqueeDetailViewName>Lista Marquee (beta)</marqueeDetailViewName>
-		
-		<subset.setDisplaySize>Risoluzione del display</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
 		
 <sysLabel>Produttore
 Tipo
@@ -67,6 +63,22 @@ Media
 Controller
 
 Totale</sysLabel>
+
+		<!-- GAMES LIST -->
+
+		<videoFullscreenViewName>Fullscreen Video</videoFullscreenViewName>
+		<gridDetailViewName>Copertina + dettaglio</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Griglia Titleshot</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Griglia Screenshot</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista Marquee (beta)</marqueeDetailViewName>
+
+		<subset.gamelistOpacity>Aspetto della Lista Giochi</subset.gamelistOpacity>
+		
+		<subset.gamelistInfoColor>Design un Tema</subset.gamelistInfoColor>
+		<gamelistInfoLight>Acceso</gamelistInfoLight>
+		<gamelistInfoDarth>Cupo</gamelistInfoDarth>
+		
+		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
 
 	</variables>
 	

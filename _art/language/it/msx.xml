@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
-		</text>
-		
-		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>Microsoft & Sony, Pioneer
+Personnal Computer
+Terza Generazione
+1983 / 1985 / 1988 / 1990
+Cartucce, floppy & nastro
+Joystick, mouse, tastiera</text>
 		</text>
 
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MSX (Macchine con software intercambiabili) è uno standard di microcomputer con vocazione domestica di origine giapponese, che consente a macchine prodotte da vari produttori di essere compatibili tra loro grazie a MSX DOS1 di Microsoft e DOS2 di ASCII dopo il 1988. Nel 1983 MSX visualizza la grafica in 256 × 192 pixel con 16 colori, nel 1985 MSX2 con 64 o 128k visualizza 256 colori (o 16 di 512 in 512x212) e aggiunge lo scorrimento dell'hardware. Infine, nel 1988, MSX2 + consente 19.268 colori e un suono FM a 9 canali con una cartuccia di trattenimento.</text>
+		</text>
+		
 	</view>
-	
+
 </theme>

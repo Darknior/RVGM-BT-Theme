@@ -6,6 +6,8 @@
 		
 		<langue>es</langue>
 		
+		<!-- GENERAL -->
+
 		<yes>Si</yes>
 		<no>No</no>
 		<thumbnail>Thumbnail</thumbnail>
@@ -22,9 +24,23 @@
 		<colgray>Gris</colgray>
 		<colored>Colorido</colored>
 		
+		<subset.swapVideoEffect>Efecto en videos</subset.swapVideoEffect>
+		<videoEffectDefault>Ninguno</videoEffectDefault>
+		<videoEffectBump>Rebote</videoEffectBump>
+		
+		<subset.setDisplaySize>Resolución de pantalla</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+		<!-- SYSTEM LIST --
+		
+		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
+		<showInfos>Library</showInfos>
+		<hiddeInfos>Art gallery</hiddeInfos>
+		<!-- Media library -->
+		
 		<subset.menuOpacity>Apariencia del menú principal</subset.menuOpacity>
 		<subset.systemlistOpacity>Apariencia de la lista del sistema</subset.systemlistOpacity>
-		<subset.gamelistOpacity>Aparición de la lista de juegos</subset.gamelistOpacity>
 		<translucent>Translúcido</translucent>
 		<opaque>Opaco</opaque>
 
@@ -34,30 +50,10 @@
 		<menuHorizBot>Horizontal y Bas</menuHorizBot>
 		<menuHorizBotVideo>Horizontal y Video</menuHorizBotVideo>
 		
-		<!-- <subset.swapImages>Etiqueta de la chaqueta</subset.swapImages> -->
-
 		<subset.systemswapVideo>Vista previa de video del sistema</subset.systemswapVideo>
 		<swapVideoRandom>Toma aleatoria</swapVideoRandom>
 		<swapVideoCommercial>TV comercial</swapVideoCommercial>
 		<swapVideoHide>No hay video</swapVideoHide>
-		
-		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
-		<gamelistInfoLight>Brillante</gamelistInfoLight>
-		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
-
-		<subset.swapVideoEffect>Efecto en videos</subset.swapVideoEffect>
-		<videoEffectDefault>Ninguno</videoEffectDefault>
-		<videoEffectBump>Rebote</videoEffectBump>
-		
-		<videoFullscreenViewName>Video a pantalla completa</videoFullscreenViewName>
-		<gridDetailViewName>Jacket Grid + Detail</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Rejilla de pantalla de título</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
-		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
-		
-		<subset.setDisplaySize>Resolución de pantalla</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
 		
 <sysLabel>Fabricante
 Tipo
@@ -68,6 +64,22 @@ Controles
 
 Total</sysLabel>
 
+		<!-- GAMES LIST -->
+
+		<videoFullscreenViewName>Video a pantalla completa</videoFullscreenViewName>
+		<gridDetailViewName>Jacket Grid + Detail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Rejilla de pantalla de título</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
+		
+		<subset.gamelistOpacity>Aparición de la lista de juegos</subset.gamelistOpacity>
+
+		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<gamelistInfoLight>Brillante</gamelistInfoLight>
+		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
+
+		<!-- <subset.swapImages>Etiqueta de la chaqueta</subset.swapImages> -->
+		
 	</variables>
 	
 </theme>

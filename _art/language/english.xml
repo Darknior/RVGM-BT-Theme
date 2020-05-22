@@ -6,6 +6,8 @@
 		
 		<langue>en</langue>
 		
+		<!-- GENERAL -->
+
 		<yes>Yes</yes>
 		<no>No</no>
 		<thumbnail>Thumbnail</thumbnail>
@@ -22,9 +24,23 @@
 		<colgray>Gray</colgray>
 		<colored>Colored</colored>
 		
+		<subset.swapVideoEffect>Video Effect</subset.swapVideoEffect>
+		<videoEffectDefault>None</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+		
+		<subset.setDisplaySize>Display resolution</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+		<!-- SYSTEM LIST -->
+		
+		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
+		<showInfos>Library</showInfos>
+		<hiddeInfos>Art gallery</hiddeInfos>
+		<!-- Media library -->
+		
 		<subset.menuOpacity>Main Menu Appearance</subset.menuOpacity>
 		<subset.systemlistOpacity>System List Appearance</subset.systemlistOpacity>
-		<subset.gamelistOpacity>Appearance of the Games List</subset.gamelistOpacity>
 		<translucent>Translucent</translucent>
 		<opaque>Opaque</opaque>
 		
@@ -34,30 +50,10 @@
 		<menuHorizBot>Horizontal Bottom</menuHorizBot>
 		<menuHorizBotVideo>Horizontal with Video</menuHorizBotVideo>
 		
-		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
-
 		<subset.systemSwapVideo>System Video Preview</subset.systemSwapVideo>
 		<swapVideoRandom>Random gameplay</swapVideoRandom>
 		<swapVideoCommercial>Commercial TV</swapVideoCommercial>
 		<swapVideoHide>Nothing</swapVideoHide>
-		
-		<subset.gamelistInfoColor>Theme Design</subset.gamelistInfoColor>
-		<gamelistInfoLight>Light</gamelistInfoLight>
-		<gamelistInfoDarth>Darth</gamelistInfoDarth>
-		
-		<subset.swapVideoEffect>Video Effect</subset.swapVideoEffect>
-		<videoEffectDefault>None</videoEffectDefault>
-		<videoEffectBump>Bump</videoEffectBump>
-		
-		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
-		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot</tilesScreenshotVideoMarqueeViewName>
-		<marqueeDetailViewName>Marquee list (beta)</marqueeDetailViewName>
-		
-		<subset.setDisplaySize>Display resolution</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
 		
 <sysLabel>Manufacturer
 Type
@@ -67,6 +63,22 @@ Media
 Controller
 
 Total</sysLabel>
+
+		<!-- GAMES LIST -->
+
+		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
+		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Marquee list (beta)</marqueeDetailViewName>
+		
+		<subset.gamelistOpacity>Appearance of the Games List</subset.gamelistOpacity>
+		
+		<subset.gamelistInfoColor>Theme Design</subset.gamelistInfoColor>
+		<gamelistInfoLight>Light</gamelistInfoLight>
+		<gamelistInfoDarth>Darth</gamelistInfoDarth>
+
+		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
 
 	</variables>
 	

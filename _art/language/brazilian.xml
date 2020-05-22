@@ -6,6 +6,8 @@
 		
 		<langue>pt</langue>
 		
+		<!-- GENERAL -->
+
 		<yes>Sim</yes>
 		<no>Não</no>
 		<thumbnail>Miniatura</thumbnail>
@@ -22,9 +24,23 @@
 		<colgray>Cinza</colgray>
 		<colored>Colorido</colored>
 		
+		<subset.swapVideoEffect>Efeito de vídeo</subset.swapVideoEffect>
+		<videoEffectDefault>Nenhum</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+
+		<subset.setDisplaySize>Resolução de vídeo</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+		<!-- SYSTEM LIST -->
+		
+		<subset.hiddeSystemInfo>Ambiente</subset.hiddeSystemInfo>
+		<showInfos>Biblioteca</showInfos>
+		<hiddeInfos>Galeria de arte</hiddeInfos>
+		<!-- Biblioteca de mídia -->
+		
 		<subset.menuOpacity>Aparência do Menu Principal</subset.menuOpacity>
 		<subset.systemlistOpacity>Aparência da lista de sistemas</subset.systemlistOpacity>
-		<subset.gamelistOpacity>Aparência da lista de jogos</subset.gamelistOpacity>
 		<translucent>Translúcido</translucent>
 		<opaque>Opaco</opaque>
 
@@ -34,31 +50,11 @@
 		<menuHorizBot>Parte inferior horizontal</menuHorizBot>
 		<menuHorizBotVideo>Horizontal com vídeo</menuHorizBotVideo>
 
-		<!-- <subset.swapImages>Escolha sua etiqueta de capa</subset.swapImages> -->
-
 		<subset.systemswapVideo>Visualização de vídeo do sistema</subset.systemswapVideo>
 		<swapVideoRandom>Vídeo Aleatório</swapVideoRandom>
 		<swapVideoCommercial>Comercial de TV</swapVideoCommercial>
 		<swapVideoHide>Sem vídeo</swapVideoHide>
 
-		<subset.gamelistInfoColor>Design do tema</subset.gamelistInfoColor>
-		<gamelistInfoLight>Light</gamelistInfoLight>
-		<gamelistInfoDarth>Darth</gamelistInfoDarth>
-
-		<subset.swapVideoEffect>Efeito de vídeo</subset.swapVideoEffect>
-		<videoEffectDefault>Nenhum</videoEffectDefault>
-		<videoEffectBump>Bump</videoEffectBump>
-
-		<videoFullscreenViewName>Vídeo em tela cheia</videoFullscreenViewName>
-		<gridDetailViewName>Capa na grade + detalhes</gridDetailViewName>
-		<tilesTitleshotVideoViewName> Título na grade</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Captura de tela na grade</tilesScreenshotVideoMarqueeViewName>
-		<marqueeDetailViewName>Lista de Marquee (beta)</marqueeDetailViewName>
-		
-		<subset.setDisplaySize>Resolução de vídeo</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
-		
 <sysLabel>Fabricante
 Tipo
 Geração
@@ -67,6 +63,22 @@ Mídia
 Controle
 
 Total</sysLabel>
+
+		<!-- GAMES LIST -->
+
+		<videoFullscreenViewName>Vídeo em tela cheia</videoFullscreenViewName>
+		<gridDetailViewName>Capa na grade + detalhes</gridDetailViewName>
+		<tilesTitleshotVideoViewName> Título na grade</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Captura de tela na grade</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista de Marquee (beta)</marqueeDetailViewName>
+		
+		<subset.gamelistOpacity>Aparência da lista de jogos</subset.gamelistOpacity>
+
+		<subset.gamelistInfoColor>Design do tema</subset.gamelistInfoColor>
+		<gamelistInfoLight>Light</gamelistInfoLight>
+		<gamelistInfoDarth>Darth</gamelistInfoDarth>
+
+		<!-- <subset.swapImages>Escolha sua etiqueta de capa</subset.swapImages> -->
 
 	</variables>
 	

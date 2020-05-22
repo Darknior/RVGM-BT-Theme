@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
-		</text>
-		
-		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>Sega
+Scheda di sistema arcade
+Sesta Generazione
+1998
+Cartucce ROM, GD-Rom
+Arcade stick, Pistola, volante</text>
 		</text>
 
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Naomi è un sistema arcade sviluppato da Sega e rilasciato nel 1998 per succedere al sistema Sega Model 3. La sua architettura è molto simile a quella della console Dreamcast con un processore Hitachi SH-4 a 200 MHz, un processore grafico PowerVR e audio Yamaha AICA ma con il doppio della RAM e della memoria video. I giochi sono memorizzati su una cartuccia o una GD-ROM. Inoltre, è stato progettato per funzionare su una rete e offrire giochi multi-player. Mentre il Dreamcast ha avuto un destino sfortunato, il sistema Naomi è stato un successo per Sega, i giochi rilasciati erano spesso considerati i migliori.</text>
+		</text>
+		
 	</view>
-	
+
 </theme>

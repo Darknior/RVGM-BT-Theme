@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
+<text>Amstrad
+Personal Computer
+Terza Generazione
+1984
+Cassette nastro, Floppy disk
+Joystick, mouse, tastiera</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>L' Amstrad CPC (Color Personal Computer) è un personal computer a 8 bit prodotto tra il 1984 e il 1990. Basato sul processore Zilog Z80, era disponibile in 5 modelli: CPC464, CPC664, CPC6128, 464plus e 6128plus. Sono stati venduti diversi dispositivi, come una stampante, un joystick, un mouse e un'unità floppy. Progettato soprattutto per una clientela familiare, la sua installazione è il più semplice possibile ed è direttamente utilizzabile anche da un laico non appena viene accesa l'alimentazione. Il CPC di Amstrad ha venduto circa tre milioni di copie in tutto il mondo, di cui circa un milione in Francia.</text>
 		</text>
-
+		
 	</view>
-	
+
 </theme>

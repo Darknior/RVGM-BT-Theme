@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
+<text>Sega
+Console per videogiochi domestica
+Quarta Generazione
+1988
+Cartucce
+Gamepad 3 o 6 pulsanti</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>Rilasciata nel 1988, il Megadrive o Genesis in America, è la nuova console Sega basata sull'architettura del loro sistema Arcade 16. Prendendo il mercato Nintendo a 16 bit, Sega riesce a posizionarla negli Stati Uniti e in Europa, spazzando la concorrenza del PC Engine. Ha un processore da 7,6 MHz, 74 KB di RAM, un display 320x224 e 256x224 pixel in 64 colori tra 512 e audio stereo FM. Nel 1991 viene lanciata la mascotte del marchio Sonic the Hedgehog, seguita da due eccellenti suite. Ma Megadrive è anche Disney Aladdin, giochi sportivi EA e la versione senza censura di Mortal Kombat!</text>
 		</text>
-
+		
 	</view>
-	
+
 </theme>

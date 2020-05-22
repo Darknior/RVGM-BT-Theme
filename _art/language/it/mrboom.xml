@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>NEC Home Electronics
-Console de videogame
-Quarta
-1989
-HuCard
-Joystick de 2 botões</text>
-		</text>
-		
-		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>SuperGrafx é um console de videogame fabricado pela NEC Corporation e lançado em dezembro de 1989 no Japão. Esta é uma versão aprimorada do PC-Engine (CoreGrafX). Ele mantém o mesmo processador em 8Mhz, mas adiciona quatro vezes mais memória. Além de um segundo chip de vídeo com memória própria e um controlador para combiná-los de diferentes maneiras. A resolução máxima é de 512x242 (os jogos usam 256x242) em 126 cores em 512 e o som permanece em 6 vozes estéreo. Apenas 5 jogos serão lançados neste meio, incluindo Ghouls'n Ghosts e 1941 Counter Attack.</text>		
+<text>From Remdy Software
+Bomberman clone
+4.9+
+2017
+Gioco Singolo
+8 Joystick a 3 pulsanti, tastiera</text>
 		</text>
 
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Mr.Boom è un clone di Bomberman sotto DOS, rilasciato alla fine degli anni '90, poi convertito per libretro nel 2017. Inizialmente il gioco è solo multigiocatore, giocabile in una rete di otto, ma questa versione fornisce bot in modo da poter giocare da solo. Le partite sono giocate in squadra o singolarmente, con due o quattro squadre e siamo differenziati per sesso o colore. È stato anche aggiunto il fatto di essere in grado di spingere bombe, telecomandi, corsi di addestramento e nuove musiche, canguri, ecc ... Quando non ci sono 8 giocatori, si possono attivare o meno mostri sulla mappa.</text>
+		</text>
+		
 	</view>
-	
+
 </theme>
