@@ -35,9 +35,9 @@
 		<!-- SYSTEM LIST -->
 		
 		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
-		<showInfos>Library</showInfos>
-		<hiddeInfos>Art gallery</hiddeInfos>
-		<!-- Media library -->
+		<showInfos>Library</showInfos> <!-- the place of knowledge of history -->
+		<hiddeInfos>Art Gallery</hiddeInfos> <!-- a beautiful exhibition of images -->
+		<!-- Media Library, with video that shows things -->
 		
 		<subset.menuOpacity>Main Menu Appearance</subset.menuOpacity>
 		<subset.systemlistOpacity>System List Appearance</subset.systemlistOpacity>

@@ -2,48 +2,54 @@
 <theme>
   <formatVersion>7</formatVersion>
   
-	<variables>
-	
-		<themeFavorisColor>FFFF00</themeFavorisColor> 	<!-- Yellow     	${themeFavorisColor}-->
-		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
-		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
-
-		<userDarkColor>1b76ae</userDarkColor> 			<!-- Dark Blue 		${userDarkColor}	-->
-		<userColor>1f9be7</userColor> 					<!-- Blue 			${userColor}		-->
-		<userLightColor>7BC4F1</userLightColor>			<!-- Light blue		${userLightColor}	-->
-
-		<fontLight>Cabin-Regular.ttf</fontLight> 		<!-- gamelist -->
-		<fontMedium>Cabin-Regular.ttf</fontMedium>
-		<fontBold>Cabin-Bold.ttf</fontBold>
-	
-	</variables>
-	
 	<view name="splash">
-
 
 		<splash name="splash">
 			<backgroundColor>000000FF</backgroundColor>
 		</splash>
 		<image name="background">
-		<!--	<pos>0.5 0.5</pos>
-			<origin>0.5 0.5</origin>
-			<maxSize>0.9 0.9</maxSize> -->
 			<path>./_art/splash.jpg</path>
 		</image>
-
-
-		<image name="progressbar">
-			<color>${userDarkColor}FF</color>
-		</image>
-		<image name="progressbar:active">
-			<color>${userColor}FF</color>
-		</image>
+		
+		<!--
+		<text name="version">
+			<origin>0 0</origin>
+			<pos>0.371 0.21</pos>
+			<size>0.19 0.02</size>
+			<rotation>3</rotation>
+			<fontPath>./art/font/arcade.ttf</fontPath>
+			<color>669e02FF</color>
+			<alignment>left</alignment>
+			<forceUppercase>true</forceUppercase>
+			
+			<text>RVGM V1.95</text>
+		</text>
+		-->
 		<text name="label">
-			<fontPath>./art/${fontMedium}</fontPath>
-			<color>${themeLightColor}FF</color>
+			<origin>0 0</origin>
+			<pos>0.6 0.41</pos>
+			<size>0.33 0.05</size>
+			<!-- <pos>0.261 0.637</pos>
+			<size>0.458 0.05</size>	-->
+			<rotation>3</rotation>
+			<fontPath>./art/font/arcade.ttf</fontPath>
+			<color>669e02FF</color>
+			<alignment>center</alignment>
 			<forceUppercase>true</forceUppercase>
 		</text>
 
+		<image name="progressbar">
+			<origin>0 0</origin>
+			<!-- <pos>0.6 0.56</pos>
+			<size>0.307 0.045</size> -->
+			<pos>0.263 0.7</pos>
+			<size>0.455 0.065</size>
+			<rotation>3</rotation>
+			<color>669e0280</color>
+		</image>
+		<image name="progressbar:active">
+			<color>669e02FF</color>
+		</image>
 		
 	</view>
 	
