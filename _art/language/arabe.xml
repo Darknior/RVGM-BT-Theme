@@ -6,6 +6,10 @@
 		
 		<langue>ar</langue>
 
+		<fontLight>Cairo-Regular.ttf</fontLight> 		<!-- gamelist -->
+		<fontMedium>Cairo-Regular.ttf</fontMedium>
+		<fontBold>Cairo-Bold.ttf</fontBold>
+
 <sysLabel>الصانع
 نوع
 توليد
