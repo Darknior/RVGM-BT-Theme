@@ -9,6 +9,11 @@
 			<fontSize>0.020</fontSize> <!-- Display size: 1680x1050 -->
 		</text>
 
+		<!-- Games number -->
+		<text name="systemInfo">
+			<!-- <pos>0.113 0.807</pos> <!-- Vertical Right -->
+			<fontSize>0.020</fontSize>
+		</text>
 		
 	</view>
 	
