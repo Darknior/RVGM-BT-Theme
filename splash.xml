@@ -11,31 +11,39 @@
 			<path>./_art/splash.jpg</path>
 		</image>
 		
-		<!--
-		<text name="version">
+		<text name="label, rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion" extra="true">
 			<origin>0 0</origin>
-			<pos>0.371 0.21</pos>
-			<size>0.19 0.02</size>
-			<rotation>3</rotation>
-			<fontPath>./art/font/arcade.ttf</fontPath>
+			<rotation>4</rotation>
+			<fontPath>./_art/font/arcade.ttf</fontPath>
+			<fontSize>0.023</fontSize>
 			<color>669e02FF</color>
-			<alignment>left</alignment>
 			<forceUppercase>true</forceUppercase>
-			
-			<text>RVGM V1.95</text>
 		</text>
-		-->
+
 		<text name="label">
-			<origin>0 0</origin>
 			<pos>0.6 0.41</pos>
 			<size>0.33 0.05</size>
-			<!-- <pos>0.261 0.637</pos>
-			<size>0.458 0.05</size>	-->
-			<rotation>3</rotation>
-			<fontPath>./art/font/arcade.ttf</fontPath>
-			<color>669e02FF</color>
 			<alignment>center</alignment>
-			<forceUppercase>true</forceUppercase>
+		</text>
+		<text name="rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion" extra="true">
+			<size>0.2 0.02</size>
+			<alignment>left</alignment>
+		</text>
+		<text name="rvgmVersion" extra="true">
+			<pos>0.367 0.184</pos>
+			<text>RVGM V1.95</text>
+		</text>
+		<text name="batoceraVersion" extra="true">
+			<pos>0.367 0.239</pos>
+			<text>- BATOCERA 5.26+</text>
+		</text>
+		<text name="retrobatVersion" extra="true">
+			<pos>0.367 0.269</pos>
+			<text>- RETROBAT 3+</text>
+		</text>
+		<text name="emuelecVersion" extra="true">
+			<pos>0.367 0.299</pos>
+			<text>- EMUELEC 3.5+</text>
 		</text>
 
 		<image name="progressbar">

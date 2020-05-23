@@ -5,20 +5,99 @@
 	<variables>
 		
 		<langue>ar</langue>
-
+		
 		<fontLight>Cairo-Regular.ttf</fontLight> 		<!-- gamelist -->
 		<fontMedium>Cairo-Regular.ttf</fontMedium>
 		<fontBold>Cairo-Bold.ttf</fontBold>
 
-<sysLabel>الصانع
-نوع
-توليد
-إطلاق سراح
-وسائل الإعلام
-مراقب
+		<!-- GENERAL -->
 
-مجموع</sysLabel>
+		<yes>نعم</yes>
+		<no>لا</no>
+		<thumbnail>صورة مصغرة</thumbnail>
+		<image>صورة</image>
+
+		<subset.colorset>لون السمة</subset.colorset>
+		<colblue>أزرق</colblue>
+		<colred>أحمر</colred>
+		<colorange>برتقالي</colorange>
+		<colyellow>أصفر</colyellow>
+		<colgreen>أخضر</colgreen>
+		
+		<subset.themeSwapColored>تصميم أيقونات النظام</subset.themeSwapColored>
+		<colgray>رمادي</colgray>
+		<colored>ملوّن</colored>
+		
+		<subset.swapVideoEffect>تأثير الفيديو</subset.swapVideoEffect>
+		<videoEffectDefault>لاشيء</videoEffectDefault>
+		<videoEffectBump>مستخرج</videoEffectBump>
+		
+		<subset.setDisplaySize>دقة العرض</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+		<!-- SYSTEM LIST -->
+		
+		<subset.hiddeSystemInfo>البيئة</subset.hiddeSystemInfo>
+		<showInfos>المكتبة</showInfos> <!-- مكان المعرفة بالتاريخ -->
+		<hiddeInfos>المعرض الفني</hiddeInfos> <!-- معرض جميل للصور -->
+		<!-- مكتبة وسائط مع فيديو للعرض -->
+		
+		<subset.menuOpacity>مظهر الشاشة الرئيسية</subset.menuOpacity>
+		<subset.systemlistOpacity>مظهر قائمةالنظام</subset.systemlistOpacity>
+		<translucent>شفاف</translucent>
+		<opaque>معتم</opaque>
+		
+		<subset.systemView>عرض قائمة النظام</subset.systemView>
+		<menuVertRight>عمودي يمين</menuVertRight>
+		<menuVertLeft>عمودي يسار</menuVertLeft>
+		<menuHorizBot>افقي أسفل</menuHorizBot>
+		<menuHorizBotVideo>افقي مع فيديو</menuHorizBotVideo>
+		
+		<subset.systemSwapVideo>استعراض فيديو النظام</subset.systemSwapVideo>
+		<swapVideoRandom>عرض لعب عشوائي</swapVideoRandom>
+		<swapVideoCommercial>إعلان تلفزيوني</swapVideoCommercial>
+		<swapVideoHide>لاشيء</swapVideoHide>
+		
+<sysLabel>الصانع
+النوع
+الجيل
+أصدر في
+الوسائط
+وحدة التحكم
+
+المجموع</sysLabel>
+
+		<!-- GAMES LIST -->
+
+		<videoFullscreenViewName>الفيديو كامل الشاشة</videoFullscreenViewName>
+		<gridDetailViewName>غلاف + تفاصيل</gridDetailViewName>
+		<tilesTitleshotVideoViewName>عنوان الغلاف</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>لقطة شاشة</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>شاشة إسمية (تجريبي)ا</marqueeDetailViewName>
+		
+		<subset.gamelistOpacity>مظهر قائمة الألعاب</subset.gamelistOpacity>
+		
+		<subset.gamelistInfoColor>تصميم السمة</subset.gamelistInfoColor>
+		<gamelistInfoLight>فاتح</gamelistInfoLight>
+		<gamelistInfoDarth>معتم</gamelistInfoDarth>
+
+		<!-- <subset.swapImages>اختر علامة الغلاف الخاصة بك</subset.swapImages> -->
 
 	</variables>
 	
 </theme>
+
+<!--
+TITLES IMAGES to translate:
+
+المفضلة     = ???
+2 لاعبين     = ألعاب لاعبين اثنين 
+4 لاعبين     = ألعاب مليئة بالمتعة لأربعة لاعبين
+آخر لعب   = ???
+جميع الألعاب     = ???
+لم يتم اللعب  = ???
+
+المجموعة   = ???
+
+-->
