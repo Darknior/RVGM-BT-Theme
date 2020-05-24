@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Borne d’Arcade
+Quatrième
+1996
+PCB Jamma, CD-Rom
+Arcade stick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le CP System III (Capcom Play System 3), plus communément appelé CPS3 ou CPS-3, est un système d'arcade qui a été introduit par Capcom en 1996 avec le jeu Red Earth, afin de succéder au système d'arcade CP System II. Le CPS3 n'a pas rencontré un grand succès, seulement six jeux au total ont été développés dont la très réussie trilogie Street Fighter III, uniquement par Capcom et c'est le dernier système d'arcade en date conçu et fabriqué par Capcom.</text>
+		</text>
+		
+	</view>
+
+</theme>
