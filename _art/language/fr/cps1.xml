@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Borne d’Arcade
+Quatrième
+1988
+PCB Jamma
+Arcade stick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le CPS est un système pour borne d'arcade à la norme JAMMA et créé par la société japonaise Capcom en 1988. Basé sur un Sharp X68000, c'était un système 16 bits très en avance sur les autres. Sa première mise à jour sort en 1992 avec le système Q-Sound stéréo. Puis le CPS2 en 1993 avec une puce QSound3 et moins cher à produire. Enfin sort le CPS3 en 1996 avec une nouvelle puce Hitachi à 25 MHz. Malgré la finesse et la fluidité de son animation le CPS3 n'aura pas rencontré un grand succès avec seulement six jeux au total.</text>
+		</text>
+		
+	</view>
+
+</theme>
