@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="static">
+			<visible>false</visible>
+		</image>	
+		<video name="videoPreview" extra="static">
+			<visible>false</visible>
+		</video>
+		
+		<!-- Bat Sprite -->
+		<image name="info" extra="static">
+			<pos>0.03 0.275</pos>
+			<path>./info-horizontal-down.png</path>
+		</image>
+		
+	</view>
+</theme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>RetroBat est un ensemble de scripts Batch et Powershell. Ils ont été écrits pour faciliter la configuration et l'utilisation d'EmulationStation pour Windows. Ce logiciel est une interface qui permet d'organiser votre collection de ROMs et de démarrer les jeux avec les émulateurs compatibles tels que RetroArch.</text>
+		</text>
+		
+	</view>
+
+</theme>
