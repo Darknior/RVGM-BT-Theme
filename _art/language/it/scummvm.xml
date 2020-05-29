@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Molteplici
+Motore di gioco 'Punta e clicca'
+Tutti
+2001
+Games files
+Joystick, tastiera, mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Rilasciato nel 2001, ScummVM è una raccolta di motori di gioco d'avventura «punta e clicca». Progettato inizialmente per giocare solo con i giochi di avventura LucasArts che utilizzano il sistema SCUMM (VM che significa macchina virtuale), ora supporta altri motori come Sierra On-Line con la serie King's Quest e Leisure Suit Larry, Coktel Vision con la serie Goblins, Adventure Soft con la serie Simon the Sorcerer e Humongous con i loro fantastici giochi per bambini Freddi Fish e Pajama Sam. Sono supportate anche traduzioni di giochi non ufficiali. Ognuno può contribuire a questo motore sul proprio GIT.</text>
+		</text>
+		
+	</view>
+	
+</theme>

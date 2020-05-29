@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<!-- Menu CAROUSSEL -->
+		<carousel name="systemcarousel">
+			<origin>0 0</origin>
+			<type>vertical</type> <!-- horizontal -->
+			<maxLogoCount>7</maxLogoCount> <!-- 3 Default -->
+			<logoScale>1.2</logoScale> <!-- 1.2 Default -->
+			<logoSize>0.1844 0.089</logoSize>
+			<logoAlignment>center</logoAlignment>
+			<color>00000000</color>
+
+			<defaultTransition>slide</defaultTransition> <!-- slide / fade / instant -->
+			<systemInfoDelay>0.1</systemInfoDelay> <!-- Instant Game Number counter -->
+			<zIndex>40</zIndex> <!-- Default -->
+		</carousel>
+
+		<!-- Logo système GRAY pour le CAROUSSEL -->
+		<image name="logo">
+			<path>./../../${system.theme}/logo-gray.png</path>
+			<path>./../../${system.theme}/logo-gray-${langue}.png</path>
+		</image>
+		<!-- To replace default image LOGO by default -->
+		<text name="logoText">
+			<origin>0 0</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.2214 0.8335</size>
+			<fontSize>0.05</fontSize>
+			<fontPath>./../font/${fontMedium}</fontPath>
+			<alignment>center</alignment>
+			<forceUppercase>true</forceUppercase>
+			<color>${themeLightColor}</color>
+		</text>
+		
+		<!-- View BACKGROUND BORDER -->
+		<image name="staticBackgrund" extra="static">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>20</zIndex> <!-- Default 10 for extra -->
+		</image>
+		<!-- View BACKGROUND MENU -->
+		<image name="staticMenu" extra="static">
+			<origin>0 0</origin>
+			<color>FFFFFF${opacity}</color>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>25</zIndex>
+		</image>
+		
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="static">
+			<maxSize>0.375 0.1849</maxSize>
+			<path>./../colors/${activeColor}-logo.png</path>
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${langue}.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>15</zIndex>
+		</image>
+		
+		<!-- TEXT Games Counter -->
+        <text name="systemInfo">
+			<origin>0 0</origin>
+			<size>0.1365 0.0217</size>
+			<verticalAlignment>top</verticalAlignment> <!-- top / center / bottom -->
+			<color>000000</color>
+			<fontSize>0.023</fontSize>
+			<lineSpacing>1.3</lineSpacing>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./_art/font/${fontBold}</fontPath>
+			<alignment>left</alignment>			
+			<zIndex>50</zIndex>
+        </text>
+				
+	</view>
+
+</theme>

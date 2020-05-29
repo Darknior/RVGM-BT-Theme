@@ -14,21 +14,28 @@
 			<visible>false</visible>
 		</video>
 
-		<!-- Coupa Sprite -->
-		<image name="info" extra="static">
-			<pos>0.039 0.259</pos>
-		</image>
-		
-		<!-- Peach Princess Sprite -->
-		<image name="console" extra="static">
-			<origin>0 0</origin>
-			<pos>0.078 0.565</pos>
-		</image>
-		
 		<!-- Sytem AVATAR -->
 		<image name="avatar" extra="static">
 			<pos>0.3655 0.1965</pos>
 			<rotation>90</rotation>
+		</image>
+		
+		<!-- AVATAR 2 : Info, Coupa Sprite -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin>
+			<pos>0.015 0.295</pos>
+			<maxSize>0.236 0.633</maxSize>
+			<path>./avatar2.png</path>
+			<zIndex>17</zIndex>
+		</image>
+		
+		<!-- AVATAR 3 : Console, Peach Princess Sprite -->
+		<image name="avatar3" extra="static">
+			<origin>0 0</origin>
+			<pos>0.078 0.565</pos>
+			<maxSize>0.222 0.2591</maxSize>
+			<path>./avatar3.png</path>
+			<zIndex>18</zIndex>
 		</image>
 		
 	</view>

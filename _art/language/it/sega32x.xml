@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Console casalinga add-on
+Quarta Generazione
+1994
+Cartucce, CD-Rom
+Joypad con 3 o 6 pulsanti</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>All'alba dell'era a 32 bit, Sega aveva 2 progetti, Saturn in Giappone e Nettuno negli Stati Uniti. Fu il progetto di Saturn a vincere e, per non perdere il lavoro, Sega of America rilasciò la 32X. Un'estensione per Megadrive, collegata alla porta della cartuccia. Aggiunge 256 KB di RAM, un processore a 32 bit a 23 Mhz che moltiplica la sua potenza di 40, per un rendering di 50 mila poligoni al secondo in 3D mappato, un display a 32 mila colori, effetti di rotazione, distorsione e zoom di Sprite . L'uscita di Saturn è troppo vicina, solo 34 sono rimaste le cartuccie e altri 6 su CD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, video, grid">
+		
+		<image name="logo">
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${langue}.png</path>
+		</image>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Molteplici
+Videogiochi Arcade
+Tutti
+1971 / 20xx
+PCB (Jamma)
+Stick Arcade ed altro</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Riscopri tutti i grandi classici che hanno scritto la storia dei giochi arcade con MAME e FBA. Arcade raccoglie una selezione di tutti i migliori titoli su qualsiasi supporto. Pacman, Killer Instinct, Space Invaders, Pang o The Ninja Turtles...
+Migliaia di titoli ti aspettano su mitici cabinet arcade!
+Approfitta dei numerosi vantaggi degli emulatori, come giocare a giochi rari, usare filtri grafici, essere in grado di salvare, usare cheat code, ma soprattutto giocare con un credito illimitato...</text>
+		</text>
+		
+	</view>
+
+</theme>

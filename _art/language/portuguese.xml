@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>pt</langue>
+		
+		
+		<!-- GERAL -->
+
+		<yes>Sim</yes>
+		<no>Não</no>
+
+	<!-- Trocar cor do tema -->
+		<subset.swapColor>Esquemas de cores</subset.swapColor>
+		<colblue>Azul</colblue>
+		<coldarkBlue>Azul escuro</coldarkBlue>
+		<colpurple>Roxo</colpurple>
+		<colred>Vermelho</colred>
+		<colorange>Laranja</colorange>
+		<colyellow>Amarelo</colyellow>
+		<colgreen>Verde</colgreen>
+
+	<!-- Troque a opacidade do tema -->
+		<subset.swapOpacity>Fundos do tema</subset.swapOpacity>
+		<translucent>Translucido</translucent>
+		<opaque>Opaco</opaque>
+
+	<!-- Trocar efeito de vídeo -->
+		<subset.swapVideoEffect>Efeito nas visualizações de vídeo</subset.swapVideoEffect>
+		<videoEffectDefault>Nenhum</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+
+
+		<!-- TROCA DO SISTEMA -->
+	
+	<!-- Trocar ambiente -->
+		<subset.swapAmbiance>Atmosfera do museu</subset.swapAmbiance>
+		<library>Biblioteca, história</library><!-- o lugar do conhecimento da história -->
+		<artGallery>Galeria de arte, em imagens</artGallery> <!-- uma bela exposição de imagens -->
+		<mediaLibrary>Mídiateca, experiência em vídeo</mediaLibrary> <!-- com vídeo que mostra coisas -->
+
+	<!-- Trocar menu  -->
+		<subset.systemView>Menu Sistema</subset.systemView>
+		<menuVertRight>Lista vertical à direita</menuVertRight>
+		<menuVertLeft>Lista vertical à esquerda</menuVertLeft>
+		<menuHorizBot>Lista inferior horizontal</menuHorizBot>
+		<menuWheelRight>Logotipo vertical à direita</menuWheelRight>
+		<menuWheelLeft>Logotipo vertical à esquerda</menuWheelLeft>
+		
+	<!-- Trocar tipo de visualização de vídeo -->
+		<subset.systemSwapVideo>Visão geral do sistema de vídeo</subset.systemSwapVideo>
+		<swapVideoRandom>Jogos aleatórios</swapVideoRandom>
+		<swapVideoCommercial>Comercial de TV</swapVideoCommercial>
+		<swapVideoHide>Sem vídeo</swapVideoHide>
+		
+	<!-- Trocar entre logotipos cinza e colorido -->
+		<subset.themeSwapColored>Ícones do sistema de renderização</subset.themeSwapColored>
+		<colgray>Cinza</colgray>
+		<colored>Colorido</colored>
+
+	<!-- Escolha o tamanho da fonte por Tamanho de exibição -->
+		<subset.setDisplaySize>Resolução da tela</subset.setDisplaySize>
+		<displayHd>HD 1080p/720p</displayHd>
+		<display1680>1680x1050</display1680>
+	
+	<!-- Trocar CRT Video Shader -->
+		<subset.swapVideoShader>Filtro de vídeo em segundo plano</subset.swapVideoShader>
+		<videoShaderNone>Sem filtro</videoShaderNone>
+		<videoShaderCrt>CRT</videoShaderCrt>
+
+	<!-- Rótulos de informações -->
+<sysLabel> Fabricante
+Tipo
+Geração
+Lançamento
+Mídia
+Joystick
+
+Total </sysLabel>
+
+		<!-- LISTA DE JOGOS -->
+
+		<videoFullscreenViewName>Vídeo em tela cheia</videoFullscreenViewName>
+		<gridDetailViewName>Grade com Caixa + Detalhes</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Grade com Título do jogo</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grade com Captura de tela + Logo</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista de letreiros (beta)</marqueeDetailViewName>
+
+		<subset.gamelistInfoColor>Plano de fundo da lista de jogos</subset.gamelistInfoColor>
+		<gamelistInfoLight>Claro</gamelistInfoLight>
+		<gamelistInfoDarth>Escuro</gamelistInfoDarth>
+
+		<subset.swapImages>Escolha sua XML etiqueta de capa</subset.swapImages>
+		<thumbnail>thumbnail</thumbnail>
+		<image>image</image>
+
+	</variables>
+	
+</theme>
+
+<!--
+IMAGES TITLE to translate
+
+FAVORITOS
+2 jogadores = JOGOS para 2 JOGADORES
+4 jogadores = JOGOS para se divertir com 4 JOGADORES
+JOGOU PELA ÚLTIMA VEZ
+TODOS OS JOGOS
+NUNCA JOGOU
+
+COLEÇÕES
+
+-->

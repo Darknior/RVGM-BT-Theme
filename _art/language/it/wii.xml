@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console domestica
+Settima Generazione
+2006
+CD-Rom, CD-Mini, SDC
+Controller, Wii mote, Nunchuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Rilasciata nel 2006, Wii è la console domestica più venduta della sua generazione con 101,63 milioni di copie. Ha la particolarità di utilizzare un accelerometro in grado di rilevare la posizione, l'orientamento e i movimenti nello spazio del joystick. Ha un processore con clock a 729 Mhz, un chip grafico ATI 243 Mhz, 88 MB di RAM, 512 MB di memoria flash e una connessione Internet. Visualizza 640×480 60 Hz o 768x576 50 Hz e Dolby Pro Logic 2. Il suo catalogo di oltre 1220 giochi offre titoli di culto come MadWorld, Xenoblade, Monster Hunter, The Conduit e tutti i giochi Nintendo.</text>
+		</text>
+		
+	</view>
+	
+</theme>

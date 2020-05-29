@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<!-- Games Counter : Position -->
+        <text name="systemInfo">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.945</pos>
+			<color>${themeLightColor}</color>
+			<alignment>center</alignment>
+        </text>
+		
+	</view>
+	
+</theme>

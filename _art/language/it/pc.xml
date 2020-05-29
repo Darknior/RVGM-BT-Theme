@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft & Intel, AMD
+Personnal Computer
+3 / 4 Generazione
+1982 / 1993
+CD-Rom, hard disk, floppy disk
+Joypad, tastiera, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Chiamiamo DOS il sistema operativo da riga di comando su PC sviluppato da Microsoft nel 1981. Intel ha lanciato l'i286 a 6-20 MHz nel 1982, l'i386 a 12-40 MHz nel 1985, l'i486 a 24-80 Mhz nel 1989 e infine la serie Pentium del 1993 che farà esplodere la velocità di esecuzione. I primi giochi saranno in CGA 320x200 a 4 colori, passeranno poi ad EGA, VGA e SVGA nel 1988 per visualizzare 256 colori in 640x480 o 16 colori in 1024x768. Abbinato a sempre più RAM, nuove schede video 2D, quindi schede acceleratore 3D, DOS lascerà finalmente il posto a Windows 98.</text>
+		</text>
+		
+	</view>
+
+</theme>

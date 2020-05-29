@@ -3,8 +3,14 @@
 
 	<view name="system">
 		
-		<!-- Sytem VIDEO PREVIEW removed -->
-		<video name="videoPreview" extra="true">
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="static">
+			<visible>false</visible>
+		</image>	
+		<video name="videoPreview" extra="static">
 			<visible>false</visible>
 		</video>
 		

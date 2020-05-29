@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Corp., Hudson Soft
+Console domestica
+Quarta Generazione
+1991
+HuCard, CD-Rom
+Joypad 2/6 pulsanti</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Nel 1988 è stato rilasciato il CD-ROM² System (1.0 e 2.0). Questa estensione consente di aggiungere un lettore CD al PCE, un nuovo BIOS e 64 KB di memoria. Nel 1991, ha rilasciato il Super CD-ROM² System (3.0) che accelera il lettore, modifica il BIOS e aggiunge 256 KB di memoria. La versione all-in-one esce con il nome di PC-Engine Duo o TurboDuo. Duo-R e RX sono solo versioni ridisegnate. Il CD-ROM Arcade2 esce nel 1994, sotto forma di una U-Card ed espande la memoria a 2 MB. Su questa evoluzione verranno rilasciati solo venti giochi.</text>
+		</text>
+		
+	</view>
+	
+</theme>

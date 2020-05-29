@@ -14,10 +14,14 @@
 			<visible>false</visible>
 		</video>
 		
-		<!-- Bison Sprite -->
-		<image name="info" extra="static">
+		<!-- AVATAR 2 : Info, Bison Sprite -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin> <!-- Left -->
 			<pos>0.03 0.275</pos>
-			<path>./info-horizontal-down.png</path>
+			<size>0.2469 0.6769</size>
+			<path>./avatar2-horizontal-down.png</path>
+			<path>./avatar2-${activeView}.png</path>
+			<zIndex>17</zIndex>
 		</image>
 		
 	</view>

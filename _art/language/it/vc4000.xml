@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Interton
+Console domestica
+Seconda Generazione
+1978
+Cartucce
+Joystick 14 + 2 pulsanti a 2 assi</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il VC 4000 è la prima console di gioco basata su cartuccia a 8 bit rilasciata in Germania nel 1977 da Interton. La console è piuttosto sconosciuta al di fuori della Germania, ma molti sistemi compatibili con il software possono essere trovati in molti paesi europei con il nome di "Sistema video programmabile avanzato 1292" rilasciato nel 1976. Non tutte le console sono compatibili con altre a causa delle differenze nelle forme e dimensioni degli slot delle cartucce, ma tutte le console sono compatibili con il software.</text>
+		</text>
+		
+	</view>
+	
+</theme>

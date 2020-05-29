@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<activeColor>darkBlue</activeColor>
+		<userDarkColor>230e7d</userDarkColor>
+		<userColor>414c9c</userColor>
+		<userLightColor>d5d2e3</userLightColor>
+	</variables>
+
+</theme>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<customView name="marquee" inherits="grid" displayName="${marqueeDetailViewName}">
+		
+		<!-- Image de Background VIDE -->
+		<image name="bg-game-menu" extra="true">
+			<path>./_art/systemView/bg-system-vert-right.png</path>
+		</image>
+		<image name="bg-game-menu" extra="true">
+			<visible>true</visible>
+		</image>
+		
+		<!-- LOGO Systeme -->
+		<image name="logo"> <!-- System -->
+			<visible>false</visible>
+		</image>
+		<text name="logoText"> <!-- To show if no System LOGO -->
+			<visible>false</visible>
+		</text>
+		
+		<!-- Marquee / Player / Rating -->
+		<rating name="md_rating">
+			<visible>false</visible>
+		</rating>
+		<image name="md_marquee">
+			<visible>false</visible>
+		</image>
+		<text name="md_players">
+			<visible>false</visible>
+		</text>
+		
+		<!-- Grille de tuiles -->
+		<imagegrid name="gamegrid">
+			<pos>0.725 0.07</pos>
+			<size>0.258 0.83</size>
+			<padding>0.04 0.03 0.04 0.03</padding>
+			<margin>0.003 0.003</margin>
+
+			<autoLayout>1 7</autoLayout>
+			<autoLayoutSelectedZoom>1.28</autoLayoutSelectedZoom>
+			
+			<showVideoAtDelay>-1</showVideoAtDelay>
+			<imageSource>marquee</imageSource> <!-- image / marquee -->
+			<animateSelection>false</animateSelection> <!-- Anime le deplacement du fond -->
+		</imagegrid>
+		
+		<!-- Tuile -->
+		<gridtile name="default">
+			<!-- Fond -->
+			<backgroundColor>00000000</backgroundColor>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<!-- Image -->
+			<selectionMode>image</selectionMode> <!-- full -->
+			<imageColor>${themeLightColor}CC</imageColor>
+			<padding>4 4</padding>
+			<imageSizeMode>maxSize</imageSizeMode> <!-- maxSize  / size -->
+		</gridtile>
+		<gridtile name="selected">
+			<backgroundCenterColor>00000000</backgroundCenterColor>
+			<backgroundEdgeColor>00000000</backgroundEdgeColor>
+			<imageColor>FFFFFFFF</imageColor>
+			<padding>10 10</padding>
+		</gridtile>
+		
+		<!-- Légende de l'image -->
+		<text name="gridtile">
+			<visible>false</visible>
+		</text>
+		<text name="gridtile_selected">
+			<visible>false</visible>
+		</text>
+	
+		<!-- Animation du tour de la selection -->
+		<ninepatch name="gridtile.background:selected">
+			<animateColor>00000000</animateColor>
+			<animateColorTime>0</animateColorTime>
+		</ninepatch>
+		
+	</customView>
+	
+</theme>

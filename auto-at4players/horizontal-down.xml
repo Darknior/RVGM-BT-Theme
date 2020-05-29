@@ -14,22 +14,29 @@
 			<visible>false</visible>
 		</video>
 
-		<!-- Kangourou Sprite -->
-		<image name="info" extra="static">
-			<pos>0.18 0.046</pos>
-			<maxSize>0.236 0.633</maxSize>
-		</image>
-	
 		<!-- Sytem AVATAR -->
 		<image name="avatar" extra="static">
 			<pos>0.372 0.05</pos>
 			<maxSize>0.2625 0.821</maxSize>
 		</image>
 		
-		<!-- Buble Counter -->
-		<image name="console" extra="static">
+		<!-- AVATAR 2 : Info, Kangourou Sprite -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin>
+			<pos>0.18 0.046</pos>
+			<maxSize>0.236 0.633</maxSize>
+			<path>./avatar2.png</path>
+			<zIndex>17</zIndex>
+		</image>
+		
+		<!-- AVATAR 3 : Console, Buble Counter -->
+		<image name="avatar3" extra="static">
 			<origin>0 0</origin>
 			<pos>0.035 0.484</pos>
+			<maxSize>0.222 0.2591</maxSize>
+			<path>./avatar3.png</path>
+			<path>./avatar3-${activeView}.png</path>
+			<zIndex>18</zIndex>
 		</image>
 		
 	</view>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- Video Shader CRT -->
+		<image name="crt" extra="true">
+			<pos>0.025 0.026</pos>
+			<size>0.95 0.93</size>
+
+			<path>./../video/crt.png</path>
+			<color>FFFFFF90</color>
+			<tile>true</tile>
+			<zIndex>11</zIndex>
+		</image>
+		<image name="crt_border" extra="true">
+			<pos>0.025 0.026</pos>
+			<size>0.95 0.93</size>
+
+			<path>./../video/crt_border.png</path>
+			<color>FFFFFF80</color>
+			<zIndex>12</zIndex>
+		</image>
+		
+	</view>
+
+</theme>

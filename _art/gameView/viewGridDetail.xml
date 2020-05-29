@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
+
+		<!-- Image de Background VIDE -->
+		<image name="bg-game-menu" extra="true">
+			<path>./_art/gameView/bg-game-grid-detailed.png</path>
+		</image>
+		<image name="bg-game-menu" extra="true">
+			<visible>true</visible>
+		</image>
+		
+		<!-- LOGO Systeme -->
+		<image name="logo"> <!-- System -->
+			<pos>0.807 0.106</pos>
+			<maxSize>0.234 0.118</maxSize>
+			<color>FFFFFFFF</color> <!-- RESET -->
+		</image>
+		<text name="logoText"> <!-- To show if no System LOGO -->
+			<pos>0.711 0.047</pos>
+			<maxSize>0.192 0.12</maxSize>
+			<color>${themeLightColor}</color>
+		</text>
+		
+		<!-- Marquee / Player / Rating -->
+		<image name="md_marquee">
+			<origin>0.5 0.5</origin>
+			<pos>0.325 0.103</pos>
+			<maxSize>0.234 0.105</maxSize>
+		</image>
+		<text name="md_players">
+			<pos>0.45 0.055</pos>
+			<size>0.18 0.079</size>
+			<alignment>right</alignment>
+		</text>
+		
+		<!-- Grille de tuiles -->
+		<imagegrid name="gamegrid">      
+			<pos>0 0.18</pos>
+			<size>0.66 0.754</size>
+			
+			<padding>0.03 0.05 0.03 0.04</padding>
+			<margin>0.005 0.005</margin>
+			
+			<showVideoAtDelay>-1</showVideoAtDelay> <!-- 99999999999 -->
+			<autoLayout>6 3</autoLayout>      
+		</imagegrid>
+		
+		<!-- Infos du jeu -->
+		<image name="md_image">
+			<visible>false</visible>
+		</image>
+		<text name="md_name">
+			<pos>0.652 0.19</pos>
+			<size>0.31 0.03</size>
+
+			<color>${userColor}</color>
+			<fontSize>0.025</fontSize>
+			<fontPath>./_art/font/${fontBold}</fontPath>
+			<alignment>center</alignment>
+			<!-- <glowColor>Ab000020</glowColor>
+			<glowSize>2</glowSize> -->
+		</text>
+		
+		<video name="md_video">
+			<origin>0.5 0.5</origin>
+			<pos>0.807 0.426</pos>
+			<minSize>0.31 0.377</minSize>
+			
+			<snapshotSource>image</snapshotSource> <!-- thumbnail -->
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>true</showSnapshotDelay>
+			<delay>1</delay>
+			<loops>3</loops>
+		</video>
+		<text name="md_description">
+			<pos>0.652 0.64</pos>
+			<size>0.311 0.256</size>
+
+			<color>${themeLightColor}</color>
+			<visible>true</visible>
+		</text>
+		<text name="md_developer">
+			<pos>0.651 0.917</pos>
+			<size>0.16 0.03</size>
+			<alignment>left</alignment>
+
+			<fontSize>0.025</fontSize>
+			<color>${themeLightColor}</color>
+			<visible>true</visible>
+		</text>
+		<datetime name="md_releasedate">
+			<pos>0.818 0.917</pos>
+			<size>0.08 0.03</size>
+			<alignment>right</alignment>
+
+			<fontSize>0.025</fontSize>
+			<color>${themeLightColor}</color>
+			<visible>true</visible>
+		</datetime>
+	
+	</customView>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Kayl, Alec, Fabrice
+Emulatori
+Multiple
+2014
+ROM, ISO
+Joypad, tastiera, Mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>RetroBat è un set di script Batch e Powershell scritti per configurare e avviare facilmente EmulationStation per Windows. Ha lo scopo di raccogliere la tua raccolta di ROM ed eseguire facilmente giochi con emulatori compatibili. Può scaricare e installare tutti i software necessari per avere una buona esperienza di retrogaming. RetroBat è progettato per funzionare in modalità portatile. Ciò significa che è possibile avviarlo dall'HDD o da qualsiasi dispositivo di archiviazione rimovibile, purché lo si faccia su un computer che soddisfi i requisiti.</text>
+		</text>
+		
+	</view>
+
+</theme>

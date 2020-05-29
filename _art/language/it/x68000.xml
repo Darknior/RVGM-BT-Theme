@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sharp Corporation
+Personnal Computer
+Quarta Generazione
+1987
+Floppy disk, hard disk
+Joypad, tastiera, mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lo Sharp X68000, spesso definito come X68k, è un computer rilasciato solo in Giappone da Sharp Corporation. L'ultimo modello è stato rilasciato nel 1993 con una CPU Motorola 68030 da 25 MHz, 4 MB di RAM e disco rigido SCSI da 80 MB opzionale. In termini di hardware, era molto simile alle macchine arcade dell'epoca e serviva come macchina di sviluppo del sistema Capcom CPS. Un certo numero di famosi giochi arcade sono stati quindi sviluppati su questo computer. Il sistema CPS-1 è un derivato autonomo dell'X68000. Da qui le versioni pixel perfette di Final Fight e Ghouls'n Ghosts.</text>
+		</text>
+		
+	</view>
+	
+</theme>

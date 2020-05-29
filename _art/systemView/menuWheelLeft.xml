@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<activeMenu>wheelLeft</activeMenu>
+	</variables>
+	
+	<!-- HOUR / PAD position -------------------------- -->
+	<view name="screen">
+
+		<controllerActivity name="controllerActivity">
+			<pos>0.2828 0.0107</pos>
+		</controllerActivity>
+		<text name="clock">
+			<pos>0.9344 0.9584</pos>
+		</text>
+
+	</view>
+
+	<view name="system">
+		
+		<!-- HELP BAR position -->
+		<helpsystem name="help">
+			<pos>0.2828 0.9648</pos>
+		</helpsystem>
+		
+		<carousel name="systemcarousel">
+			<pos>0.025 0.075</pos>
+			<size>1 0.85</size>
+			
+			<type>vertical_wheel</type>
+			<logoSize>0.18 0.155</logoSize>
+			<logoScale>1.25</logoScale>
+			<maxLogoCount>13</maxLogoCount>
+			<logoRotation>6</logoRotation>
+			<logoRotationOrigin>-4.2 0.5</logoRotationOrigin>
+			<logoAlignment>center</logoAlignment>
+		</carousel>
+		
+		<!-- View BACKGROUND BORDER -->
+		<image name="staticBackgrund" extra="static">
+			<path>./bg-system-vertical.png</path>
+		</image>
+		<!-- Wheel BACKGROUND -->
+		<image name="staticMenu" extra="static">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>0.3 1</size>
+			<path>./bg-sys-wheel-vert-left.png</path>
+		</image>
+		<!-- Wheel SELECT triangle -->
+		<image name="diament" extra="static">
+			<origin>0 0.5</origin>
+			<pos>0.265 0.5</pos>
+			<size>0.028 0.058</size>
+			<rotation>180</rotation>
+			<path>./../colors/${activeColor}-triangle.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>100</zIndex>
+		</image>
+		
+		<!-- System BACK-ILLUSTRAION -->
+		<image name="bg-image" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+		</image>
+		<!-- OR System BACK-VIDEO -->
+		<video name="backgroundvideo" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+		</video>
+				
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="static">
+			<origin>1 0.5</origin>
+			<pos>0.975 0.159</pos>
+		</image>
+		
+		<!-- Sytem DESCRIPTION BACK -->
+		<image name="synopsys" extra="static">
+			<pos>0.2807 0.7048</pos>
+		</image>
+		<!-- Sytem INFO BACK -->
+		<image name="info-bg, info" extra="static">
+			<pos>0.7297 0.2658</pos>
+		</image>
+		
+		<!-- Sytem PHOTO -->
+		<image name="photo" extra="static">
+			<pos>0.8531 0.4909</pos>
+		</image>
+		<!-- Sytem VIDEO PREVIEW -->
+		<video name="videoPreview" extra="static">
+			<pos>0.853 0.491</pos>
+		</video>
+		
+		<!-- TEXT Games Counter -->
+		<text name="systemInfo">
+			<pos>0.82 0.832</pos>
+		</text>
+		
+		<!-- TEXT Info Label -->
+		<text name="sys_label" extra="static">
+			<pos>0.733 0.639</pos>
+		</text>
+		<!-- TEXT Info -->
+		<text name="sys_info" extra="static">
+			<pos>0.82 0.639</pos>
+		</text>
+		<!-- TEXT Description -->
+		<text name="sys_description" extra="static">
+			<pos>0.29 0.719</pos>
+		</text>
+		
+	</view>
+	
+	<!-- Games Counter : Position -->
+	<include>./displayPosition/${activeView}-vertLeft.xml</include>
+	
+	<!-- Auto Views Design -->
+	<include>./../../${system.theme}/default.xml</include>
+	<include>./../../${system.theme}/vertical-left.xml</include>
+
+</theme>

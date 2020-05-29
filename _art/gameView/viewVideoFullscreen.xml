@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<customView name="videoFullscreen" inherits="video" displayName="${videoFullscreenViewName}">
+
+		<!-- HIDE ELEMENTS -->
+        <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
+                    md_lbl_description, md_lbl_players, md_lbl_rating,
+					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
+					md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
+			<visible>false</visible>
+        </text>
+        <datetime name="md_releasedate, md_lastplayed">
+			<visible>false</visible>
+        </datetime>
+		<image name="bg-image" extra="true">
+			<visible>false</visible>
+		</image>
+		
+		<!-- TRICK pour cacher cette option BUG de ES au 15/04/2020 -->
+        <text name="md_lbl_gametime, md_gametime">
+			<origin>1 1</origin>
+			<pos>1.5 1</pos>
+			<size>0 0</size>
+        </text>
+		
+		<image name="bg-game-menu" extra="true">
+			<path>./_art/gameView/bg-game-right-fullscreen.png</path>
+		</image>
+		
+		<!-- VIDEO Background -->
+		<image name="background_video" extra="true">
+			<visible>false</visible>
+		</image>
+		<video name="md_video">
+			<origin>0 0</origin>
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+			<delay>0</delay>
+			<effect>none</effect>
+			<loops>3</loops>
+			<zIndex>5</zIndex>
+		</video>
+		
+		<!-- Effet CRT sur la Vidéo -
+		<image name="crt" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+
+			<path>./_art/video/crt.png</path>
+			<color>FFFFFF90</color>
+			<tile>true</tile>
+			<zIndex>6</zIndex>
+		</image>
+		<image name="crt_border" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+
+			<path>./_art/video/crt_border.png</path>
+			<color>FFFFFF80</color>
+			<zIndex>7</zIndex>
+		</image> -->
+		
+		<!-- md_image / md_thumbnail SWAP REMOVED -->
+		<image name="md_thumbnail">
+			<origin>0 1</origin>
+			<pos>0.028 0.925</pos>
+			<maxSize>0.169 0.377</maxSize>
+			<visible>false</visible>  <!-- FOR THE MOMENT -->
+		</image>
+		
+		<image name="md_marquee">
+			<pos>0.374 0.089</pos>
+			<maxSize>0.216 0.113</maxSize>
+		</image>
+		
+		<text name="md_players">
+			<pos>0.544 0.049</pos>
+			<alignment>right</alignment>
+			<size>0.18 0.079</size>
+			<color>${themeLightColor}</color>
+		</text>
+		<rating name="md_rating">
+			<pos>0.025 0.06</pos>
+			<size>0.1406 0.0594</size>
+			<color>${themeLightColor}</color>
+		</rating>
+		
+	</customView>
+	
+</theme>

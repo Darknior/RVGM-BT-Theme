@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<activeMenu>vertLeft</activeMenu>
+	</variables>
+	
+	<!-- HOUR / PAD position -------------------------- -->
+	<view name="screen">
+
+		<controllerActivity name="controllerActivity">
+			<pos>0.2828 0.0107</pos>
+		</controllerActivity>
+		<text name="clock">
+			<pos>0.9344 0.9584</pos>
+		</text>
+
+	</view>
+
+	<view name="system">
+		
+		<!-- HELP BAR position -->
+		<helpsystem name="help">
+			<pos>0.2828 0.9648</pos>
+		</helpsystem>
+		
+		<!-- Menu CAROUSSEL -->
+		<carousel name="systemcarousel">
+			<pos>0.0359 0.0832</pos>
+			<size>0.2214 0.8335</size>
+		</carousel>
+		
+		<!-- View BACKGROUND BORDER -->
+		<image name="staticBackgrund" extra="static">
+			<path>./bg-system-vertical.png</path>
+		</image>
+		<!-- View BACKGROUND MENU -->
+		<image name="staticMenu" extra="static">
+			<pos>0.0063 0</pos>
+			<size>0.282 1</size>
+			<path>./bg-sys-menu-vert-left.png</path>
+		</image>
+		
+		<!-- System BACK-ILLUSTRAION -->
+		<image name="bg-image" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+		</image>
+		<!-- OR System BACK-VIDEO -->
+		<video name="backgroundvideo" extra="true">
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+		</video>
+				
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="static">
+			<origin>1 0.5</origin>
+			<pos>0.975 0.159</pos>
+		</image>
+		
+		<!-- Sytem DESCRIPTION BACK -->
+		<image name="synopsys" extra="static">
+			<pos>0.2807 0.7048</pos>
+		</image>
+		<!-- Sytem INFO BACK -->
+		<image name="info-bg, info" extra="static">
+			<pos>0.7297 0.2658</pos>
+		</image>
+		
+		<!-- Sytem PHOTO -->
+		<image name="photo" extra="static">
+			<pos>0.8531 0.4909</pos>
+		</image>
+		<!-- Sytem VIDEO PREVIEW -->
+		<video name="videoPreview" extra="static">
+			<pos>0.853 0.491</pos>
+		</video>
+		
+		<!-- TEXT Games Counter -->
+		<text name="systemInfo">
+			<pos>0.82 0.832</pos>
+		</text>
+		
+		<!-- TEXT Info Label -->
+		<text name="sys_label" extra="static">
+			<pos>0.733 0.639</pos>
+		</text>
+		<!-- TEXT Info -->
+		<text name="sys_info" extra="static">
+			<pos>0.82 0.639</pos>
+		</text>
+		<!-- TEXT Description -->
+		<text name="sys_description" extra="static">
+			<pos>0.29 0.719</pos>
+		</text>
+		
+	</view>
+	
+	<!-- Games Counter : Position -->
+	<include>./displayPosition/${activeView}-${activeMenu}.xml</include>
+	
+	<!-- Auto Views Design -->
+	<include>./../../${system.theme}/default.xml</include>
+	<include>./../../${system.theme}/vertical-left.xml</include>
+
+</theme>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
-
+	
 	<variables>
 		
 		<langue>es</langue>
@@ -10,76 +10,90 @@
 
 		<yes>Si</yes>
 		<no>No</no>
-		<thumbnail>Thumbnail</thumbnail>
-		<image>Image</image>
 
-		<subset.colorset>Esquemas de color</subset.colorset>
+	<!-- Swap Theme Color -->
+		<subset.swapColor>Color del tema</subset.swapColor>
 		<colblue>Azul</colblue>
+		<coldarkBlue>Azul obscuro</coldarkBlue>
+		<colpurple>Morado</colpurple>
 		<colred>Rojo</colred>
 		<colorange>Naranja</colorange>
 		<colyellow>Amarillo</colyellow>
 		<colgreen>Verde</colgreen>
-	
-		<subset.themeSwapColored>Designación de iconos del sistema</subset.themeSwapColored>
-		<colgray>Gris</colgray>
-		<colored>Colorido</colored>
-		
-		<subset.swapVideoEffect>Efecto en videos</subset.swapVideoEffect>
-		<videoEffectDefault>Ninguno</videoEffectDefault>
-		<videoEffectBump>Rebote</videoEffectBump>
-		
-		<subset.setDisplaySize>Resolución de pantalla</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
-		
-		<!-- SYSTEM LIST --
-		
-		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
-		<showInfos>Library</showInfos>
-		<hiddeInfos>Art gallery</hiddeInfos>
-		<!-- Media library -->
-		
-		<subset.menuOpacity>Apariencia del menú principal</subset.menuOpacity>
-		<subset.systemlistOpacity>Apariencia de la lista del sistema</subset.systemlistOpacity>
-		<translucent>Translúcido</translucent>
+
+	<!-- Swap Theme Opacity -->
+		<subset.swapOpacity>Fondos de tema</subset.swapOpacity>
+		<translucent>Traslúcido</translucent>
 		<opaque>Opaco</opaque>
 
-		<subset.systemView>Vista del sistema</subset.systemView>
-		<menuVertRight>Vertical a la Derecha</menuVertRight>
-		<menuVertLeft>Vertical a la Izquierda</menuVertLeft>
-		<menuHorizBot>Horizontal y Bas</menuHorizBot>
-		<menuHorizBotVideo>Horizontal y Video</menuHorizBotVideo>
+	<!-- Swap Video Effect -->
+		<subset.swapVideoEffect>Efecto en previas de video</subset.swapVideoEffect>
+		<videoEffectDefault>Ninguno</videoEffectDefault>
+		<videoEffectBump>Aparecer de golpe</videoEffectBump>
+
+		<!-- SYSTEM SWAP -->
 		
-		<subset.systemswapVideo>Vista previa de video del sistema</subset.systemswapVideo>
-		<swapVideoRandom>Toma aleatoria</swapVideoRandom>
-		<swapVideoCommercial>TV comercial</swapVideoCommercial>
-		<swapVideoHide>No hay video</swapVideoHide>
+	<!-- Swap Ambiance-->
+		<subset.swapAmbiance>Ambiente de museo</subset.swapAmbiance>
+		<library>Biblioteca, historia</library> <!-- the place of knowledge of history -->
+		<artGallery>Galería de arte, en imágenes</artGallery> <!-- a beautiful exhibition of images -->
+		<mediaLibrary>Biblioteca de medios, experiencia de video</mediaLibrary> <!-- with video that shows things -->
 		
+	<!-- Swap Menu -->
+		<subset.systemView>Menu del sistema</subset.systemView>
+		<menuVertRight>Lista vertical derecha</menuVertRight>
+		<menuVertLeft>Lista vertical izquierda</menuVertLeft>
+		<menuHorizBot>Lista inferior horizontal</menuHorizBot>
+		<menuWheelRight>Rueda vertical derecha</menuWheelRight>
+		<menuWheelLeft>Rueda vertical izquierda</menuWheelLeft>
+		
+	<!--  Swap Video Preview Type -->
+		<subset.systemSwapVideo>Video resumen del sistema</subset.systemSwapVideo>
+		<swapVideoRandom>Juego aleatorio</swapVideoRandom>
+		<swapVideoCommercial>Comercial de TV</swapVideoCommercial>
+		<swapVideoHide>Esconder</swapVideoHide>
+		
+	<!-- Swap between Gray and Colored Logos -->
+		<subset.themeSwapColored>Estilo de iconos del sistema</subset.themeSwapColored>
+		<colgray>Grises</colgray>
+		<colored>Coloreados</colored>
+		
+	<!-- Choice font size by Display size -->
+		<subset.setDisplaySize>Resolución de pantalla</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680 x 1050</display1680>
+		
+	<!-- Swap CRT Video Shader -->
+		<subset.swapVideoShader>Efectos de pantalla de fondo</subset.swapVideoShader>
+		<videoShaderNone>Ninguno</videoShaderNone>
+		<videoShaderCrt>Pantalla CRT</videoShaderCrt>
+		
+	<!-- Info Labels -->
 <sysLabel>Fabricante
 Tipo
 Generación
 Lanzamiento
-Media
+Medios
 Controles
 
 Total</sysLabel>
 
 		<!-- GAMES LIST -->
 
-		<videoFullscreenViewName>Video a pantalla completa</videoFullscreenViewName>
-		<gridDetailViewName>Jacket Grid + Detail</gridDetailViewName>
-		<tilesTitleshotVideoViewName>Rejilla de pantalla de título</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Cuadrículas de juego</tilesScreenshotVideoMarqueeViewName>
-		<marqueeDetailViewName>Lista de logotipos (beta)</marqueeDetailViewName>
+		<videoFullscreenViewName>Video pantalla completa</videoFullscreenViewName>
+		<gridDetailViewName>Rejilla portadas + Detalle</gridDetailViewName>
+		<tilesTitleshotVideoViewName>Rejilla de títulos</tilesTitleshotVideoViewName>
+		<tilesScreenshotVideoMarqueeViewName>Captura de pantallas + logotipos</tilesScreenshotVideoMarqueeViewName>
+		<marqueeDetailViewName>Lista de marquesina (beta)</marqueeDetailViewName>
 		
-		<subset.gamelistOpacity>Aparición de la lista de juegos</subset.gamelistOpacity>
-
-		<subset.gamelistInfoColor>Design du Theme</subset.gamelistInfoColor>
+		<subset.gamelistInfoColor>Fondo de lista de juegos</subset.gamelistInfoColor>
 		<gamelistInfoLight>Brillante</gamelistInfoLight>
-		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
+		<gamelistInfoDarth>Oscura</gamelistInfoDarth>
 
-		<!-- <subset.swapImages>Etiqueta de la chaqueta</subset.swapImages> -->
-		
+		<subset.swapImages>Elige tu etiqueta de portada</subset.swapImages>
+		<thumbnail>thumbnail</thumbnail>
+		<image>image</image>
+
 	</variables>
 	
 </theme>
@@ -97,4 +111,3 @@ Never played = Nunca jugados
 Collections  = Colecciones
 
 -->
-

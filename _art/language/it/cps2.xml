@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Videogiochi Arcade
+Quarta Generazione
+1993
+PCB Jamma
+Arcade stick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il CP System II (Capcom Play System 2), più comunemente noto come CPS2 o CPS-2, è un sistema di videogiochi a cartuccia per una macchina arcade compatibile JAMMA, creato dalla società giapponese Capcom per far funzionare il sistema CP (CPS-1). Il CP System II è stato rilasciato nel 1993 e ha avuto una durata abbastanza lunga: 11 anni di attività. Il primo gioco rilasciato su questa scheda è Super Street Fighter II: The New Challengers, seguito da molti giochi di successo.</text>
+		</text>
+		
+	</view>
+
+</theme>
