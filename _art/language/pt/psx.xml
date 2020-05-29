@@ -6,7 +6,7 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Sony Computer Entertainment
+<text>Sony
 Console de videogame
 Quinta
 1994
@@ -16,7 +16,7 @@ Dual Analógico, DualShock</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lançado em 1994, o PlayStation é um console de 32 bits e o primeiro produzido pela Sony. O PSX será o mais comercializado em seu tempo e será redesenhado e renomeado para PS One no final de 2000. Possui um processador RISC rodando a 34 MHz, 2 MB de RAM e uma saída de som de 24 canais ADPCM. Suas resoluções variam de 256×224 a 640×480 pixels, em 16 milhões de cores, e podem calcular 360.000 polígonos irregulares ou 180.000 texturizados e iluminados por segundo. Ele possui um catálogo de mais de 7900 jogos e franquias de sucesso como Resident Evil, Metal Gear, Gran Turismo e Final Fantasy.</text>
+<text>Lançado em 1994, o PlayStation é um console de 32 bits e o primeiro produzido pela Sony. O PSX será o mais comercializado em seu tempo e será redesenhado e renomeado para PS One no final de 2000. Possui um processador RISC rodando a 34 MHz, 2 MB de RAM e uma saída de som de 24 canais ADPCM. Suas resoluções variam de 256×224 a 640×480 pixels, em 16 milhões de cores, e podem calcular 360.000 polígonos irregulares ou 180.000 texturizados e iluminados por segundo. Ele possui um catálogo de mais de 7900 jogos e franquias de sucesso como Resident Evil, Metal Gear e Gran Turismo.</text>
 		</text>
 		
 	</view>
