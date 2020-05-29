@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		<activeView>mediaLibrary</activeView>
+	</variables>
+	
+	<!-- Swap CRT Video Shader -->
+	<subset name="swapVideoShader" displayName="${subset.swapVideoShader}">
+		<include name="videoShaderNone" displayName="${videoShaderNone}"/> <!-- No shader -->
+		<include name="videoShaderCrt"  displayName="${videoShaderCrt}"  >./swapVideoShaderCrt.xml</include>
+	</subset>
+
+	<view name="system">
+
+		<!-- System BACK-VIDEO -->
+		<video name="backgroundvideo" extra="true">
+			<origin>0 0</origin>
+			<path>{random}</path>                 
+			<delay>0</delay>
+			<zIndex>10</zIndex>      
+		</video>
+		
+		<image name="avatar2, avatar3, avatar4, avatar5" extra="static">
+			<visible>false</visible>
+		</image>	
+		
+		<!-- BACKGROUND Games Counter -->
+		<image name="bg-systemInfo" extra="static">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.95</pos>
+			<maxSize>0.1578 0.08</maxSize>
+			<color>FFFFFF${opacity}</color>
+			<path>./bg-systemInfo.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>49</zIndex>
+		</image>
+		
+		<!-- Games number --
+		<text name="systemInfo">
+			<pos>0.037 0.759</pos>
+			<size>0.146 0.0217</size>
+			<color>${themeLightColor}</color>
+		</text> -->
+		
+	</view>
+	
+</theme>

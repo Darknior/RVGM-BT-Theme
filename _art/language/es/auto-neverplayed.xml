@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Ve, ten coraje, sé valiente y curioso, ¡no huyas de la pelea antes de comenzar!. Esta sección reúne todos los juegos de tu colección que nunca has jugado, gemas ocultas que te has perdido, con todos los filtros disponibles para ordenarlos según tu gusto. Así sea un juego de desarrollo casero lanzado recientemente y que es completamente desconocido para ti... o un viejo juego lanzado en el sistema original y que nunca pudiste adquirir, o que te asustó por su dificultad excesiva, hoy con 'Guardado Rápido' y la opcion de 'Rebobinar' es tu oportunidad de completarlo.</text>
+		</text>
+	</view>
+
+</theme>

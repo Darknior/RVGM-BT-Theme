@@ -10,51 +10,65 @@
 
 		<yes>Yes</yes>
 		<no>No</no>
-		<thumbnail>Thumbnail</thumbnail>
-		<image>Image</image>
 
-		<subset.colorset>Theme Color</subset.colorset>
+	<!-- Swap Theme Color -->
+		<subset.swapColor>Color schemes</subset.swapColor>
 		<colblue>Blue</colblue>
+		<coldarkBlue>Darth blue</coldarkBlue>
+		<colpurple>Purple</colpurple>
 		<colred>Red</colred>
 		<colorange>Orange</colorange>
 		<colyellow>Yellow</colyellow>
 		<colgreen>Green</colgreen>
-		
-		<subset.themeSwapColored>Design of system icons</subset.themeSwapColored>
-		<colgray>Gray</colgray>
-		<colored>Colored</colored>
-		
-		<subset.swapVideoEffect>Video Effect</subset.swapVideoEffect>
-		<videoEffectDefault>None</videoEffectDefault>
-		<videoEffectBump>Bump</videoEffectBump>
-		
-		<subset.setDisplaySize>Display resolution</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
-		
-		<!-- SYSTEM LIST -->
-		
-		<subset.hiddeSystemInfo>Ambiance</subset.hiddeSystemInfo>
-		<showInfos>Library</showInfos> <!-- the place of knowledge of history -->
-		<hiddeInfos>Art Gallery</hiddeInfos> <!-- a beautiful exhibition of images -->
-		<!-- Media Library, with video that shows things -->
-		
-		<subset.menuOpacity>Main Menu Appearance</subset.menuOpacity>
-		<subset.systemlistOpacity>System List Appearance</subset.systemlistOpacity>
+
+	<!-- Swap Theme Opacity -->
+		<subset.swapOpacity>Theme backgrounds</subset.swapOpacity>
 		<translucent>Translucent</translucent>
 		<opaque>Opaque</opaque>
+
+	<!-- Swap Video Effect -->
+		<subset.swapVideoEffect>Effect on video previews</subset.swapVideoEffect>
+		<videoEffectDefault>None</videoEffectDefault>
+		<videoEffectBump>Bump</videoEffectBump>
+
+		<!-- SYSTEM SWAP -->
 		
-		<subset.systemView>System Menu view</subset.systemView>
-		<menuVertRight>Vertical Right</menuVertRight>
-		<menuVertLeft>Vertical Left</menuVertLeft>
-		<menuHorizBot>Horizontal Bottom</menuHorizBot>
-		<menuHorizBotVideo>Horizontal with Video</menuHorizBotVideo>
+	<!-- Swap Ambiance-->
+		<subset.swapAmbiance>Atmosphere of the Museum</subset.swapAmbiance>
+		<library>Library, history</library> <!-- the place of knowledge of history -->
+		<artGallery>Art Gallery, in pictures</artGallery> <!-- a beautiful exhibition of images -->
+		<mediaLibrary>Media Library, video experience</mediaLibrary> <!-- with video that shows things -->
 		
-		<subset.systemSwapVideo>System Video Preview</subset.systemSwapVideo>
+	<!-- Swap Menu -->
+		<subset.systemView>System menu</subset.systemView>
+		<menuVertRight>Vertical right list</menuVertRight>
+		<menuVertLeft>Vertical left list</menuVertLeft>
+		<menuHorizBot>Horizontal bottom list</menuHorizBot>
+		<menuWheelRight>Vertical right wheel</menuWheelRight>
+		<menuWheelLeft>Vertical left wheel</menuWheelLeft>
+		
+	<!--  Swap Video Preview Type -->
+		<subset.systemSwapVideo>System overview video</subset.systemSwapVideo>
 		<swapVideoRandom>Random gameplay</swapVideoRandom>
 		<swapVideoCommercial>Commercial TV</swapVideoCommercial>
 		<swapVideoHide>Nothing</swapVideoHide>
 		
+	<!-- Swap between Gray and Colored Logos -->
+		<subset.themeSwapColored>Rendering system icons</subset.themeSwapColored>
+		<colgray>Gray</colgray>
+		<colored>Colored</colored>
+		
+	<!-- Choice font size by Display size -->
+		<subset.setDisplaySize>Display resolution</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+	<!-- Swap CRT Video Shader -->
+		<subset.swapVideoShader>Background video filter</subset.swapVideoShader>
+		<videoShaderNone>Nothing</videoShaderNone>
+		<videoShaderCrt>CRT</videoShaderCrt>
+		
+	<!-- Info Labels -->
 <sysLabel>Manufacturer
 Type
 Generation
@@ -69,16 +83,16 @@ Total</sysLabel>
 		<videoFullscreenViewName>Video Fullscreen</videoFullscreenViewName>
 		<gridDetailViewName>Grid Cover + Detail</gridDetailViewName>
 		<tilesTitleshotVideoViewName>Grid Titleshot</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot</tilesScreenshotVideoMarqueeViewName>
+		<tilesScreenshotVideoMarqueeViewName>Grid Screenshot + Logos</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Marquee list (beta)</marqueeDetailViewName>
 		
-		<subset.gamelistOpacity>Appearance of the Games List</subset.gamelistOpacity>
-		
-		<subset.gamelistInfoColor>Theme Design</subset.gamelistInfoColor>
+		<subset.gamelistInfoColor>Games list background</subset.gamelistInfoColor>
 		<gamelistInfoLight>Light</gamelistInfoLight>
 		<gamelistInfoDarth>Darth</gamelistInfoDarth>
 
-		<!-- <subset.swapImages>Choose your Cover tag</subset.swapImages> -->
+		<subset.swapImages>Choose your XML Cover tag</subset.swapImages>
+		<thumbnail>thumbnail</thumbnail>
+		<image>image</image>
 
 	</variables>
 	
@@ -87,13 +101,13 @@ Total</sysLabel>
 <!--
 TITLES IMAGES to translate:
 
-favorites     = ???
-2 players     = GAMES for 2 PLAYERS
-4 players     = GAMES to-have-fun-at 4 PLAYERS
-last played   = ???
-all games     = ???
-Never played  = ???
+FAVORITES
+2 players    = GAMES for 2 PLAYERS
+4 players    = GAMES to-have-fun-at 4 PLAYERS
+LAST PLAYED
+ALL GAMES
+NEVER PLAYED
 
-Collections   = ???
+COLLECTIONS
 
 -->

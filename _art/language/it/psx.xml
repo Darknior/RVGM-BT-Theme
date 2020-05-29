@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Console casalinga
+Quinta Generazione
+1994
+CD-Rom
+Dual Analog contr., DualShock</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Rilasciata nel 1994, PlayStation è una console a 32 bit e la prima prodotta da Sony. La PSX sarà la più commercializzata a suo tempo e verrà ridisegnata e ribattezzata PS One alla fine del 2000. Ha un processore RISC a 34 MHz, 2 MB di RAM e un output audio ADPCM a 24 canali. Le sue risoluzioni vanno da 256 × 224 a 640 × 480 pixel, in 16 milioni di colori, e possono calcolare 360.000 poligoni grezzi o 180.000 testurizzati e illuminati al secondo. Presenta un catalogo di oltre 7900 giochi e franchising di punta come Resident Evil, Metal Gear, Gran Turismo e Final Fantasy.</text>
+		</text>
+		
+	</view>
+	
+</theme>

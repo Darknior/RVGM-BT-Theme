@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sinclair Research, Timex
+Personnal Computer
+Seconda Generazione
+1982
+Cassette, floppy, cartucce.
+Joystick 1/2 pulsanti, tastiera</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lo ZX Spectrum è un computer commercializzato nel Regno Unito nel 1982. Basato su un processore Zilog Z80 funzionante a 3,5 Mhz e 16 o 48 KB di RAM estesa con ZX + a 128 KB. La risoluzione grafica è di 256 × 192 pixel e utilizza una modalità di testo di 32 colonne su 24 linee con una scelta di otto colori, normali o luminosi, che danno sedici sfumature. Per il suono un semplice segnale acustico emetteva suoni rudimentali. Alcuni importanti studi di videogiochi inglesi si sono fatti strada su questa macchina come Rareware, Bullfrog e Shiny. Molti giochi Homebrew sono ancora prodotti oggi.</text>
+		</text>
+		
+	</view>
+	
+</theme>

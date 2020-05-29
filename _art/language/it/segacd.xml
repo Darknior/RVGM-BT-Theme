@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Video game console add-on
+Fourth
+1991
+CD-Rom
+3 or 6 buttons joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Mega-CD, or Sega CD in America, is a Megadrive / Genesis device released in 1991. To compete with the PC Engine Duo it adds a CD-ROM drive, doubles the speed of the processor, adds 512 KB of RAM and 10 sound channels . Sega will make the mistake of focusing too much on games in FMV (Full Motion Video) that even 128 to 256 colors have a poor video rendering and very little fun video interest. This is the case of 6 32x compatible games. Some are still excellent as Road Avenger and Night Trap, as well as more classic hits such as Sonic CD, Lords of Thunder, Silpheed and Final Fight CD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -14,75 +14,89 @@
 
 		<yes>نعم</yes>
 		<no>لا</no>
-		<thumbnail>صورة مصغرة</thumbnail>
-		<image>صورة</image>
 
-		<subset.colorset>لون السمة</subset.colorset>
+	<!-- Swap Theme Color -->
+		<subset.swapColor>لون السِمة</subset.swapColor>
 		<colblue>أزرق</colblue>
+		<coldarkBlue>أزرق عاتم</coldarkBlue>
+		<colpurple>بنفسجي</colpurple>
 		<colred>أحمر</colred>
 		<colorange>برتقالي</colorange>
 		<colyellow>أصفر</colyellow>
 		<colgreen>أخضر</colgreen>
-		
-		<subset.themeSwapColored>تصميم أيقونات النظام</subset.themeSwapColored>
-		<colgray>رمادي</colgray>
-		<colored>ملوّن</colored>
-		
-		<subset.swapVideoEffect>تأثير الفيديو</subset.swapVideoEffect>
-		<videoEffectDefault>لاشيء</videoEffectDefault>
-		<videoEffectBump>مستخرج</videoEffectBump>
-		
-		<subset.setDisplaySize>دقة العرض</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680x1050</display1680>
-		
-		<!-- SYSTEM LIST -->
-		
-		<subset.hiddeSystemInfo>البيئة</subset.hiddeSystemInfo>
-		<showInfos>المكتبة</showInfos> <!-- مكان المعرفة بالتاريخ -->
-		<hiddeInfos>المعرض الفني</hiddeInfos> <!-- معرض جميل للصور -->
-		<!-- مكتبة وسائط مع فيديو للعرض -->
-		
-		<subset.menuOpacity>مظهر الشاشة الرئيسية</subset.menuOpacity>
-		<subset.systemlistOpacity>مظهر قائمةالنظام</subset.systemlistOpacity>
+
+	<!-- Swap Theme Opacity -->
+		<subset.swapOpacity>مظهر السِمة</subset.swapOpacity>
 		<translucent>شفاف</translucent>
 		<opaque>معتم</opaque>
+
+	<!-- Swap Video Effect -->
+		<subset.swapVideoEffect>تأثير عرض الفيديو</subset.swapVideoEffect>
+		<videoEffectDefault>لاشيء</videoEffectDefault>
+		<videoEffectBump>إستخراج</videoEffectBump>
+
+		<!-- SYSTEM SWAP -->
 		
-		<subset.systemView>عرض قائمة النظام</subset.systemView>
-		<menuVertRight>عمودي يمين</menuVertRight>
-		<menuVertLeft>عمودي يسار</menuVertLeft>
-		<menuHorizBot>افقي أسفل</menuHorizBot>
-		<menuHorizBotVideo>افقي مع فيديو</menuHorizBotVideo>
+	<!-- Swap Ambiance-->
+		<subset.swapAmbiance>البيئة الفنية</subset.swapAmbiance>
+		<library>مكتبة الماضي</library> <!-- مكان للمعرفة و تاريخ الماضي -->
+		<artGallery>استديو الفن في الصور</artGallery> <!-- معرض جميل للصور -->
+		<mediaLibrary>مكتبة الوسائط و الفيديو</mediaLibrary> <!-- فيديوهات لعرض أي شيء -->
 		
-		<subset.systemSwapVideo>استعراض فيديو النظام</subset.systemSwapVideo>
-		<swapVideoRandom>عرض لعب عشوائي</swapVideoRandom>
+	<!-- Swap Menu -->
+		<subset.systemView>عرض قائمة الأنظة</subset.systemView>
+		<menuVertRight>قائمة عمودية لليمين</menuVertRight>
+		<menuVertLeft>قائمة عمودية لليسار</menuVertLeft>
+		<menuHorizBot>قائمة افقية بالأسفل</menuHorizBot>
+		<menuWheelRight>عجلة عمودية لليمين</menuWheelRight>
+		<menuWheelLeft>عجلة عمودية لليسار</menuWheelLeft>
+		
+	<!--  Swap Video Preview Type -->
+		<subset.systemSwapVideo>فيديو عام للأنظمة</subset.systemSwapVideo>
+		<swapVideoRandom>ألعاب عشوائة</swapVideoRandom>
 		<swapVideoCommercial>إعلان تلفزيوني</swapVideoCommercial>
 		<swapVideoHide>لاشيء</swapVideoHide>
 		
+	<!-- Swap between Gray and Colored Logos -->
+		<subset.themeSwapColored>تباين شعارات الأنظمة</subset.themeSwapColored>
+		<colgray>رمادي</colgray>
+		<colored>ملون</colored>
+		
+	<!-- Choice font size by Display size -->
+		<subset.setDisplaySize>عرض دقة الشاشة</subset.setDisplaySize>
+		<displayHd>HD 1080p / 720p</displayHd>
+		<display1680>1680x1050</display1680>
+		
+	<!-- Swap CRT Video Shader -->
+		<subset.swapVideoShader>نطاق مظهر الفيديو</subset.swapVideoShader>
+		<videoShaderNone>لاشيء</videoShaderNone>
+		<videoShaderCrt>CRT شاشة قديمة</videoShaderCrt>
+		
+	<!-- Info Labels -->
 <sysLabel>الصانع
 النوع
 الجيل
-أصدر في
+اصدر في
 الوسائط
 وحدة التحكم
 
-المجموع</sysLabel>
+مجموع المتوفر</sysLabel>
 
 		<!-- GAMES LIST -->
 
-		<videoFullscreenViewName>الفيديو كامل الشاشة</videoFullscreenViewName>
+		<videoFullscreenViewName>فيديو كامل الشاشة</videoFullscreenViewName>
 		<gridDetailViewName>غلاف + تفاصيل</gridDetailViewName>
 		<tilesTitleshotVideoViewName>عنوان الغلاف</tilesTitleshotVideoViewName>
-		<tilesScreenshotVideoMarqueeViewName>لقطة شاشة</tilesScreenshotVideoMarqueeViewName>
+		<tilesScreenshotVideoMarqueeViewName>لقطة شاشة + شعار</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>شاشة إسمية (تجريبي)ا</marqueeDetailViewName>
 		
-		<subset.gamelistOpacity>مظهر قائمة الألعاب</subset.gamelistOpacity>
-		
-		<subset.gamelistInfoColor>تصميم السمة</subset.gamelistInfoColor>
+		<subset.gamelistInfoColor>مظهر قائمة الألعاب</subset.gamelistInfoColor>
 		<gamelistInfoLight>فاتح</gamelistInfoLight>
 		<gamelistInfoDarth>معتم</gamelistInfoDarth>
 
-		<!-- <subset.swapImages>اختر علامة الغلاف الخاصة بك</subset.swapImages> -->
+		<subset.swapImages>اختر علامة الغلاف الخاصة بك</subset.swapImages>
+		<thumbnail>thumbnail</thumbnail>
+		<image>image</image>
 
 	</variables>
 	

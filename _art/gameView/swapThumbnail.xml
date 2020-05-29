@@ -7,6 +7,9 @@
 		<video name="md_video">
 			<snapshotSource>image</snapshotSource>
 		</video>
+		<image name="md_image">
+			<visible>false</visible>
+		</image>
 	</view>
 
 	<view name="detailed">
@@ -29,7 +32,7 @@
 		</image>
 	</customView>
 	
-	<view name="grid" displayName="${gridVideoViewName}">
+	<view name="grid">
 		<imagegrid name="gamegrid">
 			<imageSource>thumbnail</imageSource>
 		</imagegrid>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Molteplici
+Collezione Giochi 2D/3D 
+Tutti
+1980 / 20xx
+Tutti i supporti
+Gamepad, Tastiera</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Uno sparatutto è un genere in cui devi distruggere un gran numero di nemici usando armi sempre più potenti man mano che i livelli avanzano. Originario degli arcade, con Space Invaders, ha vissuto uno splendido periodo dalla fine del 1980, all'inizio del 1990. Lo stile varia da carino a serio, dalla fantasia e fantascienza ai fatti storici, può essere a scorrimento singolo o multidirezionale , su rotaie o su un tubo. A metà degli anni '90 un'evoluzione del genere sarà il "Manic Shooter" o "Danmaku" in giapponese, un vero inferno...</text>
+		</text>
+		
+	</view>
+
+</theme>

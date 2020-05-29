@@ -16,7 +16,7 @@ Arcade stick</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The CP System (CPシステム, shīpī shisutemu, CPS for short) is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.</text>
+<text>The CP System is more commonly called CPS1 or CPS-1 is a video game system for arcade machine with JAMMA standard created by the Japanese company Capcom in 1988 with the release of the game Forgotten Worlds. The system consists of 3 cards, a motherboard containing the system (A-board), a daughter card containing the game information (B-board) and a daughter card including the protections (C-board). The CP System is based on the architecture of the Sharp X68000. Several notable games from the 1990s are released on CP System, such as Final fight and Street Fighter 2.</text>
 		</text>
 		
 	</view>

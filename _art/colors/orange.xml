@@ -3,9 +3,10 @@
 	<formatVersion>7</formatVersion>
 
 	<variables>
-		<userDarkColor>8f5601</userDarkColor> 	<!-- Dark Orange 	-->
-		<userColor>ff9900</userColor> 			<!-- Orange 		-->
-		<userLightColor>efbf77</userLightColor>	<!-- Light Orange	-->
+		<activeColor>orange</activeColor>
+		<userDarkColor>87450c</userDarkColor>
+		<userColor>fe9900</userColor>
+		<userLightColor>fee8c6</userLightColor>
 	</variables>
 
 </theme>

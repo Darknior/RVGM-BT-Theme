@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Molteplici
+2D/3D Game Collection
+Tutti
+1980 / 20xx
+Tutti i supporti 
+Gamepad, tastiera</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il flipper ha le sue origini nel 18 ° secolo. Il suo antenato è Bagatelle, un vecchio tavolo da gioco inventato in Francia. Nel 1930, con l'invenzione del meccanismo delle monete, il flipper ha assunto una nuova dimensione. Diventa redditizio e suscita nuovo interesse. Tra il 1950 e il 1970, il gioco conobbe un periodo splendido, sviluppato negli Stati Uniti e poi esportato in Europa e nel resto del mondo. Negli anni '80, il flipper ha perso quote di mercato rispetto al videogioco sul quale è stato adattato. Al giorno d'oggi, il gioco del flipper è praticato principalmente da una clientela di nostalgici e nuovi collezionisti.</text>
+		</text>
+		
+	</view>
+
+</theme>

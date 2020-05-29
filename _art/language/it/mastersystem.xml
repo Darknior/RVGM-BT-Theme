@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Sega
-Console per videogiochi domestica
+Console per videogiochi
 Terza Generazione
 1985
-Cartucce, Sega card
-Joypad a 2 pulsanti, Light phaser</text>
+Cartucce
+Joypad a 2 pulsanti, pistola</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Il Sega Mark III è una console a 8 bit prodotta da Sega nel 1985 in Giappone per competere con il NES. Quindi verrà ridisegnato e rinominato come sistema principale o SMS per essere rilasciato nel resto del mondo nel 1986, un anno dopo l'uscita del NES. Dotato di un processore da 3,5 Mhz, 8 KB di RAM, 128 KB di RAM video e un suono mono a 3 voci, visualizza 256x192 pixel in 32 colori, 64 con un trucco. Nel 1987, una nuova versione è stata rilasciata in Giappone, incorporando un modulo FM che potrebbe essere utilizzato per i giochi. Ma non raggiungerà mai il Nes e sarà un vero successo solo in Europa e in Brasile.</text>
+<text>Il Sega Mark III è una console a 8 bit prodotta da Sega nel 1985 in Giappone per competere con il NES. Quindi verrà ridisegnato e rinominato come sistema principale o SMS per essere rilasciato nel resto del mondo nel 1986, un anno dopo l'uscita del NES. Dotato di un processore da 3,5 Mhz, 8 KB di RAM, 128 KB di RAM video e un suono mono a 3 voci, visualizza 256x192 pixel in 32 colori, 64 con un trucco. Nel 1987, una nuova versione è stata rilasciata in Giappone, incorporando un modulo FM che potrebbe essere utilizzato per i giochi. Ma non raggiungerà mai il Nes.</text>
 		</text>
 		
 	</view>

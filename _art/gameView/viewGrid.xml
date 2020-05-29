@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="grid" displayName="${gridVideoViewName}">
+		
+		<!-- Image de Background VIDE -->
+		<image name="bg-game-border" extra="true">
+			<path>./_art/gameView/bg-game-grid.png</path>
+		</image>
+		<image name="bg-game-menu" extra="true">
+			<visible>false</visible>
+		</image>
+		
+		<!-- HIDE ELEMENTS -->
+        <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
+                    md_lbl_description, md_lbl_players, md_lbl_rating,
+					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
+					md_developer, md_publisher, md_genre, md_playcount, md_description, md_gametime">
+			<visible>false</visible>
+        </text>
+        <datetime name="md_releasedate, md_lastplayed">
+			<visible>false</visible>
+        </datetime>
+		
+		<!-- GRAY System LOGO -->
+		<image name="logo">
+			<pos>0.715 0.09</pos>
+			<maxSize>0.159 0.062</maxSize>
+			<color>${themeDarkColor}</color>
+		</image>
+		<text name="logoText"> <!-- To show if no System LOGO -->
+			<pos>0.6465 0.057</pos>
+			<maxSize>0.136 0.066</maxSize>
+			<color>${themeDarkColor}</color>
+		</text>
+		
+		<!-- Marquee / Player / Rating -->
+		<rating name="md_rating">
+			<pos>0.025 0.065</pos>
+			<size>0.1406 0.0594</size>
+		</rating>
+		<image name="md_marquee">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.1</pos>
+			<maxSize>0.234 0.1</maxSize>
+			<linearSmooth>true</linearSmooth>
+		</image>
+
+		<text name="md_players">
+			<pos>0.795 0.057</pos>
+			<size>0.18 0.079</size>
+			<alignment>right</alignment>
+		</text>
+		
+		<!-- Grille de tuiles -->
+		<imagegrid name="gamegrid">
+			<pos>0.025 0.181</pos>
+			<size>0.950 0.752</size>
+			<padding>0.04 0.03 0.04 0.03</padding>
+			<margin>0.003 0.003</margin>
+
+			<autoLayout>7 3</autoLayout>
+			<autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
+
+			<!-- VIDEO PREVIEW -->
+			<showVideoAtDelay>800</showVideoAtDelay>
+
+			<imageSource>thumbnail</imageSource> <!-- image / marquee -->
+			<animateSelection>true</animateSelection> <!-- Anime le deplacement du fond -->
+			 <!-- <folderImage>./_art/...png</folderImage> <!-- Image des dossiers -->
+		</imagegrid>
+		<video name="imagegrid.video">
+			<loops>3</loops>
+		</video>
+		
+		<!-- Tuile -->
+		<gridtile name="default">
+			<!-- Fond -->
+			<backgroundColor>FFFFFF00</backgroundColor>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<!-- Image -->
+			<selectionMode>image</selectionMode>
+			<imageColor>FFFFFFFF</imageColor>
+			<padding>4 4</padding>
+			<imageSizeMode>minSize</imageSizeMode>
+		</gridtile>
+		<gridtile name="selected">
+			<backgroundCenterColor>${userDarkColor}50</backgroundCenterColor>
+			<backgroundEdgeColor>${userDarkColor}</backgroundEdgeColor>
+			<imageColor>FFFFFFFF</imageColor>
+			<padding>10 10</padding>
+		</gridtile>
+		
+		<!-- Remplace la JAQUETTE ou le MARQUEE -->
+		<text name="gridtile">
+			<pos>0 0</pos>
+			<size>1 1</size>
+
+			<fontPath>./_art/font/${fontBold}</fontPath>
+			<fontSize>0.030</fontSize>
+			<lineSpacing>1.1</lineSpacing> <!-- Default 1.5 -->
+			<alignment>center</alignment>
+			<singleLineScroll>false</singleLineScroll>
+			<padding>0.1 0</padding>      
+			
+			<color>${themeLightColor}</color>
+			<backgroundColor>00000000</backgroundColor>
+			<glowColor>${themeDarkColor}20</glowColor>
+			<glowSize>3</glowSize>
+			<visible>false</visible>
+		</text>
+		<text name="gridtile_selected">
+			<color>${userLightColor}</color>
+			<glowColor>${userDarkColor}20</glowColor>
+			<glowSize>3</glowSize>
+			<visible>false</visible>
+		</text>
+	
+		<image name="gridtile.favorite">
+			<path>./_art/icons/fav-corner.png</path>
+			<pos>0.75 0</pos>
+			<maxSize>0.25 0.25</maxSize>
+			<horizontalAlignment>right</horizontalAlignment>
+			<origin>0 0</origin>
+			<color>${themeFavorisColor}</color>
+		</image>  
+		<image name="gridtile.favorite:selected">
+			<color>${userColor}</color>
+		</image>
+		<!-- Animation du tour de la selection -->
+		<ninepatch name="gridtile.background:selected">
+			<animateColor>${userColor}</animateColor>
+			<animateColorTime>350</animateColorTime>
+		</ninepatch>
+		
+	</view>
+	
+</theme>

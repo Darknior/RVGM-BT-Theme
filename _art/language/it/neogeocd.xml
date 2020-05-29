@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Console per videogiochi
+Quarta Generazione
+1994
+CD-Rom
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Il Neo-Geo CD è una console per videogiochi lanciata nel 1994 in Giappone da SNK. Si basa sull'architettura del Neo-Geo e utilizza CD-ROM anziché cartucce, con l'obiettivo di ridurre il prezzo dei giochi. Questo vantaggio è anche il suo principale svantaggio, la sua velocità di trasferimento associata alla piccola quantità di RAM disponibile impone un tempo di caricamento significativo durante il gioco. La conversione delle cartucce di gioco è stata amputata di alcune animazioni per essere più leggera da caricare. L'unico interesse di questo sistema sono i suoi pochi giochi esclusivi.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Máquina de Arcade
+Quarta
+1988
+PCB Jamma
+Arcade stick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O sistema CP é mais comumente chamado de CPS1 ou CPS-1 é um sistema de videogame para arcade machine com o padrão JAMMA criado pela empresa japonesa Capcom em 1988 com o lançamento do jogo Forgotten Worlds. O sistema consiste em 3 cartões, uma placa-mãe contendo o sistema (placa A), uma placa filha contendo as informações do jogo (placa B) e uma placa filha com as proteções (placa C). O CPS é baseado na arquitetura do Sharp X68000. Vários jogos notáveis da década de 1990 são lançados no CP System, como Final fight e Street Fighter 2.</text>
+		</text>
+		
+	</view>
+
+</theme>

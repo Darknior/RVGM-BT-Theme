@@ -14,9 +14,14 @@
 			<visible>false</visible>
 		</video>		
 		
-		<!-- Bat Sprite -->
-		<image name="info" extra="static">
+		<!-- AVATAR 2 :  Info, Bat Sprite -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin> <!-- Left -->
 			<pos>0.019 0.277</pos>
+			<size>0.2469 0.6769</size>
+			<path>./avatar2.png</path>
+			<path>./avatar2-${activeView}.png</path>
+			<zIndex>17</zIndex>
 		</image>
 		
 	</view>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<customView name="gridTitleshot" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
+
+		<imagegrid name="gamegrid">
+			<autoLayout>7 4</autoLayout>
+			<autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
+
+			<imageSource>image</imageSource> <!-- thumbnail / marquee -->
+			<margin>0.005 0.010</margin>
+			<padding>0.03 0.05 0.03 0.04</padding>
+			<!-- VIDEO PREVIEW -->
+			<showVideoAtDelay>800</showVideoAtDelay>
+			<zIndex>11</zIndex>
+		</imagegrid>
+		<video name="imagegrid.video">
+			<loops>3</loops>
+		</video>
+		
+		<!-- IMAGE -->
+		<gridtile name="default">
+			<backgroundImage></backgroundImage>
+			<backgroundCenterColor>${themeDarkColor}80</backgroundCenterColor>
+			<backgroundEdgeColor>${themeDarkColor}</backgroundEdgeColor>
+			<!-- <backgroundCornerSize>0.03</backgroundCornerSize> REMOVE for RPI to slow -->
+			
+			<padding>1 1</padding>
+			<imageSizeMode>minSize</imageSizeMode>
+			<imageColor>${themeLightColor}</imageColor>
+		</gridtile>
+		<gridtile name="selected">
+			<padding>8 8</padding>
+			<imageColor>FFFFFFFF</imageColor>
+			<!-- <backgroundCornerSize>0.03</backgroundCornerSize> REMOVE for RPI to slow -->
+		</gridtile>
+		
+		<ninepatch name="gridtile.background:selected">
+			<animateColor>${userColor}</animateColor>
+			<animateColorTime>350</animateColorTime>
+		</ninepatch>
+		<image name="gridtile.image">
+			<!-- <roundCorners>0.03</roundCorners> REMOVE for RPI to slow -->
+		</image>
+
+		<!-- FAVORIS -->
+		<image name="gridtile.favorite">
+			<path>./_art/icons/star.png</path>
+			<pos>0.88 0.13</pos>
+			<maxSize>0.20 0.20</maxSize>
+			<origin>0.5 0.5</origin>
+			<horizontalAlignment>right</horizontalAlignment>
+			<color>${themeFavorisColor}</color>
+		</image>  
+		<image name="gridtile.favorite:selected">
+			<color>${userColor}</color>
+		</image>  
+		
+		<!-- Ombrage interieur de la tuile -->
+		<image name="gridtile.overlay">
+			<path>./_art/gameView/overlay.png</path>
+			<color>FFFFFF50</color>
+
+			<!-- <roundCorners>0.03</roundCorners> REMOVE for RPI to slow -->
+		</image>    
+		<image name="gridtile.overlay:selected">
+			<color>FFFFFF00</color>
+		</image>
+	
+	</customView>
+	
+</theme>

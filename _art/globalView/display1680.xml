@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<!-- Sytem TEXTS -->
+		<text name="systemInfo, sys_label, sys_info, sys_description" extra="static">
+			<fontSize>0.020</fontSize> <!-- Display size: 1680x1050 -->
+		</text>
+		
+		<!-- Games number : Position -->
+		<include>./displayPosition/1680-${activeView}-${activeMenu}.xml</include>
+		
+	</view>
+	
+</theme>

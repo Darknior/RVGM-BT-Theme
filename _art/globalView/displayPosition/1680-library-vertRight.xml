@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<!-- Games number -->
+		<text name="systemInfo">
+			<pos>0.113 0.807</pos>
+		</text>
+		
+	</view>
+	
+</theme>

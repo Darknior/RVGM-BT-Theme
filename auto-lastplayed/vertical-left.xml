@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="static">
+			<visible>false</visible>
+		</image>	
+		<video name="videoPreview" extra="static">
+			<visible>false</visible>
+		</video>
+		
+		<!-- AVATAR 2 : Info, Plan Sprite 633 -->
+		<image name="avatar2" extra="static">
+			<origin>1 0</origin>
+			<pos>0.97 0.3</pos>
+			<maxSize>0.236 0.633</maxSize>
+			<path>./avatar2.png</path>
+			<path>./avatar2-${activeView}.png</path>
+			<zIndex>17</zIndex>
+		</image>
+		
+	</view>
+	
+</theme>

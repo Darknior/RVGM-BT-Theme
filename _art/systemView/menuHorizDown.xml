@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<activeMenu>horizDown</activeMenu>
+	</variables>
+	
+	<!-- HOUR / PAD position -------------------------- -->
+	<view name="screen">
+
+		<controllerActivity name="controllerActivity">
+			<pos>0.0161 0.0107</pos>
+		</controllerActivity>
+		<text name="clock">
+			<pos>0.9344 0.9584</pos>
+		</text>
+
+	</view>
+	
+	<view name="system">
+		
+		<!-- HELP BAR position -->
+		<helpsystem name="help">
+			<pos>0.0161 0.9648</pos>
+		</helpsystem>
+		
+		<!-- Menu CAROUSSEL -->
+		<carousel name="systemcarousel">
+			<pos>0.047 0.77</pos>
+			<size>0.91 0.15</size>
+			<type>horizontal</type>
+			<maxLogoCount>5</maxLogoCount>
+			<logoScale>1.5</logoScale>
+			<logoSize>0.135 0.109</logoSize>
+		</carousel>
+		<!-- To replace default image LOGO by default -->
+		<text name="logoText">
+			<size>0.2005 0.0959</size>
+		</text>
+		
+		<!-- View BACKGROUND BORDER -->
+		<image name="staticBackgrund" extra="static">
+			<path>./bg-system-horizontal.png</path>
+		</image>
+		<!-- View BACKGROUND MENU -->
+		<image name="staticMenu" extra="static">
+			<pos>0 0.723</pos>
+			<size>1 0.245</size>
+			<path>./bg-sys-menu-horiz.png</path>
+		</image>
+				
+		<!-- System BACK-ILLUSTRAION -->
+		<image name="bg-image" extra="true">
+			<pos>0.025 0.026</pos>
+			<size>0.95 0.93</size>
+		</image>
+		<!-- OR System BACK-VIDEO -->
+		<video name="backgroundvideo" extra="true">
+			<pos>0.025 0.026</pos>
+			<size>0.95 0.93</size>
+		</video>
+				
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="static">
+			<origin>1 0.5</origin>
+			<pos>0.9651 0.1387</pos>
+		</image>
+		
+		<!-- Sytem DESCRIPTION BACK -->
+		<image name="synopsys" extra="static">
+			<pos>0.5323 0.5027</pos>
+		</image>
+		<!-- Sytem INFO BACK -->
+		<image name="info-bg, info" extra="static">
+			<pos>0.0349 0.063</pos>
+		</image>
+		
+		<!-- Sytem PHOTO -->
+		<image name="photo" extra="static">
+			<pos>0.1585 0.288</pos>
+		</image>
+		<!-- Sytem VIDEO PREVIEW -->
+		<video name="videoPreview" extra="static">
+			<pos>0.1585 0.288</pos>
+		</video>
+		
+		<!-- TEXT Games Counter -->
+		<text name="systemInfo">
+			<pos>0.124 0.631</pos>
+		</text>
+		
+		<!-- TEXT Info Label -->
+		<text name="sys_label" extra="static">
+			<pos>0.038 0.436</pos>
+		</text>
+		<!-- TEXT Info -->
+		<text name="sys_info" extra="static">
+			<pos>0.124 0.436</pos>
+		</text>
+		<!-- TEXT Description -->
+		<text name="sys_description" extra="static">
+			<pos>0.542 0.515</pos>
+		</text>
+		
+	</view>
+	
+	<!-- Games Counter : Position -->
+	<include>./displayPosition/${activeView}-${activeMenu}.xml</include>
+	
+	<!-- Auto Views Design -->
+	<include>./../../${system.theme}/default.xml</include>
+	<include>./../../${system.theme}/horizontal-down.xml</include>
+	
+</theme>
