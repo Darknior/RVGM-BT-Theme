@@ -1,0 +1,50 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console de salon
+Huitième
+2017
+carte microSD, Cartouche
+Joy-Con, Manette Nintendo Switch Pro</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sorti en 2017, le Switch est toujours en vente. Il s'agit d'une console hybride: console de salon et console portable. Ses contrôleurs sans fil Joy-Con avec boutons et sticks analogiques, détecteur de mouvement et retour tactile, se fixent des deux côtés de la console en mode portable. Nintendo a choisi d'utiliser un chipset Nvidia Tegra X1 avec 4 Go de RAM et 32 Go eMMC pour le stockage. Cet écran LCD offre une définition de 1280x720 et de 480p/720p/1080p dans son dock via HDMI. Son catalogue propose des jeux culte tel Mario Kart 8 Deluxe et Super Smash Bros Ultimate.</text>
+		</text>
+		
+	</view>
+	
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console de salon
+Huitième
+2017
+carte microSD, Cartouche
+Joy-Con, Manette Nintendo Switch Pro</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Nintendo Switch (ニンテンドースイッチ) est une console de jeux vidéo produite par Nintendo, succédant à la Wii U. Il s'agit de la première console hybride (multi modes) mise en vente de l'histoire, pouvant aussi bien faire office de console de salon que de console portable. Annoncée le 17 mars 2015 au cours d'une conférence de presse, présentée officiellement le 20 octobre 2016 et montrée plus en détail le 17 janvier 2017 lors d'une présentation en direct, elle est sortie mondialement le 3 mars 2017.</text>
+		</text>
+		
+	</view>
+	
+>>>>>>> 85eed2b984d52d855970eda5f7aced0c1c9ac1cb
+</theme>
