@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Irem Software Engineering est une société japonaise de développement et d'édition de jeux vidéo, spécialisée dans la conception et la fabrication de jeux d'arcade. Irem est probablement mieux connue pour leur fameux shoot 'em up phare, R-Type. Irem a été un développeur populaire au Japon avec des jeux comme Photoboy pour la PC-Engine et In the Hunt pour la Sega Saturn</text>
+		</text>
+		
+	</view>
+
+</theme>

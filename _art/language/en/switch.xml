@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Home video game console
+Eighth
+2017
+MicroSD, Cardridge
+Joy-Con, Nintendo Switch Pro Controller</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Released in 2017, the Switch is always on sale. It is a hybrid console that can be used as a home console and portable device. Its wireless Joy-Con controllers, with buttons and directional analog sticks, motion sensing, and tactile feedback, can attach to both sides of the console to support handheld-style play. Nintendo opted to use a chipset Nvidia Tegra X1 with 4GB of ram and 32GB eMMC for storage. This LCD display offer 1280x720 and docked 480p/720p/1080p via HDMI. Its catalog offers cult games like Mario Kart 8 Deluxe and Super Smash Bros. Ultimate.</text>
+		</text>
+		
+	</view>
+	
+</theme>

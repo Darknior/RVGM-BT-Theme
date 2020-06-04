@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Capcom Co., Ltd. est une société japonaise, fondée en 1983, qui développe et édite des jeux vidéo dans le monde entier, par le biais de filiales et succursales situées en Amérique du Nord, en Europe, ainsi qu'en Asie orientale. L'entreprise est connue pour être à l'origine de plusieurs franchises de jeux vidéo célèbres dont les épisodes se sont vendus à plusieurs millions d'exemplaires, notamment pour les séries Monster Hunter, Resident Evil, Street Fighter, ou encore Megaman.</text>
+		</text>
+		
+	</view>
+
+</theme>

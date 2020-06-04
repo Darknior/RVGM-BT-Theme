@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>SNK Corporation is a Japanese video game hardware and software company. SNK is an acronym of Shin Nihon Kikaku. SNK is most notable for creating the Neo-Geo arcade system, and several franchises of games including The King of Fighters, Metal Slug, Samurai Shodown and Fatal Fury. SNK also helped publish many games including Rage of the Dragons, World Heroes, Ninja Master's and Sengoku along with Double Dragon for the Neo Geo.</text>
+		</text>
+		
+	</view>
+
+</theme>

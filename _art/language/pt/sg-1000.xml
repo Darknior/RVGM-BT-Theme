@@ -5,7 +5,6 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
 <text>Sega
 Console de videogame
 Terceira
@@ -15,7 +14,6 @@ Joystick de 2 botões</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
 <text>O SG-1000 é o primeiro console produzido pela Sega e lançado no Japão em 15 de julho de 1983. Foi lançado ao mesmo tempo que o computador SC-3000, compatível com todos os seus aplicativos e jogos. Ao adicionar um teclado, ele pode ser usado como um computador e, com um cartucho adaptador, ele pode ler os cartões de jogo 'Sega My Card'. É equipado com um processador Zilog Z80 8bits de 3,58 MHz, 4 KB de RAM e pode exibir até 16 cores. Sua biblioteca de jogos possui 29 jogos Sega My Card e 68 jogos com cartuchos, 26 dos quais requerem conexão com o teclado.</text>
 		</text>
 		

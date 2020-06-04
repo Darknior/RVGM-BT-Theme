@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Capcom Co., Ltd. is a Japanese video game developer and publisher known for creating numerous multi-million selling game franchises, including Street Fighter, Mega Man, Resident Evil, Devil May Cry, Onimusha, Ace Attorney, Monster Hunter, and Dead Rising, as well as licensed games based on crossovers, or properties such as Marvel or Disney. Established in 1979, it has become an international enterprise with subsidiaries in North America, Europe, and East Asia.</text>
+		</text>
+		
+	</view>
+
+</theme>

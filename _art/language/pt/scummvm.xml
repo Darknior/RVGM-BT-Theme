@@ -5,7 +5,6 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
 <text>Multiplos
 Motor de jogo Point’n clic
 Todos
@@ -15,8 +14,7 @@ Joystick, teclado, mouse</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Lançado em 2001, o ScummVM é uma coleção de mecanismos de jogos de aventura "aponte e clique". Projetado inicialmente para jogar apenas jogos de aventura LucasArts que usam o sistema SCUMM (VM, que significa máquina virtual), agora suporta outros mecanismos, como Sierra On-Line, com a série King's Quest e Leisure Suit Larry, Coktel Vision com a série Goblins, Adventure Soft com a série Simon the Sorcerer e Humongous com seus ótimos jogos infantis Freddi Fish e Pajama Sam series. Traduções de jogos não oficiais também são suportadas. Todos podem contribuir para esse mecanismo em seu GIT.</text>
+<text>Lançado em 2001, o ScummVM é uma coleção de mecanismos de jogos de aventura "aponte e clique". Projetado inicialmente para jogar apenas jogos de aventura LucasArts que usam o sistema SCUMM (VM, que significa máquina virtual), agora suporta outros mecanismos, como Sierra On-Line, com a série King's Quest e Leisure Suit Larry, Coktel Vision com a série Goblins, Adventure Soft com a série Simon the Sorcerer e Humongous com seus ótimos jogos infantis Freddi Fish e Pajama Sam series. Traduções de jogos não oficiais também são suportadas.</text>
 		</text>
 		
 	</view>

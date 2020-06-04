@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sega Corporation, abréviation de Service Games, couramment stylisé SEGA) est une société japonaise de développement et d'édition de jeux vidéo, ainsi qu'un fabricant de bornes et systèmes d'arcade. Sega est également un fabricant de consoles de jeux vidéo, mais à la suite de plusieurs échecs commerciaux, la société se retire de ce marché à la date du 31 janvier 2001 pour se consacrer exclusivement au développement de jeux et à l'arcade1. Le 1er novembre 2000, Sega Enterprises, Ltd change son nom en Sega Corporation. En France, la devise de Sega est « Sega, c'est plus fort que toi ! ».
+</text>
+		</text>
+		
+	</view>
+
+</theme>
