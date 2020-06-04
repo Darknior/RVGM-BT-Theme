@@ -6,7 +6,7 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Sony Computer Entertainment
+<text>Sony
 Console de videogame
 Sexta
 2000
@@ -16,8 +16,8 @@ DualShock 2, EyeToy</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- PORTUGUESE -->
-<text>O PS2, console Sony de 128 bits lançado em 2000, é o mais vendido na história dos videogames. Uma versão Slim lançada no final de 2004. Equipado com o processador Emotion Engine com clock de 150 Mhz, suportado por dois outros subprocessadores, 32 Mb de RAM, 4 Mb de vídeo RAM, um disco rígido e uma conexão à Internet, ele pode calcular 16 milhões de polígonos por segundo. Ele exibe 480p 16/9 em 720×480 e 4/3 em 640×480 pixels. Saída de som digital DTS-ES. Apresenta um catálogo de mais de 10.035 jogos e franquias emblemáticas como God of War, Ratchet & Clank e Jak'n Daxter.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O PS2, console Sony de 128 bits lançado em 2000, é o mais vendido na história dos videogames. Uma versão Slim lançada no final de 2004. Equipado com o processador Emotion Engine com clock de 150 Mhz, suportado por dois outros subprocessadores, 32 Mb de RAM, 4 Mb de vídeo RAM, um disco rígido e uma conexão à Internet, ele pode calcular 16 milhões de polígonos por segundo. Ele exibe 480p 16/9 em 720×480 e 4/3 em 640×480 pixels. Saída de som digital DTS-ES. Apresenta um catálogo de mais de 10.035 jogos e franquias emblemáticas como God of War.</text>
 		</text>
 		
 	</view>
