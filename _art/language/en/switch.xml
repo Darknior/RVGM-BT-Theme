@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
@@ -22,29 +21,4 @@ Joy-Con, Nintendo Switch Pro Controller</text>
 		
 	</view>
 	
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<theme>
-	<formatVersion>7</formatVersion>
-
-	<view name="system">
-		
-		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
-<text>Nintendo
-Home video game console
-Eighth
-2017
-MicroSD, Cardridge
-Joy-Con, Nintendo Switch Pro Controller</text>
-		</text>
-		
-		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Nintendo Switch is a video game console developed by Nintendo, released worldwide in most regions on March 3, 2017. It is a hybrid console that can be used as a home console and portable device. Its wireless Joy-Con controllers, with standard buttons and directional analog sticks for user input, motion sensing, and tactile feedback, can attach to both sides of the console to support handheld-style play. They can also connect to a Grip accessory to provide a traditional home console gamepad form, or be used individually in the hand like the Wii Remote and Nunchuk.</text>
-		</text>
-		
-	</view>
-	
->>>>>>> 85eed2b984d52d855970eda5f7aced0c1c9ac1cb
 </theme>
