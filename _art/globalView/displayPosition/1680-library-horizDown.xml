@@ -3,10 +3,10 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+
 		<!-- Games Counter : Position -->
         <text name="systemInfo">
-			<pos>0.113 0.807</pos>
+			<pos>0.124 0.606</pos>
         </text>
 		
 	</view>

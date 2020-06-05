@@ -6,7 +6,7 @@
 		
 		<!-- Games Counter : Position -->
         <text name="systemInfo">
-			<pos>0.113 0.807</pos>
+			<pos>0.82 0.807</pos>
         </text>
 		
 	</view>

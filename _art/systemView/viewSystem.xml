@@ -71,7 +71,7 @@
 			<fontSize>0.023</fontSize>
 			<lineSpacing>1.3</lineSpacing>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>./_art/font/${fontBold}</fontPath>
+			<fontPath>./../font/${fontBold}</fontPath>
 			<alignment>left</alignment>			
 			<zIndex>50</zIndex>
         </text>
