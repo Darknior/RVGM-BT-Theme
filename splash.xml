@@ -11,7 +11,7 @@
 			<path>./_art/splash.jpg</path>
 		</image>
 		
-		<text name="label, rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion" extra="true">
+		<text name="label, rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion, author, translation" extra="true">
 			<origin>0 0</origin>
 			<rotation>4</rotation>
 			<fontPath>./_art/font/arcade.ttf</fontPath>
@@ -21,11 +21,12 @@
 		</text>
 
 		<text name="label">
-			<pos>0.6 0.41</pos>
+			<pos>0.6 0.55</pos>
 			<size>0.33 0.05</size>
+			<rotation>3</rotation>
 			<alignment>center</alignment>
 		</text>
-		<text name="rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion" extra="true">
+		<text name="rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion, author" extra="true">
 			<size>0.2 0.02</size>
 			<alignment>left</alignment>
 		</text>
@@ -45,7 +46,34 @@
 			<pos>0.367 0.299</pos>
 			<text>- EMUELEC 3.5+</text>
 		</text>
+		
+		<text name="author" extra="true">
+			<pos>0.367 0.4</pos>
+			<text>BY DARKNIOR</text>
+		</text>
+		<text name="translation">
+			<pos>0.62 0.335</pos>
+			<size>0.322 0.12</size>
+			<rotation>3</rotation>
+			<fontSize>0.020</fontSize>
+			<alignment>left</alignment>
+			<text>THANKS FOR HELP AND TRANSLATION TO:
 
+vv∆∆7, Gilou9999, Azvarel,
+RaM5eS, Adolfo69, SultanSsh,
+@nwildner, Ravage1974</text>
+		</text>
+		
+		<!--
+		English update         : @nwildner
+		Portuguese translation : Azvarel
+		arabe translation      : SultanSsh
+		italian translation    : Adolfo69
+		espagnol translation   : RaM5eS
+		
+		Collections            : Ravage1974
+		-->
+		
 		<image name="progressbar">
 			<origin>0 0</origin>
 			<!-- <pos>0.6 0.56</pos>
