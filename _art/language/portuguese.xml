@@ -45,7 +45,7 @@
 		<subset.systemView>Menu Sistema</subset.systemView>
 		<menuVertRight>Lista vertical à direita</menuVertRight>
 		<menuVertLeft>Lista vertical à esquerda</menuVertLeft>
-		<menuHorizBot>Lista inferior horizontal</menuHorizBot>
+		<menuHorizDown>Lista inferior horizontal</menuHorizDown>
 		<menuWheelRight>Logotipo vertical à direita</menuWheelRight>
 		<menuWheelLeft>Logotipo vertical à esquerda</menuWheelLeft>
 		

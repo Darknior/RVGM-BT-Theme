@@ -35,7 +35,7 @@
 			<maxLogoCount>13</maxLogoCount>
 			<logoRotation>6</logoRotation>
 			<logoRotationOrigin>-4.2 0.5</logoRotationOrigin>
-			<logoAlignment>center</logoAlignment>
+			<logoAlignment>left</logoAlignment>
 		</carousel>
 		
 		<!-- View BACKGROUND BORDER -->

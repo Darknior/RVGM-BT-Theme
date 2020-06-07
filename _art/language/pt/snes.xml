@@ -5,7 +5,6 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
 <text>Nintendo
 Console de videogame
 Quarta
@@ -13,10 +12,9 @@ Quarta
 Cartucho
 Joystick de 6 botões, Light gun</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Super Nintendo, conhecido como Super Famicom no Japão, é um console de videogame comercializado pela Nintendo japonesa no final de novembro de 1990. Na América do Norte, o console produz um visual decididamente diferente e é mais precisamente chamado de Super Nintendo Entertainment System (ou SNES ) A geração de console da Super Nintendo produz saída de 16 bits para combater o Sega Megadrive (16 bits) e, em menor grau, o NEC PC-Engine e o Neo-Geo AES SNK (16 bits). O Satellaview, ou BS-X, foi lançado em 1995 no Japão para baixar jogos de satélite exclusivos na rede St.GIGA.</text>
+<text>Super Nintendo, conhecido como Super Famicom no Japão, é um console de videogame comercializado pela Nintendo japonesa no final de novembro de 1990. Na América do Norte, o console produz um visual decididamente diferente e é mais precisamente chamado de Super Nintendo Entertainment System (ou SNES ) A geração de console da Super Nintendo produz saída de 16 bits para combater o Sega Megadrive (16 bits) e, em menor grau, o NEC PC-Engine e o Neo-Geo AES SNK (16 bits).</text>
 		</text>
 		
 	</view>

@@ -43,7 +43,7 @@
 		<subset.systemView>Menu di Sistema</subset.systemView>
 		<menuVertRight>Lista Verticale destra</menuVertRight>
 		<menuVertLeft>Lista Verticale sinistra</menuVertLeft>
-		<menuHorizBot>Lista bassa orizzontale</menuHorizBot>
+		<menuHorizDown>Lista bassa orizzontale</menuHorizDown>
 		<menuWheelRight>Ruota verticale destra</menuWheelRight>
 		<menuWheelLeft>Ruota verticale sinistra</menuWheelLeft>
 		

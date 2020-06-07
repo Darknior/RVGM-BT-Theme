@@ -47,7 +47,7 @@
 		<subset.systemView>عرض قائمة الأنظة</subset.systemView>
 		<menuVertRight>قائمة عمودية لليمين</menuVertRight>
 		<menuVertLeft>قائمة عمودية لليسار</menuVertLeft>
-		<menuHorizBot>قائمة افقية بالأسفل</menuHorizBot>
+		<menuHorizDown>قائمة افقية بالأسفل</menuHorizDown>
 		<menuWheelRight>عجلة عمودية لليمين</menuWheelRight>
 		<menuWheelLeft>عجلة عمودية لليسار</menuWheelLeft>
 		

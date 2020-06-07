@@ -43,7 +43,7 @@
 		<subset.systemView>System menu</subset.systemView>
 		<menuVertRight>Vertical right list</menuVertRight>
 		<menuVertLeft>Vertical left list</menuVertLeft>
-		<menuHorizBot>Horizontal bottom list</menuHorizBot>
+		<menuHorizDown>Horizontal bottom list</menuHorizDown>
 		<menuWheelRight>Vertical right wheel</menuWheelRight>
 		<menuWheelLeft>Vertical left wheel</menuWheelLeft>
 		

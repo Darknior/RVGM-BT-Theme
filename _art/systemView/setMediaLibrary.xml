@@ -37,13 +37,6 @@
 			<zIndex>49</zIndex>
 		</image>
 		
-		<!-- Games number --
-		<text name="systemInfo">
-			<pos>0.037 0.759</pos>
-			<size>0.146 0.0217</size>
-			<color>${themeLightColor}</color>
-		</text> -->
-		
 	</view>
 	
 </theme>

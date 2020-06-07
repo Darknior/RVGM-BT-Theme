@@ -22,9 +22,9 @@
 		<colgreen>Verde</colgreen>
 
 	<!-- Swap Theme Opacity -->
-		<subset.swapOpacity>Fondos de tema</subset.swapOpacity>
-		<translucent>Traslúcido</translucent>
-		<opaque>Opaco</opaque>
+		<subset.swapOpacity>Diseño de los menús</subset.swapOpacity>
+		<translucent>Traslúcidos</translucent>
+		<opaque>Opacos</opaque>
 
 	<!-- Swap Video Effect -->
 		<subset.swapVideoEffect>Efecto en previas de video</subset.swapVideoEffect>
@@ -34,37 +34,37 @@
 		<!-- SYSTEM SWAP -->
 		
 	<!-- Swap Ambiance-->
-		<subset.swapAmbiance>Ambiente de museo</subset.swapAmbiance>
-		<library>Biblioteca, historia</library> <!-- the place of knowledge of history -->
-		<artGallery>Galería de arte, en imágenes</artGallery> <!-- a beautiful exhibition of images -->
-		<mediaLibrary>Biblioteca de medios, experiencia de video</mediaLibrary> <!-- with video that shows things -->
+		<subset.swapAmbiance>Diseño del menú de sistemas</subset.swapAmbiance>
+		<library>Museo de historia</library> <!-- the place of knowledge of history -->
+		<artGallery>Galería de arte</artGallery> <!-- a beautiful exhibition of images -->
+		<mediaLibrary>Videos de fondo</mediaLibrary> <!-- with video that shows things -->
 		
 	<!-- Swap Menu -->
-		<subset.systemView>Menu del sistema</subset.systemView>
+		<subset.systemView>Tipo de menú de sistemas</subset.systemView>
 		<menuVertRight>Lista vertical derecha</menuVertRight>
 		<menuVertLeft>Lista vertical izquierda</menuVertLeft>
-		<menuHorizBot>Lista inferior horizontal</menuHorizBot>
+		<menuHorizDown>Lista inferior horizontal</menuHorizDown>
 		<menuWheelRight>Rueda vertical derecha</menuWheelRight>
 		<menuWheelLeft>Rueda vertical izquierda</menuWheelLeft>
 		
 	<!--  Swap Video Preview Type -->
-		<subset.systemSwapVideo>Video resumen del sistema</subset.systemSwapVideo>
+		<subset.systemSwapVideo>Video en información de sistemas</subset.systemSwapVideo>
 		<swapVideoRandom>Juego aleatorio</swapVideoRandom>
 		<swapVideoCommercial>Comercial de TV</swapVideoCommercial>
-		<swapVideoHide>Esconder</swapVideoHide>
+		<swapVideoHide>No mostrar video</swapVideoHide>
 		
 	<!-- Swap between Gray and Colored Logos -->
-		<subset.themeSwapColored>Estilo de iconos del sistema</subset.themeSwapColored>
+		<subset.themeSwapColored>Estilo de íconos de sistemas</subset.themeSwapColored>
 		<colgray>Grises</colgray>
 		<colored>Coloreados</colored>
 		
 	<!-- Choice font size by Display size -->
 		<subset.setDisplaySize>Resolución de pantalla</subset.setDisplaySize>
-		<displayHd>HD 1080p / 720p</displayHd>
-		<display1680>1680 x 1050</display1680>
+		<displayHd>HD 16:9 (1080p / 720p)</displayHd>
+		<display1680>HD 16:10 (1680 x 1050)</display1680>
 		
 	<!-- Swap CRT Video Shader -->
-		<subset.swapVideoShader>Efectos de pantalla de fondo</subset.swapVideoShader>
+		<subset.swapVideoShader>Efectos de videos de fondo</subset.swapVideoShader>
 		<videoShaderNone>Ninguno</videoShaderNone>
 		<videoShaderCrt>Pantalla CRT</videoShaderCrt>
 		
@@ -80,15 +80,15 @@ Total</sysLabel>
 
 		<!-- GAMES LIST -->
 
-		<videoFullscreenViewName>Video pantalla completa</videoFullscreenViewName>
-		<gridDetailViewName>Rejilla portadas + Detalle</gridDetailViewName>
+		<videoFullscreenViewName>Video a pantalla completa</videoFullscreenViewName>
+		<gridDetailViewName>Rejilla de portadas + detalles</gridDetailViewName>
 		<tilesTitleshotVideoViewName>Rejilla de títulos</tilesTitleshotVideoViewName>
 		<tilesScreenshotVideoMarqueeViewName>Captura de pantallas + logotipos</tilesScreenshotVideoMarqueeViewName>
 		<marqueeDetailViewName>Lista de marquesina (beta)</marqueeDetailViewName>
 		
-		<subset.gamelistInfoColor>Fondo de lista de juegos</subset.gamelistInfoColor>
-		<gamelistInfoLight>Brillante</gamelistInfoLight>
-		<gamelistInfoDarth>Oscura</gamelistInfoDarth>
+		<subset.gamelistInfoColor>Fondo de la lista de juegos</subset.gamelistInfoColor>
+		<gamelistInfoLight>Claro</gamelistInfoLight>
+		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
 
 		<subset.swapImages>Elige tu etiqueta de portada</subset.swapImages>
 		<thumbnail>thumbnail</thumbnail>
