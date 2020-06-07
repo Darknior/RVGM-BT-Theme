@@ -27,7 +27,7 @@
 		<opaque>Opaques</opaque>
 
 	<!-- Swap Video Effect -->
-		<subset.swapVideoEffect>Effet sur les apperçus vidéo</subset.swapVideoEffect>
+		<subset.swapVideoEffect>Effet sur les aperçus vidéo</subset.swapVideoEffect>
 		<videoEffectDefault>Aucun</videoEffectDefault>
 		<videoEffectBump>Rebond</videoEffectBump>
 
