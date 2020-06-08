@@ -3,10 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Ordinateur personnel
+Quatrième à Huitième
+1985 / 2020
+DDur, CD, DVD, démat
+Manette, clavier, souris</text>
+		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Cette section regroupe tous les jeux de votre PC, classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. C'est un outil de recherche extrêmement puissant et pratique!</text>
+<text>Windows est une interface graphique développé par Microsoft en 1983, pour son système d'exploitation MS-DOS. Dans Windows 1.0 on trouvait déjà un jeu appelé Reversi, puis en 1990 dans le 3.1 on eut droit au Solitaire et au Démineur, devenus des classiques. En 1995 sort Windows 95 suivi de W98 qui seront les premiers à démocratiser Direct X, la librairie pour faciliter le développement de jeux sur PC. L'interface deviendra un système autonome et ne cessera d'évoluer avec XP, Vista, 7, 8, 10 et avec lui Direct X qui outre la vidéo et le son gérera absolument tout, jusqu'à l'IA et les périphériques VR.</text>
 		</text>
 		
 	</view>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
 
@@ -16,7 +16,7 @@ Joypad</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Xbox, a sixth-generation gaming console made by Microsoft that was first released in 2001. The Xbox was Microsoft's first foray into the gaming console market. The Xbox CPU is a 32-bit 733 MHz, custom Intel Pentium III Coppermine-based processor. It has a 133 MHz 64-bit. Its GPU is Nvidia's 233 MHz NV2A.</text>
+<text>Microsoft's Xbox is a video game console released in the United States on November 15, 2001. Microsoft is taking its first steps in this sector, after having collaborated with Sega to bring Windows CE to Dreamcast and after having developed for several years Microsoft Game Studios games and SideWinder video game accessories for PC. It is equipped with an Intel Pentium III processor clocked at 733 Mhz, 128 KB of cache memory supported by 64 MB of RAM and an Nvidia 233 Mhz GPU which is in fact a modified GeForce 3 allowing it to display games in 720p and 1080i.</text>
 		</text>
 		
 	</view>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
 
@@ -16,7 +16,7 @@ Manette de jeu</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La Xbox de Microsoft est une console de jeux vidéo sortie aux États-Unis le 15 novembre 2001. Microsoft fait avec ses premiers pas dans ce secteur, après avoir collaboré avec Sega pour porter Windows CE sur Dreamcast, et après avoir développé depuis plusieurs années des jeux Microsoft Game Studios et des accessoires de jeux vidéo SideWinder pour les PC sous Windows.Le processeur principal est un Intel Pentium III Coppermine, cadencé à 733 MHz et doté de 128 Ko de cache épaulé par 64 Mo de mémoire vive DDR et d'un GPU Nvidia NV2a (GPU GeForce 3 modifié).</text>
+<text>La Xbox de Microsoft est une console de jeux vidéo sortie aux États-Unis le 15 novembre 2001. Microsoft fait avec elle ses premiers pas dans ce secteur, après avoir collaboré avec Sega pour porter Windows CE sur Dreamcast et après avoir développé depuis plusieurs années des jeux Microsoft Game Studios et des accessoires de jeux vidéo SideWinder pour PC. Elle est équipée d'un processeur Intel Pentium III cadencé à 733 Mhz, 128 Ko de mémoire cache épaulés de 64 Mo de RAM et d'un GPU Nvidia 233 Mhz qui est en fait une GeForce 3 modifiée lui permettant d'afficher des jeux en 720p et 1080i maximum.</text>
 		</text>
 		
 	</view>
