@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cette section regroupe tous les jeux de votre PC, classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. C'est un outil de recherche extrêmement puissant et pratique!</text>
+		</text>
+		
+	</view>
+
+</theme>

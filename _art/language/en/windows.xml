@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>This section groups all your pc games in your collection arranged in alphabetical order. All the usual sorting filters are available to help you quickly find a game. It’s an extremely useful and practical search tool for anyone who knows or doesn’t know by heart his huge collection of games.</text>
+		</text>
+		
+	</view>
+
+</theme>
