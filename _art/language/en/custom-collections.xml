@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>This section brings together all the games in your manual or dynamic collections, all systems combined and classified in alphabetical order. All the usual sorting filters are available to allow you to quickly find a game. Whether by name, by the system, by the creator, by rating, by the number of players or even by date of addition to your collection. It is an extremely powerful and practical research tool.</text>
+		</text>
+		
+	</view>
+
+</theme>

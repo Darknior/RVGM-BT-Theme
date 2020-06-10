@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cette section regroupe tous les jeux de vos collections manuelles ou dynamiques, tous systèmes confondus et classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. Que ce soit par nom, par système, par créateur, par note, par nombre de joueurs ou même par date d'ajout à votre collection. C'est un outil de recherche extrêmement puisant et pratique.</text>
+		</text>
+		
+	</view>
+
+</theme>

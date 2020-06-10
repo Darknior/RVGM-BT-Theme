@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La société Cave a été fondée par Kenichi Takano le 15 juin 1994 à Tokyo dans le quartier de Shinjuku, elle est surtout connue pour ses shoot up up sur borne d'arcade. Une partie des développeurs comme Tsuneki Ikeda, Akira Wakabayashi ou le fondateur Kenichi Takano vient de la société Toaplan qui, en 1994, venait de faire faillite, tout comme la société Eighting, Takumi ou Gazelle. Le nom de la société Cave est un acronyme formé par les quatre initiales de Computer Art Visual Entertainment. La société a acquis toute sa réputation grâce à la qualité de ses jeux.</text>
+		</text>
+		
+	</view>
+
+</theme>
