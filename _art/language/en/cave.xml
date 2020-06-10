@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Cave company was founded by Kenichi Takano on June 15, 1994, in Tokyo in the Shinjuku district, it is known mainly for its shoot them up on arcade machine. Part of the developers like Tsuneki Ikeda, Akira Wakabayashi, or the founder Kenichi Takano comes from the company Toaplan which, in 1994, had just gone bankrupt, just like the company Eighting, Takumi or Gazelle. The name of the Cave company is an acronym formed by the four initials of Computer Art Visual Entertainment. The company has acquired all its reputation thanks to the quality of its games.</text>
+		</text>
+		
+	</view>
+
+</theme>
