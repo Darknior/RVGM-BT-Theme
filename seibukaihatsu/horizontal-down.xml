@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="static">
+			<visible>false</visible>
+		</image>	
+		<video name="videoPreview" extra="static">
+			<visible>false</visible>
+		</video>
+		
+		<!-- AVATAR 2 : Info, Post-it Sprite -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.03 0.275</pos>
+			<size>0.2469 0.6769</size>
+			<path>./avatar2-horizontal-down.png</path>
+			<path>./avatar2-${activeView}.png</path>
+			<zIndex>17</zIndex>
+		</image>
+		
+	</view>
+</theme>

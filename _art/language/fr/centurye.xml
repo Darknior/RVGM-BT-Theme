@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>En janvier 1981, Century Electronics Ltd. d'Oldham England a présenté son système de jeu vidéo CVS lors d'une projection privée à l'ATE de Londres. Century avait été fondée en 1979 et le développement du système CVS avait commencé vers l'été 1980. Le système se composait d'une carte mère basée sur Signetics 2650 (conçue par Philips Electronics) et d'un «module de programme» de 5,5 pouces x 8 pouces x 1 pouce. qui pourrait être échangé lorsque l'opérateur voulait installer un nouveau titre. Le système comprenait également une carte son séparée avec capacité vocale.</text>
+		</text>
+		
+	</view>
+
+</theme>

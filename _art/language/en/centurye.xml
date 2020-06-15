@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>In January of 1981, Century Electronics Ltd. of Oldham England introduced its CVS Convertible Video System at a private showing at the ATE in London. Century had been founded in 1979 and development on the CVS system had started around summer of 1980. The system consisted of a Signetics 2650-based mother board (designed by Philips Electronics) and a 5.5” x 8” x 1“ “program module” that could be swapped (along with a marquee) when the operator wanted to install a new title. The system also included a separate sound board with speech capability.</text>
+		</text>
+		
+	</view>
+
+</theme>
