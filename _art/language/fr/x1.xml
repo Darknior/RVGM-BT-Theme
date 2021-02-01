@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Sharp Corporation
+Ordinateur personnel
+Troisième
+1982
+Disquette, cassette
+Manette, souris, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Le Sharp X1 est le nom donné à une série de micro-ordinateurs japonais créé par Sharp en 1982. Les ordinateurs de l'époque possédaient une mémoire morte programmée en BASIC, là où le X1 chargeait directement l'interpréteur depuis la cassette avec un accès à la mémoire vive. Toute la série intégrait un CPU Zilog Z80A cadencé à 4 MHz, avec 64 KB de RAM et un son sur 3 canaux. Pour contrer le PC-88, Sharp sortira le X1 Turbo dotés d'une résolution de 640x400 au lieu des 640x200 d'origine, puis le X1 Turbo Z avec 4 096 couleurs. Enfin sortira un clone qui intégrera les fonctionnalités de la PC-Engine.</text>
+		</text>
+		
+	</view>
+	
+</theme>

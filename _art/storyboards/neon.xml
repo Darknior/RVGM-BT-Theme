@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<image name="avatar" extra="true">
+			<storyboard repeatAt="400">
+				<animation property="y" from="2" begin="0" duration="350" mode="easyOut"/>
+        		<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+
+        		<animation property="opacity" begin="3800" from="1" to="0.8" duration="10" autoreverse="true" repeat="5" mode="linear"/>
+        		<animation property="opacity" begin="4500" from="1" to="0.8" duration="5" autoreverse="true" repeat="3" mode="linear"/>
+        		<animation property="opacity" begin="6500" from="1" to="0.8" duration="7" autoreverse="true" repeat="2" mode="linear"/>
+        		<animation property="opacity" begin="7000" from="1" to="0.8" duration="5" autoreverse="true" repeat="4" mode="linear"/>
+        		<animation property="opacity" begin="12000" from="1" to="0.8" duration="10" autoreverse="true" repeat="10" mode="linear"/>
+			</storyboard>
+		</image>
+
+	</view>
+
+</theme>

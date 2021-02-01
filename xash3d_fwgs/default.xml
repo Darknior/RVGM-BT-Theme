@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<image name="avatar" extra="static">
+			<storyboard>
+					<!-- Start Animation -->
+					<animation property="x" from="0.5" begin="0" duration="350" mode="easeOut"/>
+					<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+			</storyboard>
+		</image>
+		
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg, synopsys" extra="static">
+			<visible>false</visible>
+		</image>
+
+	</view>
+
+</theme>

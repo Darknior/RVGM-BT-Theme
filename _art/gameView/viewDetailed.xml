@@ -4,14 +4,20 @@
 	
 	<view name="detailed" displayName="${detailedViewName}">
 		
-		<image name="md_image, md_thumbnail">
+		<!-- Screenshot / Front Cover / Back Cover -->
+		<image name="md_image, md_thumbnail, md_wheel">
 			<origin>0.5 0.5</origin>
-		</image>
-
-		<!-- md_image / md_thumbnail SWAP REMOVED -->
-		<image name="md_thumbnail">
 			<pos>0.595 0.737</pos>
 			<maxSize>0.229 0.39</maxSize>
+		</image>
+		<image name="md_wheel">
+			<zIndex>31</zIndex>
+			<storyboard repeatAt="0">
+					<animation property="opacity" from="0" to="0"  begin="0"     duration="5000" mode="linear"/>
+					<animation property="opacity" from="0" to="1"  begin="5000"  duration="350"  mode="linear"/>
+					<animation property="opacity" from="1" to="1"  begin="5350"  duration="5000" mode="linear"/>
+					<animation property="opacity" from="1" to="0"  begin="10350" duration="350"  mode="linear"/>
+			</storyboard>
 		</image>
 		
 		<image name="md_marquee">
@@ -106,6 +112,51 @@
 			<pos>0.301 0.88</pos>
 			<size>0.1406 0.0594</size>
 		</rating>
+		
+		<!-- STATUS Icons -->
+
+		<image name="md_hidden, md_nothidden">
+			<pos>0.795 0.937</pos>
+			<path>./_art/icons/hidden.png</path>
+		</image>
+		<image name="md_kidgame, md_notkidgame">
+			<pos>0.815 0.937</pos>
+			<path>./_art/icons/kid.png</path>
+		</image>
+		<image name="md_favorite, md_notfavorite">
+			<pos>0.835 0.937</pos>
+			<path>./_art/icons/favorite.png</path>
+		</image>
+		<!-- PDF from gamelist -->
+		<image name="md_manual, md_nomanual">
+			<pos>0.855 0.937</pos>
+			<path>./_art/icons/manual.png</path>
+		</image>
+		<image name="md_map, md_nomap">
+			<pos>0.875 0.937</pos>
+			<path>./_art/icons/map.png</path>
+		</image>
+		<!-- <image name="md_news, md_nonews">
+			<pos>0.895 0.937</pos>
+			<path>./_art/icons/news.png</path>
+		</image> -->
+		<!-- Only show if System support -->
+		<image name="md_savestate, md_nosavestate">
+			<pos>0.895 0.937</pos>
+			<path>./_art/icons/savestate.png</path>
+		</image>
+		<image name="md_cheevos, md_notcheevos">
+			<pos>0.915 0.937</pos>
+			<path>./_art/icons/cheevos.png</path>
+		</image>
+
+		<!-- FLAG for game language -->
+
+		<image name="md_flag">
+			   <origin>0 0</origin>
+			   <pos>0.25 0.895</pos>
+			   <maxSize>0.03 0.05</maxSize>
+		</image>
 		
 	</view>
 	

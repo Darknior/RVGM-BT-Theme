@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Solarus Team
+Moteur de jeu 2D
+1.6.4+
+2020
+Fichiers .solarus
+Manette, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Solarus est un moteur de jeu spécifiquement conçu pour créer des Action RPG. Semblables aux jeux cultes de l'ère 2D tel que "Zelda: A Link to the Past" sur Super Nintendo, ou "Soleil" sur Sega Megadrive. Mais il utilise aussi l'OpenGL pour afficher des effets graphiques moderne. Pour concevoir une quête, il suffit de la scripter en Lua. En tant que créateur de quête vous aurez à définir la logique du jeu. Vos scripts Lua décrivent le comportement des ennemis, ou ce qui se passe quand vous appuyez sur un interrupteur, sur une carte spécifique. Ils serviront aussi à implémenter l'écran-titre et le HUD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

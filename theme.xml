@@ -2,9 +2,9 @@
 <!--
 theme name:     RVGM
 author:         Darknior
-version:		2.0
+version:		2.1
 email:			darknior@hotmail.com
-System 			Batocera 5.25+
+System 			Batocera 5.29+
 
 font: 			Roboto-Light.ttf, Roboto-Medium.ttf, Roboto-Bold.ttf, Players.fft, Digib.ttf
 GIT:			https://github.com/Darknior/RVGM-BT-Theme
@@ -26,12 +26,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	-->
 	<variables>
 		
-			<activeView>library</activeView>
-			<activeMenu>vertRight</activeMenu>
-			<activeColor>blue</activeColor>
-			<userDarkColor>0e3d63</userDarkColor>
-			<userColor>56baeb</userColor>
-			<userLightColor>c1e8f9</userLightColor>
+		<activeView>library</activeView>
+		<activeMenu>vertRight</activeMenu>
+		<activeColor>blue</activeColor>
+		<userDarkColor>0e3d63</userDarkColor>
+		<userColor>56baeb</userColor>
+		<userLightColor>c1e8f9</userLightColor>
 		
 		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
 		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
@@ -59,7 +59,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<include lang="de">./_art/language/deutsch.xml</include>			<!-- Allemand -->
 	<include lang="el">./_art/language/greek.xml</include>				<!-- Grec -->
 	<include lang="es">./_art/language/espagnol.xml</include> 			<!-- Espagnol - OK -->
-	<!-- <include lang="es_MX">./_art/language/espagnol.xml</include> 	<!-- Mexico -> Espagnol -->
+	<!-- <include lang="es_MX">./_art/language/espagnol.xml</include> 	Mexico -> Espagnol -->
 	<include lang="eu">./_art/language/espagnol.xml</include> 			<!-- eu_ES / Basque -> Espagnol - OK -->
 	<include lang="fr">./_art/language/french.xml</include> 			<!-- Français - OK -->
 	<include lang="hu">./_art/language/hungarian.xml</include>			<!-- Hongrois -->
@@ -70,19 +70,19 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<include lang="nl">./_art/language/netherlander.xml</include>		<!-- Néerlandais -->
 	<include lang="nn">./_art/language/norwegian.xml</include>			<!-- nn_NO / Norvégien ?? -->
 	<include lang="pl">./_art/language/polack.xml</include>				<!-- Polonais -->
-	<!-- <include lang="pt_BR">./_art/language/brazilian.xml</include> 	<!-- pt_BR / Brésilien -> Portugais - OK -->
+	<!-- <include lang="pt_BR">./_art/language/brazilian.xml</include> 	pt_BR / Brésilien -> Portugais - OK -->
 	<include lang="pt">./_art/language/portuguese.xml</include> 		<!-- pt_PT / Portugais - OK -->
 	<include lang="ru">./_art/language/russian.xml</include>			<!-- ru_RU / Russe -->
 	<include lang="sv">./_art/language/swede.xml</include>				<!-- sv_SE / Suédois -->
 	<include lang="tr">./_art/language/turkish.xml</include>			<!-- Turc -->
 	<include lang="zh">./_art/language/chineese.xml</include>			<!-- zh_CN / Chinois -->
-	<!-- <include lang="zh">./_art/language/chineese.xml</include>		<!-- zh_TW / Chinois -> Taiwan -->
+	<!-- <include lang="zh">./_art/language/chineese.xml</include>		zh_TW / Chinois -> Taiwan -->
 	
 	<!-- TRAD SYSTEM -->
 	<include>./_art/language/${langue}/${system.theme}.xml</include>
 
-	<!-------------------------------------------------------------------------------------------->
-	<!-- GENERAL SWAP ---------------------------------------------------------------------------->
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~ GENERAL SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	
 	<!-- Swap Theme Color -->
 	<subset name="swapColor" displayName="${subset.swapColor}">
@@ -107,8 +107,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<include name="videoEffectBump"    displayName="${videoEffectBump}"    >./_art/globalView/swapVideoEffect.xml</include>
 	</subset>
 	
-	<!-------------------------------------------------------------------------------------------->
-	<!-- SYSTEM SWAP ----------------------------------------------------------------------------->
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~ SYSTEM SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 	<!-- VIEW SYSTEM -->
 	<include>./_art/systemView/viewSystem.xml</include>
@@ -137,10 +137,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</subset>
 	<!-- <path>./../../../../videos/RVGM-Theme/${system.theme}/playlist.m3u</path> -->
  
-	<!-- TRY: <video name="staticBackgroundVideo"> for video effect in background ---------------->
+	<!-- TODO: TRY <video name="staticBackgroundVideo"> for video effect in background -->
 	
-	<!-------------------------------------------------------------------------------------------->
-	<!-- GAMELIST SWAP --------------------------------------------------------------------------->
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~ GAMELIST SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 
 	<!-- Popup System -->
@@ -286,17 +286,16 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	</view>
 	
 
-	<!-------------------------------------------------------------------------------------------->
-	<!-- GAMELIST VIEWS -------------------------------------------------------------------------->
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~ GAMELIST VIEWS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
 
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
 
-		<!-- HELP BAR position -- TO REMOVE !!! -->
+		<!-- HELP BAR position ~~ TO REMOVE !!! -->
 		<helpsystem name="help">
 			<pos>0.0161 0.9648</pos>
 		</helpsystem>
-
-
 
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
                     md_lbl_description, md_lbl_players, md_lbl_rating, md_lbl_gametime
@@ -369,7 +368,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         <textlist name="gamelist">
 			<origin>0 0</origin>
             <pos>0.745 0.253</pos>
-            <size>0.22 0.68</size>
+            <size>0.22 0.67</size>
 			
 			<selectedColor>${userColor}</selectedColor> <!-- Select file color -->
 			<primaryColor>${themeLightColor}</primaryColor> <!-- File color -->
@@ -451,11 +450,13 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</text>
 		
 		<!-- STATUS Icons -->
-		<image name="md_hidden, md_kidgame, md_favorite">
-			<origin>0.5 0.5</origin>
-			<maxSize>0.032 0.032</maxSize>
-			<color>${userDarkColor}</color>
+		<image name="md_hidden, md_nothidden, md_kidgame, md_notkidgame, md_favorite, md_notfavorite, md_manual, md_nomanual, md_cheevos, md_notcheevos, md_map, md_nomap, md_savestate, md_nosavestate, md_news, md_nonews">
+			<maxSize>0.025 0.025</maxSize>
+			<color>${themeLightColor}</color>
 			<linearSmooth>true</linearSmooth>
+		</image>
+		<image name="md_hidden, md_kidgame, md_favorite, md_manual, md_cheevos, md_map, md_savestate, md_news">
+			<color>${userColor}</color>
 		</image>
 		
 		<!-- BACKGROUND MUSIC used by Theme -->
@@ -468,13 +469,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<view name="basic, detailed, video">
 		
 		<!-- IMAGE -->
-		<image name="md_image">
-			<origin>0 0</origin>
-			<pos>2 2</pos>
-			<path>./_art/empty.png</path>
-			<zIndex>30</zIndex> <!-- Default -->
-		</image>
-		<image name="md_thumbnail"> <!-- COVERS -->
+		<image name="md_image, md_thumbnail, md_wheel"> <!-- COVERS Front / Back -->
 			<origin>0 0</origin>
 			<pos>2 2</pos>
 			<path>./_art/empty.png</path>
@@ -520,8 +515,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		
 	</view>
 
-	<!----------------->
-	<!-- VIDEO VIEWS -->
+	<!-- ~~~~~~~~~~~~~~~
+	~~~~ VIDEO VIEWS -->
 	
 	<!-- VIEW DETAILED -->
 	<include>./_art/gameView/viewDetailed.xml</include>
@@ -529,15 +524,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<!-- VIEW VIDEO -->
 	<include>./_art/gameView/viewVideo.xml</include>
 	
-	<!-- TODO: view video left ------------------------------------------------------->
+	<!-- TODO: view video left ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	
 	<!-- VIEW VIDEO FULLSCREEN RIGHT -->
 	<include>./_art/gameView/viewVideoFullscreen.xml</include>
 	
-	<!-- TODO: view videoFullscreen left --------------------------------------------->
+	<!-- TODO: view videoFullscreen left ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	
-	<!---------------->
-	<!-- GRID VIEWS -->
+	<!-- ~~~~~~~~~~~~~~
+	~~~~ GRID VIEWS -->
 	
 	<!-- VIEW GRID -->
 	<include>./_art/gameView/viewGrid.xml</include>
@@ -551,11 +546,11 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<!-- VIEW GRID with SCREENSHOT -->
 	<include>./_art/gameView/viewGridScreenshot.xml</include>
 
-	<!-- VIEW MARQUEE --
+	<!-- VIEW MARQUEE ~~
 	<include>./_art/gameView/viewMarquee.xml</include> -->
 	
-	<!------------------------------------------------------------------------------------------>
-	<!-- GAMELIST SWAP ------------------------------------------------------------------------->
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~ GAMELIST SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 	<!-- Swap Thumbnail and Image for the COVER and VIDEO -->
 	<subset name="swapImages" displayName="${subset.swapImages}" appliesTo="detailed,video,videoFullscreen,grid,gridDetail,gridTitleshot,gridScreenshot,marquee">
@@ -611,5 +606,37 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 Opaque                                         Translucide                                      Invisible
 100%  95%  90%  85%  80%  75%  70%  65%  60%  65%  50%  45%  40%  35%  30%  25%  20%  15%  10%  5%  0%
  FF   F2   E6   D9   CC   BF   B3   A6   99   8C   80   73   66   59   4D   40   33   26   1A   0D  00
+
+## Doc Animation:
+
+Vertical:   y | Horizontal: x
+Down/Right: 2 | Top/Left:  -2
+
+## Animatios Avatar:
+
+cd       : Rotation CD
+roll     : Rotation lente
+antiroll : Rotation lente inversé
+
+bump     : Petit rebond
+bigbump  : Gros rebond
+scale    : Agrandi / Rapetisse sans ebond
+
+crazy    : Rebond avec une légère Rotation
+bigcrazy : Gros effet Crazy
+
+cave     : Disparait en Bas de l'écran + Assombri
+elevator : Disparait en Bas de l'écran
+cupboard : Disparait à Gauche de l'écran + Assombri
+roundtrip: Disparait à Gauche de l'écran
+
+ghost    : Effet Matrix qui bogue
+heartbeat: Battement de coeur rapide
+neon     : Clignotement rapide, effet de Neon usagé
+rotation : Petite balance droite / gauche
+shake    : Vibre
+
+
+DOC : https://wiki.batocera.org/write_themes_for_emulationstation
 
 -->

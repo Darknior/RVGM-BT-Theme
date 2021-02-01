@@ -14,21 +14,17 @@
 
 	<view name="detailed">
 		<image name="md_image">
-			<pos>0.595 0.737</pos>
-			<maxSize>0.229 0.39</maxSize>
+			<visible>true</visible>
 		</image>
 	</view>
 	<view name="video">
 		<image name="md_image">
-			<pos>0.0255 0.0639</pos>
-			<maxSize>0.3766 0.6689</maxSize>
+			<visible>true</visible>
 		</image>
 	</view>
 	<customView name="VideoFullscreen" inherits="video" displayName="${videoFullscreenViewName}">
 		<image name="md_image">
-			<origin>0 1</origin>
-			<pos>0.028 0.925</pos>
-			<maxSize>0.169 0.377</maxSize>
+			<visible>true</visible>
 		</image>
 	</customView>
 	

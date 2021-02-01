@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<image name="avatar" extra="true">
+			<storyboard>
+				<animation property="y" from="2" begin="0" duration="350" mode="easyOut"/>
+				<animation property="rotation" to="-360" begin="0" autoreverse="false" duration="2000" repeat="forever" mode="linear"/>
+				<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+			</storyboard>
+		</image>
+
+	</view>
+
+</theme>

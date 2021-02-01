@@ -1,0 +1,49 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<image name="avatar, avatar_ghost1, avatar_ghost2, avatar2, avatar3, avatar4" extra="static">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.2823 0.047</pos>
+			<maxSize>0.52 0.9067</maxSize>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>16</zIndex>
+		</image>
+		
+		<!-- Sytem LOGO zIndex = 15 -->
+		
+		<image name="avatar2" extra="static">
+			<path>./avatar-pion.png</path>
+			<zIndex>14</zIndex>
+			<storyboard>
+				<animation property="x" from="-2" begin="0" duration="550" mode="linear"/>
+				<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+			</storyboard>
+		</image>
+		<image name="avatar3" extra="static">
+			<path>./avatar-reine.png</path>
+			<zIndex>15</zIndex>
+			<storyboard>
+				<animation property="x" from="2" begin="0" duration="750" mode="linear"/>
+				<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+			</storyboard>
+		</image>
+
+		<!-- Shadow fade Animation -->
+		<image name="avatar4" extra="static">
+			<path>./avatar-shadow.png</path>
+			<zIndex>13</zIndex>
+			<opacity>0</opacity>
+			<storyboard>
+				<animation property="opacity" from="0" to="0.5" begin="650" duration="1000" mode="linear"/>
+			</storyboard>
+		</image>
+
+	</view>
+
+	<!-- Black King Animation -->
+	<include>./../_art/storyboards/ghost.xml</include>
+
+</theme>
+

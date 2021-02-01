@@ -22,7 +22,7 @@
 			<zIndex>10</zIndex>      
 		</video>
 		
-		<image name="avatar2, avatar3, avatar4, avatar5" extra="static">
+		<image name="avatar2, avatar3, avatar4, avatar5, avatar6, avatar7, avatar8, avatar9" extra="static">
 			<visible>false</visible>
 		</image>	
 		
