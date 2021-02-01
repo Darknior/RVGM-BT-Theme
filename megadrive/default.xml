@@ -18,8 +18,8 @@
 				<animation property="x" from="-1" duration="500" mode="easyIn"/>
 				<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
 				<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-				<animation property="x" to="1" begin="14700" duration="500" mode="easyOut"/>
-				<animation property="opacity" from="1" to="0" begin="14700" duration="500" mode="linear"/>
+				<animation property="x" to="1" begin="10000" duration="500" mode="easyOut"/>
+				<animation property="opacity" from="1" to="0" begin="10000" duration="500" mode="linear"/>
 			</storyboard>
 		</image>
 
@@ -46,10 +46,8 @@
 				<animation property="origin" to="0.05 0" begin="9500" duration="" mode="linear"/>
 				<animation property="origin" to="0 0" 	 begin="9550" duration="50" mode="linear"/>						
 				<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-				<animation property="origin" from="0 0" to="0 0" begin="9700" duration="5000" mode="linear"/>	
-				<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-				<animation property="x" to="1" begin="14700" duration="500" mode="easyOut"/>
-				<animation property="opacity" from="1" to="0" begin="14700" duration="500" mode="linear"/>
+				<animation property="x" to="1" begin="10000" duration="500" mode="easyOut"/>
+				<animation property="opacity" from="1" to="0" begin="10000" duration="500" mode="linear"/>
 			</storyboard>
 		</image>
 
@@ -86,11 +84,8 @@
 				<animation property="color" to="ffffff" begin="9550" duration="50" mode="linear"/>
 				<animation property="origin" to="0 0" 	begin="9550" duration="50" mode="linear"/>				
 				<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-				<animation property="color" to="ffffff" begin="9700" duration="5000" mode="linear"/>
-				<animation property="origin" from="0 0" to="0 0" begin="9700" duration="5000" mode="linear"/>			
-				<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-				<animation property="x" to="1" begin="14700" duration="500" mode="easyOut"/>
-				<animation property="opacity" from="1" to="0" begin="14700" duration="500" mode="linear"/>
+				<animation property="x" to="1" begin="10000" duration="500" mode="easyOut"/>
+				<animation property="opacity" from="1" to="0" begin="10000" duration="500" mode="linear"/>
 			</storyboard>
 		</image>
 
