@@ -94,6 +94,10 @@ Total</sysLabel>
 		<thumbnail>thumbnail</thumbnail>
 		<image>image</image>
 		
+		<!-- AUTO COLLECTION TEXTS -->
+		
+		<autoArcadeCollection>Collection auto de jeux Arcade genere par le systeme selon le fabriquant</autoArcadeCollection>
+		
 	</variables>
 	
 </theme>
