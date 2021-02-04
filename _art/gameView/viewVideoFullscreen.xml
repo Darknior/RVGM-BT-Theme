@@ -63,12 +63,12 @@
 		</image> -->
 		
 		<!-- Screenshot / Front Cover / Back Cover -->
-		<image name="md_image, md_thumbnail, md_fanart">
+		<image name="md_image, md_thumbnail, md_boxback">
 			<origin>0 1</origin>
 			<pos>0.028 0.925</pos>
 			<maxSize>0.169 0.377</maxSize>
 		</image>
-		<image name="md_fanart">
+		<image name="md_boxback">
 			<zIndex>31</zIndex>
 			<storyboard repeatAt="0">>
 					<animation property="opacity" from="0" to="0"  begin="0"     duration="5000" mode="linear"/>

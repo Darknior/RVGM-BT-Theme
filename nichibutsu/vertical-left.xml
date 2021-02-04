@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg" extra="static">
+			<visible>false</visible>
+		</image>	
+		<video name="videoPreview" extra="static">
+			<visible>false</visible>
+		</video>
+		
+		<!-- AVATAR 2 : PDA -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin>
+			<pos>0.72 0.6</pos>
+			<maxSize>0.26 0.37</maxSize>
+			<path>./../_art/images/pda.png</path>
+			<path>./../_art/images/pda-${activeView}.png</path>
+			<zIndex>17</zIndex>
+		</image>
+
+		<!-- PDA TEXT -->
+        <text name="avatar2_text" extra="static">
+			<origin>0 0</origin>
+			<pos>0.763 0.68</pos>
+			<size>0.185 0.243</size>
+			<fontPath>./../_art/font/arcade_light.ttf</fontPath>
+			<verticalAlignment>top</verticalAlignment>		<!-- top / center / bottom -->
+			<alignment>left</alignment>			
+			<fontSize>0.04</fontSize>
+			<lineSpacing>0.8</lineSpacing>
+			<color>024610</color>
+			<forceUppercase>1</forceUppercase>
+			<text>${autoArcadeCollection}</text>
+			<zIndex>50</zIndex>
+			<storyboard repeatAt="400">
+        		<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+
+        		<animation property="opacity" begin="3800" from="1" to="0.5" duration="10" autoreverse="true" repeat="5" mode="linear"/>
+        		<animation property="opacity" begin="4500" from="1" to="0.5" duration="5" autoreverse="true" repeat="3" mode="linear"/>
+        		<animation property="opacity" begin="6500" from="1" to="0.5" duration="7" autoreverse="true" repeat="2" mode="linear"/>
+        		<animation property="opacity" begin="7000" from="1" to="0.5" duration="5" autoreverse="true" repeat="4" mode="linear"/>
+        		<animation property="opacity" begin="12000" from="1" to="0.5" duration="10" autoreverse="true" repeat="8" mode="linear"/>
+			</storyboard>
+        </text>
+		
+	</view>
+</theme>

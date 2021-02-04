@@ -6,17 +6,17 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
-<text>Senile Team, Chronocrash
-Moteur de jeu 2D
-4432, 6330, 6412, 6510
-2005
-Fichiers .PAK
-Manette, clavier</text>
+<text>Elecbyte
+2D Game Engine
+v1.1 beta 1
+2020
+Files
+Joystick, Keyboard</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Senile Team publie en 2004 Beats of Rage, un beat'em up gratuit inspiré par la série Streets of Rage de SEGA en utilisant les sprites de la série King of Fighters. Rapidement ils distribuent un pack permettant à quiconque est intéressé de créer son propre mode avec le moteur de BOR. En 2005, Kirby2000 demande à l'équipe Senile Team de distribuer le code source. Ils acceptent et OpenBOR est né. Le développement est poursuivit aujourd'hui par toute une communauté sur le site de Lavalit. Le moteur de plus en plus puissant voit sortir chaque année des jeux de plus en plus fous.</text>
+<text>MUGEN is an engine for 2D fighting games, created by Elecbyte in 1999. Elecbyte distributed many free beta versions running under DOS, Linux and Windows. Despite long exposures, development has resumed actively since 2009. The engine allows the creation of characters, sets and other game components through a compilation of text, graphics and sound files. It also supports MP3 files for playing music in the background. This engine is advanced and flexible enough to match some commercial 2D fighting games, like Street Fighter 2 or King of Fighters.</text>
 		</text>
 		
 	</view>

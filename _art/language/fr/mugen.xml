@@ -6,17 +6,17 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
-<text>Senile Team, Chronocrash
+<text>Elecbyte
 Moteur de jeu 2D
-4432, 6330, 6412, 6510
-2005
-Fichiers .PAK
+v1.1 beta 1
+2020
+Fichiers
 Manette, clavier</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Senile Team publie en 2004 Beats of Rage, un beat'em up gratuit inspiré par la série Streets of Rage de SEGA en utilisant les sprites de la série King of Fighters. Rapidement ils distribuent un pack permettant à quiconque est intéressé de créer son propre mode avec le moteur de BOR. En 2005, Kirby2000 demande à l'équipe Senile Team de distribuer le code source. Ils acceptent et OpenBOR est né. Le développement est poursuivit aujourd'hui par toute une communauté sur le site de Lavalit. Le moteur de plus en plus puissant voit sortir chaque année des jeux de plus en plus fous.</text>
+<text>MUGEN est un moteur pour les jeux de combat 2D, créé par Elecbyte en 1999. Elecbyte distribua gratuitement de nombreuses versions beta tournant sous DOS, Linux et Windows. Malgré de longues poses, le développement a repris activement depuis 2009. Le moteur permet de créer des personnages, décors et autres composantes de jeu par le biais d'une compilation de fichiers texte, graphiques et sons. Il supporte également les fichiers MP3 afin de mettre des musiques en fond sonore durant le jeu. Ce moteur est assez avancé et flexible pour égaler certains jeux de combat 2D commerciaux.</text>
 		</text>
 		
 	</view>
