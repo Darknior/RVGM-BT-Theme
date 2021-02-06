@@ -3,92 +3,97 @@
 
 	<view name="system">
 	
+		<!-- SANGOKU -->
 		<image name="avatar" extra="static">
 			<pos>0.508 0.23</pos>
 			<maxSize>0.18 0.77</maxSize>
-			<opacity>0</opacity>
 			<zIndex>13</zIndex>
-			<storyboard repeatAt="1000">
-				<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
-				<animation property="x" from="1" begin="0" duration="350" mode="linear"/>
-			</storyboard>
 		</image>
 		
-		<image name="avatar2" extra="static">
+		<!-- AURA d'énergie -->
+		<image name="avatar2, avatar3, avatar4, avatar5" extra="static">
 			<origin>0 0</origin>
-			<pos>0.417 0.126</pos>
-			<maxSize>0.33 0.89</maxSize>
-			<path>./avatar-energie.png</path>
-			<linearSmooth>true</linearSmooth>
-			<zIndex>14</zIndex>
-			<storyboard repeatAt="350">
-				<animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
-				<animation property="x" from="1" begin="0" duration="350" mode="linear"/>
-
-        		<animation property="scale" to="1.01" begin="350" duration="500" mode="linear"/>
-				<animation property="scale" to="1"    begin="850" duration="500" mode="linear"/>
-				
-        		<animation property="opacity" begin="350"  from="1" to="0.8" duration="25" autoreverse="true" repeat="10" mode="linear"/>
-        		<animation property="opacity" begin="600"  from="1" to="0.5" duration="25" autoreverse="true" repeat="10" mode="linear"/>
-        		<animation property="opacity" begin="850"  from="1" to="0.8" duration="25" autoreverse="true" repeat="10" mode="linear"/>
-        		<animation property="opacity" begin="1100" from="1" to="0.5" duration="25" autoreverse="true" repeat="10" mode="linear"/>
-			</storyboard>
-		</image>
-		
-		<!-- <image name="avatar2, avatar3, avatar4, avatar5" extra="static">
-			<origin>0 0</origin>
-			<pos>0.4 0</pos>
+			<pos>0.38 0</pos>
 			<maxSize>0.5 1</maxSize>
 			<linearSmooth>true</linearSmooth>
 			<opacity>0</opacity>
 			<zIndex>14</zIndex>
 		</image>
-
-		<image name="avatar2" extra="static">
+		 <image name="avatar2" extra="static">
 			<path>./avatar-light1.png</path>
-			<storyboard repeatAt="350">
-				<animation property="opacity" begin="0"    from="0" to="1"   duration="350"  mode="linear"/>
-				<animation property="opacity" begin="350"  from="1" to="1"   duration="999"  mode="linear"/>
-				<animation property="opacity" begin="13500" from="1" to="0"   duration="1"  mode="linear"/>
-				<animation property="opacity" begin="1350" from="0" to="0"   duration="3000" mode="linear"/>
+			<opacity>1</opacity>
+			<storyboard repeat="forever">
+				<animation property="opacity" begin="200" to="0" duration="0"/>
+				<animation property="opacity" begin="800" to="1" duration="0"/>
 			</storyboard>
 		</image>
 		<image name="avatar3" extra="static">
 			<path>./avatar-light2.png</path>
 			<zIndex>12</zIndex>
-			<storyboard repeatAt="350">
-				<animation property="opacity" begin="0"    from="0" to="0"   duration="1349" mode="linear"/>
-				<animation property="opacity" begin="1349" from="0" to="1" duration="1"  mode="linear"/>
-				<animation property="opacity" begin="1350" from="1" to="1" duration="999"  mode="linear"/>
-				<animation property="opacity" begin="2349" from="0.8" to="0"   duration="1"    mode="linear"/>
-				<animation property="opacity" begin="2350" from="0" to="0"   duration="2000" mode="linear"/>
+			<storyboard repeatAt="forever">
+				<animation property="opacity" begin="200" to="1" duration="0"/>
+				<animation property="opacity" begin="400" to="0" duration="0"/>
+				<animation property="opacity" begin="600" to="0" duration="0"/>
+				<animation property="opacity" begin="800" to="0" duration="0"/>
 			</storyboard>
 		</image>
 		<image name="avatar4" extra="static">
 			<path>./avatar-light3.png</path>
-			<storyboard repeatAt="350">
-				<animation property="opacity" begin="0"    from="0" to="0"   duration="2349" mode="linear"/>
-				<animation property="opacity" begin="2349"  from="0" to="1" duration="1" mode="linear"/>
-				<animation property="opacity" begin="2350"  from="1" to="1" duration="999" mode="linear"/>
-				<animation property="opacity" begin="3349" from="0" to="0"   duration="1"   mode="linear"/>
-				<animation property="opacity" begin="3350" from="0" to="0"   duration="1000" mode="linear"/>
+			<storyboard repeatAt="forever">
+				<animation property="opacity" begin="400" to="1" duration="0"/>
+				<animation property="opacity" begin="600" to="0" duration="0"/>
+				<animation property="opacity" begin="800" to="0" duration="0"/>
 			</storyboard>
 		</image>
 		<image name="avatar5" extra="static">
 			<path>./avatar-light4.png</path>
 			<zIndex>12</zIndex>
-			<storyboard repeatAt="350">
-				<animation property="opacity" begin="0"    from="0" to="0"   duration="3349" mode="linear"/>
-				<animation property="opacity" begin="3349"  from="0" to="1" duration="1" mode="linear"/>
-				<animation property="opacity" begin="3350"  from="1" to="1" duration="999" mode="linear"/>
-				<animation property="opacity" begin="4348" from="1" to="0"   duration="1"   mode="linear"/>
-				<animation property="opacity" begin="4350" from="0" to="0"   duration="0" mode="linear"/>
+			<storyboard repeatAt="forever">
+				<animation property="opacity" begin="600" to="1" duration="0"/>
+				<animation property="opacity" begin="800" to="0" duration="0"/>
 			</storyboard>
-		</image> -->
+		</image>
 		
-		<image name="avatar7" extra="static">
+		<!-- ECLAIRS -->
+		<image name="avatar6, avatar7, avatar8" extra="static">
 			<origin>0 0</origin>
-			<pos>0.408 0.088</pos>
+			<linearSmooth>true</linearSmooth>
+			<opacity>0</opacity>
+			<zIndex>16</zIndex>
+		</image>
+		<image name="avatar6" extra="static">
+			<pos>0.545 0.575</pos>
+			<maxSize>0.185 0.41</maxSize>
+			<path>./avatar-eclair.png</path>
+			<storyboard repeat="forever">
+        		<animation property="opacity" begin="1000" from="0" to="1" duration="100" autoreverse="true" repeat="5" mode="linear"/>
+				<animation property="opacity" begin="4000" to="0" duration="0"/>
+			</storyboard>
+		</image>
+		<image name="avatar7" extra="static">
+			<pos>0.51 0.246</pos>
+			<maxSize>0.073 0.236</maxSize>
+			<path>./avatar-eclairmini.png</path>
+			<storyboard repeat="forever">
+        		<animation property="opacity" begin="3000" from="0" to="1" duration="100" autoreverse="true" repeat="3" mode="linear"/>
+				<animation property="opacity" begin="3000" to="0" duration="0"/>
+			</storyboard>
+		</image>
+		<image name="avatar8" extra="static">
+			<pos>0.51 0.276</pos>
+			<maxSize>0.073 0.236</maxSize>
+			<path>./avatar-eclairmini.png</path>
+			<rotation>-20</rotation>
+			<storyboard repeat="forever">
+        		<animation property="opacity" begin="2000" from="0" to="1" duration="100" autoreverse="true" repeat="3" mode="linear"/>
+				<animation property="opacity" begin="3000" to="0" duration="0"/>
+			</storyboard>
+		</image>
+		
+		<!-- FREEZER -->
+		<image name="avatar9" extra="static">
+			<origin>0 0</origin>
+			<pos>0.4 0.088</pos>
 			<maxSize>0.15 0.352</maxSize>
 			<path>./avatar-freeza.png</path>
 			<linearSmooth>true</linearSmooth>

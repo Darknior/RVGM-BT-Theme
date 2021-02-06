@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Sega, Lockheed Martin
+Borne d’Arcade
+Cinquième
+1996
+Cartes PCB
+Stick arcade et autres</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>L'idée fut de repartir de zéro pour repenser complètement un nouveau système, toujours en collaboration avec Lockheed Martin, qui conçut les microprocesseurs graphiques Twin Real3D/Pro-1000. Il sera équipé d'un processeur 66 puis 100 et enfin 166 Mhz au fil des versions. Ainsi que 8 Mb de RAM pour un rendu de 60 millions de pixels en 496x384 et de deux processeurs sonores Yamaha 64 canaux. Au moment de sa sortie, il était le système d'arcade le plus puissant du marché, avec une capacité de plus d'un million de polygones par seconde et des jeuxcomme Virtua Fighter 3.</text>
+		</text>
+		
+	</view>
+
+</theme>
