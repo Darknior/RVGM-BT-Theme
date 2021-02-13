@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Solarus Team
+Motor de juego 2D
+1.6.4+
+2020
+Ficheros .solarus
+Joypad, teclado</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Solarus es un motor de juego diseñado específicamente para crear juegos de rol de acción. Es similar a los juegos de culto de la era 2D, como "Zelda: A Link to the Past" o "Secret of Mana" en Super Nintendo, o "Soleil" en Sega Megadrive. Pero también utiliza OpenGL para mostrar efectos gráficos modernos. Para diseñar una aventura, sólo tienes que programarla en Lua definiendo la lógica del juego. Tus scripts en Lua describen el comportamiento de los enemigos, o lo que ocurre cuando pulsas un interruptor, en un mapa específico. También se utilizarán para implementar la pantalla del título y la información que se muestra en pantalla.</text>
+		</text>
+		
+	</view>
+	
+</theme>

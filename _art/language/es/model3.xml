@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Sega, Lockheed Martin
+Máquina recreativa
+Quinta
+1996
+Placa arcade
+Palanca de juego y otros</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>La idea era replantear completamente un nuevo sistema, en colaboración con Lockheed Martin, que diseñó los microprocesadores gráficos Twin Real3D/Pro-1000. Inicialmente traía un procesador de 66 MHz, luego de 100 MHz y finalmente de 166 MHz. Tenía 8 Mb de RAM para un renderizado de 60 millones de píxeles en 496x384 y dos procesadores de sonido Yamaha de 64 canales. En el momento de su lanzamiento, fue el sistema arcade más potente del mercado, con una capacidad de más de un millón de polígonos por segundo y juegos como Virtua Fighter 3, Sega Rally 2 y Daytona USA 2.</text>
+		</text>
+		
+	</view>
+
+</theme>

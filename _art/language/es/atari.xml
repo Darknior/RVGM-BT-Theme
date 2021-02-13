@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari es una empresa estadounidense fundada en 1972 por Nolan Bushnell y Ted Dabney, considerada como pionera y fundadora de la industria del videojuego, que pasó a ser francesa en 2003 tras ser adquirida por Infogrames. Está especializada en el desarrollo de videojuegos y fabrica máquinas recreativas, videoconsolas y ordenadores personales. En octubre de 1976, la empresa fue vendida a Warner Communications, que revendió la rama de informática y mantuvo el sector de las máquinas recreativas y la rebautizó como Atari Games en julio de 1984.</text>
+		</text>
+		
+	</view>
+
+</theme>

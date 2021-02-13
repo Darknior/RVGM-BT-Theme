@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>EasyRPG Team
+Motor de juego 2D
+0.6.2.3+
+2020
+.easyrpg files
+Joystick, ratón, teclado</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>EasyRPG es un proyecto destinado a crear una herramienta gratuita de creación de juegos de rol compatible con los juegos de "RPG Maker 2000/2003". La mayoría de ellos son similares al estilo de los grandes clásicos de finales de los 80, principios de los 90, con bonitos gráficos 2D pixel art de 16 bits. El sistema de eventos es muy completo y permite una total libertad en la elaboración de los  guiones, el sistema de combate puede se similar al de un "Final Fantasy" o ser de tipo "acción" como un "Zelda". En cuanto al sonido, el motor ofrece una variedad de formatos que van desde el MIDI hasta formatos de calidad CD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

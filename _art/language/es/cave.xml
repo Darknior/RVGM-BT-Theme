@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La compañía CAVE fue fundada por Kenichi Takano el 15 de junio de 1994, en Tokio, en el distrito de Shinjuku. Es conocida principalmente por sus "Shoot them up" de arcade. Parte de los desarrolladores como Tsuneki Ikeda, Akira Wakabayashi, o el fundador Kenichi Takano provienen de la empresa Toaplan que, en 1994, acababa de quebrar, al igual que la empresa Eighting, Takumi o Gazelle. El nombre CAVE es un acrónimo de "Computer Art Visual Entertainment". Esta compañía ha obtenido su reputación gracias a la calidad de sus juegos.</text>
+		</text>
+		
+	</view>
+
+</theme>

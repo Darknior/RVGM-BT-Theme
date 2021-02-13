@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Reúne por orden alfabético todos los juegos de las colecciones manuales o dinámicas, combinando para ello todos los sistemas. Los filtros de clasificación están disponibles para permitirle encontrar rápidamente un juego. Puede buscar por nombre, por sistema, por creador, por puntuación, por número de jugadores o incluso por fecha de incorporación a la colección. Se trata de una herramienta de búsqueda extremadamente potente y práctica.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Irem Software Engineering es un desarrollador y editor japonés de videoconsolas, y anteriormente también desarrollador y fabricante de juegos de arcade. Fue creada en 1997 por su empresa matriz, Nanao (ahora Eizo), con el fin de hacerse cargo del departamento de desarrollo de la Irem Corporation original, que había abandonado la industria de los videojuegos en 1994 para concentrarse en el alquiler y la venta de aparatos electrónicos de pago. Irem Corporation sigue existiendo hoy en día bajo el nombre de Apies.</text>
+		</text>
+		
+	</view>
+
+</theme>

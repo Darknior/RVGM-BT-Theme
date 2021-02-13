@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Consola de sobremesa
+Sexta
+2001
+DVD, CD, descarga digital
+Mando</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Xbox de Microsoft es una consola de videojuegos lanzada en Estados Unidos el 15 de noviembre de 2001. Microsoft da sus primeros pasos en este sector, después de haber colaborado con Sega para llevar Windows CE a Dreamcast y de haber desarrollado durante varios años juegos de Microsoft Game Studios y accesorios de videojuegos SideWinder para PC. Está equipado con un procesador Intel Pentium III a 733 Mhz, 128 KB de memoria caché apoyados por 64 MB de RAM y una GPU Nvidia de 233 Mhz que es, realmente, una GeForce 3 modificada que le permite mostrar juegos en 720p y 1080i.</text>
+		</text>
+		
+	</view>
+
+</theme>

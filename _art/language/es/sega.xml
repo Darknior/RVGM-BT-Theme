@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sega Games Co., Ltd. es una empresa multinacional de desarrollo de software y hardware para videojuegos, y un fabricante de ordenadores y consolas domésticas con sede en Ōta (Tokio, Japón). La empresa tuvo éxito tanto en los salones recreativos como en las consolas domésticas, pero el 31 de enero de 2001 abandonó oficialmente el negocio de las consolas de consumo y comenzó a concentrarse en el desarrollo de software para múltiples plataformas de terceros.</text>
+		</text>
+		
+	</view>
+
+</theme>

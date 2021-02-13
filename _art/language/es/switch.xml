@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Consola de videojuegos
+Octava
+2017
+MicroSD, Cartucho
+Joy-Con, Mando Nintendo Switch Pro</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Se lanzó en 2017. Es una consola híbrida que puede utilizarse como consola doméstica y dispositivo portátil. Sus mandos inalámbricos Joy-Con, con botones y sticks analógicos direccionales, sensor de movimiento y respuesta táctil, pueden acoplarse a ambos lados de la consola para permitir el juego de tipo portátil. Nintendo ha optado por utilizar un chipset Nvidia Tegra X1 con 4 GB de ram y 32 GB de eMMC para el almacenamiento. LA pantalla LCD ofrece 1280x720 y acopla 480p/720p/1080p a través de HDMI. Su catálogo ofrece juegos de culto como Mario Kart 8 Deluxe y Super Smash Bros Ultimate.</text>
+		</text>
+		
+	</view>
+	
+</theme>

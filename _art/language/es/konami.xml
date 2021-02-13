@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Los orígenes de Konami se remontan a marzo de 1969, cuando Kagemasa Kozuki puso en marcha un negocio de alquiler y reparación de jukeboxes en Osaka (Japón). El 19 de marzo de 1973 se creó Konami Industry Co. El término "Konami" es una conjunción de los nombres de los cuatro cofundadores: Kagemasa Kozuki, Yoshinobu Nakama, Hiro Matsuda y Shokichi Ishihara. En 1973, Konami comenzó a fabricar máquinas recreativas, en 1978 comenzó a desarrollar videojuegos y en 1980 tuvo su primer éxito con Scramble.</text>
+		</text>
+		
+	</view>
+
+</theme>

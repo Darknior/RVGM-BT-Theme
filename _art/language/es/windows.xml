@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Sistema operativo
+Cuarta a octava
+1985 / 2020
+Disco duro, CD, DVD, 
+Joystick, teclado, ratón</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Windows es una interfaz gráfica desarrollada por Microsoft en 1983, para su sistema operativo MS-DOS. En Windows 1.0 ya existía un juego llamado Reversi, y en 1990, en la versión 3.1, nos encontramos con el Solitario y el Buscaminas, que se han convertido en clásicos. En 1995 aparece Windows 95, seguido de W98, que será el primero en popularizar Direct X, la librería para el desarrollo de juegos en el PC. La interfaz no dejará de evolucionar con XP, Vista, 7, 8, 10 y con ella Direct X, que además de vídeo y sonido gestiona absolutamente todo, hasta la IA y los dispositivos de realidad virtual.</text>
+		</text>
+		
+	</view>
+
+</theme>
