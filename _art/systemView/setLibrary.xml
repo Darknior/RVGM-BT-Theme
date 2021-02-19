@@ -14,6 +14,7 @@
 			<path>./background-default.jpg</path>
 			<path>./../../${system.theme}/background.jpg</path>
 			<color>ffffffff</color>
+			<linearSmooth>true</linearSmooth>
 			<tile>false</tile> <!-- Repeat / Streach image -->
 			<zIndex>10</zIndex> <!-- Default 10 for extra -->
 		</image>
