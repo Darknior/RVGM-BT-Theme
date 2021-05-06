@@ -6,10 +6,10 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
-<text>SDL Library
+<text>Pygame Team
 Moteur de jeu
 2.0.1+
-2021
+2000
 Fichiers python
 Manette, souris, clavier</text>
 		</text>

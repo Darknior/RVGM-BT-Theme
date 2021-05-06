@@ -6,10 +6,10 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
-<text>SDL Library
+<text>Pygame Team
 Motor de juego
 2.0.1+
-2021
+2000
 Ficheros Python
 Joystick, teclado, ratón</text>
 		</text>

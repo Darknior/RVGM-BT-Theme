@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Home video game console
+Seventh
+2006
+Blu-Ray Disc, HDD, USB
+DualShock 3, PS move</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The PS3 is a Sony console released in 2006, it succeeds the PlayStation 2 and competes with Microsoft's Xbox 360 and Nintendo's Wii. Designed as a digital entertainment center, the PlayStation 3 is part of the era of high definition television by integrating a Blu-ray player, a hard drive, HDMI connectivity and a WiFi connection. It has a 3.2 GHz CELL processor coupled to 256MB of XDR DRAM and a 500 MHz Nvidia RSX graphics processor coupled to 256MB of GDDR3. It displays 1080p, 720p, 1080i, 480p, 480i.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -12,12 +12,22 @@
 		</image>
 		<image name="md_boxback">
 			<zIndex>31</zIndex>
-			<storyboard repeatAt="0">>
-					<animation property="opacity" from="0" to="0"  begin="0"     duration="5000" mode="linear"/>
-					<animation property="opacity" from="0" to="1"  begin="5000"  duration="350"  mode="linear"/>
-					<animation property="opacity" from="1" to="1"  begin="5350"  duration="5000" mode="linear"/>
-					<animation property="opacity" from="1" to="0"  begin="10350" duration="350"  mode="linear"/>
-			</storyboard>
+            <storyboard event="activateNext">        
+                <animation property="offsetY" from="1" to="0" duration="400" mode="easeOut"/>
+                <animation property="opacity" from="0" to="1" duration="400" mode="linear"/>
+            </storyboard>
+            <storyboard event="activatePrev">        
+                <animation property="offsetY" from="-1" to="0" duration="400" mode="easeOut"/>
+                <animation property="opacity" from="0" to="1" duration="400" mode="linear"/>
+            </storyboard>      
+            <storyboard event="deactivateNext">
+                <animation property="offsetY" to="-1" duration="400" mode="easeOut"/>
+                <animation property="opacity" to="0" duration="400" mode="linear"/>
+            </storyboard>
+            <storyboard event="deactivatePrev">
+                <animation property="offsetY" to="1" duration="400" mode="easeOut"/>
+                <animation property="opacity" to="0" duration="400" mode="linear"/>
+            </storyboard>
 		</image>
 		
 		<image name="md_marquee">
@@ -133,10 +143,10 @@
 			<pos>0.875 0.937</pos>
 			<path>./_art/icons/map.png</path>
 		</image>
-		<!-- <image name="md_news, md_nonews">
+		<image name="md_magazine, md_nomagazine">
 			<pos>0.895 0.937</pos>
 			<path>./_art/icons/news.png</path>
-		</image> -->
+		</image>
 		<!-- Only show if System support -->
 		<image name="md_savestate, md_nosavestate">
 			<pos>0.895 0.937</pos>
