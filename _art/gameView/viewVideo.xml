@@ -11,21 +11,18 @@
 			<maxSize>0.342 0.6689</maxSize>
 		</image>
 		<image name="md_boxback">
+            <opacity>0</opacity>
 			<zIndex>31</zIndex>
             <storyboard event="activateNext">        
-                <animation property="offsetY" from="1" to="0" duration="400" mode="easeOut"/>
-                <animation property="opacity" from="0" to="1" duration="400" mode="linear"/>
+                <animation property="opacity" from="0" to="1" begin="5000" duration="400" mode="linear"/>
             </storyboard>
             <storyboard event="activatePrev">        
-                <animation property="offsetY" from="-1" to="0" duration="400" mode="easeOut"/>
-                <animation property="opacity" from="0" to="1" duration="400" mode="linear"/>
+                <animation property="opacity" from="0" to="1" begin="5000" duration="400" mode="linear"/>
             </storyboard>      
             <storyboard event="deactivateNext">
-                <animation property="offsetY" to="-1" duration="400" mode="easeOut"/>
                 <animation property="opacity" to="0" duration="400" mode="linear"/>
             </storyboard>
             <storyboard event="deactivatePrev">
-                <animation property="offsetY" to="1" duration="400" mode="easeOut"/>
                 <animation property="opacity" to="0" duration="400" mode="linear"/>
             </storyboard>
 		</image>
