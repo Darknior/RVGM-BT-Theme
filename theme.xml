@@ -86,8 +86,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	<!-- Swap Shader Effect -->
 	<subset name="staticEffect" displayName="Shadders Effect">
+		<include name="no" displayName="None"/> <!-- default -->
 		<include name="crt" displayName="CRT"/>
-		<include name="no" displayName="None"/>
 		<include name="scanlines" displayName="Scanlines"/>
 		<include name="scanlinesFine" displayName="Scanlines Fine"/>
 		<include name="scanlinesVertical" displayName="Scanlines Vertical"/>
