@@ -84,6 +84,19 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	~~~~ GENERAL SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	
+	<!-- Swap Shader Effect -->
+	<subset name="staticEffect" displayName="Shadders Effect">
+		<include name="no" displayName="None"/> <!-- default -->
+		<include name="crt" displayName="CRT"/>
+		<include name="scanlines" displayName="Scanlines"/>
+		<include name="scanlinesFine" displayName="Scanlines Fine"/>
+		<include name="scanlinesVertical" displayName="Scanlines Vertical"/>
+		<include name="scanlinesVerticalFine" displayName="Scanlines Vertical Fine"/>
+		<include name="paper" displayName="Paper"/>
+		<include name="phosphore" displayName="Phosphore"/>
+		<include name="phosphorePlus" displayName="Phosphore Plus"/>
+	</subset>
+	
 	<!-- Swap Theme Color -->
 	<subset name="swapColor" displayName="${subset.swapColor}">
 		<include name="blue"     displayName="${colblue}"    >./_art/colors/blue.xml</include> <!-- default -->
@@ -253,10 +266,25 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<pos>0.915 0.013</pos>
 			<size>0.07 0.07</size>
 		</batteryIndicator>
+		
+		<image name="scanlines" extra="true">
+			<size>1 1</size>
+			<tile>true</tile>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<zIndex>6000</zIndex>
+			<color>1010091a</color>
+		</image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:crt"><path>./_art/video/crt.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:scanlines"><path>./_art/video/scanlines.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:scanlinesFine"><path>./_art/video/scanlinesFine.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:scanlinesVertical"><path>./_art/video/scanlinesVertical.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:scanlinesVerticalFine"><path>./_art/video/scanlinesVerticalFine.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:phosphore"><path>./_art/video/phosphore.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:paper"><path>./_art/video/paper.png</path></image>
+		<image name="scanlines" extra="true" ifSubset="staticEffect:phosphorePlus"><path>./_art/video/phosphorePlus.png</path></image>
   
 	</view>
-	
-	<!--TO DO: Add SYSTEM CRT effect here in SCREEN view -->
 	
 	<!-- Helpsystem general design -->
 	<view name="system, basic, detailed, video, grid">
