@@ -20,7 +20,7 @@
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
 			<pos>0.711 0.047</pos>
-			<maxSize>0.192 0.12</maxSize>
+			<size>0.192 0.12</size>
 			<color>${themeLightColor}</color>
 		</text>
 		

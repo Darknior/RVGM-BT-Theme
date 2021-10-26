@@ -11,6 +11,9 @@
 		<yes>Yes</yes>
 		<no>No</no>
 
+	<!-- Swap Shadders Effect -->
+		<subset.shaddersEffetc>Shadders Effect</subset.shaddersEffetc>
+
 	<!-- Swap Theme Color -->
 		<subset.swapColor>Color schemes</subset.swapColor>
 		<colblue>Blue</colblue>

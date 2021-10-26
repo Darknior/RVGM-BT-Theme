@@ -12,6 +12,9 @@
 		<yes>Sim</yes>
 		<no>Não</no>
 
+	<!-- Swap Shadders Effect -->
+		<subset.shaddersEffetc>Filtros de vídeo</subset.shaddersEffetc>
+
 	<!-- Trocar cor do tema -->
 		<subset.swapColor>Esquemas de cores</subset.swapColor>
 		<colblue>Azul</colblue>

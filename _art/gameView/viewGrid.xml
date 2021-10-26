@@ -31,7 +31,7 @@
 		</image>
 		<text name="logoText"> <!-- To show if no System LOGO -->
 			<pos>0.6465 0.057</pos>
-			<maxSize>0.136 0.066</maxSize>
+			<size>0.136 0.066</size>
 			<color>${themeDarkColor}</color>
 		</text>
 		

@@ -15,6 +15,9 @@
 		<yes>نعم</yes>
 		<no>لا</no>
 
+	<!-- Swap Shadders Effect -->
+		<subset.shaddersEffetc>مرشحات الفيديو</subset.shaddersEffetc>
+
 	<!-- Swap Theme Color -->
 		<subset.swapColor>لون السِمة</subset.swapColor>
 		<colblue>أزرق</colblue>

@@ -85,16 +85,16 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	~~~~ GENERAL SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	
 	<!-- Swap Shader Effect -->
-	<subset name="staticEffect" displayName="Shadders Effect">
-		<include name="no" displayName="None"/> <!-- default -->
-		<include name="crt" displayName="CRT"/>
-		<include name="scanlines" displayName="Scanlines"/>
-		<include name="scanlinesFine" displayName="Scanlines Fine"/>
-		<include name="scanlinesVertical" displayName="Scanlines Vertical"/>
+	<subset name="staticEffect" displayName="${subset.shaddersEffetc}">
+		<include name="no"                    displayName="None"/> <!-- default -->
+		<include name="crt"                   displayName="CRT"/>
+		<include name="scanlines"             displayName="Scanlines"/>
+		<include name="scanlinesFine"         displayName="Scanlines Fine"/>
+		<include name="scanlinesVertical"     displayName="Scanlines Vertical"/>
 		<include name="scanlinesVerticalFine" displayName="Scanlines Vertical Fine"/>
-		<include name="paper" displayName="Paper"/>
-		<include name="phosphore" displayName="Phosphore"/>
-		<include name="phosphorePlus" displayName="Phosphore Plus"/>
+		<include name="paper"                 displayName="Paper"/>
+		<include name="phosphore"             displayName="Phosphore"/>
+		<include name="phosphorePlus"         displayName="Phosphore Plus"/>
 	</subset>
 	
 	<!-- Swap Theme Color -->
@@ -268,12 +268,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</batteryIndicator>
 		
 		<image name="scanlines" extra="true">
-			<size>1 1</size>
-			<tile>true</tile>
-			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
-			<zIndex>6000</zIndex>
+			<pos>0.5 0.5</pos>
+			<size>1 1</size>
 			<color>1010091a</color>
+			<tile>true</tile> <!-- Repeat / Streach image -->
+			<zIndex>6000</zIndex>
 		</image>
 		<image name="scanlines" extra="true" ifSubset="staticEffect:crt"><path>./_art/video/crt.png</path></image>
 		<image name="scanlines" extra="true" ifSubset="staticEffect:scanlines"><path>./_art/video/scanlines.png</path></image>
@@ -383,14 +383,12 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<alignment>left</alignment>
 			<fontSize>0.062</fontSize>
 			<color>${themeDarkColor}</color>
-			<linearSmooth>true</linearSmooth>
 			<zIndex>55</zIndex>
 		</text>
 		<rating name="md_rating">
 			<filledPath>./_art/icons/star_filled.png</filledPath>
 			<unfilledPath>./_art/icons/star-empty.png</unfilledPath>
 			<color>${themeDarkColor}</color>
-			<linearSmooth>true</linearSmooth>
 		</rating>
 		
         <textlist name="gamelist">
@@ -521,7 +519,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</image>
 		<video name="md_video">
 			<origin>0.5 0.5</origin>
-			<snapshotSource>image</snapshotSource> <!-- thumbnail -->
+			<snapshotSource>image</snapshotSource> <!-- titleshot -->
 			<showSnapshotNoVideo>true</showSnapshotNoVideo> <!-- Show thumbnail from gamelist.xml if no video and no default -->
 			<showSnapshotDelay>true</showSnapshotDelay>
 			<loops>3</loops>
@@ -582,7 +580,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	<!-- Swap Titleshot and Screenshot for the VIDEO preview -->
 	<subset name="swapImages" displayName="${subset.swapImages}" appliesTo="detailed,video,videoFullscreen,grid,gridDetail,gridTitleshot,gridScreenshot,marquee">
-		<include name="titleshot"  displayName="${titleshot}"> ./_art/gameView/swapTitleshot.xml.xml</include> <!-- default -->
+		<include name="titleshot"  displayName="${titleshot}"  >./_art/gameView/swapTitleshot.xml</include> <!-- default -->
 		<include name="screenshot" displayName="${screenshot}" >./_art/gameView/swapScreenshot.xml</include>
 	</subset>
 	
