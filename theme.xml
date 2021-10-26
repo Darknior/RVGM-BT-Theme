@@ -552,10 +552,10 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	~~~~ GAMELIST SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-	<!-- Swap Thumbnail and Image for the COVER and VIDEO -->
+	<!-- Swap Titleshot and Screenshot for the VIDEO preview -->
 	<subset name="swapImages" displayName="${subset.swapImages}" appliesTo="detailed,video,videoFullscreen,grid,gridDetail,gridTitleshot,gridScreenshot,marquee">
-		<include name="thumbnail" displayName="${thumbnail}">./_art/gameView/swapThumbnail.xml</include> <!-- default -->
-		<include name="image"     displayName="${image}"    >./_art/gameView/swapImage.xml</include>
+		<include name="titleshot"  displayName="${titleshot}"> ./_art/gameView/swapTitleshot.xml.xml</include> <!-- default -->
+		<include name="screenshot" displayName="${screenshot}" >./_art/gameView/swapScreenshot.xml</include>
 	</subset>
 	
 	<!-- Swap Theme Light / Darth -->

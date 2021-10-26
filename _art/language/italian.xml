@@ -90,9 +90,9 @@ Totale</sysLabel>
 		<gamelistInfoLight>Leggera</gamelistInfoLight>
 		<gamelistInfoDarth>Scura</gamelistInfoDarth>
 
-		<subset.swapImages>Scegli il tuo XML tag Cover</subset.swapImages>
-		<thumbnail>thumbnail</thumbnail>
-		<image>image</image>
+		<subset.swapImages>Immagine prima del video</subset.swapImages>
+		<titleshot>Titleshot</titleshot>
+		<screenshot>Screenshot</screenshot>
 
 	</variables>
 	

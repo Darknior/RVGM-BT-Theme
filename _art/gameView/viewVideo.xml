@@ -4,8 +4,8 @@
 	
 	<view name="video" displayName="${videoViewName}">
 
-		<!-- Screenshot / Front Cover / Back Cover -->
-		<image name="md_image, md_thumbnail, md_boxback">
+		<!-- Titleshot / Screenshot -->
+		<image name="md_thumbnail, md_boxback">
 			<origin>0.5 0.5</origin>
 			<pos>0.196 0.40</pos>
 			<maxSize>0.342 0.6689</maxSize>

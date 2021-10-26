@@ -94,9 +94,9 @@
 		<gamelistInfoLight>فاتح</gamelistInfoLight>
 		<gamelistInfoDarth>معتم</gamelistInfoDarth>
 
-		<subset.swapImages>اختر علامة الغلاف الخاصة بك</subset.swapImages>
-		<thumbnail>thumbnail</thumbnail>
-		<image>image</image>
+		<subset.swapImages>الصورة قبل الفيديو</subset.swapImages>
+		<titleshot>Titleshot</titleshot>
+		<screenshot>Screenshot</screenshot>
 
 	</variables>
 	

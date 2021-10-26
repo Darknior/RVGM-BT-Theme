@@ -2,32 +2,13 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<!-- IMAGE as COVER -->
+	<!-- USE SCREENSHOT -->
 	<view name="detailed, video">
 		<video name="md_video">
-			<snapshotSource>thumbnail</snapshotSource>
+			<snapshotSource>image</snapshotSource>
 		</video>
-		<image name="md_thumbnail">
-			<visible>false</visible>
-		</image>
-	</view>
+    </view>
 
-	<view name="detailed">
-		<image name="md_image">
-			<visible>true</visible>
-		</image>
-	</view>
-	<view name="video">
-		<image name="md_image">
-			<visible>true</visible>
-		</image>
-	</view>
-	<customView name="VideoFullscreen" inherits="video" displayName="${videoFullscreenViewName}">
-		<image name="md_image">
-			<visible>true</visible>
-		</image>
-	</customView>
-	
 	<view name="grid">
 		<imagegrid name="gamegrid">
 			<imageSource>image</imageSource>
@@ -35,17 +16,17 @@
 	</view>
 	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
 		<video name="md_video">
-			<snapshotSource>thumbnail</snapshotSource>
+			<snapshotSource>image</snapshotSource>
 		</video>
 	</customView>
 	<customView name="gridTitleshot" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
 		<imagegrid name="gamegrid">
-			<imageSource>thumbnail</imageSource>
+			<imageSource>titleshot</imageSource>
 		</imagegrid>
 	</customView>
 	<customView name="gridScreenshot" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
 		<imagegrid name="gamegrid">
-			<imageSource>thumbnail</imageSource>
+			<imageSource>image</imageSource>
 		</imagegrid>
 	</customView>
 	<customView name="marquee" inherits="grid" displayName="${marqueeDetailViewName}">

@@ -90,9 +90,9 @@ Total</sysLabel>
 		<gamelistInfoLight>Light</gamelistInfoLight>
 		<gamelistInfoDarth>Darth</gamelistInfoDarth>
 
-		<subset.swapImages>Choose your XML Cover tag</subset.swapImages>
-		<thumbnail>thumbnail</thumbnail>
-		<image>image</image>
+		<subset.swapImages>Image before video</subset.swapImages>
+		<titleshot>Titleshot</titleshot>
+		<screenshot>Screenshot</screenshot>
 
 		<!-- AUTO COLLECTION TEXTS -->
 		

@@ -92,9 +92,9 @@ Total </sysLabel>
 		<gamelistInfoLight>Claro</gamelistInfoLight>
 		<gamelistInfoDarth>Escuro</gamelistInfoDarth>
 
-		<subset.swapImages>Escolha sua XML etiqueta de capa</subset.swapImages>
-		<thumbnail>thumbnail</thumbnail>
-		<image>image</image>
+		<subset.swapImages>Imagem antes do vídeo</subset.swapImages>
+		<titleshot>Titleshot</titleshot>
+		<screenshot>Screenshot</screenshot>
 
 	</variables>
 	

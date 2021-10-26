@@ -90,9 +90,9 @@ Total</sysLabel>
 		<gamelistInfoLight>Lumineux</gamelistInfoLight>
 		<gamelistInfoDarth>Sombre</gamelistInfoDarth>
 		
-		<subset.swapImages>Balise XML des jaquette</subset.swapImages>
-		<thumbnail>thumbnail</thumbnail>
-		<image>image</image>
+		<subset.swapImages>Image avant vidéo</subset.swapImages>
+		<titleshot>Titleshot</titleshot>
+		<screenshot>Screenshot</screenshot>
 		
 		<!-- AUTO COLLECTION TEXTS -->
 		

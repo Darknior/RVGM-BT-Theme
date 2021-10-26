@@ -90,9 +90,9 @@ Total</sysLabel>
 		<gamelistInfoLight>Claro</gamelistInfoLight>
 		<gamelistInfoDarth>Oscuro</gamelistInfoDarth>
 
-		<subset.swapImages>Elige tu etiqueta de portada</subset.swapImages>
-		<thumbnail>thumbnail</thumbnail>
-		<image>image</image>
+		<subset.swapImages>Imagen antes del video</subset.swapImages>
+		<titleshot>Titleshot</titleshot>
+		<screenshot>Screenshot</screenshot>
 
 	</variables>
 	
