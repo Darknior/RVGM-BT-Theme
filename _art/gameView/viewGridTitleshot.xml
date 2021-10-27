@@ -4,11 +4,12 @@
 	
 	<customView name="gridTitleshot" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
 
+        <!-- Gris Images -->
 		<imagegrid name="gamegrid">
 			<autoLayout>7 4</autoLayout>
 			<autoLayoutSelectedZoom>1.1</autoLayoutSelectedZoom>
 
-			<imageSource>image</imageSource> <!-- thumbnail / marquee -->
+			<imageSource>titleshot</imageSource> <!-- thumbnail / image / marquee -->
 			<margin>0.005 0.010</margin>
 			<padding>0.03 0.05 0.03 0.04</padding>
 			<!-- VIDEO PREVIEW -->

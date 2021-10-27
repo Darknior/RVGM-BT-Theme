@@ -44,6 +44,7 @@
 			<padding>0.03 0.05 0.03 0.04</padding>
 			<margin>0.005 0.005</margin>
 			
+            <imageSource>thumbnail</imageSource> <!-- thumbnail / titleshot / image -->
 			<showVideoAtDelay>-1</showVideoAtDelay> <!-- 99999999999 -->
 			<autoLayout>6 3</autoLayout>      
 		</imagegrid>
@@ -69,7 +70,7 @@
 			<pos>0.807 0.426</pos>
 			<minSize>0.31 0.377</minSize>
 			
-			<snapshotSource>image</snapshotSource> <!-- thumbnail -->
+			<snapshotSource>image</snapshotSource> <!-- titleshot -->
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
 			<delay>1</delay>

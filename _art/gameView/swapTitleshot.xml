@@ -9,30 +9,10 @@
 		</video>
 	</view>
 	
-	<view name="grid">
-		<imagegrid name="gamegrid">
-			<imageSource>titleshot</imageSource>
-		</imagegrid>
-	</view>
 	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
 		<video name="md_video">
 			<snapshotSource>titleshot</snapshotSource>
 		</video>
-	</customView>
-	<customView name="gridTitleshot" inherits="grid" displayName="${tilesTitleshotVideoViewName}">
-		<imagegrid name="gamegrid">
-			<imageSource>titleshot</imageSource>
-		</imagegrid>
-	</customView>
-	<customView name="gridScreenshot" inherits="Tiles Titleshot + Video" displayName="${tilesScreenshotVideoMarqueeViewName}">
-		<imagegrid name="gamegrid">
-			<imageSource>image</imageSource>
-		</imagegrid>
-	</customView>
-	<customView name="marquee" inherits="grid" displayName="${marqueeDetailViewName}">
-		<imagegrid name="gamegrid">
-			<imageSource>marquee</imageSource>
-		</imagegrid>
 	</customView>
 	
 </theme>

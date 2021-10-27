@@ -42,7 +42,7 @@
 			<autoLayoutSelectedZoom>1.28</autoLayoutSelectedZoom>
 			
 			<showVideoAtDelay>-1</showVideoAtDelay>
-			<imageSource>marquee</imageSource> <!-- image / marquee -->
+			<imageSource>marquee</imageSource> <!-- thumbnail / image / titleshot -->
 			<animateSelection>false</animateSelection> <!-- Anime le deplacement du fond -->
 		</imagegrid>
 		
