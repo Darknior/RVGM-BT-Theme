@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Philips
+Console de salon
+Quatrième
+1991
+CD Interactif, CD
+Joypad, souris, trackball</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le CD-i, Compact Disc Interactif, est une console de jeux vidéo et lecteur multimédia conçu par Philips, Sony et Matsushita en 1991. Il embarque un processeur 16-bit à 15.5 Mhz, 1.5 Mo de RAM, affiche du 384x280 à 768x560 pixels en 32768 couleurs et une carte son 8 canaux. Son lecteur de CD est capable de lire des supports de 650 Mo ou 75 minutes de vidéo en vitesse 2x, bien supérieur à la capacité d'une cartouche. Son échec fut causé par un prix du lecteur élevé, par des jeux de faible qualité et par l'impossibilité de lire des vidéos plein écran dans sa version de base sans module MPEG.</text>
+		</text>
+		
+	</view>
+
+</theme>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>VTech
+Console de salon
+Deuxième
+1981
+Cartouche & cassette
+Stick et clavier membrane</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La VTech CreatiVision est un hybride d'ordinateur et de la console de jeux vidéo de deuxième génération produite par VTech en 1981. Cette unité hybride est semblable dans le concept à des ordinateurs d'entrée de gamme. Elle arbore un CPU 8-bit Rockwell 6502 avec une vitesse de 2 Mhz, 1 Ko de RAM et 16 Ko de mémoire vidéo pour une résolution graphique de 256x192 avec 16 couleurs et 32 sprites. Elle possède 2 contrôleurs intégrés, avec clavier membrane et joystick. Elle supporte des cartouches mais aussi des K7 via un adaptateur.</text>
+		</text>
+		
+	</view>
+
+</theme>
