@@ -16,7 +16,7 @@ Joystick, Keyboard</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Senile Team released in 2004 Beats of Rage, a free beat'em up inspired by SEGA's Streets of Rage series using sprites from the King of Fighters series. Quickly they distribute a pack allowing anyone who is interested to create their own mode with the BOR engine. In 2005, Kirby2000 asked Senile Team to distribute the source code. They accept and OpenBOR is born. The development is continued today by a whole community on the Lavalit site. The increasingly powerful engine is coming out every year more and more games.</text>
+<text>Open Beats of Rage is a free game engine suited for beat'em up styled games, inspired heavily from Sega's Streets of Rage series. Originally created by Senile Team in 2004 as Beats of Rage, Kirby2000 asked Senile Team to distribute the source code in 2005. They agreed and OpenBoR was born, with its development continuing to this very day by a community on the Lavalit site. Streets of Rage 2X is its most infamous game, featuring remakes of SoR 1/2's levels with the sprites from the King of Fighters series.</text>
 		</text>
 		
 	</view>

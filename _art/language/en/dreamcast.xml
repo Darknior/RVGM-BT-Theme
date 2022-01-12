@@ -10,13 +10,13 @@
 Home video game console
 Sixth
 1998
-GD-Rom (1,2 Go)
-Analog stick, joypad 7 buttons</text>
+GD-ROM (1.2 GB)
+7 button joypad with stick</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Dreamcast is a home video game console developed by Sega to succeeds the Saturn. Launched in November 1998 in Japan, it is the first sixth generation console preceding PS2 and XBOX to offer an online play experience. Unfortunately it ended prematurely in 2004 remaining the last console of SEGA because with a bad marketing reputation. It’s equipped with a 32-bit processor that includes a 128-bit arithmetic coprocessor, 16 MB of RAM, and an NEC PowerVR2 GPU to display 7 million polygons second and 16 million color simultaneously. It’s near a NAOMI arcade system board.</text>
+<text>The Dreamcast is a home video game console developed by Sega, succeeding the Saturn. It launched in November 1998 in Japan, offering online connectivity before the PS2 and Xbox did. The Dreamcast would be discontinued in 2004 with Sega withdrawing from the console market due to being unable to meet sales expectations. It's equipped with a 32-bit processor which includes a 128-bit arithmetic coprocessor, 16MB of RAM and a NEC PowerVR GPU which could display up to 3-6 million polygons per second and 16.77 million colors simultaneously. The NAOMI arcade board uses nearly identical hardware to the Dreamcast.</text>
 		</text>
 		
 	</view>

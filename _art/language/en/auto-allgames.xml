@@ -6,8 +6,8 @@
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>This section groups all the games in your collection, any system confused and arranged in alphabetical order. All the usual sorting filters are available to help you quickly find a game. Whether by name, system, creator, rating, number of players or even date added to your collection.
-It’s an extremely useful and practical search tool for anyone who knows or doesn’t know by heart his huge collection of games.</text>
+<text>This section groups all the games in your library. They can be sorted by name, system, creator, rating, number of players, date, etc. This can help you quickly find a game irrespective of what system it is on.
+It's an extremely useful and pratical search tool for anyone who may or may not know their collection off by heart.</text>
 		</text>
 		
 	</view>

@@ -11,12 +11,12 @@ Handheld game console
 Seventh
 2004
 UMD, Memory Stick
-Joypad + Stick & 7 buttons</text>
+7 buttons + stick</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The PlayStation Portable (PSP) is a handheld game console developed by Sony and marketed between 2004 and 2014. It marks a turning point in the history of portable consoles by providing image quality and general capabilities approaching the PlayStation 2, a home console. The latest model released will be the PSP Go in October 2009, with its sliding screen, more memory and a Bluetooth connection. It has a 32-bit processor, two 3D graphics processors and it’s able to read H.264 on its 16/9 screen. It was the first real competitor to Nintendo's handheld domination.</text>
+<text>The PlayStation Portable (PSP) is a handheld game console developed by Sony in 2004 (discontinued in 2014). It marked a turning point in the portable console market by providing graphical capability comparable to that of the home consoles of its time. It has a 32-bit processor, two 3D GPUs (with the ability to decode H.264 encoded video), and a 16:9 aspect ratio screen. It was the first true competitor to rival Nintendo's domination of the handheld market. The PSP Go released on October 2009, featuring a sliding control panel reducing its pocketed size, more built-in storage and Bluetooth.</text>
 		</text>
 		
 	</view>
