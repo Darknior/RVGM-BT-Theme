@@ -9,14 +9,14 @@
 <text>Multiple
 Arcade video game cabinet
 Multiple
-1971 / 20xx
-PCB Card
-Arcade stick and other</text>
+1971 onwards
+PCB Card, CD-ROM
+Arcade stick and others</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>This is a continuation of Final Burn Alpha created in 2004 by TrebbleWinner, itself based on Final Burn created in 2000 by Dave and become FB-Neo in 2019. This project has become over time one of the best emulator Arcade available, thanks to Lantus and IQ_132 for their various optimizations. It is updated very often and emulates different systems such as MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board of Sega, and a whole list of Cave Toaplan, Taito, Psikyo and Kaneko. Just like MAME it offers the features of graphic shaders, savestates, etc ...</text>
+<text>This arcade emulator originally started as Final Burn, initially created by Dave in 2000. It was then forked as Final Burn Alpha by TrebbleWinner in 2004, and somewhat recently in 2019 it was forked once again as Final Burn Neo. It has become one of the best arcade emulators available, thanks to Lantus and IQ_132 for their various optimizations. It is updated very often and emulates different systems such as MVS, CPS1, CPS2, System 16, System 18, Sega's X and Y Board and the multitude of boards by Cave Toaplan, Taito, Psikyo and Kaneko. Just like MAME it offers graphical shaders, savestates, etc.</text>
 		</text>
 		
 	</view>

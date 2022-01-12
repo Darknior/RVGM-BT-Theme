@@ -11,12 +11,13 @@ Home video game console
 Third
 1985
 Cartridge, Sega card
-2 buttons joypad, Light phaser</text>
+2 button joypad, Light phaser</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Sega Mark III is an 8-bit console produced by Sega in 1985 in Japan to compete with the NES. It was redesigned and renamed as a Master System or SMS and released in the rest of the world in 1986, one year after the release of the NES. Equipped with a 3.5 Mhz processor, 8 KB of RAM, 128 KB of video RAM and a 3-voice mono sound, it displays 256x192 pixels in 32 colors, 64 with a trick. In 1987, a new version was released in Japan, incorporating an FM module that could be used for games. However, it never catched up and it was a real success only in Europe and Brazil.</text>
+<text>The Sega Mark III is an 8-bit console developed by Sega in 1985 in Japan to compete with the NES. It was redesigned and rebranded as the Sega Master System (SMS) for the rest of the world one year later. Equipped with a 3.5MHz processor, 8KB of RAM, 128KB of video RAM, 3 channel mono sound and a resolution of 256x192 in 32 colors (64 with a certain programming trick).
+In 1987, a revision was released featuring an FM module that could be used to enhance games. However, it only had good success in the Europe, Brazil and Australasia markets.</text>
 		</text>
 		
 	</view>

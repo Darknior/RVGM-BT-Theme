@@ -11,12 +11,12 @@ Handheld console
 Fourth
 1989
 Cartridge
-2 buttons Joypad</text>
+2 button Joypad</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Game Boy is an 8-bit portable console developed by Nintendo in 1989. It is the very first portable console of the Game Boy line and it was designed by Gunpei Yokoi and Nintendo Research & Development, the same team that designed the series Game & Watch as well as many popular games on NES. It has a 4 MHz processor, 8 KB of RAM and displays 160x144 in 4 shades of gray with a battery life of 30 hours. Selection of multi-player games at the time playable with a link cable, now playable in a horizontally split screen.</text>
+<text>The Game Boy is a portable 8-bit handheld console developed by Nintendo in 1989. It was the first in a large line of portable handhelds, succeeding the Game & Watch handhelds developed before it. It was designed by Gunpei Yokoi and Nintendo Research & Development. Featuring a 4MHz processor, 8KB of RAM and a 160x144 dot-matrix display with 4 shades of gray, it was well known for its long battery life lasting around 30 hours on a set of AAs. The original system featured a link cable that could be used to play local multiplayer games with multiple consoles. This can now be emulated via horizontal split-screen.</text>
 		</text>
 		
 	</view>
