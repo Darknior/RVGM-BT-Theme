@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+			<image name="avatar" extra="static">
+			<origin>0 0</origin>
+			<pos>0.38 0.44</pos>
+			<maxSize>0.4400 0.5300</maxSize>
+			<path>./avatar.png</path>
+			<linearSmooth>true</linearSmooth>
+		</image>
+			<image name="avatar2" extra="static">
+			<origin>0 0</origin>
+			<pos>0.791 0.75</pos>
+			<maxSize>0.1400 0.2300</maxSize>
+			<path>./avatar2.png</path>
+			<linearSmooth>true</linearSmooth>
+		</image>
+
+
+		<!-- HIDDE ELEMENTS -->
+		<image name="synopsys, info-bg, info, console" extra="true">
+			<visible>false</visible>
+		</image>
+
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+		</video>
+		
+		<text name="systemInfo, sys_label, sys_info, sys_description" extra="true">
+			<visible>false</visible>
+		</text>
+		
+	</view>
+	
+</theme>
