@@ -11,12 +11,13 @@ Handheld game console
 Sixth
 2001
 Cartridge GBA, GB, GBC
-4 buttons Joypad</text>
+4 button Joypad</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Game Boy Advance is a portable console created by Nintendo in 2001. It has a color screen and 32-bit processor, but no 3D instructions. It is the most powerful portable console of the moment. Equipped with a 16 Mhz processor, an 8 Mhz GPU and 380 KB of RAM it displays a resolution of 240x160 in 511 colors. In 2003, Nintendo launched the GBA SP, with improvements such as a backlit screen, a reduced size, as well as a rechargeable lithium-ion battery. Finally in 2005, Nintendo released the Game Boy Micro, the latest version of its laptop.</text>
+<text>The Game Boy Advance is a portable handheld console created by Nintendo in 2001. Featuring a 32-bit processor clocked at 16MHz, an 8MHz GPU, 380KB of RAM and a display of 240x160 in 511 colors, it was the most powerful handhald console for its time.
+In 2003, Nintendo would release the GBA SP, a clamshell version featuring a backlit screen, a rechargeable lithium battery and a reduced overall size. It would then be followed up by the Game Boy Micro, an even smaller version.</text>
 		</text>
 		
 	</view>

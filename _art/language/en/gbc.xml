@@ -10,13 +10,13 @@
 Handheld game console
 Fifth
 1998
-Cartridge GBC, GB
-2 buttons Joypad</text>
+Cartridge
+2 button Joypad</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Game Boy Color created in 1989 by Nintendo is the portable console succeeding the Game Boy. It incorporates a color screen barely larger than that of the Game Boy, but has an 8 Mhz processor, 32 KB of RAM, 16 KB of video memory and displays a resolution of 160x144 pixels in 56 colors. It is backwards compatible with all first generation Game Boy games and has 10 hours of battery life. It will be available in 6 different colors at launch: purple, green, pink, blue, yellow and light purple. But also in limited editions like black, translucent, gold, Pokémon ...</text>
+<text>The Game Boy Color (as it was known globally) was created in 1989 by Nintendo is the portable handheld console succeeding the Game Boy. It incorporates a color screen similar in size to the Game Boy, but has an improved 8MHz processor, 32KB of RAM, 16KB of video memory and a resolution of 160x144 in 56 colors. It is backwards compatible with most first generation Game Boy games and has a 10 hour battery life. Upon launch its case was available in 6 different colors with more special edition colors being released in the future.</text>
 		</text>
 		
 	</view>

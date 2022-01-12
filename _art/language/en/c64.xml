@@ -10,13 +10,13 @@
 Personal computer
 Third
 1982
-Cartridge, digital tape, floppy
+Cartridge, tape, floppy
 Joystick, keyboard, mouse</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Commodore 64 is a personal computer designed by the firm of Jack Tramiel in 1982. It remains the best-selling model of its decade with 13 million copies sold worldwide. It uses an 8-bit 6510 microprocessor and has 64 kilobytes of RAM. Its graphics chip, VIC-II, provides 16 colors and hardware scrolling and sprite capabilities. The sound chip, SID, has three voices, several waveforms, sound modulations and filtering capabilities. It is very advanced for its time. Its designer, Bob Yannes, will be the co-founder of the synthesizer company Ensoniq.</text>
+<text>The Commodore 64 is a personal computer designed by Jack Tramiel's firm in 1982. It was the best-selling model of its decade with over 13 million units sold worldwide. It uses an 8-bit 6510 microprocessor and features 64KB of RAM. Its graphics chip, the VIC-II, provides 6 colors with hardware scrolling backgrounds. Its sound chip, SID, had three voices, several waveforms, sound modules and filtering capabilities (its designer, Bob Yannes, would go on to be the co-founder of the synthesizer company Ensoniq). To say it was advanced for its time would be an understatement.</text>
 		</text>
 		
 	</view>
