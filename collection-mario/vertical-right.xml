@@ -12,7 +12,7 @@
 		</image>
 			<image name="avatar2" extra="static">
 			<origin>0 0</origin>
-			<pos>0.079 0.74</pos>
+			<pos>0.088 0.74</pos>
 			<maxSize>0.170 0.160</maxSize>
 			<path>./avatar2.png</path>
 			<linearSmooth>true</linearSmooth>
