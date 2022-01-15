@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Christopher Leathley
+Simulateur de flipper
+Première
+2008
+Fichiers .FPT
+Manette, clavier</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Future Pinball est un système de développement de flipper en temps réel. Il vous permet de concevoir et de jouer votre propre simulation de flipper en 3D en temps réel. Il utilise la physique avancée pour fournir la meilleure simulation possible d'un flipper réaliste. La logique de table est scriptée dans Visual Basic Scripting (via la technologie de script Microsoft intégrée à Microsoft Windows). Les scripts sont conçus pour être simples mais suffisamment flexibles pour permettre la création d'une grande variété de jeux originaux.</text>
+		</text>
+		
+	</view>
+
+</theme>
