@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Consola portatil
-Septima
+Handheld game console
+Seventh
 2004
-Cartucho DS, GBA
-Joypad 6 botomes</text>
+Cartridge NDS, GBA
+6 button Joypad</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Nintendo DS (Dual Screen) released late 2004 in Japan is the new Nintendo portable console to compete with Sony's PlayStation Portable. Equipped with a 66 Mhz processor then 133 Mhz with the DSi, 4 then 16 MB of RAM, 128 sprites max or 120 000 second polygons, two backlit screens of 256 × 192 pixels including one as touch screen, a stylus, a microphone and WIFI to play online via internet or LAN with 16 other consoles, it’s the best-selling console of all time. In 2006 comes out the DS Lite which is smaller and in 2009 the DSi XL with screens 30% larger.</text>
+<text>The Nintendo DS (Dual Screen) released in late 2004, was Nintendo's new portable console designed to compete with Sony's PSP (PlayStation Portable). Equipped with a 66 Mhz processor (133 Mhz on the DSi), 4 MB of RAM (16 on the DSi), 128 sprites max or 120,000 polygons per second, two backlit screens of 256 × 192 pixels (the bottom being a touch screen), a stylus, microphone and WiFi to play online via internet or LAN with 16 other consoles. It’s the second best-selling console of all time (behind the PlayStation 2). Nintendo followed it with the DS Lite in 2006 and the DSi XL in 2009.</text>
 		</text>
 		
 	</view>
