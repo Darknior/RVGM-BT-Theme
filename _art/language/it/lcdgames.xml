@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console portatile
+Seconda Generazione
+1980
+Nessuno
+Tasti freccia e pulsanti</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game and Watch sono giochi elettronici tascabili prodotti da Nintendo dal 1980 al 1991, fungono anche da orologi e sveglie. Sono stati creati da Gunpei Yokoi, il creatore di Game Boy, e il primo gioco è stato Ball. Il concetto si basa su uno schermo a cristalli liquidi, in cui le immagini del gioco sono prestampate e successivamente illuminate durante il gioco. Il successo fu immediato con i bambini. La loro produzione è stata interrotta a causa del successo di console portatili con più giochi su cartucce.</text>
+		</text>
+		
+	</view>
+
+</theme>
