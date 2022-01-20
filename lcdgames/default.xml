@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<!-- Sytem AVATAR -->
+		<image name="avatar" extra="static">
+			<pos>0.28 0.047</pos>
+		</image>
+		
+		<!-- Sytem AVATAR 2 -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.57 0.047</pos>
+			<maxSize>0.2969 0.9067</maxSize>
+			<path>./avatar2.png</path>
+			<zIndex>10</zIndex>
+		</image>
+	
+	</view>
+</theme>

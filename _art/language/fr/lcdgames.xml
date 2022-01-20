@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console portable
+Deuxième
+1980
+Aucun
+Touches de direction, boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Les Game and Watch sont des jeux électroniques de poche produits par Nintendo de 1980 à 1991, ils font également office de montres et de réveils. Ils ont été imaginés par Gunpei Yokoi le créateur de la Game Boy et le tout premier jeu fut Ball. Le concept repose sur un écran à cristaux liquides, où les images du jeu sont pré-imprimées et illuminées successivement pendant la partie. Le succès est immédiat auprès des enfants et il en existe au total 60 répartis en dix séries. Leur production fût arrêtée en raison du succès des consoles portables avec de multiples jeux sur cartouches.</text>
+		</text>
+		
+	</view>
+
+</theme>
