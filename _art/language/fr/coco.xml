@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>TRS-80 Color Computer
+Ordinateur personnel
+Deuxième
+1980/ 1983 / 1986
+Cartouche, cassette, disquette
+Clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Ordinateur Couleur de RadioShack, dit CoCo, était basé sur le microprocesseur 6809 de Motorola et faisait partie de la gamme des TRS-80. Il avait un processeur cadencé à 0,895 MHz et jusqu'à 64Ko de RAM. Le Coco II sera plus petit, disposera d'un meilleur clavier et sera capable d'afficher des minuscules. Le Coco III disposera d'un processeur 68B09e capable de doubler la fréquence d'origine et de 512 ko de RAM. Ainsi que d'une nouvelle puce graphique "GIME" permettant une résolution maximale de 640x225 et jusqu'à 16 couleurs parmi une palette de 64. (les 64 via une astuce)</text>
+		</text>
+		
+	</view>
+
+</theme>
+

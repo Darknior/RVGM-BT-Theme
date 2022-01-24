@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiplo
+2D/3D Collezione di giochi
+Tutti
+1980 / 20xx
+Tutti i supporti
+Light gun, Wiimote, Gamepad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Gli Sparatutto con pistola o gioco con pistola, indica i giochi in cui devi mirare e sparare alla tua TV CRT. Questi giochi usano "pistole ottiche" usando sensori di luce a infrarossi e scansionando il tubo a raggi catodici. Questo concetto degli anni '30 è ripreso negli anni '80 per i videogiochi come il famoso Duck Hunt. Quindi, nonostante l'eccellente Virtua Cop e Time Crisis degli anni '90, già nel 2000 lo sparatutto ha perso popolarità non essendo compatibile con i televisori LCD. La Wii ha ripreso la moda nel 2006 con il suo controller di rilevamento del movimento Wiimote e R.E. Dark Side Chronicles, Dead Space Extraction, Ghost Squad e Target Terror. </text>
+		</text>
+		
+	</view>
+
+</theme>

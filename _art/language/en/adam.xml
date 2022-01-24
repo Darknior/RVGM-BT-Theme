@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Coleco Adam
+Home computer
+Second
+1983
+Casset, Floppy disk
+Analog stick, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Adam is an extension module for Colecovision, but was also sold as such. It offered a keyboard, cassette player, printer, expansion slots, 5¼″ floppy disk drive, and 300 baud modem. Still equipped with a 3.58 Mhz processor, 1 kb of RAM, 3 tone generators, 1 noise generator and displaying a resolution of 256x192 pixels and 32 sprites in 16 colors. But it was a bitter commercial failure because of too high a price, its availability only in toy stores and the return under warranty of 60% of the models sold.</text>
+		</text>
+		
+	</view>
+
+</theme>

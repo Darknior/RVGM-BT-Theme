@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft, Panasonic, Sony
+Ordinateur personnel
+Troisième
+1990
+Cartouche, disquette
+Manette, clavier, souris</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Les premiers MSX2+, produits par Panasonic et Sony, sont sortis exclusivment au Japon le 21 Octobre 1988. Il apportera un mode 256x212 pixels avec 19 268 couleurs ainsi qu’un scrolling matériel horizontal en plus du vertical. Une cartouche Yamaha MSX-Music offrant une extension à 9 canaux FM est aussi disponible. Le MSX Turbo R est la dernière géneration de MSX mise sur le marché en 1990 pour compenser l'annulation du MSX3. Seul Panasonic a commercialisé ses FS-A1ST et FS-A1GT au Japon. Doté d'un processeur RISC 16 bits, il est le plus rapide de toute la gamme MSX.</text>
+		</text>
+		
+	</view>
+
+</theme>

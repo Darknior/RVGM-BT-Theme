@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Home video game console
+Seventh
+2005
+HDDVD, CD, Online
+Joypad, Kinect Camera</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Microsoft's Xbox 360 is a video game console released in the United States on November 22, 2005. It inspires a new wave of unprecedented innovation in video games, both in gameplay and in narrative or artistic quality. Xbox 360 brings new meaning to music, movies and photos stored on a variety of devices such as MP3 players, digital cameras or PCs. It is equipped with a Xenon processor clocked at 3200 Mhz, 1 MB of cache memory supported by 512 MB of RAM and a Xenos 500 Mhz GPU allowing it to display games in 720p and 1080p maximum.</text>
+		</text>
+		
+	</view>
+
+</theme>

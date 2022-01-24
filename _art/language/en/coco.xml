@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>TRS-80 Color Computer
+Personal computer
+Second
+1980/ 1983 / 1986
+Cartridge, casset, floppy
+Keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>RadioShack's CoCo Color Computer was based on Motorola's 6809 microprocessor and was part of the TRS-80 line. It had a 0.895 MHz processor and up to 64KB of RAM. The Coco II will be smaller, have a better keyboard and be able to display lower case letters. The Coco III will have a 68B09e processor capable of doubling the original frequency and 512 kB of RAM. As well as a new 'GIME' graphics chip allowing a maximum resolution of 640x225 and up to 16 colors from a palette of 64. (The 64 are available with a trick)</text>
+		</text>
+		
+	</view>
+
+</theme>
+

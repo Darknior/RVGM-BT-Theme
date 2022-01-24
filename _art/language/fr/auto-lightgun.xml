@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Collection de jeu 2D/3D
+Toutes
+1980 / 20xx
+Tous les supports
+Pistolet, Wiimote, Manette</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le tir au pistolet optique, light gun shooter ou light gun game, désigne les jeux où vous devez viser et tirer sur votre TV CRT. Ces jeux emploient des "Pistolets optiques" utilisant des capteurs lumineux Infra-rouge et le balayage du tube cathodique. Ce concept des années 30 est repris dans les années 80 pour les jeux vidéo comme le célèbre Duck Hunt. Puis malgré les excellents Virtua Cop et Time Crisis des années 90, dès 2000 le jeu de tir perd en popularité (n’étant pas compatible avec les TV LCD=. La Wii relance la mode en 2006 avec sa manette Wiimote à détection des mouvements.</text>
+		</text>
+		
+	</view>
+
+</theme>

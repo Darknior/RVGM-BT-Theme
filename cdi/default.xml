@@ -9,14 +9,14 @@
             <maxSize>0.9 0.9</maxSize>
 		</image>
 		
-		<!-- Sytem AVATAR 2 -->
+		<!-- Sytem AVATAR 2 --
 		<image name="avatar2" extra="static">
-			<origin>1 1</origin> <!-- Right -->
+			<origin>1 1</origin> <!-- Right --
 			<pos>0.882 0.953</pos>
 			<maxSize>0.3104 0.9067</maxSize>
 			<path>./avatar2.png</path>
 			<zIndex>17</zIndex>
-		</image>
+		</image> -->
 		
 	</view>
 </theme>

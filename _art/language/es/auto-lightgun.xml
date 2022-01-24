@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Múltiples
+Sistema de Pistola de Luz
+Todas
+1980 / 20xx
+Todos los soportes
+Pistola de Luz, Wiimote, Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>El juego de disparos con pistola de luz, es un tipo de juego en los que debes apuntar y disparar a tu TV CRT. Estos juegos usan 'Pistolas ópticas' dotadas de sensores de luz infrarroja, capaces de escanear las antiguas pantallas CRT. Este concepto de los años 30's se retomó en los años 80's en los videojuegos con el famoso Duck Hunt de Nintendo. Luego, a pesar del excelente Virtua Cop y Time Crisis de los años 90, el genero perdió popularidad a partir del 2000 al no ser compatible con los televisores LCD. La Wii revivió la moda en 2006 con su controlador de detección de movimiento Wiimote.</text>
+		</text>
+		
+	</view>
+
+</theme>
