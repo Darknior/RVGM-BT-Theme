@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Périphérique console
+Quatrième
+1994
+Cartouche GB
+Manette</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Ce système fonctionne uniquement avec les cartouches Game Boy monochrome, dont il converti en couleur les quatre niveaux de gris. Les jeux estampillé SGB posséderont par la suite des informations de couleur additionnelles et des bordures personnalisées. L'écran de jeu ne remplissant pas entièrement la télévision, le Super Game Boy en contenait par défaut. L'adaptateur supporte 256 couleurs pour des écrans statiques et 12 pendant le jeu. Certains jeux ont aussi des effets sonores supplémentaires comme Asteroids, Space Invaders et Donkey Kong '94.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Fujitsu
+Personal Computer
+Second
+1982
+Floppy 5¼, Cassette tape
+Keyboard, joystick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The FM-7 is an 8-bit personal computer released in Japan in 1982. It is the first of a long consumer series that includes, among others, the FM-NEW 7, the FM-77 and the FM-77AV. It is composed of two Motorola 68B09 processors clocked at 2 Mhz, one main and one for the graphics. As well as 64 KB of RAM, it can display a resolution of 640x200 in 8 colors and offers 3-channel sound. The last model will be the FM77AV40SX released in 1988, which will allow up to 448 KB of RAM, and a 320x200 display in 26214 colors or 640x400 with a lesser palette.</text>
+		</text>
+		
+	</view>
+
+</theme>

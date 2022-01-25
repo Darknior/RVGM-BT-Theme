@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Entex Industries
+Home video game console
+Second
+1982
+Cartridge
+Joystick 4 axes & 8 buttons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Adventure Vision is a cartridge video game console incorporating a video monitor. Produced by Entex Industries and marketed from 1982, the Adventure Vision is the second console designed by Entex, it succeeds the Select-A-Game, a portable console released a year earlier in 1981. It has a processor at 733 KHz, 1 kB of RAM, graphics in 150x40 monochrome pixels and a sound chipset clocked at 52.6 kHz. This system has very few games.</text>
+		</text>
+		
+	</view>
+
+</theme>

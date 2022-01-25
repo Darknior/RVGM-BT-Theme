@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+Périphérique console
+Quatrième
+1996
+Cartouche
+Manette 6 boutons, pistolet</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Sufami Turbo est un accessoire commercialisé par Bandai en 1996 afin de produire des cartouches de jeux sur SNES beaucoup moins chères. Il se logait dans la console et pouvait acceuillir deux mini cartouches propriétaires. Les deux emplacements sont conçus pour partager des données entre les jeux. La cartouche 1 est le jeu qui sera joué, tandis que la cartouche dans l'emplacement 2 fournit des données supplémentaires à utiliser dans le jeu principal. Sur les 13 jeux sortis, 9 d'entre eux peuvent s'enchaîner, au sein de chaque série de jeux.</text>
+		</text>
+		
+	</view>
+	
+</theme>

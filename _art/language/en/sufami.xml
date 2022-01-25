@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+Video game console add-on
+Fourth
+1996
+Cartridge
+6 button gamepad, Super Scope</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Sufami Turbo is an accessory marketed by Bandai in 1996 in order to produce much cheaper SNES game cartridges. It was housed in the console and could accommodate two proprietary mini cartridges. Both slots are designed to share data between games. Cartridge 1 is the game that will be played, while the cartridge in slot 2 provides additional data for use in the main game. Of the 13 games released, 9 of them can be linked together, within each series of games.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bally Manufacturing
+Console de salon
+Deuxième
+1977
+Cartouches
+Joystick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le "Professional Arcade" est une console de jeux vidéo, conçue par "Bally Manufacturing", une équipe de Midway. Commercialisée en 1977 et durant une période limitée avant que Bally ne décide de quitter ce marché. Avec son processeur Z80 cadencé à 1.789 Mhz, elle fut remarquée pour ses capacités graphiques très puissantes, mais aussi pour la difficulté d'accès à ces mêmes capacités. Son principal défaut fut qu'elle n'était disponible que par correspondance avec de long délais de fabrication. Ce sera Astrovision qui la renommera "Astrocade" en 1982.</text>
+		</text>
+		
+	</view>
+
+</theme>

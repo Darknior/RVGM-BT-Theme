@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Video game console add-on
+Fourth
+1995
+Cartridge, download
+6 button gamepad, Super Scope</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Satellaview is an extension of the Super Famicom, released only in Japan in 1995. It was also known by the initials 'BS-X' standing for 'Broadcast Satellite'. This satellite tuner system came with a 'BS-X' type cartridge containing an 8 Mbit memory card. Thus it made it possible to connect to a service for downloading games, codes and information. All data passed through a television station named St.GIGA. You had to download the games distributed in several parts and play them when they were released.</text>
+		</text>
+		
+	</view>
+
+</theme>

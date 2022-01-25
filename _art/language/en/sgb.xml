@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Video game console add-on
+Fourth
+1994
+GB Cartridge
+Gamepad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>This system works only with monochrome Game Boy cartridges, of which it converts the four levels of gray into color. SGB-stamped games will later have additional color information and custom borders. Since the game screen did not entirely fill the television, the Super Game Boy contained some by default. The adapter supports 256 colors for static screens and 12 during gameplay. Some games also have additional sound effects like Asteroids, Space Invaders and Donkey Kong '94.</text>
+		</text>
+		
+	</view>
+
+</theme>
