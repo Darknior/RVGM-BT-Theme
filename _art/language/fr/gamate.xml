@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bit Corporation
+Console portable
+Quatrième
+1990
+Cartouche
+Manette 2 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Gamate semble être la première des nombreuses consoles portables lancées en réaction au succès de la Game Boy de Nintendo. Il a été initialement publié par la société de jeux taïwanaise Bit Corporation en collaboration avec des distributeurs locaux du monde entier. Elle est équipé d'un processeur 8 bit, de 16 ko de RAM, d'un écran LCD 4 niveaux de gris capable d'afficher du 160x152 et d'un speaker mono. Il y avait même le cable link en option, mais la mauvaise qualité de son écran, de la maniabilité et des jeux en feront un échec commercial.</text>
+		</text>
+		
+	</view>
+
+</theme>

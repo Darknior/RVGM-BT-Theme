@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Blzut3
+Moteur de jeu 2.5D
+2 & 3
+1992
+Fichiers
+Manette, clavier, souris</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>ECWolf est à la base un portage avancé de Wolfenstein 3D, Spear of Destiny et Super 3D Noah's Ark basé sur le moteur Wolf4SDL. Il utilise aussi une partie du code de ZDoom pour fournir un large éventail de capacités d'édition de mods sans avoir à modifier le code source. On peut ainsi très simplement modifier les armes et niveaux du jeu et packager son mod dans un seul fichier. Pour les joueurs, le moteur propose un meilleur gameplay, supporte la résolutions 16/9, les sauvegardes illimitées, les cartes de forme ou taille illimité et les packs de textures HD.</text>
+		</text>
+		
+	</view>
+
+</theme>
+
+

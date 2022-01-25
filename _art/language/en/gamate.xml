@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bit Corporation
+Handheld game console
+Fourth
+1990
+Cartridge
+2 buttons joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Gamate appears to be the first of many handheld consoles released in response to the success of Nintendo's Game Boy. It was originally released by Taiwanese game company Bit Corporation in conjunction with local distributors around the world. It is equipped with an 8-bit processor, 16 kB of RAM, a 4-level gray LCD screen capable of displaying 160x152 and a mono speaker. There was even the cable link as an option, but the poor quality of its screen, handling and games will make it a commercial failure.</text>
+		</text>
+		
+	</view>
+
+</theme>
