@@ -6,19 +6,23 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Tiger, Nintendo, etc
-Handheld console
-Second
-1976
-None
-Arrow keys and buttons</text>
-		</text>
+<text>Adobe, Macromedia
+2D Game Engine
+Fourth
+1996
+Files
+Keyboard, mouse</text>
+
+</text>
+		
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>An electronic game is a small 'electronic' device intended for playing video games. Screen, speakers, controllers and game are integrated. Instead of a general-purpose screen made up of a matrix of pixels, handheld electronic games most often feature a dedicated screen with predefined graphics. They mostly use a liquid crystal display. Sometimes embellished with a watch function, like Nintendo's famous Game and Watch. They are the precursors of portable video game consoles.</text>
+<text>From 1996 to 2020 Flash made it possible to run animations and video games on web browsers. These represent an era, being mostly free, they were easily accessible to everyone and we participated in the democratization of video games. The majority are creations of individuals, many are of poor quality, some pose licensing problems. But the video game has a history and they are part of it, it's about keeping track of it. The situation is similar to that of Abandonware.</text>
 		</text>
 		
 	</view>
 
 </theme>
+
+

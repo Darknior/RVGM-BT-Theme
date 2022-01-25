@@ -6,19 +6,23 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Tiger, Nintendo, etc
-Handheld console
-Second
-1976
-None
-Arrow keys and buttons</text>
-		</text>
+<text>Adobe, Macromedia
+Moteur de jeu 2D
+Quatrieme
+1996
+Fichiers
+Clavier, souris</text>
+
+</text>
+		
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>An electronic game is a small 'electronic' device intended for playing video games. Screen, speakers, controllers and game are integrated. Instead of a general-purpose screen made up of a matrix of pixels, handheld electronic games most often feature a dedicated screen with predefined graphics. They mostly use a liquid crystal display. Sometimes embellished with a watch function, like Nintendo's famous Game and Watch. They are the precursors of portable video game consoles.</text>
+<text>De 1996 à 2020 Flash a permis de faire tourner des animations et des jeux vidéo sur les navigateurs web. Ceci représentent une époque, étanet pour la plupart gratuits, ils étaient facilement accessibles pour tout le monde et on participé à la démocratisation du jeu vidéo. La majorité sont des créations de particuliers, beaucoup sont de mauvaise qualité, certains posent des problème de licence. Mais le jeu vidéo a une histoire et ils en font partie, il s'agit d'en garder une trace. La situation s'apparente à celle de l'Abandonware.</text>
 		</text>
 		
 	</view>
 
 </theme>
+
+
