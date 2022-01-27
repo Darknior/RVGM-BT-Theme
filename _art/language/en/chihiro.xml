@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Arcade video game cabinet
+Sixth
+2003
+GD-Rom
+Arcade stick and other</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Chihiro is a system intended for arcade terminals, created by Sega in 2003. It is based on the architecture of the Xbox console, uses its Intel Pentium III 733 MHz processor and its nVIDIA XChip 233 Mhz graphics processor, based on the GeForce 3. It also has 128 MB of RAM, a sound chip with MP3 acceleration and a GD-Rom reader. It could thus display games in 720p and 1080i. It features hits like, Crazy Taxi High Roller, OutRun 2 SP, Virtua Cop 3 and The House of the Dead III.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Borne d’Arcade
+Sixième
+2003
+GD-Rom
+Stick arcade et autres</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Chihiro est un système destiné aux bornes d'arcade, créé par Sega en 2003. Il est basé sur l'architecture de la console Xbox, utilise son processeur Intel Pentium III 733 MHz et son processeur graphique nVIDIA XChip 233 Mhz, basé sur la GeForce 3. De plus il dispose de 128 Mo de RAM, d'un chip sonore avec accélération MP3 et d’un lecteur GD-Rom. Il pouvait ainsi afficher des jeux en 720p et 1080i. Il propose des hits comme, Crazy Taxi High Roller, OutRun 2 SP, Virtua Cop 3 et The House of the Dead III.</text>
+		</text>
+		
+	</view>
+
+</theme>
