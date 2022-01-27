@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Proff, RjY, CPH
-Moteur de jeu 2.5D
-2.5.0+
-2008
-Fichiers WAD
-Manette de jeu, clavier, souris</text>
+<text>Christian Whitehead
+Moteur de jeu 2D
+Quatrième
+2013
+Fichiers
+Manette</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Prboom, est un port de Doom supportant Doom, Doom II, Ultimate Doom et les autres wads sortis ultérieurement. Il est aussi compatible avec FreeDoom. Il est désormais possible de jouer en OpenGL et donc de profiter de résolutions plus élevées et d'effets améliorés. L'objectif est d’étendre les fonctionnalités en préservant la compatibilité. Il apporte notamment des synthétiseurs MIDI, les formats OGG et MP3, des textures et sprites haute résolution, la possibilité de regarder vers le haut et le bas, une caméra suiveuse, des tapis roulants, des téléporteurs silencieux, des NPC, etc...</text>
+<text>La version mobile de Sonic 1 et 2 a été élaborée en 2013 via le Retro Engine de Christian Whitehead. Sega lui avait demandé d'utiliser ce moteur pour proposer des versions remasterisées sur iOS et Android. Plus tard, il fera aussi partie de la team de Sonic Mania... Les versions mobiles sont largement considérées comme le meilleur moyen de jouer à ces titres, car ils proposent de nouveaux contenus comme Tails and Knuckles jouables dans les deux titres et une caméra qui permet aux joueurs de voir plus facilement ce qui les attend. Voici ici le portage de ces versions...</text>
 		</text>
 		
 	</view>

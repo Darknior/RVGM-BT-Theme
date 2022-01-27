@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Proff, RjY, CPH
-Moteur de jeu 2.5D
-2.5.0+
-2008
-Fichiers WAD
-Manette de jeu, clavier, souris</text>
+<text>Christian Whitehead
+2D Game Engine
+Fourth
+2013
+Files
+Joypad</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Prboom, est un port de Doom supportant Doom, Doom II, Ultimate Doom et les autres wads sortis ultérieurement. Il est aussi compatible avec FreeDoom. Il est désormais possible de jouer en OpenGL et donc de profiter de résolutions plus élevées et d'effets améliorés. L'objectif est d’étendre les fonctionnalités en préservant la compatibilité. Il apporte notamment des synthétiseurs MIDI, les formats OGG et MP3, des textures et sprites haute résolution, la possibilité de regarder vers le haut et le bas, une caméra suiveuse, des tapis roulants, des téléporteurs silencieux, des NPC, etc...</text>
+<text>The mobile version of Sonic 1 and 2 was developed in 2013 via Christian Whitehead's Retro Engine. Sega had asked him to use this engine to offer remastered versions on iOS and Android. Later, he will also be part of the Sonic Mania team... The mobile versions are widely considered to be the best way to play these titles, as they offer new content like Tails and Knuckles playable in both titles and a camera which makes it easier for players to see what awaits them. Here is the port of these versions...</text>
 		</text>
 		
 	</view>
