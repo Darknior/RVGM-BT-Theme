@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Anders, Michael, Tommy
+Moteur de jeu 2D
+11.4+
+2008
+Fichiers LUA
+Manette, souris, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>LÖVE est un moteur libre multiplate-forme de développement de jeux 2D, utilisant le Lua comme langage de programmation. L'API fournie par le moteur donne accès aux fonctions vidéo et sonores de la machine hôte grâce aux bibliothèques SDL et OpenGL. Les specification techniques sont donc elles de votre machine. On retrouve fréquemment ce moteur dans les compositions des compétitions de développement de jeux vidéo, comme la compétition internationale Ludum Dare. En juillet 2018, il était le 10e moteur de jeu le plus utilisé par les indépendants.</text>
+		</text>
+		
+	</view>
+	
+</theme>
+

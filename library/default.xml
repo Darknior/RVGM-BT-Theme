@@ -3,7 +3,7 @@
 
 	<view name="system">
 	
-			<image name="avatar, avatar_ghost1, avatar_ghost2" extra="static">
+		<image name="avatar" extra="static">
 			<origin>0 0</origin>
 			<pos>0.43 0.26</pos>
 			<maxSize>0.2969 0.7067</maxSize>

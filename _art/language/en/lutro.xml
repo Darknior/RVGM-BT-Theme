@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Anders, Michael, Tommy
+2D Game Engine
+11.4+
+2008
+LUA Files
+Joypad, mouse, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>LÖVE is a free cross-platform 2D game development engine, using Lua as a programming language. The API provided by the engine gives access to the video and sound functions of the host machine thanks to the SDL and OpenGL libraries. The technical specifications are therefore of your machine. This engine is frequently found in the compositions of video game development competitions, such as the international Ludum Dare competition. As of July 2018, it was the 10th most used game engine by indies.</text>
+		</text>
+		
+	</view>
+	
+</theme>
+
