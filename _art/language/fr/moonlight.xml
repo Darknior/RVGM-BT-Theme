@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Amstrad
-Personal computer
-Third
-1984
-Cassette tape, Floppy disk
-Joystick, mouse, keyboard</text>
+<text>Case Western University
+Streaming de jeux vidéo
+2.5.0+
+2015
+Compte Steam
+Manette, souris, clavier</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Amstrad CPC, Color Personal Computer, is an 8-bit personal computer released in 1984. Based on the Zilog Z80 processor at 4 Mhz, it will have 64 to 128 kB of RAM over its 5 models: CPC464, CPC664, CPC6128 , 464plus and 6128plus. It displays a resolution of 192x272 in 16 colors, 354x272 in 4 and 768x272 in 2. Knowing that the 3 modes can be mixed on the same game screen. Several peripherals are available, such as a printer, a joystick, a mouse and a reader diskettes. Designed primarily for family customers, its installation is as simple as possible.</text>
+<text>Moonlight est une version open-source du protocole NVIDIAs GameStream qui vous permet de diffuser des jeux depuis un PC équipé d'une carte graphique NVIDIA vers un boîtier distant. Il s'agit d'un logiciel de streaming de jeux similaire à "Steam Link". Le projet à vue le jour en 2013, et Batocera utilise "Moonlight Embedded" qui fonctionne également sur les appareils ARM comme un Raspberry Pi. Ainsi vous pouvez streamer vos derniers jeux 3D sur votre TV, même avec un boitier très peux puissant. le protocole supporte jusqu'à 4 joueurs, et le 1080p 60fps.</text>
 		</text>
 		
 	</view>

@@ -6,19 +6,20 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Amstrad
-Personal computer
-Third
-1984
-Cassette tape, Floppy disk
-Joystick, mouse, keyboard</text>
+<text>Nintendo
+Périphérique console
+Cinquième
+1999
+Disque magnétique
+Manette 6 boutons, souris</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Amstrad CPC, Color Personal Computer, is an 8-bit personal computer released in 1984. Based on the Zilog Z80 processor at 4 Mhz, it will have 64 to 128 kB of RAM over its 5 models: CPC464, CPC664, CPC6128 , 464plus and 6128plus. It displays a resolution of 192x272 in 16 colors, 354x272 in 4 and 768x272 in 2. Knowing that the 3 modes can be mixed on the same game screen. Several peripherals are available, such as a printer, a joystick, a mouse and a reader diskettes. Designed primarily for family customers, its installation is as simple as possible.</text>
+<text>Le Nintendo 64DD est un périphérique de la N64 sorti au Japon le 1er décembre 1999. Il se connecte via le port d'extension situé sous la console et lui permet de lire des disques magnétiques. Un modem permettait également de se connecter au réseau Randnet qui offrait différentes options comme le jeu en ligne, un service de messagerie et la navigation sur Internet. Le 64DD augmente la mémoire de la console de 4 Mo à 8 Mo, et offre aussi la possibilité de faire fonctionner des extensions pour des jeux N64 classique comme Zelda ou F-Zero X.</text>
 		</text>
 		
 	</view>
 
 </theme>
+

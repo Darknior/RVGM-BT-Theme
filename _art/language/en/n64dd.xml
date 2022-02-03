@@ -6,19 +6,20 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Amstrad
-Personal computer
-Third
-1984
-Cassette tape, Floppy disk
-Joystick, mouse, keyboard</text>
+<text>Nintendo
+Video game console add-on
+Fifth
+1999
+Magnetic disc
+6 button gamepad, mouse</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Amstrad CPC, Color Personal Computer, is an 8-bit personal computer released in 1984. Based on the Zilog Z80 processor at 4 Mhz, it will have 64 to 128 kB of RAM over its 5 models: CPC464, CPC664, CPC6128 , 464plus and 6128plus. It displays a resolution of 192x272 in 16 colors, 354x272 in 4 and 768x272 in 2. Knowing that the 3 modes can be mixed on the same game screen. Several peripherals are available, such as a printer, a joystick, a mouse and a reader diskettes. Designed primarily for family customers, its installation is as simple as possible.</text>
+<text>The Nintendo 64DD is a peripheral of the N64 released in Japan on December 1, 1999. It connects via the expansion port located under the console and allows it to read magnetic discs. A modem also made it possible to connect to the Randnet network which offered various options such as online gaming, a messaging service and Internet browsing. The 64DD increases console memory from 4MB to 8MB, and also offers the ability to run expansions for classic N64 games like Zelda or F-Zero X.</text>
 		</text>
 		
 	</view>
 
 </theme>
+

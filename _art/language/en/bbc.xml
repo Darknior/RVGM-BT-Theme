@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Amstrad
+<text>Acorn Computers
 Personal computer
-Third
-1984
-Cassette tape, Floppy disk
-Joystick, mouse, keyboard</text>
+Second
+1981
+Cassette tape, floppy, HDD
+Joystick, opt pen, keyboard</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Amstrad CPC, Color Personal Computer, is an 8-bit personal computer released in 1984. Based on the Zilog Z80 processor at 4 Mhz, it will have 64 to 128 kB of RAM over its 5 models: CPC464, CPC664, CPC6128 , 464plus and 6128plus. It displays a resolution of 192x272 in 16 colors, 354x272 in 4 and 768x272 in 2. Knowing that the 3 modes can be mixed on the same game screen. Several peripherals are available, such as a printer, a joystick, a mouse and a reader diskettes. Designed primarily for family customers, its installation is as simple as possible.</text>
+<text>The BBC Micro, is a series of microcomputers designed by Acorn Computers in 1981. It was the spearhead of the 'computer literacy' project launched by the BBC following a documentary in which Dr Christopher Evans predicts the coming of the computer revolution and its impact on the UK. The BBC is equipped with an 8 bit processor at 3 Mhz and 16 to 128 kB of RAM with upgrades. It can display 640x256 in 16 colors, play mono sound on 4 channels, voice synthesis, has an optical pen, analog and digital inputs.</text>
 		</text>
 		
 	</view>
