@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Cave
+Borne d’Arcade
+Sixième
+2004
+PCB Jamma
+Stick arcade et autres</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Cave CV1000, plus communément appelé Cave 3rd Génération, est un système d'arcade conçu par la société japonaise Cave en 2004. Deux versions de ce système ont vu le jour, le Cave CV1000B et sa version évoluée le Cave CV1000D. Il fut utilisé pour tous les jeux d’arcade publiés par Cave de "Mushihimesama" en 2004 à "DoDonPachi SaiDaiOuJou" en 2012, à l’exception de "Deathsmiles II". Il embarque un processeur Hitachi SH-3 32 bit à 133 Mhz. Cette PCB disparaitra avec l'arrivée du système NESiCA x Live, qui nécessite un Taito Type X² ou Taito Type X³.</text>
+		</text>
+		
+	</view>
+
+</theme>

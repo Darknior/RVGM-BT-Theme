@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>APF Electronics Inc.
+Console de salon
+Deuxième
+1978
+Cartouche
+Joystick avec pavé 12 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'APF-MP1000 est une console produite par APF Electronics et sortie en 1978. Elle est équipée d'un processeur 68000 8 bit à 3.579 Mhz et 1 ko de RAM. Elle peut afficher une résolution de 256x192 pixels en 8 couleurs et dispose d'un haut-parleur intégré. Les deux contrôleurs ne sont pas détachables, ils comprennent un joystick et un pavé de 12 boutons chacun. Elle fonctionne uniquement sur un téléviseur en couleur et elle est livrée avec un jeu intégré, Rocket Patrol. On est très proche de ce que proposait la Intellivision à la même époque.</text>
+		</text>
+		
+	</view>
+	
+</theme>

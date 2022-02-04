@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>lexander Larsson
+App virtualization
+1.12.4+
+2007
+Flatpack Repo
+Joystick, keyboard, mouse</text>
+
+</text>
+		
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Flatpak package system was developed to facilitate the secure deployment of applications on different distributions. Initially the project was called 'xdg-app' in reference to 'freedesktop.org' abbreviated 'xdg', this structure having hosted the project on its servers. In 2016 the project changed its name to 'Flatpak' with the support of Red Hat, Endless Computers and Collabora3. During this announcement, a certain number of projects offer their software in this format, such as LibreOffice, GIMP, InkScape and a large part of the software in the GNOME environment.</text>
+		</text>
+		
+	</view>
+
+</theme>

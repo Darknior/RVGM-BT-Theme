@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Epoch
+Console de salon
+Troisième
+1991
+Cartouche
+2 button Joypad interne</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Cassette Vision est une console fabriquée par Epoch et sortie au Japon en 1981. Une version remaniée est sortie sous le nom "Cassette Vision Jr." avant sa suite, la "Super Cassette Vision" non compatible avec la première. Elle est équipée d'un processeur clone du Z80, est très limité sur le point de vue sonore, mais est capable d'afficher une résolution de 309x246 en 16 couleurs avec un nombre de 128 sprites simultanés. De plus elle était fournie avec deux manettes intégrés rangés sous son capot avant. Mais malgré tous ces atouts elle ne saura tenir tête à la NES et sa ludothèque.</text>
+		</text>
+		
+	</view>
+	
+</theme>
