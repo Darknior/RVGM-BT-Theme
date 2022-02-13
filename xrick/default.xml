@@ -1,0 +1,15 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible>
+		</text>
+		<image name="info-bg, synopsys" extra="static">
+			<visible>false</visible>
+		</image>
+
+	</view>
+
+</theme>

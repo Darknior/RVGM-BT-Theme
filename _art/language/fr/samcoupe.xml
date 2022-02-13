@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Miles Gordon Technology
+Ordinateur personnel
+Deuxième
+1989
+Disquette 3.5", Cassette
+Clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le SAM Coupé est un ordinateur personnel 8 bits britannique sorti en 1989 et fabriqué par Miles Gordon Technology (MGT). Il est équipé d'un processeur Z80B cadencé à 6 Mhz, 512 ko de RAM max en interne et 4 Mo en externe. Il propose un son 6 canaux stéréo sur 8 octaves et on peux y intégrer un lecteur disquette 3 pouces 1/2. Il dispose de quatre modes graphiques avec du 256x192 pixels en 16 couleurs et du 512x192 pixels en 4 couleurs. Il est aussi compatible ZX Spectrum 48K pour agrandir sa ludothèque, mais sortie trop tard en même temps que les ordinateurs 16 bits.</text>
+		</text>
+		
+	</view>
+
+</theme>

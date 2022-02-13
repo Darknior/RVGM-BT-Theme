@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Borne d’Arcade
+Sixième
+2000
+Cartouche ROM, GD-Rom
+Arcade stick, pistolet, volant</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Naomi 2 est le système d'arcade qui succède au système Naomi en 2000 suite au faible accueil de la Dreamcast. L'architecture du Naomi 2 est semblable à celle de son ainée, les jeux sont donc compatibles. Par contre il bénéficiant de l'augmentation de la capacité graphique avec maintenant deux puces PowerVR CLX2, une mémoire doublée qui passe 16 Mo à 32 Mo soit quatre fois plus que la Dreamcast, permettant l'affichage de plus de détails graphiques. Son processeur central Hitachi SH-4 est cadencé à 200 MHz et elle affiche 10 millions de polygones par seconde.</text>
+		</text>
+		
+	</view>
+
+</theme>

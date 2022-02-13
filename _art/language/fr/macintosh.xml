@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Macintoch
+Ordinateur personnel
+Deuxière
+1984
+Disquette 3.5"
+Clavier, souris</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Macintosh (128K) est le premier ordinateur personnel de la famille des Mac lancé par Apple Computer en 1984. Conçu pour la classe moyenne américaine, il était simple d'utilisation et livré avec un clavier et une souris un bouton. Il dispose d'un processeur x68000 cadencé à 8 Mhz, 128 ko de RAM et une sortie son 8 bit mono. Son boitier tout en un, embarque un écran de 9 pouces monochrome affichant une résolution de 512x342 pixels. Les Macintosh suivants passeront à 512 ko puis 1 Mo de RAM avec le modèle "Plus". Les modèles "SE" et "Classic" disposeront d'un DDur de 40 Mo.</text>
+		</text>
+		
+	</view>
+
+</theme>

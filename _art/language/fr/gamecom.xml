@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tiger Electronics
+Console portable
+Cinquième
+1997
+Cartouche
+Écran tactile, 4 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Game.com est une console portable conçue par Tiger Electronics en 1997. Elle est équipée d'un processeur Sharp SM8521 8-bit et propose un son mono PCM ainsi que des fonctions FM. L'écran monochrome en 4 tons de gris affiche une résolution de 200x160 pixels. Destinée à un public plus âgé, elle proposait plusieurs nouvelles idées. Équipée d'un écran tactile et un stylet, elle pouvait faire office d'assistant personnel. La première version de la console pouvait via son second port cartouche, être connectée à un modem 14,4 kbit/s pour lire ses mails.</text>
+		</text>
+		
+	</view>
+
+</theme>

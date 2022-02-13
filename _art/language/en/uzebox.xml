@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Open source
+Home video game console
+Fourth
+2007
+Micro-SD
+SNES gamepad and mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Uzebox is an open source video game console, with minimalist retro graphics, launched in 2007. It is based on an 8-bit 28 Mhz AVR microcontroller, has 4 KB of RAM, displays 256 simultaneous colors and plays 8 sound. -mono bit. Its advantage is, in addition to its low price, that the games can be developed in C. Functions such as video signal generation, tile rendering and music generation are not the responsibility of the programmer. Emphasis has been placed on making it easy and fun to assemble and program.</text>
+		</text>
+		
+	</view>
+	
+</theme>

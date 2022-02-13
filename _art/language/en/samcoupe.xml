@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Miles Gordon Technology
+Personnal computer
+Second
+1989
+Cassette, floppy 3.5"
+Keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The SAM Coupe is a British 8-bit personal computer released in 1989 and manufactured by Miles Gordon Technology (MGT). It is equipped with a Z80B processor clocked at 6 Mhz, 512 KB of RAM max internally and 4 MB externally. It offers 6-channel stereo sound over 8 octaves and you can integrate a 3 1/2 inch floppy disk drive. It has four graphics modes with 256x192 pixels in 16 colors and 512x192 pixels in 4 colors. It is also ZX Spectrum 48K compatible to enlarge its toy library, but released too late at the same time as 16-bit computers.</text>
+		</text>
+		
+	</view>
+
+</theme>

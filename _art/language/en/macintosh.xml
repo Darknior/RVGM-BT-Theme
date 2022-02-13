@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Macintoch
+Personal computer
+Second
+1984
+Floppy 3.5"
+Keyboard, mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Macintosh (128K) is the first personal computer in the Mac family launched by Apple Computer in 1984. Designed for the American middle class, it was easy to use and came with a keyboard and a one-button mouse. It has an x68000 processor clocked at 8 Mhz, 128 kB of RAM and an 8-bit mono sound output. Its all-in-one box features a 9-inch monochrome screen displaying a resolution of 512x342 pixels. Subsequent Macintoshes will increase to 512 kB then 1 MB of RAM with the 'Plus' model. The 'SE' and 'Classic' models will have a 40MB HDD.</text>
+		</text>
+		
+	</view>
+
+</theme>

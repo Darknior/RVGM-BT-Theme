@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Sega
+Borne d’Arcade
+Septième
+1999
+Cartes PCB
+Stick arcade et autres</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Le Hikaru est un système d'arcade créé par Sega en 1999. Il n'est pas basé sur du matériel console, c'est un système entièrement dédié, pensé à l'origine pour le jeu "Brave Fire Fighters". Il est composé de plusieurs PCBs reliées entre elles dont une carte réseau et la carte mère supporte deux Hitachi SH-4 cadencés à 200 MHz, soit deux fois plus que le Naomi 2. Il est capable d'afficher du 640x480 en 16 millions de couleurs, 2 millions de polygones seconde et fut le premier système d'arcade à proposer de l'ombrage Phong. Sans oublier les effets d'eau, flamme et fumée.</text>
+		</text>
+		
+	</view>
+
+</theme>
