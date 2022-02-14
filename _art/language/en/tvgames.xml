@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Jakks Pacific
+Home video game console
+Fifth
+2002
+Predefined selection
+Gamepad or stick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>JAKKS Pacific, founded in 1995 by Jack Friedman, decided in 2002 to venture into video games by launching its first plug & play system, the 'TV Atari Classic 10-in-1' game. It incorporates its own stick and connects directly to RCA on the television. In 2004, they already have a dozen of these 'TV Plug It In & Play' games on the market. Building on their success, in 2005 they extended the range with new technologies, such as wireless and GameKey expansion packs to download to enjoy additional games or levels.</text>
+		</text>
+		
+	</view>
+
+</theme>supervision
