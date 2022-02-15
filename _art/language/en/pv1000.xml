@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Casio
+Home video game console
+Third
+1983
+ROM Cartridge
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The PV-1000 is a console produced by Casio in Japan in 1983. It is powered by a Z80A processor clocked at 3.58 Mhz, has 2 kB of RAM and produces sound in three voices. It can display a resolution of 256x192 pixels with 8 simultaneous colors. Failing to achieve significant market share, the console would be pulled from the shelves after just a few weeks. Which is made one of the most fleeting and rare consoles in history. As a result, its toy library only has 15 games.</text>
+		</text>
+		
+	</view>
+
+</theme>

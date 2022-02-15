@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tomy, Matsushita
+Personal computer
+Second
+1982
+Cartridge, cassette
+1 button joystick, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Tutor is a microcomputer developed by Matsushita on behalf of TOMY in 1982. Mainly intended for young Japanese audiences, it is a hybrid device which uses the technology of the TI-99/4A in many respects. While providing the power of a 16-bit TMS9998 processor, superior to that of competitors in the same price range. It embeds 16 KB of RAM, and can display a resolution of 256x192 pixels with the management of 32 sprites and a palette of 16 colors. But poor communication will make it a business failure.</text>
+		</text>
+		
+	</view>
+
+</theme>

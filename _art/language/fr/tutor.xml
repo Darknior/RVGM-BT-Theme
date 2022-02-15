@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tomy, Matsushita
+Ordinateur personnel
+Deuxiéme
+1982
+Cartouche, cassette
+Joystick 1 bouton, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Tutor est un micro-ordinateur développé par Matsushita pour le compte de TOMY en 1982. Principalement destiné au jeune public japonais, c'est un appareil hybride qui reprend sur bien des points la technologie du TI-99/4A. Tout en lui apportant la puissance d'un processeur TMS9998 16 bits, supérieure à celle des concurrents dans la même gamme de prix. Il embarque 16 ko de RAM, et peut afficher une résolution de 256x192 pixels avec la gestion de 32 sprites et une palette de 16 couleurs. Mais une mauvaise communication en feront un échec commercial.</text>
+		</text>
+		
+	</view>
+
+</theme>
