@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Hartung, Videojet, Systema
+Console portable
+Quatrième
+1990
+Cartouche
+Gamepad 2 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Game Master est une console de jeu portable fabriquée en 1990 par Hartung et conçue pour rivaliser avec la Nintendo Game Boy. En Allemagne, il a été commercialisé par Hartung lui-même, au Royaume-Uni par le fabricant déjà bien établi Systema et en France par Videojet. Elle est équipée d'un processeur NEC et dispose d'un écran LCD monochrome 64x64 pixels. Le joypad est incliné pour une raison inconnue et les boutons sont bombés, ce qui les rend très inconfortables à utiliser. Entre ça et sa très faible résolution, la machine fut un échec avec seulement 20 jeux.</text>
+		</text>
+		
+	</view>
+
+</theme>

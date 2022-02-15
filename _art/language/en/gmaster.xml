@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Hartung, Videojet, Systema
+Handheld console
+Fourth
+1990
+Cartridge
+2 button Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Game Master is a handheld game console manufactured in 1990 by Hartung and designed to rival the Nintendo Game Boy. In Germany it was marketed by Hartung itself, in the UK by the already well-established manufacturer Systema and in France by Videojet. It is equipped with an NEC processor and has a 64x64 pixel monochrome LCD screen. The joypad is tilted for some unknown reason and the buttons are bulging making them very uncomfortable to use. Between that and its very low resolution, the machine was a failure with only 20 games.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Welback Holdings
+Handheld game console
+Fourth
+1993
+Cartridge
+2 buttons gamepad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Mega Duck is a portable console created in 1993 by three companies: Creatonic, Videojet and Timlex. It was named as such mainly in France, the Netherlands and Germany. In South America and mainly in Brazil, the Creatonic version bore the name 'Cougar Boy'. The console has a Z80 processor clocked at 4.19 Mhz, 16 KB of RAM, a mono speaker, a stereo headphone output and displays a resolution of 160x144 pixels with 4 levels of dark blue on a green background. 36 games will be available, some of which can be played by two players with an external joystick.</text>
+		</text>
+		
+	</view>
+
+</theme>
