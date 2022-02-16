@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Emerson
+Console de salon
+Deuxième
+1982
+Cartouche
+Joystick, 14 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Arcadia 2001 est une console 8-bit commercialisée par Emerson Radio en 1982. Il en existe une trentaine de clones de par le monde, Bandai réalisant sa version un an plus tard au Japon avec 4 jeux exclusifs dont Dr. Slump. Elle dispose d'un processeur Signetics 2650 cadencé à 3.58 Mhz et de 1 ko de RAM. Elle affiche 4 sprites simultanément, une résolution de 128x208 pixels en monochrome et 128x104 pixels avec 9 couleurs. Un beeper produit le son de la machine. Sa ludothèque s'élèvera à 47 jeux, en concurrence avec l'Atari 5200 et l'Intellivision.</text>
+		</text>
+		
+	</view>
+
+</theme>

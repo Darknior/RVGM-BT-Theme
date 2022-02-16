@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Epoch Co.
+Console portable
+Deuxième
+1984
+Cartouche
+Gamepad, 4 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>La Game Pocket Computer est une console de jeu portable lancée par Epoch au Japon en 1984, précédant le Game Boy de 5 ans. Elle est équipée d'un procésseur NEC à 6 Mhz, 2 ko de RAM et une sortie son mono. Elle affiche une résolution de 75x64 pixels en monochrome. Elle intégre aussi deux jeux, un de puzzle et un programme de peinture. Mais le système sera un véritable échec et en conséquent seulement 5 jeux seront commercialisés.</text>
+		</text>
+		
+	</view>
+
+</theme>
