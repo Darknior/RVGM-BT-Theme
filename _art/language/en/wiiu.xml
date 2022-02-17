@@ -7,16 +7,16 @@
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
 <text>Nintendo
-Console de salon
-Huitième
+Console
+Eighth
 2012
-Disques Propriétaire
+Own Disc
 Wii U GamePad, Wii U Pro, Wiimote</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Sortie en 2012, la WiiU est une console de jeu vidéo commercialisée par Nintendo, succédant à la Wii. La Wii U est la première console de salon à proposer une manette avec un écran tactile intégré. Il s'agit de la première console de Nintendo à pouvoir générer des graphismes en haute définition. Elle est dotée d'un processeur tri-coeur cadencé à 1.24 GHz, une puce graphique AMD Radeon "Latte", cadencé à 550 MHz, 1 Go de DDR3 pour le système + 1 Go pour les jeux. Ont y retrouve des jeux incontournables, comme Mario kart 8 et The Legend of Zelda: The Wind Waker HD.</text>
+<text>Released in 2012, the Wii is a video game console marketed by Nintendo, succeeding the Wii. The Wii U is the first home console to offer a controller with an integrated touchscreen. It is the first console from Nintendo to be able to generate high definition graphics. It is equipped with a tri-core processor clocked at 1.24 GHz, an AMD Radeon "Latte" graphics chip, clocked at 550 MHz, 1 GB of DDR3 for the system + 1 GB for games. There are essential games, like Mario kart 8 and The Legend of Zelda: The Wind Waker HD.</text>
 		</text>
 		
 	</view>
