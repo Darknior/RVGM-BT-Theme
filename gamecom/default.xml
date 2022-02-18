@@ -4,9 +4,7 @@
 	<view name="system">
 	
 			<image name="avatar" extra="static">
-			<origin>0 0</origin>
 			<pos>0.298 0.096</pos>
-			<maxSize>1 1</maxSize>
 		</image>
 		
 	</view>

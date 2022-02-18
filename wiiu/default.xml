@@ -5,7 +5,7 @@
 
 		<image name="avatar, avatar_ghost1, avatar_ghost2" extra="static">
 			<origin>0 0</origin>
-			<pos>0.48 0.38</pos>
+			<pos>0.48 0.18</pos>
 			<maxSize>0.2969 0.9067</maxSize>
 			<path>./avatar.png</path>
 			<linearSmooth>true</linearSmooth>

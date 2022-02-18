@@ -5,7 +5,6 @@
 	
 		<image name="avatar" extra="static">
 			<pos>0.361 0.254</pos>
-			<maxSize>1 1</maxSize>
 		</image>
 		
 	</view>
