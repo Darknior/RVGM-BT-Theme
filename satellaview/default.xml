@@ -6,7 +6,7 @@
 		<image name="avatar" extra="static">
 			<origin>0 0</origin>
 			<pos>0.396 0.177</pos>
-			<maxSize>1 1</maxSize>
+			<maxSize>0.25 0.8</maxSize>
 		</image>
 
 	</view>
