@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Commodore
+<text>Commodore International
 Home video game console
 Fourth
 1993
-CD-Rom
-7 buttons Gamepad, mouse</text>
+CD-ROM
+7 button gamepad, mouse</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Amiga CD32 is a fourth generation video game console marketed by Commodore in September 1993. It’s a console whose architecture is similar to the Amiga 1200 with a CD-ROM drive. It is the first 32-bit to be released in the West, FM Towns Marty having preceded it in Japan. Like the 3DO or Jaguar, marketed at the same time, the CD32 failed to break into the market in the face of PSX and Saturn. Due to its technical limitations, its bitmap display mode greatly limits it in the display of textured 3D games then in fashion. Part of the CDTV catalog is compatible with the console.</text>
+<text>The Amiga CD32 is a fourth generation video game console released by Commodore in 1993. It is essentially an Amiga 1200 with a CD drive. Technically the first 32-bit console to be released in the West, the FM Towns Marty was released before it in Japan. Like the 3DO and the Jaguar, the CD32 failed to break into the market in the face of the PSX and Saturn. Despite the 32-bit architecture, the CD32 lacked the sophisticated 3D visuals of its competition. It would be discontinued only 8 months after its debut. Some CDTV games are compatible with the CD32.</text>
 		</text>
 		
 	</view>

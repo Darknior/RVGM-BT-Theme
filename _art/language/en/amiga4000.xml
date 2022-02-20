@@ -10,13 +10,13 @@
 Personal computer
 Fourth
 1992
-IDE hard drive, CD-Rom
+IDE hard drive, CD-ROM
 Joystick, mouse, keyboard</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Amiga 4000, an expandable pro computer, was released in 1992. It was the last developed by Commodore before its bankruptcy in 1994. Still used in 1996, it could include, as in our Workbench configuration, a 68060 processor running at 50Mhz, a minimum of 512MB of RAM, a PowerPC 604e 233Mhz card and an RTG (Real Time Graphics) display for True Color 24-bit rendering in addition to the AGA chipset. A CD-ROM drive and IDE hard drives were also included. Our game set runs from 1996 to 2002.</text>
+<text>The Amiga 4000 is Commodore's last high-end computer in the Amiga family, released in 1992. Commodore itself would soon file for bankruptcy in 1994. Supported up until 1996, the 4000 used the Motorola 68060 processor with a base RAM of 512MB, a PowerPC 604e card and a RTG display for 24-bit "True Color" in addition to the AGA chipset. The base model also included a CD-ROM drive and IDE hard-disks. Software would be developed for the 4000 up to as late as 2002.</text>
 		</text>
 		
 	</view>
