@@ -11,12 +11,12 @@ Home video game console
 Second
 1978
 Cartridge
-Joystick with 12-button pad</text>
+12 button joystick</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The APF-MP1000 is a console produced by APF Electronics and released in 1978. It is equipped with a 68000 8 bit processor at 3.579 Mhz and 1 kB of RAM. It can display a resolution of 256x192 pixels in 8 colors and has a built-in speaker. The two controllers are not detachable, they include a joystick and a pad of 12 buttons each. It only works on a color TV and it comes with an inbuilt game, Rocket Patrol. We are very close to what the Intellivision was offering at the same time.</text>
+<text>The APF-MP1000 is a console produced by APF Electronics, released in 1978. It is equipped with a Motorola 6800 8-bit CPU and 1KB of RAM. It can display a resolution of 256x192 in 8 colors, and has a built-in speaker. The two controllers included controllers are wired directly to the machine, including a joystick with 12 buttons each. It runs games from cartridges but featured a built-in game: Rocket Patrol. It was very close to the capabilities of its competitor, the Intellivision.</text>
 		</text>
 		
 	</view>
