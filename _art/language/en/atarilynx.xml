@@ -11,12 +11,12 @@ Handheld game console
 Fourth
 1989
 Cartridge
-2 buttons joypad</text>
+2 button joypad</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>This color laptop developed by Epyx under the name 'Handy' in 1987 was marketed by Atari in 1989 after the company was acquired. This after modification of the internal speaker and removal of the stick on the pad. Equipped with a 4 Mhz processor, a 16 Mhz GPU with 3D support and 64 KB of RAM it displayed 480x102 in 16 colors. The 1991 'Lynx II' will bring a new design, a better screen and a power saving option. We could also invert the screen for left-handers and play up to 8 on the network, but it was huge and too greedy in batteries.</text>
+<text>This handheld was developed by Epyx and released by Atari Corporation in 1987. Eventually, Epyx would be acquired by Atari in 1989, with Atari taking over all development of the system. Equipped with a 4MHz CPU, a 16MHz GPU with 3D support and 64KB of RAM, it used a 480x102 display with 16 colors. In 1991, the "Lynx II" was released, featuring a better display and a power saving mode. The console itself featured buttons on the top and bottom, allowing games to be played in portrait. It also featured linked play up to 8 players.</text>
 		</text>
 		
 	</view>

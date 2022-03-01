@@ -9,14 +9,14 @@
 <text>Atari
 Home computer
 Second
-1979 / 1983 / 1985 / 1987
+1979/1983/1985/1987
 Cartridge
-Analog Joystick</text>
+Analog joystick, keyboard</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The 'Atari 8-bits' family is a series of personal computers launched by Atari in 1979. Based on a 6502 processor at 1.79 Mhz, Atari are the first to add a coprocessor allowing it to display a resolution of 384 pixels by Line in 256 colors and 4-way sound. Those were to compete with the Apple II, the Commodore PET and the TRS-80. The first two models, the 400 and the 800 come out respectively with 16 and 48 KB of RAM and 4 joystick ports. They will be re designated in 1983 and 1985 with the XL and XE series which will only remove 2 joystick ports and go to 64 and 128 KB of RAM.</text>
+<text>The Atari 8-bit family is a line of computers launched by Atari in 1979. Based on the MOS Technology 6502 CPU clocked at 1.79MHz, Atari revolutionized the PC marketplace by adding a co-processor to handle more intense tasks. This allowed its video output to reach up to 384 pixels per line in 256 colors and 4-way sound. It would compete against the Apple ][, the Commodore PET and the TRS-80. The first two models, the 400 and 800, had the minimum 16 and 48KB of user-expandable RAM installed, while the later XL and XE models would have the maximum 64 and 128KB installed.</text>
 		</text>
 		
 	</view>
