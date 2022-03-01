@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Home video game console
+Third
+1983
+Cartridge
+2 button Joypad, Light gun</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Nintendo Entertainment System (NES) is an 8-bit console released by Nintendo in 1985, which was the altered version of the Famicom that was released in Japan in 1983. It features a 1.79MHz CPU with 2KB RAM, a resolution of 256x240 in 52 colors and 5 channel audio output. The success of the console was huge and helped revitalize the North American video game industry after its crash in 1983. Its catalog would set the standards for video games for the upcoming generations, with influential titles such as Super Mario Bros., Castlevania, The Legend of Zelda, Megaman, etc.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Home video game console
+Fourth
+1990
+Cartridge
+6 button gamepad, Super Scope</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Super Nintendo Entertainment System (SNES), known as the Super Famicom in Japan, is a video game console developed by Nintendo and released on November, 1990. The console's looks were redesigned for the North American audience. The SNES features a 16-bit architecture to rival Sega's 16-bit Mega Drive/Genesis and to a lesser extent NEC's PC-Engine and SNK's Neo-Geo AES.
+The Satellaview, or BS-X, was released in 1995 exclusively in Japan to download special-edition games via a satellite network hosted by St.GIGA.</text>
+		</text>
+		
+	</view>
+	
+</theme>

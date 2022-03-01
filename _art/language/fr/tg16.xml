@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>NEC Corp., Hudson Soft
+Console de salon
+Quatrième
+1987
+HuCard
+Manette 2/6 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sortie en 1987 au Japon, la PC-Engine (TurboGrafx-16 en Amérique) est la console 8 bits de NEC Corporation. C’est leur première console, et en dehors du Japon et de l'Amérique du Nord la console, peu ou pas distribuée, a connu une existence confidentielle. Elle possède un processeur graphique 16-bits qui a souvent porté à confusion. Elle affiche une résolution de 256×240 à 512×240 pixels en 32 couleurs sur 512, avec un son sur 6 voies PCM stéréo. Avec sa ludothèque de plus de 600 jeux, elle est connue pour ses excellents shoot them up comme Gunhed et Parodius, mais aussi PC Kid, Cadash...</text>
+		</text>
+		
+	</view>
+	
+</theme>
