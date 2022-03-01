@@ -10,13 +10,13 @@
 Arcade System Board
 Sixth
 2003
-ROM Cartridge
+ROM cartridge
 Arcade stick, gun, wheel</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Atomiswave is a cartridge system for a JAMMA arcade machine, created by the Japanese company Sammy in 2003. It is a low-cost and modular system, with the possibility of easily connecting a pistol, a steering wheel or a trackball. It is equipped with a 200 MHz processor, 32 MB of RAM and PowerVR 2. From its launch, it has the support of the company SNK Playmore which decided to use this system for its future games, just like Dimps, IGS and Arc System Works, but the majority of Atomiswave titles are developed by Sammy who merged with Sega in 2004.</text>
+<text>The Atomiswave is a cartridge-based arcade system utilizing JAMMA peripherals, created by Japanese company Sammy in 2003 based on the Dreamcast's hardware. It was a cost-effective, modular system, facilitating for multiple input methods. It is equipped with a Hitachi SH-4 CPU at 200MHz, 16MB of RAM and a PowerVR 2 GPU. With the retirement of the Neo Geo MVS, SNK chose to use the Atomiswave as its next system for future games, but the majority of titles for the system were developed by Sammy itself. Sammy would merge with Sega in 2004.</text>
 		</text>
 		
 	</view>

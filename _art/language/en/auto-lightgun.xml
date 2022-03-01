@@ -9,14 +9,14 @@
 <text>Multiple
 2D/3D Game Collection
 All
-1980 / 20xx
+1980/20xx
 All supports 
 Light gun, Wiimote, Gamepad</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Light gun shooter or light gun game, designates the games where you must aim and shoot at your CRT TV. These games use 'Optical Guns' using infrared light sensors and scanning the cathode ray tube. This concept of the 30s is taken up in the 80s for video games like the famous Duck Hunt. Then, despite the excellent Virtua Cop and Time Crisis of the 90s, as early as 2000 the shooter lost popularity not being compatible with LCD TVs. The Wii revived fashion in 2006 with its Wiimote motion detection controller and R.E. Dark Side Chronicles, Dead Space Extraction, Ghost Squad and Target Terror. </text>
+<text>Originally, the light gun would use light to determine whether or not a shot was registered in game on your CRT display, however over time this term has come to refer to all games which use a gun-like peripheral to aim at in-game targets. Notable retro light gun games include Duck Hunt, House of the Dead, Virtua Cop and Time Crisis. However, in the late 90s light gun games began to drop in popularity. The Wii revived the genre in the mid 2000s with its IR-tracked Wiimote allowing for games such as R.E. Dark Side Chronicles, Dead Space Extraction, Ghost Squad and Target Terror.</text>
 		</text>
 		
 	</view>

@@ -10,13 +10,13 @@
 Home video game console
 Second
 1977
-Cartridge
-Joystick</text>
+ROM cartridge
+Joystick pistol paddle + hex-pad</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The 'Professional Arcade' is a video game console, designed by 'Bally Manufacturing', a Midway team. Marketed in 1977 and for a limited period before Bally decided to leave this market. With its Z80 processor clocked at 1.789 Mhz, it was noted for its very powerful graphics capabilities, but also for the difficulty of accessing these same capabilities. Its main flaw was that it was only available by mail order with long manufacturing times. It was Astrovision who renamed it 'Astrocade' in 1982.</text>
+<text>The 'Professional Arcade' is a video game console designed by Bally Manufacturing, a Midway team. It was marketed for only half a year before Bally would exit the market. With its Zilog Z80 CPU clocked at 1.8MHz and 4KB RAM (expandable to 64KB), it could display up to 320x204 at 4 colors. It was noted for its very powerful, yet technical to develop for graphical capabilities. The rights for the console were later acquired by Astrovision in 1982, who renamed it to the 'Astrocade'.</text>
 		</text>
 		
 	</view>

@@ -10,13 +10,13 @@
 Home video game console
 Fifth
 1993
-Cartridge, CD-Rom
+Cartridge, CD-ROM
 Joystick</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Jaguar is a living room console with cartridges (CD player sold separately) released in 1993 and having a limited toy library because it has not been very successful. It was in its time the only 64-bit console, the PlayStation and Saturn being 32-bit, causing controversy. The two 64-bit processors of the Jaguar are nothing more than graphics accelerators, its graphics processor is a 32-bit and its CPU is a 16-bit at 13 MHz. With its 2 MB of RAM it displays a resolution of 720x526 pixels in 16 million colors. One of his cult games is 'Alien vs. Predator'.</text>
+<text>The Jaguar is a video game console compatible with both cartridges and CD-ROMs (via add-on) released in 1993. Technically the only 64-bit console of its generation, but that was only its graphics accelerators. The GPU itself was 32-bit with its CPU being 16-bit. It could display a resolution of 720x526 in 16 million colors. This would mark Atari's last major home console release. Its library of games remained small as the console itself was not that successful, one of its cult titles is 'Alien vs. Predator'.</text>
 		</text>
 		
 	</view>
