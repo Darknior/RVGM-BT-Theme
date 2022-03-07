@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Armageddon Games
+2D Game Engine
+2.10
+2005
+Files
+Joypad, keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Zelda Classic is a 2D adventure game engine, made as a tribute to 'The Legend of Zelda' on NES, one of the greatest games of all time. It is basically an exact replica, also allowing the development of new quests. These can either use the traditional graphics or enhanced graphics, along with new enemies, items, and challenges. So the most beautiful games have SNES or 100% custom graphics. Version 2.10 is the one ported here in 2021 by netux79. It is the last stable version compatible with DOS and the most used by games.</text>
+		</text>
+		
+	</view>
+
+</theme>

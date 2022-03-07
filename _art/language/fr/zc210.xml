@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Armageddon Games
+Moteur de jeu 2D
+2.10
+2005
+Fichiers
+Manette, clavier</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Zelda Classic est un moteur de jeu d'aventure 2D, réalisé en hommage à "The Legend of Zelda" sur NES, l'un des plus grand jeux de tous les temps. Il en est à la base une réplique exacte, permant aussi le développement de nouvelles quêtes. Celles-ci peuvent soit utiliser les graphismes traditionnels, soit des graphismes améliorés, ainsi que de nouveaux ennemis, objets et défis. Ainsi les jeux les plus beaux ont des graphismes SNES ou 100% custom. La version 2.10 est celle porté ici en 2021 par netux79. C'est la dernière version stable compatible DOS et la plus utilisé par les jeux.</text>
+		</text>
+		
+	</view>
+
+</theme>
