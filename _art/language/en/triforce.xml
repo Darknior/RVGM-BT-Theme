@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Arcade System Board
+All
+2002
+Arcade stick and others</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Triforce is an arcade system board developed jointly by Nintendo, Namco, and Sega, with the first games appearing in 2002. The name "Triforce" is a reference to Nintendo's The Legend of Zelda series of games, and symbolized the three companies' involvement in the project. The system hardware is based on the Nintendo GameCube with several differences, including double the amount of 1T-SRAM, as well as provisions for add-ons such as Sega's GD-ROM system and upgradeable RAM modules.</text>
+		</text>
+		
+	</view>
+
+</theme>

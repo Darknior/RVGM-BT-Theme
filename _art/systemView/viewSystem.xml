@@ -60,6 +60,9 @@
 			<path>./../../${system.theme}/logo-${langue}.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>15</zIndex>
+			<storyboard>       
+				<animation property="scale" from="0.95" to="1.0" begin="200" duration="1100" mode="easeInOut" autoreverse="true" repeat="forever"/>        
+			</storyboard>
 		</image>
 		
 		<!-- TEXT Games Counter -->

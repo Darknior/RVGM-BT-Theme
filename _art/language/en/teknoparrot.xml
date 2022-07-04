@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Multiple
+Arcade
+All
+20xx
+Arcade stick and others</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>TeknoParrot is a closed-source compatibility layer for Windows PCs to run games originally made for Windows-based and some Linux-based arcade systems. It includes the ability to map standard PC gear like steering wheels and joysticks to the game's input.</text>
+		</text>
+		
+	</view>
+
+</theme>

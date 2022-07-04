@@ -1,92 +1,68 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <theme>
-  <formatVersion>7</formatVersion>
-  
-	<view name="splash">
+	<formatVersion>7</formatVersion>
 
+
+<view name="splash">
 		<splash name="splash">
-			<backgroundColor>000000FF</backgroundColor>
+			<backgroundColor>ffffff</backgroundColor>
 		</splash>
+
 		<image name="background">
-			<path>./_art/splash.jpg</path>
+			<path>./../.vman-global/loading/background.png</path>
 		</image>
-		
-		<text name="label, rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion, author, translation" extra="true">
-			<origin>0 0</origin>
-			<rotation>4</rotation>
-			<fontPath>./_art/font/arcade.ttf</fontPath>
-			<fontSize>0.023</fontSize>
-			<color>669e02FF</color>
-			<forceUppercase>true</forceUppercase>
-		</text>
 
-		<text name="label">
-			<pos>0.6 0.55</pos>
-			<size>0.33 0.05</size>
-			<rotation>3</rotation>
-			<alignment>center</alignment>
-		</text>
-		<text name="rvgmVersion, batoceraVersion, retrobatVersion, emuelecVersion, author" extra="true">
-			<size>0.2 0.02</size>
-			<alignment>left</alignment>
-		</text>
-		<text name="rvgmVersion" extra="true">
-			<pos>0.367 0.184</pos>
-			<text>RVGM V1.95</text>
-		</text>
-		<text name="batoceraVersion" extra="true">
-			<pos>0.367 0.239</pos>
-			<text>- BATOCERA 5.26+</text>
-		</text>
-		<text name="retrobatVersion" extra="true">
-			<pos>0.367 0.269</pos>
-			<text>- RETROBAT 3+</text>
-		</text>
-		<text name="emuelecVersion" extra="true">
-			<pos>0.367 0.299</pos>
-			<text>- EMUELEC 3.5+</text>
-		</text>
-		
-		<text name="author" extra="true">
-			<pos>0.367 0.4</pos>
-			<text>BY DARKNIOR</text>
-		</text>
-		<text name="translation">
-			<pos>0.62 0.335</pos>
-			<size>0.322 0.12</size>
-			<rotation>3</rotation>
-			<fontSize>0.020</fontSize>
-			<alignment>left</alignment>
-			<text>THANKS FOR HELP AND TRANSLATION TO:
 
-vv∆∆7, Gilou9999, Azvarel,
-RaM5eS, Adolfo69, SultanSsh,
-@nwildner, Ravage1974</text>
-		</text>
-		
-		<!--
-		English update         : @nwildner
-		Portuguese translation : Azvarel
-		arabe translation      : SultanSsh
-		italian translation    : Adolfo69
-		espagnol translation   : RaM5eS
-		
-		Collections            : Ravage1974
-		-->
-		
+		<image name="progressbarbg" extra="true">
+			<color>00abff</color>
+			<colorEnd>330099</colorEnd>
+			<zIndex>5</zIndex>
+		</image>
+
+
 		<image name="progressbar">
-			<origin>0 0</origin>
-			<!-- <pos>0.6 0.56</pos>
-			<size>0.307 0.045</size> -->
-			<pos>0.263 0.7</pos>
-			<size>0.455 0.065</size>
-			<rotation>3</rotation>
-			<color>669e0280</color>
-		</image>
-		<image name="progressbar:active">
-			<color>669e02FF</color>
-		</image>
+			<color>260377</color>
+			<colorEnd>260377</colorEnd>
+			</image>
 		
+		<image name="progressbar:active">
+			<color>00abff</color>
+			<colorEnd>00abff</colorEnd>
+			<zIndex>7</zIndex>
+		</image>
+
+<!-- 
+		<image name="splashlogo" extra="true">
+			<path>./_inc/assets/splashlogo.png</path>
+			<size>0.3216458333333333 0.1666666666666667</size>
+			<pos>0.2213541666666667 0.4166666666666667</pos>
+		</image> -->
+
+
+		
+		<text name="label">
+
+			<color>FFFFFFFF</color>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<fontPath>./../.vman-global/loading/Proxima-Nova-Sbold.ttf</fontPath>
+			<pos>0.5 0.96</pos>
+			<fontSize>0.028</fontSize>
+			<color>d9d9d9</color>
+			<glowColor>00000018</glowColor>
+			<glowSize>0</glowSize>
+			<glowOffset>0</glowOffset>
+		</text>
 	</view>
-	
+
+
+
+
+
+
+
+
+
+
 </theme>
