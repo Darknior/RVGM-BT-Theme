@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>SIMIV (Thomson)
-Computador pessoal
-Segunda
-1984 / 1986
-Cartucho, disquete, fita K7
-Joystick, teclado, caneta ótica</text>
+<text>Microsoft
+Home video game console
+Sixth
+2001
+DVD, CD, digital
+Joypad</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>O MO5 e o TO7 foram criados em 1984 pela empresa francesa Thomson, por ocasião do plano 'Computing for All', destinado a equipar escolas e residências. Acompanha toca-fitas e uma caneta óptica, permitindo desenhar direto na televisão. Será seguido em 1986 pelo MO6 no intervalo específico e pelo TO9 em 1985 e depois pelo TO8 1986 no jogo profissional. Este último é equipado com um Motorola 6809E a 1 MHz, 256 a 512 KB de RAM, pode exibir um jogo em 160×200 (320×200 máx) 16 cores entre 4096 em 25 fps e música digital em três vozes, como em Mission Liftoff.</text>
+<text>O Xbox da Microsoft é um console de videogame lançado nos Estados Unidos em 15 de novembro de 2001. A Microsoft está dando seus primeiros passos neste setor, depois de ter colaborado com a Sega para trazer o Windows CE para Dreamcast e depois de ter desenvolvido por vários anos jogos da Microsoft Game Studios e acessórios de videogame SideWinder para PC. Está equipado com um processador Intel Pentium III com clock de 733 Mhz, 128 KB de memória cache suportada por 64 MB de RAM e uma GPU Nvidia de 233 Mhz que na verdade é uma GeForce 3 modificada permitindo exibir jogos em 720p e 1080i.</text>
 		</text>
 		
 	</view>
-	
+
 </theme>
