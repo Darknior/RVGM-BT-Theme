@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Home video game console
+Fourth
+1988
+Cartridge
+3/6 button gamepad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Mega Drive (Genesis in America) was developed by Sega based on the Arcade System 16's architecture. Living in the shadow of Nintendo's 16-bit market, Sega took a hold of its own target demographic in America and Europe, sweeping away the PC-Engine. It features a 7.6MHz processor, 74KB of RAM, a resolution of 256x224 (up to 320x224 in particular modes) in 64 colors and FM stereo sound. In 1991, the main mascot of Sega, Sonic the Hedgehog, was released. The Mega Drive also features hits such as Disney's Aladdin, the uncensored Mortal Kombat game and EA's various sports games.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tommo - Blaze (in Europe)
+Hybrid video game console
+Fourth
+2012
+Internal, flash memory
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>The Neo Geo X (NGX) is a video game console manufactured by Tommo, licensed by SNK Playmore. Information about the Neo Geo X was first reported in January 2012 and later confirmed in March.[3][4] It is the first Neo Geo system to be released since the discontinuation of the brand in 2004 and the third Neo Geo handheld device, following the 1999 release of the Neo Geo Pocket Color, which was supported until 2001</text>
+		</text>
+		
+	</view>
+	
+</theme>
