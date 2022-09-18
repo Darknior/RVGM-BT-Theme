@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Console de videogame
+Quarta
+1988
+Cartucho
+Joystick de 3 ou 6 botões</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lançado em 1988, Megadrive ou Genesis nos EUA, é o console da Sega baseado na arquitetura de seu Arcade System 16. Tomando um pequeno mercado de 16 bits da Nintendo, a Sega consegue posicioná-lo no Brasil, EUA e na Europa. Ele possui um processador de 7,6MHz, 74 KB de RAM, uma tela de 320x224 e 256x224 pixels em 64 cores entre o som estéreo de 512 e FM. Em 1991, o mascote Sonic the Hedgehog é lançado, seguido por duas excelentes sequencias. Mas o Megadrive também possui Aladdin, jogos EA Sports e a versão sem censura de Mortal Kombat! </text>
+		</text>
+		
+	</view>
+
+</theme>

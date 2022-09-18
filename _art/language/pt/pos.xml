@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Palm, Inc., ACCESS (Garnet OS)
+Aparelho portatil
+Segunda
+1996
+ROM
+Touchpad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Palm OS é um sistema operacional descontinuado desenvolvido pela PalmSource, Inc. para os Assistentes Pessoais Digitais (PDA) manufaturados por diversas firmas que adquiriram a licença de fabricação. A maior licenciadora do Palm OS é a Palm, Inc..
+
+A última versão foi a 6.0 Cobalt, e sua base (núcleo) nas próximas versões deve ser baseada no sistema operacional Linux, depois da PalmSource comprada pela Access...</text>
+		</text>
+		
+	</view>
+
+</theme>

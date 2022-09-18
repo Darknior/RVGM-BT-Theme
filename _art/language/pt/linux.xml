@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Linus Benedict Torvalds, Community contributors
+Sistema operacional aberto baseado em Unix
+Segunda
+1991
+CD-ROM
+Keyboard</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. O núcleo (ou kernel, em Inglês) foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix.</text>
+		</text>
+		
+	</view>
+
+</theme>

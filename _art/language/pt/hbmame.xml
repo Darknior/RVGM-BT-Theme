@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Vários
+Maquina de Arcade
+1971 / 20xx
+2003
+PCB Jamma, CD-Rom
+Arcade stick e outros</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MAME, um acrônimo para "Multiple Arcade Machine Emulator", é um emulador cujo objetivo é reproduzir fielmente como os jogos de arcade funcionam para preservar a história dos videogames. O MAME está disponível em quase todas as plataformas, graças ao Libretro e ao primeiro lançamento público de Nicola Salmoria, lançado em 5 de fevereiro de 1997. A versão 0.139 (2010) é menos leve que a versão de 2003, mas permite concluir o conjunto de jogos jogáveis de 4750 a 8782 roms compatíveis para experimentar.</text>
+		</text>
+		
+	</view>
+
+</theme>
