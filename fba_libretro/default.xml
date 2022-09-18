@@ -3,8 +3,7 @@
 
 	<view name="system">
 		<image name="avatar" extra="static">
-			<size>0.28 0</size>
-			<pos>0.278 0.11</pos>
+			<pos>0.34 0.08</pos>
 		</image>
 	</view>
 
