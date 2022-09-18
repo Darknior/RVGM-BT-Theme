@@ -171,7 +171,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>./_art/font/${fontMedium}</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.033</fontSize>
 			<color>${themeLightColor}</color>
 			<separatorColor>${themeDarkColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
