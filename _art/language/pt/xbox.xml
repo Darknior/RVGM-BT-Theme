@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Home video game console
+Sixth
+2001
+DVD, CD, digital
+Joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Xbox da Microsoft é um console de videogame lançado nos Estados Unidos em 15 de novembro de 2001. A Microsoft está dando seus primeiros passos neste setor, depois de ter colaborado com a Sega para trazer o Windows CE para Dreamcast e depois de ter desenvolvido por vários anos jogos da Microsoft Game Studios e acessórios de videogame SideWinder para PC. Está equipado com um processador Intel Pentium III com clock de 733 Mhz, 128 KB de memória cache suportada por 64 MB de RAM e uma GPU Nvidia de 233 Mhz que na verdade é uma GeForce 3 modificada permitindo exibir jogos em 720p e 1080i.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Video game caseiro
+Quarta
+2017
+Memory
+6 button gamepad, Super Scope</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Super Nintendo Entertainment System, ou SNES Classic Edition, ou Super FamiCom, conhecido como Nintendo Classic: Super Nintendo Entertainment System na Europa e Austrália e o Nintendo Classic Mini: Super Famicom (ニンテンドークラシックミニ スーパーファミコン?) no Japão, e também coloquialmente o SNES mini ou SNES Classic, é um console de videogame doméstico dedicado lançado pela Nintendo, que emula o Super Nintendo Entreterimento Sistema . O console, um sucessor do NES Classic Edition, vem com vinte e um títulos SNES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2 . Foi lançado na América do Norte e Europa em 29 de setembro de 2017.</text>
+		</text>
+		
+	</view>
+	
+</theme>

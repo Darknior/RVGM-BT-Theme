@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tommo - Blaze (in Europe)
+Hybrid console
+Quarta
+2012
+Internal, flash memory
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Neo Geo X é um console de videogame portátil desenvolvido e licenciado pela SNK Playmore e fabricado pela Tommo. Foi lançado em 18 de dezembro de 2012. É o retorno do console Neo Geo criado na década de noventa. Após alguns boatos e especulações na internet as primeiras informações sobre o Neo Geo X foram relatadas oficialmente em janeiro de 2012 e o portátil foi posteriormente confirmado em março.</text>
+		</text>
+		
+	</view>
+	
+</theme>

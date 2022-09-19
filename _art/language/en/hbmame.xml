@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Many
+Arcade video game cabinet
+1971 onwards
+2003
+PCB Jamma, CD-ROM
+Arcade stick and others</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>MAME (Multiple Arcade Machine Emulator) is an emulator that aims to faithfully reproduce arcade games, preserving the history of video games. Originally released by Nicola Salmoria on February 5, 1997 in Italy. MAME is available on multiple platforms due to the continued efforts of the MAME and libretro team. Version 0.78+ (MAME 2003 Plus) is an older version of the emulator capable of running on weaker hardware like the Raspberry Pi. The "Plus" indicates that it receives back ports from the more recent versions, improving its capabilities and adding more games to its repertoire.</text>
+		</text>
+		
+	</view>
+
+</theme>

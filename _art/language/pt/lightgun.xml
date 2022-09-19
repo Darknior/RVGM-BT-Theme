@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+<text>Múltiplo
+Coleção de jogos 2D/3D
+Todos
+1980 / 20xx
+Todos os suportes
+Lightgun, Wiimote, Joystick</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+<text>Lightgun designa os jogos em que você deve mirar e atirar na sua TV CRT. Esses jogos usam 'armas ópticas' usando sensores de luz infravermelha e escaneando o tubo de raios catódicos. Esse conceito dos anos 30 é adotado nos anos 80 para videogames como o famoso Duck Hunt. Então, e dos excelentes Virtua Cop e Time Crisis dos anos 90, já em 2000 o Lightgun perdeu popularidade não sendo compatível com TVs de LCD. O Wii reviveu a moda em 2006 com seu controle de detecção de movimento Wiimote e alguns jogos como R.E. Dark Side Chronicles, Dead Space Extraction.</text>			
+		</text>
+		
+	</view>
+
+</theme>

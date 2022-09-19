@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+		
+
+<text>Múltiplos
+Máquina de Arcade
+Todas
+1971 / 20xx
+Placa PCB
+Arcade stick e outros</text>
+
+		</text>
+		
+		<text name="sys_description" extra="true">
+		
+<text>Esta é uma continuação do Final Burn Alpha, criado em 2004 por TrebbleWinner, baseado no Fianl Burn criado em 2000 por Dave e tornado o FB-Neo em 2019. Este projeto tornou-se, com o tempo, um dos melhores emuladores Arcade disponíveis, graças a Lantus e IQ_132 por suas várias otimizações. É atualizado com frequência e emula diferentes sistemas, como MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board da Sega e uma lista inteira de Cave Toaplan, Taito, Psikyo e Kaneko. Assim como o MAME, oferece os recursos de shaders gráficos, savestates, etc ...</text>
+			
+		</text>
+		
+	</view>
+
+</theme>
