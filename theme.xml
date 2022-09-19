@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 theme name:     RVGM
 author:         Darknior
@@ -171,7 +171,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>./_art/font/${fontMedium}</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.033</fontSize>
 			<color>${themeLightColor}</color>
 			<separatorColor>${themeDarkColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
@@ -320,8 +320,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	<view name="basic, detailed, video, grid"> <!--  ifHelpPrompts="true" -->
         
-        <!-- THEMING PER-GAME SUPPORT --
-        -- https://github.com/batocera-linux/batocera-emulationstation/pull/1134 -->
+        <!-- THEMING PER-GAME SUPPORT ~~
+        ~~ https://github.com/batocera-linux/batocera-emulationstation/pull/1134 -->
         <gameextras name="gameextras">
             <path>./../games/${system.theme}</path>
         </gameextras>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Video game caseiro
+Terceira
+2016
+Memory
+2 button Joypad, Light gun</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Nintendo Entertainment System: NES Classic Edition, conhecido como Nintendo Classic Mini: Nintendo Entertainment System na Europa e Austrália e Nintendo Classic Mini: Family Computer no Japão, é uma réplica em miniatura do Nintendo Entertainment System (NES), console de videogame lançado pela Nintendo, em 10 de novembro de 2016, na Austrália e no Japão e em 11 de novembro de 2016 na América do Norte e Europa. Com base na emulação de software, conta com uma seleção estática de 30 jogos internos da biblioteca licenciada do NES, incluindo alguns títulos de terceiros, com armazenamento apenas para salvar os estados.</text>
+		</text>
+		
+	</view>
+	
+</theme>

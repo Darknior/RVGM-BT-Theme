@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Varios
+Flipper simulator
+Primeira
+1999
+.VPT files
+Gamepad, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Visual Pinball é um mecanismo de videogame gratuito e disponível como fonte para mesas de pinball e jogos semelhantes, como máquinas de pachinko. O software é composto por um editor e a própria parte do simulador. Ele é executado no Microsoft Windows. O programa também é capaz de operar com o Visual PinMAME, um emulador para imagens ROM de máquinas de pinball reais.</text>
+		</text>
+		
+	</view>
+
+</theme>
