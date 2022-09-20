@@ -5,18 +5,18 @@
 	<view name="system">
 	
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
-<text>Steve Ellenoff, Tom Haukap, Martin Adrian, Gerrit Volkenborn
-Flipper simulator
-First
-1999
-.VPT files
-Gamepad, keyboard</text>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Randy Davis
+Simulateur de Flipper
+None
+2010
+Fichier .VPT
+Clavier, manette</text>
 		</text>
 
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. The software is composed of an editor and the simulator part itself. It runs on Microsoft Windows. The program is also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Visual Pinball est un logiciel gratuit et un moteur de jeu vidéo disponible pour les tables de flipper et les jeux similaires tels que les machines à pachinko. Le logiciel est composé d'un éditeur et de la partie simulateur elle-même. Il fonctionne sur Microsoft Windows. Le programme est également capable de fonctionner avec Visual PinMAME, un émulateur pour les images ROM de vrais flippers. Le projet a été lancé par Randy Davis et poursuivi par l'équipe de développement, Steve Ellenoff, Tom Haukap, Martin Adrian et Gerrit Volkenborn.</text>
 		</text>
 		
 	</view>

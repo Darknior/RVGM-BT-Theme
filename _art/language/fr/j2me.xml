@@ -5,18 +5,18 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Oracle
-Handheld game console
-Eighth
+Multiple
+Aucune
 2006
-ROM
-Keyboards, gamepad</text>
+Fichiers
+Clavier, souris, gamepad</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Java Platform, Micro Edition or Java ME is a computing platform for development and deployment of portable code for embedded and mobile devices (micro-controllers, sensors, gateways, mobile phones, personal digital assistants, TV set-top boxes, printers).[1] Java ME was formerly known as Java 2 Platform, Micro Edition or J2ME. As of December 22, 2006, the Java ME source code is licensed under the GNU General Public License, and is released under the project name phoneME.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Java Platform, Micro Edition ou Java ME est une plate-forme informatique pour le développement et le déploiement de code portable pour les appareils embarqués et mobiles (micro-contrôleurs, téléphones mobiles, assistants numériques personnels, décodeurs TV, etc). Java ME était auparavant connu sous le nom de Java 2 Platform, Micro Edition ou J2ME. Depuis le 22 décembre 2006, le code source Java ME est sous licence GNU General Public License et est publié sous le nom de projet phoneME. Il permet entre autre de développer des jeux multi plateforme.</text>
 		</text>
 		
 	</view>

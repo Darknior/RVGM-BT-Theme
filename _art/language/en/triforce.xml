@@ -5,18 +5,18 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Namco Nintendo Sega
-Borne d’Arcade
-Sixième
+Arcade System Board
+Sixth
 2002
-Cartes PCB
-Stick arcade et autres</text>
+PCB cards
+Arcade stick and others</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le nom Triforce fait référence à la série The Legend of Zelda de Nintendo et symbolise également l'alliance des trois compagnies impliquées dans le projet Namco, Nintendo et Sega. Le système est basé sur l'architecture de la Nintendo GameCube, il présente néanmoins quelques différences par rapport à la Gamecube. Il est composé de plusieurs cartes de pcbs dont le nombre diffère suivant la révision. Sega a fait en sorte que le lecteur de GD-ROM développé initialement pour la Dreamcast, puis pour le Naomi, soit compatible.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>The name Triforce refers to Nintendo's The Legend of Zelda series and also symbolizes the alliance of the three companies involved in the project Namco, Nintendo and Sega. The system is based on the architecture of the Nintendo GameCube, it nevertheless has some differences compared to the Gamecube. It is composed of several pcb boards whose number differs according to the revision. Sega has ensured that the GD-ROM player developed initially for the Dreamcast, then for the Naomi, is compatible.</text>
 		</text>
 		
 	</view>

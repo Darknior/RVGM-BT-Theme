@@ -5,18 +5,18 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>V.Tech
-Console de salon
-Sixième
+Home video game console
+Sixth
 2004
-Cartouche
-Manette 5 boutons + Stick</text>
+Cartridge
+5 buttons + stick</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>La V.Smile est une console de jeu vidéo sortie en 2004, conçue et commercialisée par VTech. Pensée pour les enfants âgés de 3 à 9 ans. La console propose de nombreux jeux dérivés d'univers connus des enfants, comme ceux de Disney ou celui de Dora l'exploratrice. La console se reconnait aussi à sa manette originale qui proposait 5 boutons et un joystick, en forme de patte de chien.À l'origine uniquement disponible en orange et pourpre livrée avec un jeu Winnie l'ourson, une console rose et violette sortira plus tard, ciblant les filles. Ensuite un modèle rouge et bleu.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>The V.Smile is a video game console released in 2004, designed by VTech. Designed for children aged 3 to 9 years old. The console offers 45 games derived from worlds known to children, such as Disney or Dora the Explorer. It has an original controller with 5 buttons and a joystick, in the shape of a dog's paw. Originally only available in orange and purple, it will later be released in pink and purple for girls. The V.Smile Pocket released in 2007, is a portable version of the console with a double touch screen and a microphone, like the Nintendo DS.</text>
 		</text>
 		
 	</view>

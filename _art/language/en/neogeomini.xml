@@ -5,18 +5,18 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>SNK
-Miniature sized semi-portable arcade cabinet
+Miniature arcade cabinet
 Fourth
 2018
-Internal
+Internal flash memory
 Arcade stick</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Neo Geo Mini (officially NEOGEO mini), a miniature sized semi-portable arcade cabinet (loosely resembling the appearance of a Japanese Neo Geo MVS) which features built-in 40 SNK titles, and was released on July 24, 2018 in Japan to celebrate SNK's 40th anniversary. The company announced; "This year, SNK celebrates 40th [SIC] anniversary," the company said in a tweet. "It is with gratitude towards the fans who have supported SNK's titles, including The King of Fighters, Fatal Fury, Samurai Shodown and Metal Slug, that we introduce a new game machine that compiles the popular titles of Neo Geo! Please look forward to it The Future Is Now!".</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>The Neo Geo Mini (officially NEOGEO mini), is a miniature-sized, semi-portable arcade machine that includes 40 built-in SNK titles. It was released on July 24, 2018 in Japan to celebrate SNK's 40th anniversary. It is out of gratitude to the fans who have supported SNK titles including The King of Fighters, Fatal Fury, Samurai Shodown, and Metal Slug that SNK has introduced this new gaming machine that compiles their Neo's most popular titles. Geo! We remain on a qualitative emulation machine.</text>
 		</text>
 		
 	</view>

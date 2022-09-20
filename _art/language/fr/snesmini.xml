@@ -5,18 +5,18 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Nintendo
-Home video game console
-Fourth
+Console de salon
+Quatrième
 2017
-Memory
-6 button gamepad, Super Scope</text>
+Mémoire flash interne
+Manette 6 boutons, Super Scope</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The console is distributed in three variations, featuring the unique design of the original systems released in Japan, North America, and Europe respectively. While the North American release features an appearance based on the straight-angled grey-and-purple design of the Super NES, the Japan and PAL region releases are modelled after the rounded edge Super Famicom/PAL Super NES design as originally released in these regions.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>La console fut distribuée en trois versions, reprenant la conception des systèmes originaux sortis respectivement au Japon, en Amérique du Nord et en Europe. Alors que la version nord-américaine présente une apparence basée sur le design gris et violet à angle droit de la Super NES, les versions du Japon et de la région PAL sont calquées sur le design Super Famicom/PAL Super NES à bords arrondis tel qu'il a été initialement publié dans ces régions. A part cela, le boitier contiens une simple carte mère émulant les jeux originaux à l'identique avec la possibilité d'ajouter des filtres.</text>
 		</text>
 		
 	</view>

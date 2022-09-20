@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Sony Computer Ent.
 Handheld game console
 Seventh
@@ -15,8 +15,8 @@ UMD, Memory Stick
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The PlayStation Portable (PSP) is a handheld game console developed by Sony in 2004 (discontinued in 2014). It marked a turning point in the portable console market by providing graphical capability comparable to that of the home consoles of its time. It has a 32-bit processor, two 3D GPUs (with the ability to decode H.264 encoded video), and a 16:9 aspect ratio screen. It was the first true competitor to rival Nintendo's domination of the handheld market. The PSP Go released on October 2009, featuring a sliding control panel reducing its pocketed size, more built-in storage and Bluetooth.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>The PlayStation Portable (or PSP) is Sony's first portable video game console, marketed between 2004 and 2014. It incorporates a store to offer online dematerialized content, including games. This collection of 294 downloadable games is called PlayStation minis or PS minis. Many of them are also compatible with PlayStation 3 (PS3), PlayStation Vita (PS Vita) and PlayStation TV (PS TV). Some are ports of mobile phone games.</text>
 		</text>
 		
 	</view>

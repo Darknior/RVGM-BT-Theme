@@ -5,18 +5,18 @@
 	<view name="system">
 	
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
-<text>Sega
-Home video game console
-Fourth
-1988
-Cartridge
-3/6 button gamepad</text>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Krikzz / Terraonion
+Périphérique console
+Quatrième
+2019
+CD-Rom, Cartouche
+Manette 6 boutons, pistolet</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The Mega Drive (Genesis in America) was developed by Sega based on the Arcade System 16's architecture. Living in the shadow of Nintendo's 16-bit market, Sega took a hold of its own target demographic in America and Europe, sweeping away the PC-Engine. It features a 7.6MHz processor, 74KB of RAM, a resolution of 256x224 (up to 320x224 in particular modes) in 64 colors and FM stereo sound. In 1991, the main mascot of Sega, Sonic the Hedgehog, was released. The Mega Drive also features hits such as Disney's Aladdin, the uncensored Mortal Kombat game and EA's various sports games.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>En fait il existe 2 systèmes. Le pilote MSU-MD de Krikzz sorti en 2020, qui interface les appels de musique sur cartouche avec le matériel CD, destiné au Mega Everdrive Pro. Et le MD+ de Terraonion sorti en 2019, porté par ekeeke, qui fait la même chose à distination de leur cartouche Mega-SD. Les deux implémentations ont leurs forces et leurs faiblesses respectives, elles permettent toutes deux la convertion des jeux cartouche en jeux Mega CD avec support des tracks audio. La différence se fait surtout sur le support par les émulateurs et la scène des hackers.</text>
 		</text>
 		
 	</view>

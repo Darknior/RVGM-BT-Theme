@@ -5,18 +5,18 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
-<text>Sony Computer Ent.
-Home video game console
-Fifth
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Sony Computer
+Console de sallon
+Cinquième
 2018
-Internal
-Digital contr., DualShock</text>
+Mémoire flash interne
+DualShock controlleur</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>The PlayStation Classic is a dedicated video game console by Sony Interactive Entertainment that emulates games originally released on its 1994 PlayStation console. It was announced in September 2018 at the Tokyo Game Show, and released on December 3, 2018, the 24th anniversary of the release of the original.[1] The console has been compared to competitor Nintendo's prior releases of the NES Classic Edition and Super NES Classic Edition mini consoles.[2] Despite this, the console received negative reviews from critics, with criticism for its weak game library, use of the original controller, use of PAL versions for certain games, and high price tag, though the console's design did attract praise.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>La PlayStation Classic est une console de jeu vidéo dédiée de Sony qui émule les jeux initialement sortis sur sa console PlayStation de 1994. Il a été annoncé en septembre 2018  pour le 24e anniversaire de la sortie de l'original. La console a été comparée aux versions précédentes des mini-consoles NES Classic et Super NES Classic de Nintendo. Malgré cela, la console a reçu des critiques négatives pour sa faible bibliothèque de jeux, l'utilisation du contrôleur d'origine, l'utilisation de versions PAL pour certains jeux et son prix élevé. Cela reste de la simple émulation.</text>
 		</text>
 		
 	</view>

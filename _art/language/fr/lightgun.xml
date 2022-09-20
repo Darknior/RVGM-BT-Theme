@@ -5,18 +5,18 @@
 	<view name="system">
 	
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Multiple
-2D/3D Game Collection
-All
-1980/20xx
-All supports 
-Light gun, Wiimote, Gamepad</text>
+Collection de jeu 2D/3D
+Toutes
+1980 / 20xx
+Tous les supports
+Pistolet, Wiimote, Manette</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Originally, the light gun would use light to determine whether or not a shot was registered in game on your CRT display, however over time this term has come to refer to all games which use a gun-like peripheral to aim at in-game targets. Notable retro light gun games include Duck Hunt, House of the Dead, Virtua Cop and Time Crisis. However, in the late 90s light gun games began to drop in popularity. The Wii revived the genre in the mid 2000s with its IR-tracked Wiimote allowing for games such as R.E. Dark Side Chronicles, Dead Space Extraction, Ghost Squad and Target Terror.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Le tir au pistolet optique, light gun shooter ou light gun game, désigne les jeux où vous devez viser et tirer sur votre TV CRT. Ces jeux emploient des "Pistolets optiques" utilisant des capteurs lumineux Infra-rouge et le balayage du tube cathodique. Ce concept des années 30 est repris dans les années 80 pour les jeux vidéo comme le célèbre Duck Hunt. Puis malgré les excellents Virtua Cop et Time Crisis des années 90, dès 2000 le jeu de tir perd en popularité (n’étant pas compatible avec les TV LCD=. La Wii relance la mode en 2006 avec sa manette Wiimote à détection des mouvements.</text>
 		</text>
 		
 	</view>
