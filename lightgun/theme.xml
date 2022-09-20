@@ -1,0 +1,15 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+	
+		<!-- Sytem INFO -->
+		<image name="info" extra="true">
+			<path>./info.png</path>
+			<path>./info-${langue}.png</path>
+		</image>
+
+	</view>
+	
+</theme>

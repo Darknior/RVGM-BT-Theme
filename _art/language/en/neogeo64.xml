@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SNK
+Borne d’Arcade
+Cinquième
+1997
+Cartouches
+Stick arcade et autres</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>L'Hyper Neo-Geo 64 est un système de jeu vidéo à cartouches pour borne d'arcade compatible JAMMA, destiné aux salles d'arcade et commercialisé par SNK en septembre 1997. Techniquement, comme son nom l'indique, l'Hyper Neo-Geo 64 est doté d'un microprocesseur 64 bits permettant de faire fonctionner des jeux en 3D. L'Hyper Neo-Geo 64 fut un échec commercial, principalement à cause de la concurrence de Sega et de son système pour borne d'arcade Model 2 plus abouti techniquement et disposant de jeux plus attractifs. Au total, seulement sept jeux sont sortis sur Hyper NeoGeo 64.</text>
+		</text>
+		
+	</view>
+
+</theme>
