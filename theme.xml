@@ -233,6 +233,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<!--<horizontalAlignment>right</horizontalAlignment>-->
 			<itemSpacing>0.003</itemSpacing>
 			<imagePath>./_art/icons/gamepad.png</imagePath>
+			<gunPath>./_art/icons/gun.png</gunPath>
 			<color>${themeLightColor}</color>
 			<activityColor>${userColor}</activityColor>
 			<hotkeyColor>${userDarkColor}</hotkeyColor>
