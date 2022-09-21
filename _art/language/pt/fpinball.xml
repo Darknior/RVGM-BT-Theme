@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Christopher Leathley
+Simulador de flipperama
+Primeira
+2008
+.FPT files
+Gamepad, keyboard</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Future Pinball é um sistema de desenvolvimento de pinball em tempo real. Ele permite que você crie e jogue sua própria simulação de pinball 3D em tempo real. Ele usa física avançada para fornecer a melhor simulação possível de uma máquina de pinball realista. A lógica da tabela é roteirizada em 'Visual Basic Scripting'. Os scripts são projetados para serem simples, mas flexíveis o suficiente para permitir a criação de uma ampla variedade de jogos originais. O mecanismo também suporta efeitos sonoros e música em vários canais.</text>
+		</text>
+		
+	</view>
+
+</theme>

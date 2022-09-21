@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Open source
+Console domestico
+Quarta
+2007
+Micro-SD
+SNES gamepad e mouse</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Uzebox é um console de videogame de código aberto, com gráficos retrô minimalistas, lançado em 2007. Ele é baseado em um microcontrolador AVR de 8 bits e 28 Mhz, possui 4 KB de RAM, exibe 256 cores simultâneas e reproduz 8 sons. -bit mono. Sua vantagem é, além do baixo preço, que os jogos podem ser desenvolvidos em C. Funções como geração de sinal de vídeo, renderização de tile e geração de música não são de responsabilidade do programador. A ênfase foi colocada em tornar fácil e divertido montar e programar.</text>
+		</text>
+		
+	</view>
+	
+</theme>
