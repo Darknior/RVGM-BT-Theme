@@ -2,14 +2,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<!-- USE SCREENSHOT -->
-	<view name="detailed, video">
-		<video name="md_video">
-			<snapshotSource>image</snapshotSource>
-		</video>
-    </view>
-
-	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
+	<customView name="detailed,video,gridDetail">
 		<video name="md_video">
 			<snapshotSource>image</snapshotSource>
 		</video>

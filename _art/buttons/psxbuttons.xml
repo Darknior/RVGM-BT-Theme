@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+
+    <customView name="system, basic, detailed, video, grid, videoFullscreen, gridDetail, gridTitleshot, gridScreenshot">
+        <!-- Using ES ressources -->
+        <!-- https://github.com/batocera-linux/batocera-emulationstation/tree/master/resources/help -->
+        <helpsystem name="help">
+            <iconA>:/help/button_circle.svg</iconA>
+            <iconB>:/help/button_cross.svg</iconB>
+            <iconX>:/help/button_triangle.svg</iconX>
+            <iconY>:/help/button_square.svg</iconY>
+        </helpsystem>
+    </customView>
+
+</theme>

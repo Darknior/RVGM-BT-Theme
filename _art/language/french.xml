@@ -14,6 +14,14 @@
 	<!-- Swap Shadders Effect -->
 		<subset.shaddersEffetc>Filtres vidéo</subset.shaddersEffetc>
 
+	<!-- Swap buttons type for help -->
+		<subset.swapbuttons>Mappage des touches de l'aide</subset.swapbuttons>
+		<classicbuttons>Mapping générique</classicbuttons>
+		<nintendobuttons>Mapping Nintendo</nintendobuttons>
+		<xboxbuttons>Mapping Microsoft</xboxbuttons>
+		<psxbuttons>Mapping Sony</psxbuttons>
+		<arcadebuttons>Mapping Arcade</arcadebuttons>
+
 	<!-- Swap Theme Color -->
 		<subset.swapColor>Jeux de couleurs</subset.swapColor>
 		<colblue>Bleu</colblue>

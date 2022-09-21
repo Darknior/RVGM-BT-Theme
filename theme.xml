@@ -176,7 +176,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<separatorColor>${themeDarkColor}</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
 			<selectorColorEnd>${themeLightColor}</selectorColorEnd>
-			<selectedColor>${userColor}</selectedColor>
+			<selectedColor>${userDarkColor}</selectedColor>    <!-- Selected Text Color -->
 			<selectorGradientType>horizontal</selectorGradientType>
 		</menuText>
 		<!-- Popup MiddleTitles -->
@@ -584,6 +584,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	~~~~ GAMELIST SWAP ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<!-- Swap buttons type for help -->
+	<subset name="swapbuttons" displayName="${subset.swapbuttons}">
+		<include name="classicbuttons" displayName="${classicbuttons}">./_art/buttons/buttons.xml</include>
+		<include name="nintendobuttons" displayName="${nintendobuttons}">./_art/buttons/nintendobuttons.xml</include>
+		<include name="xboxbuttons" displayName="${xboxbuttons}">./_art/buttons/xboxbuttons.xml</include>
+		<include name="psxbuttons" displayName="${psxbuttons}">./_art/buttons/psxbuttons.xml</include>
+		<include name="arcadebuttons" displayName="${arcadebuttons}">./_art/buttons/arcadebuttons.xml</include>
+	</subset>
 
 	<!-- Swap Titleshot and Screenshot for the VIDEO preview -->
 	<subset name="swapImages" displayName="${subset.swapImages}" appliesTo="detailed,video,videoFullscreen,grid,gridDetail,gridTitleshot,gridScreenshot,marquee">

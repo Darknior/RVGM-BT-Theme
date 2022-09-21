@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+
+    <customView name="system, basic, detailed, video, grid, videoFullscreen, gridDetail, gridTitleshot, gridScreenshot">
+        <!-- Using ES ressources -->
+        <!-- https://github.com/batocera-linux/batocera-emulationstation/tree/master/resources/help -->
+        <helpsystem name="help">
+            <iconUpDown>./_art/buttons/arcade/updown.png</iconUpDown>
+            <iconLeftRight>./_art/buttons/arcade/leftright.png</iconLeftRight>
+            <iconUpDownLeftRight>./_art/buttons/arcade/all.png</iconUpDownLeftRight>
+
+            <iconA>./_art/buttons/arcade/a.png</iconA>
+            <iconB>./_art/buttons/arcade/b.png</iconB>
+            <iconX>./_art/buttons/arcade/x.png</iconX>
+            <iconY>./_art/buttons/arcade/y.png</iconY>
+
+            <iconL>./_art/buttons/arcade/l.png</iconL>
+            <iconR>./_art/buttons/arcade/r.png</iconR>
+            <iconStart>./_art/buttons/arcade/start.png</iconStart>
+            <iconSelect>./_art/buttons/arcade/select.png</iconSelect>
+        </helpsystem>
+    </customView>
+
+</theme>

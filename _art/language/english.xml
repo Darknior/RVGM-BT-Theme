@@ -14,6 +14,14 @@
 	<!-- Swap Shadders Effect -->
 		<subset.shaddersEffetc>Shadders Effect</subset.shaddersEffetc>
 
+	<!-- Swap buttons type for help -->
+		<subset.swapbuttons>Help key mapping</subset.swapbuttons>
+		<classicbuttons>Generic mapping</classicbuttons>
+		<nintendobuttons>Nintendo mapping</nintendobuttons>
+		<xboxbuttons>Microsoft mapping</xboxbuttons>
+		<psxbuttons>Sony mapping</psxbuttons>
+		<arcadebuttons>Arcade mapping</arcadebuttons>
+
 	<!-- Swap Theme Color -->
 		<subset.swapColor>Color schemes</subset.swapColor>
 		<colblue>Blue</colblue>

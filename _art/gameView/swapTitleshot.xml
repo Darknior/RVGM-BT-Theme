@@ -1,15 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
-	
-	<!-- USE TITLESHOT -->
-	<view name="detailed, video">
-		<video name="md_video">
-			<snapshotSource>titleshot</snapshotSource>
-		</video>
-	</view>
-	
-	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
+
+	<customView name="detailed,video,gridDetail">
 		<video name="md_video">
 			<snapshotSource>titleshot</snapshotSource>
 		</video>
