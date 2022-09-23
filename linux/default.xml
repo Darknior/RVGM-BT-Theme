@@ -1,0 +1,11 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<image name="avatar" extra="static">
+			<size>0.45 0</size>
+			<pos>0.278 0.21</pos>
+		</image>
+	</view>
+
+</theme>

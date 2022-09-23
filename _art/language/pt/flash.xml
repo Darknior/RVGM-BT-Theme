@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Adobe, Macromedia
+2D Game Engine
+Quarta
+1996
+Files
+Teclado, mouse</text>
+
+</text>
+		
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>De 1996 a 2020, o Flash tornou possível executar animações e videogames em navegadores da web. Estes representam uma época, sendo em sua maioria gratuitos, facilmente acessíveis a todos e participamos da democratização dos videogames. A maioria são criações de indivíduos, muitos são de baixa qualidade, alguns apresentam problemas de licenciamento. Mas o videogame tem uma história e eles fazem parte dela, trata-se de acompanhar. A situação é semelhante à do Abandonware.</text>
+		</text>
+		
+	</view>
+
+</theme>
+
+

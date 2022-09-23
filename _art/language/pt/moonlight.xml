@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Case Western University
+Video games streaming
+2.5.0+
+2015
+Steam account
+Joypad, mouse, teclado</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Moonlight é uma versão de código aberto do protocolo NVIDIAs GameStream que permite transmitir jogos de um PC equipado com uma placa gráfica NVIDIA para uma caixa remota. É um software de streaming de jogos semelhante ao 'Steam Link'. O projeto nasceu em 2013, e o Batocera usa o 'Moonlight Embedded', que também funciona em dispositivos ARM como um Raspberry Pi. Assim, você pode transmitir seus jogos 3D mais recentes na sua TV, mesmo com uma caixa muito fraca. O protocolo suporta até 4 jogadores e 1080p 60fps.</text>
+		</text>
+		
+	</view>
+
+</theme>

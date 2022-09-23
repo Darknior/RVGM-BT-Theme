@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Computador
+Quarta a Oitava
+1985 / 2020
+HDrive, CD, DVD, demat
+Joypad, teclado, mouse</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Windows é uma interface gráfica desenvolvida pela Microsoft em 1983, para seu sistema operacional MS-DOS. No Windows 1.0 já existia um jogo chamado Reversi, então em 1990 no 3.1 fomos brindados com Solitaire e Minesweeper, que se tornaram clássicos. Em 1995 foi lançado o Windows 95, seguido pelo W98, que será o primeiro a democratizar o Direct X, a biblioteca para facilitar o desenvolvimento de jogos no PC. A interface se tornará um sistema autônomo e não parará de evoluir com XP, Vista, 7, 8, 10 e com ele Direct X que, além de vídeo e som, gerenciará absolutamente tudo, até dispositivos de IA e VR.</text>
+		</text>
+		
+	</view>
+
+</theme>

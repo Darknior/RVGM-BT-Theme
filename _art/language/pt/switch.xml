@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console hibrido
+Oitava
+2017
+MicroSD, Cardridge
+Joy-Con, Nintendo Switch Pro Controller</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lançado em 2017, o Switch está sempre à venda. É um console híbrido que pode ser usado como console doméstico e dispositivo portátil. Seus controladores sem fio Joy-Con, com botões e joysticks analógicos direcionais, sensor de movimento e feedback tátil, podem ser conectados a ambos os lados do console para oferecer suporte ao estilo de jogo portátil. A Nintendo optou por usar um chipset Nvidia Tegra X1 com 4GB de RAM e 32GB eMMC para armazenamento. Este display LCD oferece 1280x720 e 480p/720p/1080p acoplado via HDMI. Seu catálogo oferece jogos cult como Mario Kart 8 Deluxe e Super Smash Bros. Ultimate.</text>
+		</text>
+		
+	</view>
+	
+</theme>

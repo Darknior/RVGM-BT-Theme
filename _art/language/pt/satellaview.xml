@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Video game add-on
+Quarta
+1995
+Cartridge, download
+6 button gamepad, Super Scope</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Satellaview é uma extensão do Super Famicom, lançado apenas no Japão em 1995. Também era conhecido pelas iniciais 'BS-X' que significa 'Broadcast Satellite'. Este sistema sintonizador de satélite veio com um cartucho tipo 'BS-X' contendo um cartão de memória de 8 Mbit. Assim, tornou possível conectar-se a um serviço de download de jogos, códigos e informações. Todos os dados passaram por uma estação de televisão chamada St.GIGA. Você tinha que baixar os jogos distribuídos em várias partes e jogá-los quando fossem lançados.</text>
+		</text>
+		
+	</view>
+
+</theme>
