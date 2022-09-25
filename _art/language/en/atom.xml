@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Bandai
-Console portable
-Sixième
-1999
-Cartouche
-Manette 2 boutons</text>
+<text>Acorn Computers
+Home computer
+Second
+1980
+Cassette tape, Floppy 5¼
+Keyboard</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>La WonderSwan sortie au Japon en mars 1999, est une console de jeux vidéo 16 bits, portable créée par Bandai. C'est une console monochrome qui se vendu bien au Japon (malgré la sortie un an plus tôt de la Game Boy Color) grâce à sa petite taille et sa grande autonomie de 30 heures. Avec un processeur NEC 3 Mhz, 16 Ko de RAM, un affichage 224x144 pixels en 8 niveaux de gris et un son stéréo, il peut se jouer verticalement et horizontal- ement. Il dispose d'une bibliothèque assez grande comprenant de nombreux titres basés sur des animés, ou provenant de Bandai, Square, Capcom.</text>
+<text>The Acorn Atom is a personal computer manufactured by Acorn Computers from 1980 to 1982, when it will be replaced by the BBC Micro. It was billed as an upgrade to the Atom, originally known as the Proton. It was a miniaturized Acorn System 3, without a floppy disk drive, but with an integrated keyboard and a cassette player. It embarked a MOS 6502 processor at 1Mhz and 2 kb of RAM expandable to 12. It could display a resolution up to 64x192 in 4 colors or 256x192 in monochrome. For sound, a simple internal speaker on 1 channel.</text>
 		</text>
 		
 	</view>
-	
+
 </theme>

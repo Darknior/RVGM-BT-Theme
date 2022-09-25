@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Bandai
-Console portable
-Sixième
-1999
-Cartouche
-Manette 2 boutons</text>
+<text>Acorn Computers
+Ordinateur personnel
+Deuxième
+1980
+Cassette, disquette 5¼
+Clavier</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>La WonderSwan sortie au Japon en mars 1999, est une console de jeux vidéo 16 bits, portable créée par Bandai. C'est une console monochrome qui se vendu bien au Japon (malgré la sortie un an plus tôt de la Game Boy Color) grâce à sa petite taille et sa grande autonomie de 30 heures. Avec un processeur NEC 3 Mhz, 16 Ko de RAM, un affichage 224x144 pixels en 8 niveaux de gris et un son stéréo, il peut se jouer verticalement et horizontal- ement. Il dispose d'une bibliothèque assez grande comprenant de nombreux titres basés sur des animés, ou provenant de Bandai, Square, Capcom.</text>
+<text>L'Acorn Atom est un ordinateur personnel fabriqué par Acorn Computers de 1980 à 1982, date à laquelle il sera remplacé par le BBC Micro. Il était  présenté comme une mise à niveau de l'Atom, à l'origine connu sous le nom de Proton. C'etait un Acorn System 3 miniaturisé, sans lecteur de disquette, mais avec un clavier intégré et un lecteur de cassette. Il embarquait un procésseur MOS 6502 à 1Mhz et 2 ko de RAM extensible à 12. Il pouvait afficher une résolution jusqu'à 64x192 en 4 couleurs ou 256x192 en monochrome. Pour le son un simple haut-parleur interne sur 1 canal.</text>
 		</text>
 		
 	</view>
-	
+
 </theme>
