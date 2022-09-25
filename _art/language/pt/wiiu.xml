@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Console
+Oitava
+2012
+Disco proprio
+Wii U GamePad, Wii U Pro, Wiimote</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Lançado em 2012, o Wii é um console de videogame comercializado pela Nintendo, sucedendo ao Wii. O Wii U é o primeiro console doméstico a oferecer um controle com tela sensível ao toque integrada. É o primeiro console da Nintendo capaz de gerar gráficos de alta definição. Está equipado com um processador tri-core com clock de 1,24 GHz, um chip gráfico AMD Radeon "Latte", com clock de 550 MHz, 1 GB de DDR3 para o sistema + 1 GB para jogos. Existem jogos essenciais, como Mario kart 8 e The Legend of Zelda: The Wind Waker HD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+Video game add-on
+Quarta
+1996
+Cartridge
+6 button gamepad, Super Scope</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>O Sufami Turbo é um acessório comercializado pela Bandai em 1996 para produzir cartuchos de jogos SNES muito mais baratos. Estava alojado no console e podia acomodar dois mini cartuchos proprietários. Ambos os slots são projetados para compartilhar dados entre jogos. O cartucho 1 é o jogo que será jogado, enquanto o cartucho no slot 2 fornece dados adicionais para uso no jogo principal. Dos 13 jogos lançados, 9 deles podem ser interligados, dentro de cada série de jogos.</text>
+		</text>
+		
+	</view>
+	
+</theme>
