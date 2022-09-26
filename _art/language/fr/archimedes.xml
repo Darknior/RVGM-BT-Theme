@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Sega
-Console de salon
-Sixième
-1998
-GD-Rom (1,2 Go)
-Stick analogi., pad, 7 boutons</text>
+<text>Acorn Computers
+Ordinateur personnel
+Quatrième
+1987
+Disquette 3¼, CD-ROM
+Joystick, souris, clavier</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>La Dreamcast, développée par Sega est la successeur de la Saturn. Commercialisée dès novembre 1998 au Japon, elle est la première console de sixième génération avant la PS2 et la XBOX, à proposer le jeu en ligne. Elle connaîtra une fin prématurée en 2004 et restera la dernière console de SEGA. Elle est équipée d’un processeur 32 bits embarquant un coprocesseur arithmétique 128 bits, 16 Mo de RAM et un GPU NEC PowerVR2 lui permettant d’afficher 7 millions de polygones par seconde et 16 millions de couleurs simultanément. Son hardware est très proche des bornes NAOMI.</text>
+<text>Archimedes est une gamme d'ordinateurs 32 bits fabriqués par Acorn en 1987. Ce fut le premier ordinateur ARM grand public, ARM signifiant "Acorn Risc Machine" avant de devenir "Advanced Risc Machines". Il était supérieur en termes de puissance face à ses rivaux tel l'Atari ST, l'Amiga 500, le PC et l'Apple de l'époque. Le premier modèle fut équipé d'un processeur 8 Mhz et 512 ko de RAM. Le dernier en 1992 proposait un 40 Mhz, 4 Mo de RAM et 80 Mo de disque dur. Il affiche une résolution allant de 640x512 en 256 couleurs, à 1600x600 en 16 couleurs et dispose d'un son stéréo sur 8 canaux.</text>
 		</text>
 		
 	</view>

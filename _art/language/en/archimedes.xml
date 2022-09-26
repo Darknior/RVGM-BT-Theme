@@ -3,10 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Acorn Computers
+Personal computer
+Fourth
+1987
+Floppy 3¼, IDE hard drive
+Joystick, mouse, keyboard</text>
+		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Cette section regroupe tous les jeux « 4 joueurs » de votre collection, tous systèmes confondus et classés par ordre alphabétique. Elle est parfaite pour se faire une bonne soirée rétro-gaming en famille ou quand vous recevez des amis... Elle regroupe tous les jeux d’action frénétique jouable en équipe ou en match à mort, les simulations ou jeux d’arcade automobile, les beat’em up, les jeux de sport, etc... On pense immédiatement à Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, etc... Tous les filtres de tri habituels y sont disponibles.</text>
+<text>Archimedes is a line of 32-bit computers manufactured by Acorn in 1987. It was the first consumer ARM computer, with ARM standing for 'Acorn Risc Machine' before becoming 'Advanced Risc Machines'. It was superior in power to rivals such as the Atari ST, Amiga 500, PC and Apple at the time. The first model was equipped with an 8 Mhz processor and 512 kB of RAM. The last in 1992 offered a 40 Mhz, 4 Mb of RAM and 80 Mb of hard disk. It displays a resolution ranging from 640x512 in 256 colors, to 1600x600 in 16 colors and has stereo sound on 8 channels.</text>
 		</text>
 		
 	</view>

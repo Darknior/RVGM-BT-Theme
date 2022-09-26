@@ -3,10 +3,10 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Cette section regroupe tous les jeux de vos collections manuelles ou dynamiques, tous systèmes confondus et classés par ordre alphabétique. Tous les filtres de tri habituels y sont disponibles pour vous permettre de retrouver rapidement un jeu. Que ce soit par nom, par système, par créateur, par note, par nombre de joueurs ou même par date d'ajout à votre collection. C'est un outil de recherche extrêmement puissant et pratique.</text>
+<text>Were you at the time, according to you, the best in the schoolyard at Mega Drive or SNES games? Do you finally want to prove it? Today, thanks to emulation, we can re-play our old games and, as was the case for the first time on XBOX 360, obtain achievements and badges. Your progress is thus posted online in real time so that your friends can follow it. So you will have to try to complete all your favorite classics at 100% to compete with them. May the best win!</text>
 		</text>
 		
 	</view>
