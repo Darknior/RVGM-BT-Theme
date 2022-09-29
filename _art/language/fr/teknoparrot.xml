@@ -3,22 +3,21 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-	
+		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Acorn Computers
-Personal computer
-Second
-1981
-Cassette tape, floppy, HDD
-Joystick, pen, keyboard</text>
+<text>Avail, Reaver
+Borne d'arcade
+Multiple
+20xx
+Stick d'arcade et autres</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>The BBC Micro is a series of microcomputers designed by Acorn Electronics in 1981. It spearheaded the computer literacy project launched by the BBC following a documentary in which Dr. Christopher Evans predicts the coming of the computer revolution and its impact on the UK. Model A was equipped with a MOS 6502 CPU at 2MHz, 16KB of upgradeable RAM and 4-channel mono sound with voice synthesis. It could display a resolution up to 640x256 in 16 colors. Many models would be released improving its capabilities.</text>
+<text>TeknoParrot est une couche de compatibilité permettant aux PC Windows d'exécuter des jeux conçus à l'origine pour les systèmes d'arcade basés sur Windows et certains basés sur Linux. Il inclut la possibilité de mapper des équipements PC standard tels que des volants et des manettes avec les jeux. TeknoParrot prend actuellement en 2022, plus de 170 titres d'arcade en charge! De nouveaux jeux sont régulièrement ajoutés et les problèmes de jeu existants sont régulièrement résolus. Ce sont tous les derniers systèmes 3D de chez Gaelco, Konami, Namco, SEGA, Taito et Global VR.</text>
 		</text>
 		
 	</view>
-
+	
 </theme>

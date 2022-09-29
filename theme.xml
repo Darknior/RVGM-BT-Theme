@@ -47,6 +47,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<videoEffect>none</videoEffect>					<!-- Effect on video preview show -->
 		<videoType>random</videoType>					<!-- Video type on system view -->
 	
+		<!--
+			global.cheevos ( bool )
+			global.cheevos.username
+			cheevos.username
+			global.netplay ( bool )
+			global.netplay.username
+		 -->
+
 	</variables>
 
 	<!-- Translate Systems Info & Description images, change Systems Logo & Photo images when available

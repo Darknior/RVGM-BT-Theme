@@ -3,20 +3,20 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		
+	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Sony Computer Ent.
-Console portable
-Septième
-2004
-UMD, Memory Stick
-Joypad 7 boutons + Stick</text>
+<text>Acorn Computers
+Personal computer
+Second
+1983
+Tape, floppy, cartridge
+Joystick, keyboard</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>La PlayStation Portable (ou PSP) est la première console de jeux vidéo portable de sony, commercialisée entre 2004 et 2014. Elle marque un tournant dans l’histoire des consoles portable en proposant une qualité d’image et des capacités générales approchant celle de la PlayStation 2, une console de salon. Le dernier modèle sorti sera la PSP Go en octobre 2009, avec son écran coulissant, plus de mémoire et une liaison Bluetooth. Elle dispose d’un processeur 32 bits cadencé à 333 Mhz, de deux processeurs graphiques 3D et elle est capable en natif de lire le H.264 sur son écran 16/9.</text>
+<text>The Acorn Electron is an entry-level version of the BBC Micro with only 32 kB of RAM and the use of a 4-bit memory system instead of the BBC's 8, to keep costs down. A magazine then reported that games made for the BBC were running 'at less than half their speed'. And despite some publishers shunning the machine, a good range of games were available, including popular multi-format games such as Chuckie Egg. There were approximately 1,400 games released in 1990 and joystick support available through a cartridge from Power Software.</text>
 		</text>
 		
 	</view>

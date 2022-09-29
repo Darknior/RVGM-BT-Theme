@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Acorn Computers
-Personal computer
-Second
-1981
-Cassette tape, floppy, HDD
-Joystick, pen, keyboard</text>
+<text>Sega
+Home video game console
+Fourth
+1988
+Cartridge
+3/6 button gamepad</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>The BBC Micro is a series of microcomputers designed by Acorn Electronics in 1981. It spearheaded the computer literacy project launched by the BBC following a documentary in which Dr. Christopher Evans predicts the coming of the computer revolution and its impact on the UK. Model A was equipped with a MOS 6502 CPU at 2MHz, 16KB of upgradeable RAM and 4-channel mono sound with voice synthesis. It could display a resolution up to 640x256 in 16 colors. Many models would be released improving its capabilities.</text>
+<text>The Mega Drive (Genesis in America) was developed by Sega based on the Arcade System 16's architecture. Living in the shadow of Nintendo's 16-bit market, Sega took a hold of its own target demographic in America and Europe, sweeping away the PC-Engine. It features a 7.6MHz processor, 74KB of RAM, a resolution of 256x224 (up to 320x224 in particular modes) in 64 colors and FM stereo sound. In 1991, the main mascot of Sega, Sonic the Hedgehog, was released. The Mega Drive also features hits such as Disney's Aladdin, the uncensored Mortal Kombat game and EA's various sports games.</text>
 		</text>
 		
 	</view>

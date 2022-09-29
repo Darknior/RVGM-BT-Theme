@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>SSega
+Périphérique console
+Quatrième
+1991
+CD-Rom
+Manette 4 ou 6 boutons</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Le Mega-CD, ou Sega CD en Amérique, est un périphérique  Megadrive / Genesis sorti en 1991; pour concurrencer la PC Engine Duo il ajoute un lecteur CD-ROM, double la vitesse du processeur, ajoute 512 Ko de RAM et 10 canaux sonores. Sega fera l’erreur de trop se concentrer sur les jeux en FMV (Full Motion Video) qui même en 128 à 256 couleurs ont un mauvais rendu vidéo et très peu d’intérêt vidéo ludique. C’est le cas des 6 jeux compatibles 32x. Certains sont quand même excellents comme Road Avenger et Night Trap, ainsi que des hits plus classiques tels que Sonic CD et Silpheed.</text>
+		</text>
+		
+	</view>
+
+</theme>

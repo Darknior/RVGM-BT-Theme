@@ -3,22 +3,21 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-	
+		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Acorn Computers
-Personal computer
-Second
-1981
-Cassette tape, floppy, HDD
-Joystick, pen, keyboard</text>
+<text>Avail, Reaver
+Arcade cab
+Multiple
+20xx
+Arcade stick and others</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>The BBC Micro is a series of microcomputers designed by Acorn Electronics in 1981. It spearheaded the computer literacy project launched by the BBC following a documentary in which Dr. Christopher Evans predicts the coming of the computer revolution and its impact on the UK. Model A was equipped with a MOS 6502 CPU at 2MHz, 16KB of upgradeable RAM and 4-channel mono sound with voice synthesis. It could display a resolution up to 640x256 in 16 colors. Many models would be released improving its capabilities.</text>
+<text>TeknoParrot is a compatibility layer allowing Windows PCs to run games originally designed for Windows-based and some Linux-based arcade systems. It includes the ability to map standard PC gear like steering wheels and gamepads to the games. TeknoParrot currently supports over 170 arcade titles in 2022! New games are regularly added and existing game issues are regularly fixed. These are all the latest 3D systems from Gaelco, Konami, Namco, SEGA, Taito and Global VR.</text>
 		</text>
 		
 	</view>
-
+	
 </theme>
