@@ -11,6 +11,10 @@
 		<!-- System BACK-ILLUSTRAION -->
 		<image name="bg-image" extra="true">
 			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<!-- <pos>0.0151 0.0445</pos> -->
+			<size>1 1</size>
+			<!-- <size>0.9698 0.911</size> -->
 			<path>./background-default.jpg</path>
 			<path>./../../${system.theme}/background.jpg</path>
 			<color>ffffffff</color>

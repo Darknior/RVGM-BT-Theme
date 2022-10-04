@@ -6,7 +6,7 @@
 		<activeMenu>horizDown</activeMenu>
 	</variables>
 	
-	<!-- HOUR / PAD position -------------------------- -->
+	<!-- HOUR / PAD position ~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<view name="screen">
 
 		<controllerActivity name="controllerActivity">
@@ -52,13 +52,13 @@
 				
 		<!-- System BACK-ILLUSTRAION -->
 		<image name="bg-image" extra="true">
-			<pos>0.025 0.026</pos>
-			<size>0.95 0.93</size>
+			<!--  <pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size> -->
 		</image>
 		<!-- OR System BACK-VIDEO -->
 		<video name="backgroundvideo" extra="true">
-			<pos>0.025 0.026</pos>
-			<size>0.95 0.93</size>
+			<!--  <pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size> -->
 		</video>
 				
 		<!-- Sytem LOGO -->
