@@ -8,22 +8,38 @@
 	
 	<!-- Swap CRT Video Shader -->
 	<subset name="swapVideoShader" displayName="${subset.swapVideoShader}">
-		<include name="videoShaderNone" displayName="${videoShaderNone}"/> <!-- No shader -->
 		<include name="videoShaderCrt"  displayName="${videoShaderCrt}"  >./swapVideoShaderCrt.xml</include>
+		<include name="videoShaderNone" displayName="${videoShaderNone}"/> <!-- No shader -->
 	</subset>
 
 	<view name="system">
 
+		<!-- Image preloading -->
+		<image name="bg-preloading" extra="true" ifSubset="swapAmbiance:setMediaLibrary">
+			<zIndex>10</zIndex>
+			<path>./../white.png</path>
+			<color>808080</color>
+			<colorEnd>000000</colorEnd>
+			<gradientType>vertical</gradientType>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 1</size>
+			<zIndex>15</zIndex>
+		</image>
+
 		<!-- System BACK-VIDEO -->
 		<video name="backgroundvideo" extra="true">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
+			<smoothLinear>true</smoothLinear>
+			<effect>none</effect>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
 			<!-- <pos>0.0151 0.0445</pos> -->
-			<size>1 1</size>
+			<size>0.96875 0.9074074074074074</size>
 			<!-- size>0.9698 0.911</size> -->
 			<path>{random}</path>                 
-			<delay>0</delay>
-			<zIndex>10</zIndex>      
+			<delay>0.1</delay>
+			<zIndex>17</zIndex>
+			<saturation>1.1</saturation>
 		</video>
 		
 		<image name="avatar2, avatar3, avatar4, avatar5, avatar6, avatar7, avatar8, avatar9" extra="static">

@@ -27,10 +27,11 @@
 		
 		<!-- Menu CAROUSSEL -->
 		<carousel name="systemcarousel">
+			<defaultTransition>instant</defaultTransition>
 			<pos>0.047 0.77</pos>
 			<size>0.91 0.15</size>
 			<type>horizontal</type>
-			<maxLogoCount>5</maxLogoCount>
+			<maxLogoCount>3</maxLogoCount>
 			<logoScale>1.5</logoScale>
 			<logoSize>0.135 0.109</logoSize>
 		</carousel>
@@ -65,6 +66,7 @@
 		<image name="logo-color" extra="static">
 			<origin>1 0.5</origin>
 			<pos>0.9651 0.1387</pos>
+			<zIndex ifSubset="swapAmbiance:setMediaLibrary">16</zIndex>
 		</image>
 		
 		<!-- Sytem DESCRIPTION BACK -->
@@ -88,6 +90,7 @@
 		<!-- TEXT Games Counter -->
 		<text name="systemInfo">
 			<pos>0.124 0.631</pos>
+			<y ifSubset="swapAmbiance:setMediaLibrary|setArtGallerys">0.945</y>
 		</text>
 		
 		<!-- TEXT Info Label -->

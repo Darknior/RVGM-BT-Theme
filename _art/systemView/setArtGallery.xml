@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿><?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
 	
@@ -10,8 +10,8 @@
 
 		<!-- System BACK-ILLUSTRAION -->
 		<image name="bg-image" extra="true">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
 			<!-- <pos>0.0151 0.0445</pos> -->
 			<size>1 1</size>
 			<!-- <size>0.9698 0.911</size> -->
@@ -20,7 +20,12 @@
 			<color>ffffffff</color>
 			<linearSmooth>true</linearSmooth>
 			<tile>false</tile> <!-- Repeat / Streach image -->
-			<zIndex>10</zIndex> <!-- Default 10 for extra -->
+			<zIndex>11</zIndex> <!-- Default 10 for extra -->
+			<saturation>0.9</saturation>
+			<storyboard>
+				<animation property="w" 		from="1.1" 		to="1" 		mode="easeOutQuint" 	duration="750"/>
+				<animation property="color" 	from="00000000" 		to="ffffff" mode="easeInOut" 	duration="125"/>
+			</storyboard>
 		</image>
 		
 		<!-- Sytem AVATAR -->
@@ -31,6 +36,7 @@
 			<path>./../../${system.theme}/avatar.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>16</zIndex>
+			<saturation>1.2</saturation>
 		</image>
 		
 		<!-- BACKGROUND Games Counter -->

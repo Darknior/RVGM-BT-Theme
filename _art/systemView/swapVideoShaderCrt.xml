@@ -5,14 +5,14 @@
 	<view name="system">
 		
 		<!-- Video Shader CRT -->
-		<image name="crt" extra="true">
-			<pos>0.025 0.026</pos>
-			<size>0.95 0.93</size>
-
+		<image name="crt" extra="true" ifSubset="staticEffect:no">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
 			<path>./../video/crt.png</path>
 			<color>FFFFFF90</color>
 			<tile>true</tile>
-			<zIndex>11</zIndex>
+			<zIndex>18</zIndex>
 		</image>
 		<image name="crt_border" extra="true">
 			<pos>0.025 0.026</pos>
