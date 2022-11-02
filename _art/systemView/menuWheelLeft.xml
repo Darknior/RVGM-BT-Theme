@@ -34,7 +34,7 @@
 			<logoSize>0.18 0.155</logoSize>
 			<logoScale>1.2</logoScale>
 			<maxLogoCount>13</maxLogoCount>
-			<logoRotation>11.9</logoRotation>
+			<logoRotation>9.9</logoRotation>
 			<logoRotationOrigin>-2.5 0.5</logoRotationOrigin>
 			<logoAlignment>center</logoAlignment>
 		</carousel>

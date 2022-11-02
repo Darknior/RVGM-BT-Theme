@@ -120,7 +120,13 @@
 		<text name="sys_description" extra="static">
 			<size>0.415 0.198</size>
 			<lineSpacing>1.2</lineSpacing>
-			<fontSize>0.022</fontSize>
+			<fontSize>0.023</fontSize>
+		</text>
+
+		<text name="systemInfo">
+			<glowColor>efefef33</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
 		</text>
 		
 	</view>

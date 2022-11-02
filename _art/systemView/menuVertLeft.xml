@@ -30,7 +30,7 @@
 			<defaultTransition>instant</defaultTransition>
 			<pos>0.0359 0.0832</pos>
 			<size>0.2214 0.8335</size>
-			<maxLogoCount>5</maxLogoCount>
+			<maxLogoCount>7</maxLogoCount>
 		</carousel>
 		
 		<!-- View BACKGROUND BORDER -->

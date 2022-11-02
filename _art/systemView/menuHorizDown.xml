@@ -31,7 +31,7 @@
 			<pos>0.047 0.77</pos>
 			<size>0.91 0.15</size>
 			<type>horizontal</type>
-			<maxLogoCount>3</maxLogoCount>
+			<maxLogoCount>5</maxLogoCount>
 			<logoScale>1.5</logoScale>
 			<logoSize>0.135 0.109</logoSize>
 		</carousel>

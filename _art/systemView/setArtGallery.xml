@@ -49,6 +49,12 @@
 			<linearSmooth>true</linearSmooth>
 			<zIndex>49</zIndex>
 		</image>
+
+		<text name="systemInfo">
+			<glowColor>00000080</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
+		</text>
 		
 	</view>
 	
