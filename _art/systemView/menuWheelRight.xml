@@ -27,15 +27,17 @@
 		
 		<!-- Menu WHEEL -->
 		<carousel name="systemcarousel">
-			<pos>0.342 0.075</pos>
-			<size>1 0.85</size>
+			<defaultTransition>instant</defaultTransition>
+			<pos>1 0.0259259259259259</pos>
+			<size>0.3 0.9462962962962963</size>
+			<origin>1 0</origin>
 			
 			<type>vertical_wheel</type> <!-- horizontal_wheel / vertical_wheel" -->
 			<logoSize>0.18 0.155</logoSize> <!-- 0.25 0.155 -->
-			<logoScale>1.25</logoScale> <!-- 1.2 -->
+			<logoScale>1.2</logoScale> <!-- 1.2 -->
 			<maxLogoCount>13</maxLogoCount> <!-- Image cache only -->
-			<logoRotation>-6</logoRotation> <!-- 7.5 : Inclinaison des logos, moins incliné = plus de logos -->
-			<logoRotationOrigin>4.2 0.5</logoRotationOrigin> <!-- -5 0.5 : L'éloigner écarte les logos -->
+			<logoRotation>-9.9</logoRotation> <!-- 7.5 : Inclinaison des logos, moins incliné = plus de logos -->
+			<logoRotationOrigin>3.5 0.5</logoRotationOrigin> <!-- -5 0.5 : L'éloigner écarte les logos -->
 			<logoAlignment>center</logoAlignment> <!-- left, right / top, bottom / center : of screen -->
 			<!-- <logoPos>0.026 0.1587</logoPos> Fixed Logo position
 			<color >FFFFFFD8</color > Background menu color
@@ -79,6 +81,7 @@
 		<image name="logo-color" extra="static">
 			<origin>0 0.5</origin>
 			<pos>0.026 0.1587</pos>
+			<zIndex ifSubset="swapAmbiance:setMediaLibrary">16</zIndex>
 		</image>
 		
 		<!-- Sytem DESCRIPTION BACK -->
@@ -101,7 +104,8 @@
 		
 		<!-- TEXT Games Counter -->
 		<text name="systemInfo">
-			<pos>0.113 0.832</pos>
+			<pos>0.113 0.8335</pos>
+			<y ifSubset="swapAmbiance:setMediaLibrary|setArtGallerys">0.945</y>
 		</text>
 		
 		<!-- TEXT Info Label -->

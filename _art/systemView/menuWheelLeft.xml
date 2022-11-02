@@ -26,16 +26,17 @@
 		</helpsystem>
 		
 		<carousel name="systemcarousel">
-			<pos>0.025 0.075</pos>
-			<size>1 0.85</size>
+			<defaultTransition>instant</defaultTransition>
+			<pos>0 0.0259259259259259</pos>
+			<size>0.3 0.9462962962962963</size>
 			
 			<type>vertical_wheel</type>
 			<logoSize>0.18 0.155</logoSize>
-			<logoScale>1.25</logoScale>
+			<logoScale>1.2</logoScale>
 			<maxLogoCount>13</maxLogoCount>
-			<logoRotation>6</logoRotation>
-			<logoRotationOrigin>-4.2 0.5</logoRotationOrigin>
-			<logoAlignment>left</logoAlignment>
+			<logoRotation>9.9</logoRotation>
+			<logoRotationOrigin>-2.5 0.5</logoRotationOrigin>
+			<logoAlignment>center</logoAlignment>
 		</carousel>
 		
 		<!-- View BACKGROUND BORDER -->
@@ -75,6 +76,7 @@
 		<image name="logo-color" extra="static">
 			<origin>1 0.5</origin>
 			<pos>0.975 0.159</pos>
+			<zIndex ifSubset="swapAmbiance:setMediaLibrary">16</zIndex>
 		</image>
 		
 		<!-- Sytem DESCRIPTION BACK -->
@@ -97,7 +99,8 @@
 		
 		<!-- TEXT Games Counter -->
 		<text name="systemInfo">
-			<pos>0.82 0.832</pos>
+			<pos>0.82 0.8335</pos>
+			<y ifSubset="swapAmbiance:setMediaLibrary|setArtGallerys">0.945</y>
 		</text>
 		
 		<!-- TEXT Info Label -->

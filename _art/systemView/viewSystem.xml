@@ -14,7 +14,7 @@
 			<logoAlignment>center</logoAlignment>
 			<color>00000000</color>
 
-			<defaultTransition>slide</defaultTransition> <!-- slide / fade / instant -->
+			<defaultTransition>instant</defaultTransition> <!-- slide / fade / instant -->
 			<systemInfoDelay>0.1</systemInfoDelay> <!-- Instant Game Number counter -->
 			<zIndex>40</zIndex> <!-- Default -->
 		</carousel>

@@ -118,7 +118,7 @@
 		</text>
 	
 		<image name="gridtile.favorite">
-			<path>./_art/icons/fav-corner.png</path>
+			<path>./_art/icons/fav-corner.svg</path>
 			<pos>0.75 0</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<horizontalAlignment>right</horizontalAlignment>
