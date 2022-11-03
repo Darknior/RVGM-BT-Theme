@@ -33,7 +33,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<userColor>56baeb</userColor>
 		<userLightColor>c1e8f9</userLightColor>
 		
-		<themeDarkColor>4c5058</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
+		<themeDarkColor>252831</themeDarkColor> 		<!-- Dark gray 		${themeDarkColor}	-->
 		<themeLightColor>bebebe</themeLightColor> 		<!-- Light gray 	${themeLightColor}	-->
 		
 		<fontClock>Digib.ttf</fontClock>
@@ -136,9 +136,9 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 	<!-- Swap Ambiance-->
 	<subset name="swapAmbiance" displayName="${subset.swapAmbiance}">
-		<include name="setLibrary"      displayName="${library}"     >./_art/systemView/setLibrary.xml</include>
-		<include name="setArtGallerys"  displayName="${artGallery}"  >./_art/systemView/setArtGallery.xml</include>
-		<include name="setMediaLibrary" displayName="${mediaLibrary}">./_art/systemView/setMediaLibrary.xml</include>
+		<include name="setLibrary"      displayName="${library}" 		tinyScreen="false"		>./_art/systemView/setLibrary.xml</include>
+		<include name="setArtGallerys"  displayName="${artGallery}"  							>./_art/systemView/setArtGallery.xml</include>
+		<include name="setMediaLibrary" displayName="${mediaLibrary}"							>./_art/systemView/setMediaLibrary.xml</include>
 	</subset>
 
 	<!-- Swap Menu -->
@@ -169,19 +169,21 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 
 		<menuText name="menutitle">
 			<fontPath>./_art/font/${fontBold}</fontPath>
-			<fontSize>0.044</fontSize>
-			<color>${userColor}</color>
+			<fontSize>0.036</fontSize>
+			<fontSize tinyScreen="true">0.046</fontSize>
+			<color>${themeLightColor}</color>
 		</menuText>
 		<menuText name="menufooter">
-			<fontPath>./_art/font/${fontMedium}</fontPath>
-			<fontSize>0.02</fontSize>
+			<fontPath>./_art/font/${fontLight}</fontPath>
+			<fontSize>0.018</fontSize>
 			<color>${themeLightColor}</color>
 		</menuText>
 		<menuText name="menutext">
-			<fontPath>./_art/font/${fontMedium}</fontPath>
-			<fontSize>0.033</fontSize>
+			<fontPath>./_art/font/${fontLight}</fontPath>
+			<fontSize>0.026</fontSize>
+			<fontSize tinyScreen="true">0.036</fontSize>
 			<color>${themeLightColor}</color>
-			<separatorColor>${themeDarkColor}</separatorColor> <!-- Séparateur -->
+			<separatorColor>00000000</separatorColor> <!-- Séparateur -->
 			<selectorColor>${themeLightColor}</selectorColor>
 			<selectorColorEnd>${themeLightColor}</selectorColorEnd>
 			<selectedColor>${userDarkColor}</selectedColor>    <!-- Selected Text Color -->
@@ -190,22 +192,23 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		<!-- Popup MiddleTitles -->
 		<menuTextSmall name="menutextsmall">
 			<fontPath>./_art/font/${fontLight}</fontPath>
-			<fontSize>0.030</fontSize>
+			<fontSize>0.018</fontSize>
+			<fontSize tinyScreen="true">0.028</fontSize>
 			<color>${userLightColor}</color> <!-- Jaune -->
 		</menuTextSmall>
 		<!-- Background de la Popup -->
 		<menuBackground name="menubg">
 			<color>${themeDarkColor}${opacity}</color>
-			<cornerSize>32 32</cornerSize>
+			<cornerSize>40 40</cornerSize>
 			<path>./_art/popup/frame.png</path>
 		</menuBackground>
 		<menuGroup name="menugroup">
 			<fontPath>./_art/font/${fontBold}</fontPath>
-			<fontSize>0.025</fontSize>
+			<fontSize>0.023</fontSize>
 			<color>${userLightColor}</color>
 			<separatorColor>${themeDarkColor}</separatorColor>    
 			<backgroundColor>00000000</backgroundColor>
-			<lineSpacing>2.5</lineSpacing>
+			<lineSpacing>3</lineSpacing>
 		</menuGroup>
 		<!-- Icones du menu principal -->
 		<menuIcons name="menuicons">
@@ -236,14 +239,14 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<view name="screen">
 
 		<controllerActivity name="controllerActivity">
-			<pos>0.0161 0.0107</pos>
-			<size>0.085 0.025</size>
+			<pos>0.0161 0.004</pos>
+			<size>0.085 0.02</size>
 			<!--<horizontalAlignment>right</horizontalAlignment>-->
 			<itemSpacing>0.003</itemSpacing>
-			<imagePath>./_art/icons/gamepad.png</imagePath>
-			<gunPath>./_art/icons/gun.png</gunPath>
+			<imagePath>./_art/icons/gamepad.svg</imagePath>
+			<gunPath>./_art/icons/gun.svg</gunPath>
 			<color>${themeLightColor}</color>
-			<activityColor>${userColor}</activityColor>
+			<activityColor>ffffff</activityColor>
 			<hotkeyColor>${userDarkColor}</hotkeyColor>
 		</controllerActivity>
 		<controllerActivity name="controllerActivity" tinyScreen="true">
@@ -251,36 +254,40 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 		</controllerActivity>
 		
 		<text name="clock">
-			<origin>0 0</origin>
-			<pos>0.9344 0.9584</pos>
+			<origin>1 1</origin>
+			<pos>0.996 1.00625</pos>
 			<size>0.05 0.0384</size>
             <verticalAlignment>center</verticalAlignment>
 			<color>${themeLightColor}</color>
 			<fontPath>./_art/font/${fontClock}</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.024</fontSize>
 		</text>
 
 		<batteryIndicator name="batteryIndicator">
-			<pos>0.955 0.0125</pos>
-			<size>0.033 0.033</size>
+			<pos>0.955 0</pos>
+			<size>0.033 0.028</size>
 			<incharge>./art/battery/incharge.svg</incharge>
 			<full>./art/battery/full.svg</full>
 			<at75>./art/battery/75.svg</at75>
 			<at50>./art/battery/50.svg</at50>
 			<at25>./art/battery/25.svg</at25>
 			<empty>./art/battery/empty.svg</empty>
-			<color>FFFFFFA0</color>
+			<color>${themeLightColor}</color>
 		</batteryIndicator>
 		<batteryIndicator name="batteryIndicator" tinyScreen="true">
-			<pos>0.915 0.013</pos>
-			<size>0.07 0.07</size>
+			<pos>0.915 0.001</pos>
+			<size>0.07 0.045</size>
 		</batteryIndicator>
 		
 		<image name="scanlines" extra="true">
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
 			<size>1 1</size>
-			<color>1010091a</color>
+			<color ifSubset="staticEffect:paper">6666661a</color>
+			<color ifSubset="staticEffect:crt">ffffff33</color>
+			<color ifSubset="staticEffect:scanlines|scanlinesVertical">ffffff8c</color>
+			<color ifSubset="staticEffect:scanlinesFine|scanlinesVerticalFine">ffffff</color>
+			<color ifSubset="staticEffect:phosphore|phosphorePlus">ffffff80</color>
 			<tile>true</tile> <!-- Repeat / Streach image -->
 			<zIndex>6000</zIndex>
 		</image>
@@ -299,11 +306,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<view name="system, basic, detailed, video, grid">
 	
 		<helpsystem name="help">
-			<origin>0 0</origin>
+			<origin>0 1</origin>
 			<textColor>${themeLightColor}</textColor>
 			<iconColor>${userColor}</iconColor>
 			<fontPath>./_art/font/${fontBold}</fontPath>
-			<fontSize>0.024</fontSize>
+			<fontSize>0.021</fontSize>
+			<pos>0.003 0.997</pos>
+			<glowColor>00000080</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
 		</helpsystem>
 
 	</view>
@@ -321,11 +332,15 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
             <path>./../games/${system.theme}</path>
         </gameextras>
         
-		<!-- HELP BAR position ~~ TO REMOVE !!! -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deactived by Helmic,don't understand why this section move position of help in gamelist 
+		HELP BAR position ~~ TO REMOVE !!!
 		<helpsystem name="help">
 			<pos>0.0161 0.9648</pos>
 		</helpsystem>
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_playcount, 
                     md_lbl_description, md_lbl_players, md_lbl_rating, md_lbl_gametime
 					md_lbl_releasedate, md_lbl_lastplayed, md_lbl_gametime,
@@ -387,6 +402,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 			<zIndex>55</zIndex>
 		</text>
 		<rating name="md_rating">
+			<linearSmooth>true</linearSmooth>
 			<filledPath>./_art/icons/star_filled.png</filledPath>
 			<unfilledPath>./_art/icons/star-empty.png</unfilledPath>
 			<color>${themeDarkColor}</color>
@@ -635,6 +651,77 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         <!-- Try mp3 -->
         <path>./_art/sounds/${system.theme}.mp3</path>
     </sound>
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Quick system settings~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+	<!--system infos to polaroid if missing-->
+	<view name="system" if="
+			{system.theme} == 'SYSTEM' ||
+			{system.theme} == 'SYSTEM2' ||
+			{system.theme} == 'SYSTEM3'
+			">
+		
+		<image name="info" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>false</visible></image>
+		<text name="sys_label,sys_info" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>false</visible></text>
+
+		<image name="info-bg" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>true</visible><path>./_art/systemView/bg-sys-info-empty.png</path><h>0.36</h><y>0.53</y></image>
+		<image name="info-bg" extra="static" ifSubset="systemView:menuHorizDown,swapAmbiance:setLibrary"><visible>true</visible><path>./_art/systemView/bg-sys-info-empty.png</path><h>0.36</h><y>0.33</y></image>
+
+		<video name="videoPreview" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>true</visible><y>0.69</y><roundCorners>0.025 0.025</roundCorners><delay>0.1</delay></video>
+		<video name="videoPreview" extra="static" ifSubset="systemView:menuHorizDown,swapAmbiance:setLibrary"><visible>true</visible><y>0.49</y><roundCorners>0.025 0.025</roundCorners><delay>0.1</delay></video>
+
+		<image name="photo" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>true</visible><y>0.69</y></image>
+		<image name="photo" extra="static" ifSubset="systemView:menuHorizDown,swapAmbiance:setLibrary"><visible>true</visible><y>0.49</y></image>
+	</view>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+	<!--delete descriptions frame and text if needed-->
+	<view name="system" if="
+			{system.theme} == 'SYSTEM' ||
+			{system.theme} == 'SYSTEM2' ||
+			{system.theme} == 'SYSTEM3'
+			">
+
+		<image name="synopsys" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>false</visible></image>
+		<text name="sys_description" extra="static" ifSubset="swapAmbiance:setLibrary"><visible>false</visible></text>
+	</view>
+	
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~End of quick system settings~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </theme>
 

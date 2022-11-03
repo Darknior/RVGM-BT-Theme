@@ -124,37 +124,37 @@
 
 		<image name="md_hidden, md_nothidden">
 			<pos>0.795 0.937</pos>
-			<path>./_art/icons/hidden.png</path>
+			<path>./_art/icons/hidden.svg</path>
 		</image>
 		<image name="md_kidgame, md_notkidgame">
 			<pos>0.815 0.937</pos>
-			<path>./_art/icons/kid.png</path>
+			<path>./_art/icons/kid.svg</path>
 		</image>
 		<image name="md_favorite, md_notfavorite">
 			<pos>0.835 0.937</pos>
-			<path>./_art/icons/favorite.png</path>
+			<path>./_art/icons/favorite.svg</path>
 		</image>
 		<!-- PDF from gamelist -->
 		<image name="md_manual, md_nomanual">
 			<pos>0.855 0.937</pos>
-			<path>./_art/icons/manual.png</path>
+			<path>./_art/icons/manual.svg</path>
 		</image>
 		<image name="md_map, md_nomap">
 			<pos>0.875 0.937</pos>
-			<path>./_art/icons/map.png</path>
+			<path>./_art/icons/map.svg</path>
 		</image>
 		<!-- <image name="md_news, md_nonews">
 			<pos>0.895 0.937</pos>
-			<path>./_art/icons/news.png</path>
+			<path>./_art/icons/news.svg</path>
 		</image> -->
 		<!-- Only show if System support -->
 		<image name="md_savestate, md_nosavestate">
 			<pos>0.895 0.937</pos>
-			<path>./_art/icons/savestate.png</path>
+			<path>./_art/icons/savestate.svg</path>
 		</image>
 		<image name="md_cheevos, md_notcheevos">
 			<pos>0.915 0.937</pos>
-			<path>./_art/icons/cheevos.png</path>
+			<path>./_art/icons/cheevos.svg</path>
 		</image>
 
 		<!-- FLAG for game language -->
