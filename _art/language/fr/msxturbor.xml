@@ -5,8 +5,8 @@
 	<view name="system">
 	
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
-<text>Microsoft, Panasonic, Sony
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Panasonic
 Ordinateur personnel
 Troisième
 1990
@@ -15,8 +15,8 @@ Manette, clavier, souris</text>
 		</text>
 
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Les premiers MSX2+, produits par Panasonic et Sony, sont sortis exclusivment au Japon le 21 Octobre 1988. Il apportera un mode 256x212 pixels avec 19 268 couleurs ainsi qu’un scrolling matériel horizontal en plus du vertical. Une cartouche Yamaha MSX-Music offrant une extension à 9 canaux FM est aussi disponible. Le MSX Turbo R est la dernière géneration de MSX mise sur le marché en 1990 pour compenser l'annulation du MSX3. Seul Panasonic a commercialisé ses FS-A1ST et FS-A1GT au Japon. Doté d'un processeur RISC 16 bits, il est le plus rapide de toute la gamme MSX.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Le MSX Turbo R est la dernière géneration de MSX mise sur le marché en 1990 pour compenser l'annulation du MSX3. Seul Panasonic a commercialisé ses FS-A1ST et FS-A1GT exclusivement au Japon. Il est doté d'un processeur RISC 16 bits 7,16 Mhz et d'un autre processeur Z80 3,58 Mhz assurant la rétro-compatibilité. Il embarque 256 à 512 Ko de RAM sur la version GT, un processeur vidéo Yamaha avec toujours la résolution maximale de 256x212 en 19 mille couleurs et intégre enfin le MSX-Music offrant une extension à 8 canaux FM. Ce qui en fait le MSX le plus rapide de toute la gamme.</text>
 		</text>
 		
 	</view>

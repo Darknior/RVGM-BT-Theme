@@ -6,19 +6,20 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Nintendo
-Périphérique console
-Quatrième
-1994
-Cartouche GB
-Manette</text>
+<text>Dunhuang Technology
+Home video game console
+Fourth
+1995
+Cartridge
+8 button gamepad</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Ce système fonctionne uniquement avec les cartouches Game Boy monochrome, dont il convertit en couleur les quatres niveaux de gris. Les jeux estampillés SGB posséderont par la suite des informations de couleurs additionnelles et des bordures personnalisées. L'écran de jeu ne remplissant pas entièrement la télévision, le Super Game Boy en contenait par défaut. L'adaptateur supporte 256 couleurs pour des écrans statiques et 12 pendant le jeu. Certains jeux ont aussi des effets sonores supplémentaires comme Asteroids, Space Invaders et Donkey Kong '94.</text>
+<text>The Super A'Can is a console released in 1995 exclusively in Taiwan and designed by Dunhuang Technology. At first glance it seems to be a clone of the American version of the Super Nintendo, but it incorporates a Motorola 68000 processor at 10.74 Mhz like the Mega Drive or the Neo-Geo and can display 32768 colors. There are only 12 games compatible with the console because it was a commercial failure. It was too expensive when it was released and was quickly competed by the Playstation. The designers also had to develop the games as quickly as possible, which are of poor quality.</text>
 		</text>
 		
 	</view>
 
 </theme>
+

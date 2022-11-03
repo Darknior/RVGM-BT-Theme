@@ -5,8 +5,8 @@
 	<view name="system">
 	
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
-<text>Microsoft, Panasonic, Sony
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Panasonic, Sony, Sanyo
 Ordinateur personnel
 Troisième
 1988
@@ -15,8 +15,8 @@ Manette, clavier, souris</text>
 		</text>
 
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Les premiers MSX2+, produits par Panasonic et Sony, sont sortis exclusivment au Japon le 21 Octobre 1988. Il apportera un mode 256x212 pixels avec 19 268 couleurs ainsi qu’un scrolling matériel horizontal en plus du vertical. Une cartouche Yamaha MSX-Music offrant une extension à 9 canaux FM est aussi disponible. Le MSX Turbo R est la dernière géneration de MSX mise sur le marché en 1990 pour compenser l'annulation du MSX3. Seul Panasonic a commercialisé ses FS-A1ST et FS-A1GT au Japon. Doté d'un processeur RISC 16 bits, il est le plus rapide de toute la gamme MSX.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Les premiers MSX2+, produits par Panasonic et Sony, sont sortis exclusivement au Japon le 21 Octobre 1988. Après 1986, Microsoft a cessé de prendre en charge la norme MSX et ASCII au Japon a repris le développement de la norme. Ce nouvel opus apporte dans certaines versions un processeur à 5,37 Mhz, toujours 64 Ko de RAM, un nouveau mode vidéo 256x212 pixels en 19 mille couleurs ainsi qu’un scrolling matériel horizontal en plus du vertical. Le processeur audio reste inchangé, mais une cartouche Yamaha MSX-Music offrant une extension à 9 canaux FM est aussi disponible.</text>
 		</text>
 		
 	</view>

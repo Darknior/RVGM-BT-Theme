@@ -32,11 +32,11 @@
 		</carousel>
 		
 		<!-- View BACKGROUND BORDER -->
-		<image name="staticBackgrund" extra="static">
+		<image name="staticBackgroundBorder" extra="static">
 			<path>./bg-system-vertical.png</path>
 		</image>
 		<!-- View BACKGROUND MENU -->
-		<image name="staticMenu" extra="static">
+		<image name="staticBackgroundMenu" extra="static">
 			<pos>0.0063 0</pos>
 			<size>0.282 1</size>
 			<path>./bg-sys-menu-vert-left.png</path>
@@ -44,13 +44,13 @@
 		
 		<!-- System BACK-ILLUSTRAION -->
 		<image name="bg-image" extra="true">
-			<!--  <pos>0.0151 0.0445</pos>
-			<size>0.9698 0.911</size> -->
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
 		</image>
 		<!-- OR System BACK-VIDEO -->
 		<video name="backgroundvideo" extra="true">
-			<!--  <pos>0.0151 0.0445</pos>
-			<size>0.9698 0.911</size> -->
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
 		</video>
 				
 		<!-- Sytem LOGO -->

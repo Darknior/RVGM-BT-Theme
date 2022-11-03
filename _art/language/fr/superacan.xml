@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
-<text>Nintendo
-Périphérique console
+<text>Dunhuang Technology
+Console de sallon
 Quatrième
-1994
-Cartouche GB
-Manette</text>
+1995
+Cartouche
+Manette 8 boutons</text>
 		</text>
-		
+
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>Ce système fonctionne uniquement avec les cartouches Game Boy monochrome, dont il convertit en couleur les quatres niveaux de gris. Les jeux estampillés SGB posséderont par la suite des informations de couleurs additionnelles et des bordures personnalisées. L'écran de jeu ne remplissant pas entièrement la télévision, le Super Game Boy en contenait par défaut. L'adaptateur supporte 256 couleurs pour des écrans statiques et 12 pendant le jeu. Certains jeux ont aussi des effets sonores supplémentaires comme Asteroids, Space Invaders et Donkey Kong '94.</text>
+<text>La Super A'Can est une console sortie en 1995 exclusivement à Taïwan et conçue par Dunhuang Technology. A première vue elle semble être un clone de la version américaine de la Super Nintendo, mais elle intègre un processeur Motorola 68000 à 10,74 Mhz comme la Mega Drive ou la Neo-Geo et peut afficher 32768 couleurs. Il existe seulement 12 jeux compatibles avec la console car elle fut un échec commercial. Elle était trop chère à sa sortie et fut rapidement concurrence par la Playstation. Les concepteurs devaient aussi développer les jeux au plus vite, qui sont de qualité médiocre.</text>
 		</text>
 		
 	</view>

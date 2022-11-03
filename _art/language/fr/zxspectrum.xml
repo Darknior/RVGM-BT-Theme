@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Sinclair Research, Timex
 Ordinateur personnel
 Deuxième
@@ -15,8 +15,8 @@ Manette 1/2 boutons, clavier</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>Le ZX Spectrum est un ordinateur mis sur le marché au Royaume-Uni en 1982. Basé sur un processeur Zilog Z80 tournant à 3,5 Mhz et 16 ou 48 Ko de RAM étendu avec le ZX+ à 128 Ko. La résolution graphique est de 256×192 pixels et utilise un mode texte de 32 colonnes sur 24 lignes avec un choix de huit couleurs, soit normales, soit brillantes, ce qui donne seize teintes. Pour le son, un simple beeper émettait des sons rudimentaires. Certains grands studio Anglais du jeu vidéo ont fait leurs armes sur cette machine comme Rareware, Bullfrog et Shiny. De nombreux jeux Homebrew sortent encore.</text>
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Le ZX Spectrum est un ordinateur mis sur le marché au Royaume-Uni en 1982. Basé sur un processeur Zilog Z80 tournant à 3,5 Mhz et 16 ou 48 Ko de RAM étendu avec le ZX+ à 128 Ko. La résolution graphique est de 256×192 pixels et utilise un mode texte de 32 colonnes sur 24 lignes avec un choix de huit couleurs, soit normales, soit brillantes, ce qui donne seize teintes. Pour le son, un simple beeper émettait des sons rudimentaires. Certains grand studios anglais du jeu vidéo ont fait leurs armes sur cette machine comme Rareware, Bullfrog et Shiny. De nombreux jeux Homebrew sortent encore.</text>
 		</text>
 		
 	</view>

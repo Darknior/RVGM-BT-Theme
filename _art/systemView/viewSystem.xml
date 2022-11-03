@@ -37,7 +37,7 @@
 		</text>
 		
 		<!-- View BACKGROUND BORDER -->
-		<image name="staticBackgrund" extra="static">
+		<image name="staticBackgroundBorder" extra="static">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -45,7 +45,7 @@
 			<zIndex>20</zIndex> <!-- Default 10 for extra -->
 		</image>
 		<!-- View BACKGROUND MENU -->
-		<image name="staticMenu" extra="static">
+		<image name="staticBackgroundMenu" extra="static">
 			<origin>0 0</origin>
 			<color>FFFFFF${opacity}</color>
 			<linearSmooth>true</linearSmooth>
