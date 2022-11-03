@@ -46,13 +46,19 @@
 		
 		<!-- System BACK-ILLUSTRAION -->
 		<image name="bg-image" extra="true">
-			<pos>0.0151 0.0445</pos>
-			<size>0.9698 0.911</size>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
+			<storyboard>
+				<animation property="w" 		from="1.1" 		to="0.96875" 		mode="easeOutQuint" 	duration="750"/>
+				<animation property="color" 	from="00000000" 		to="ffffff" mode="easeInOut" 	duration="125"/>
+			</storyboard>
 		</image>
 		<!-- OR System BACK-VIDEO -->
 		<video name="backgroundvideo" extra="true">
-			<pos>0.0151 0.0445</pos>
-			<size>0.9698 0.911</size>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
 		</video>
 		
 		<!-- Sytem LOGO -->

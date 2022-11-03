@@ -10,11 +10,6 @@
 
 		<!-- System BACK-ILLUSTRAION -->
 		<image name="bg-image" extra="true">
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<!-- <pos>0.0151 0.0445</pos> -->
-			<size>1 1</size>
-			<!-- <size>0.9698 0.911</size> -->
 			<path>./background-default.jpg</path>
 			<path>./../../${system.theme}/background.jpg</path>
 			<color>ffffffff</color>
@@ -22,10 +17,6 @@
 			<tile>false</tile> <!-- Repeat / Streach image -->
 			<zIndex>11</zIndex> <!-- Default 10 for extra -->
 			<saturation>0.9</saturation>
-			<storyboard>
-				<animation property="w" 		from="1.1" 		to="1" 		mode="easeOutQuint" 	duration="750"/>
-				<animation property="color" 	from="00000000" 		to="ffffff" mode="easeInOut" 	duration="125"/>
-			</storyboard>
 		</image>
 		
 		<!-- Sytem AVATAR -->
