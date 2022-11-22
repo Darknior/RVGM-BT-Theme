@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Journey to the laugh</text>
+		</text>
+
+		<!-- Monkey -->
+		<image name="avatar" extra="static">
+			<origin>0 0</origin>
+			<pos>0.25 0.304</pos>
+			<maxSize>0.6 0.6</maxSize>
+			<zIndex>18</zIndex>
+		</image>
+		<!-- Nuage -->
+		<image name="avatar2-3" extra="static">
+			<origin>0 0</origin>
+			<pos>0.25 0.304</pos>
+			<maxSize>0.6 0.6</maxSize>
+			<path>./avatar2-3.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>17</zIndex>
+		</image>
+
+		<!-- Montains -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin>
+			<pos>0 0.552</pos>
+			<path>./avatar4.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>15</zIndex>
+		</image>
+
+		<!-- Rainbow -->
+		<image name="avatar3" extra="static">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<path>./avatar3.png</path>
+			<linearSmooth>true</linearSmooth>
+			<color>FFFFFFB3</color>
+			<zIndex>16</zIndex>
+		</image>
+
+	</view>
+
+</theme>

@@ -2,6 +2,11 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Panzer Dragoon</text>
+		</text>
+
 		<!-- Rotation AVATAR -->
 		<image name="avatar" extra="static">
 			<rotation>-40</rotation>

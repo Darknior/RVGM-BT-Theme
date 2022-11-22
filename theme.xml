@@ -334,7 +334,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
         
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Deactived by Helmic,don't understand why this section move position of help in gamelist 
+Desactived by Helmic,don't understand why this section move position of help in gamelist 
 		HELP BAR position ~~ TO REMOVE !!!
 		<helpsystem name="help">
 			<pos>0.0161 0.9648</pos>
@@ -449,10 +449,11 @@ Deactived by Helmic,don't understand why this section move position of help in g
 			<size>1 1</size>
 			<!-- <size>0.9698 0.911</size> -->
 			<path>./${system.theme}/background.jpg</path>
+			<path>./${system.theme}/background.png</path>
 			<color>FFFFFF33</color>
 			<tile>false</tile>
 			<linearSmooth>true</linearSmooth>
-			<zIndex>5</zIndex> <!-- Default  themeDarkColor -->
+			<zIndex>5</zIndex>
 		</image>
 
 		<!-- MENU et BORDER -->
@@ -693,34 +694,6 @@ Deactived by Helmic,don't understand why this section move position of help in g
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~End of quick system settings~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </theme>

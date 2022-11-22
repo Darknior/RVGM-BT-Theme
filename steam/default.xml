@@ -3,16 +3,15 @@
 
 	<view name="system">
 
-		<!-- HIDDE ELEMENTS -->
-		<text name="sys_label, sys_info" extra="static">
-			<visible>false</visible>
-		</text>
-		<image name="info-bg" extra="static">
-			<visible>false</visible>
-		</image>	
-		<video name="videoPreview" extra="static">
-			<visible>false</visible>
-		</video>		
+		<text name="bg-image-game-name" extra="true">
+			<text>Half-Life</text>
+		</text>	
 		
+		<image name="avatar" extra="static">
+			<pos>0 0</pos>
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+		</image>
+
 	</view>
 </theme>

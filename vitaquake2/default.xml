@@ -3,6 +3,10 @@
 
 	<view name="system">
 
+		<text name="bg-image-game-name" extra="true">
+			<text>Quake II</text>
+		</text>
+
 		<!-- HIDDE ELEMENTS -->
 		<text name="sys_label, sys_info" extra="static">
 			<visible>false</visible>

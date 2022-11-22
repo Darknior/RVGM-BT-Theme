@@ -3,6 +3,10 @@
 
 	<view name="system">
 	
+		<text name="bg-image-game-name" extra="true">
+			<text>Spider-Man's Villain Roundup</text>
+		</text>
+
 		<image name="avatar" extra="static">
 			<origin>0 0</origin>
 			<pos>0.317 0.176</pos>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<text name="sys_info" extra="true">
-<!-- MAX SIZE -----------|------>
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
 <text>Microsoft
 Personnal computer
 Fourth to Eighth
@@ -15,7 +15,7 @@ Joypad, keyboard, mouse</text>
 		</text>
 
 		<text name="sys_description" extra="true">
-<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
 <text>Windows is a graphical interface developed by Microsoft in 1983, for its MS-DOS operating system. In Windows 1.0 there was already a game called Reversi, then in 1990 in 3.1 we were treated to Solitaire and Minesweeper, which have become classics. In 1995 Windows 95 was released, followed by W98, which will be the first to democratize Direct X, the library to facilitate the development of games on PC. The interface will become a standalone system and will not stop evolving with XP, Vista, 7, 8, 10 and with it Direct X which in addition to video and sound will manage absolutely everything, up to AI and VR devices.</text>
 		</text>
 		
