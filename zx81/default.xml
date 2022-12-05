@@ -1,11 +1,59 @@
+<!-- ZX81 -->
+
+
 <theme>
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-		<!-- Rotation AVATAR -->
-		<image name="avatar" extra="static">
-			<rotation>90</rotation>
+	
+		
+		
+		<image name="asteroides_0" extra="static">
+			<pos>-0.3 0.55</pos>
+			<scale>1</scale>
+			<rotation>15</rotation>
+			<opacity>1</opacity>
+			<path>./asteroides_0.png</path>
+			<zIndex>16</zIndex>
+			
+			<storyboard repeat="forever">
+					<animation property="x" to="0" begin="" autoreverse="true" duration="15000" mode="linear"/>
+					<animation property="rotation" to="30" begin="" autoreverse="true" duration="30000" mode="linear"/>
+			</storyboard>
 		</image>
+		
+		<image name="asteroides_1" extra="static">
+			<pos>0 0.55</pos>
+			<scale>1</scale>
+			<rotation>5</rotation>
+			<opacity>1</opacity>
+			<path>./asteroides_1.png</path>
+			<zIndex>15</zIndex>
+			
+			<storyboard repeat="forever">
+					<animation property="x" to="-0.2" begin="" autoreverse="true" duration="30000" mode="linear"/>
+					<animation property="y" to="0.65" begin="" autoreverse="true" duration="25000" mode="linear"/>
+			</storyboard>
+		</image>
+		
+		
+		<image name="asteroides_2" extra="static">
+			<pos>0 0.75</pos>
+			<scale>1</scale>
+			<opacity>1</opacity>
+			<path>./asteroides_2.png</path>
+			<zIndex>15</zIndex>
+			
+			<storyboard repeat="forever">
+					<animation property="x" to="0.1" begin="" autoreverse="true" duration="25000" mode="linear"/>
+					<animation property="y" to="0.55" begin="" autoreverse="true" duration="25000" mode="linear"/>
+			</storyboard>
+		</image>
+		
+		
+		
+		
+		
 	</view>
 
 </theme>
