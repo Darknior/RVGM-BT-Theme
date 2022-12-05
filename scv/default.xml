@@ -3,6 +3,10 @@
 
 	<view name="system">
 	
+		<text name="bg-image-game-name" extra="true">
+			<text>Lupin III</text>
+		</text>	
+
 		<image name="avatar" extra="static">
 			<pos>0.235 0.179</pos>
 			<maxSize>0.3 0.9067</maxSize>

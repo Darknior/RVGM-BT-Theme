@@ -33,7 +33,7 @@
 			<fontSize>0.025</fontSize>
 			<alignment>center</alignment>
 			<forceUppercase>1</forceUppercase>
-			<text>NO NAME</text>
+			<text></text>
 			<zIndex>50</zIndex>
 		</text>
 

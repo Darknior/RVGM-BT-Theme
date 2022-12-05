@@ -1,0 +1,12 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Sonic 2</text>
+		</text>	
+
+	</view>
+
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<!-- Sytem LOGO -->
+		<image name="logo-color" extra="true">
+			<zIndex>20</zIndex>
+		</image>
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Pooyan</text>
+		</text>
+
+		<image name="avatar" extra="static">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
+		</image>
+
+	</view>
+
+</theme>
