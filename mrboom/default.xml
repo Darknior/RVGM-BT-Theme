@@ -1,0 +1,12 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="bg-image-game-name" extra="true">
+			<text>Mr Boom</text>
+		</text>
+
+	</view>
+	
+</theme>

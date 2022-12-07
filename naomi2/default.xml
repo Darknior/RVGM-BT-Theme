@@ -3,6 +3,10 @@
 
 	<view name="system">
 	
+		<text name="bg-image-game-name" extra="true">
+			<text>Initial D - Arcade Stage</text>
+		</text>
+
 		<image name="avatar" extra="static">
 			<pos>0.354 0.047</pos>
 			<maxSize>1 1</maxSize>
