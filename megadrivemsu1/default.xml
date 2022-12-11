@@ -2,9 +2,24 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Moonwalker</text>
+		</text>
+
+		<image name="avatar5" extra="static">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
+			<path>./avatar5.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>14</zIndex>
+		</image>
+
 		<image name="avatar" extra="static">
 			<pos>0.67 0.38</pos>
 		</image>
+
 	</view>
 
 </theme>
