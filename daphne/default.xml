@@ -4,13 +4,14 @@
 	<view name="system">
 
 		<text name="bg-image-game-name" extra="true">
-			<text>Tetris</text>
+			<text>Dragon's Lair</text>
 		</text>
 
-		<!-- Rotation AVATAR -->
+		<!-- RIPPER -->
 		<image name="avatar" extra="static">
-			<pos>0.305 -0.007</pos>
-			<rotation>90</rotation>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
 		</image>
 
 	</view>
