@@ -1,7 +1,13 @@
 <!-- Thème RVGM : Hikaru SEGA -->
 <theme>
 	<formatVersion>7</formatVersion>
+
 	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Star Wars Racer Arcade</text>
+		</text>
+		
 		<image name="avatar-pod" extra="static">
 			<origin>0 0</origin>
 			<pos>0.5 0.42</pos>
@@ -53,5 +59,7 @@
 						<animation property="opacity" to="0" begin="19990" duration="10" mode="Linear"/>
 				</storyboard>
 		</image>
+
 	</view>
+
 </theme>

@@ -1,0 +1,13 @@
+<!-- Thème RVGM : Hikaru SEGA -->
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Moonstone</text>
+		</text>
+
+	</view>
+
+</theme>
