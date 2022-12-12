@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="bg-image-game-name" extra="true">
+			<text>Matio Paper</text>
+		</text>
+
+		<!-- ALL CHARACTERS -->
+		<image name="avatar" extra="static">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.96875 0.9074074074074074</size>
+		</image>
+
+		<!-- HIDDE ELEMENTS -->
+		<text name="sys_label, sys_info" extra="static">
+			<visible>false</visible></text>
+		<image name="info-bg" extra="static">
+			<visible>false</visible></image>	
+		<video name="videoPreview" extra="static">
+			<visible>false</visible></video>
+
+		<!-- AVATAR 2 : Info, Mario Sprite -->
+		<image name="avatar2" extra="static">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.72 0.2658</pos>
+			<size>0.2469 0.6769</size>
+			<path>./avatar2.png</path>
+			<path>./avatar2-${activeView}.png</path>
+			<zIndex>17</zIndex>
+		</image>
+		<image name="avatar2" extra="static" ifSubset="systemView:menuHorizDown">
+			<pos>0.022 0.266</pos></image>
+		<image name="avatar2" extra="static" ifSubset="systemView:menuVertLeft || systemView:menuWheelLeft">
+			<pos>0.72 0.2658</pos></image>
+		<image name="avatar2" extra="static" ifSubset="systemView:menuVertRight || systemView:menuWheelRight">
+			<pos>0.015 0.265</pos></image>
+
+		<!-- AVATAR 3 : Console, Mario Hands Sprite -->
+		<image name="avatar3" extra="static" ifSubset="systemView:menuHorizDown">
+			<origin>0 0</origin> <!-- center -->
+			<pos>0.035 0.611</pos>
+			<maxSize>0.222 0.2591</maxSize>
+			<path>./avatar3-horizontal-down.png</path>
+			<path>./avatar3-${activeView}.png</path>
+			<zIndex>999</zIndex>
+		</image>
+
+	</view>
+
+</theme>
