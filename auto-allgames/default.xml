@@ -4,7 +4,7 @@
 	<view name="system">
 
 		<text name="bg-image-game-name" extra="true">
-			<text>Matio Paper</text>
+			<text>Mario Paper</text>
 		</text>
 
 		<!-- ALL CHARACTERS -->
@@ -33,9 +33,9 @@
 		</image>
 		<image name="avatar2" extra="static" ifSubset="systemView:menuHorizDown">
 			<pos>0.022 0.266</pos></image>
-		<image name="avatar2" extra="static" ifSubset="systemView:menuVertLeft || systemView:menuWheelLeft">
+		<image name="avatar2" extra="static" ifSubset="systemView:menuVertLeft|menuWheelLeft">
 			<pos>0.72 0.2658</pos></image>
-		<image name="avatar2" extra="static" ifSubset="systemView:menuVertRight || systemView:menuWheelRight">
+		<image name="avatar2" extra="static" ifSubset="systemView:menuVertRight|menuWheelRight">
 			<pos>0.015 0.265</pos></image>
 
 		<!-- AVATAR 3 : Console, Mario Hands Sprite -->

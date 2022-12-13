@@ -59,14 +59,14 @@
 					<animation property="rotation" to="15" begin="" duration="10" mode="Linear"/>
 					<animation property="opacity" from="0" to="1" begin="" duration="1500" mode="linear"/>
 					<animation property="scale" from="5" to="0.65" begin="" duration="1500" mode="EaseIn"/>
-					<animation property="x" to="0.34" begin="" duration="1500" mode="EaseIn"/>
+					<animation property="x" to="0.36" begin="" duration="1500" mode="EaseIn"/>
 					<animation property="y" to="0.148" begin="" duration="1500" mode="EaseIn"/>
 					
-					<animation property="x" from="0.34" to="0.33" begin="1500" duration="2000" mode="EaseOut"/>
+					<animation property="x" from="0.36" to="0.35" begin="1500" duration="2000" mode="EaseOut"/>
 					<animation property="scale" from="0.65" to="0.7" begin="1500" duration="2000" mode="Linear"/>
 					<animation property="rotation" from="15" to="26" begin="1500" duration="12500" mode="Linear"/>
 					
-					<animation property="x" from="0.33" to="0.30" begin="3500" duration="10500" mode="Linear"/>
+					<animation property="x" from="0.35" to="0.32" begin="3500" duration="10500" mode="Linear"/>
 					<animation property="y" from="0.148" to="0.23" begin="3500" duration="10500" mode="Linear"/>
 					<animation property="scale" from="0.7" to="0.75" begin="3500" duration="10500" mode="Linear"/>
 					
@@ -85,17 +85,85 @@
 			<storyboard repeat="forever">
 					<animation property="rotation" to="15" begin="" duration="10" mode="Linear"/>
 					<animation property="scale" from="5" to="0.65" begin="" duration="1500" mode="EaseIn"/>
-					<animation property="x" to="0.34" begin="" duration="1500" mode="EaseIn"/>
+					<animation property="x" to="0.36" begin="" duration="1500" mode="EaseIn"/>
 					<animation property="y" to="0.148" begin="" duration="1500" mode="EaseIn"/>
 					
 					<animation property="opacity" begin="1000" from="0" to="1" duration="300" autoreverse="true" repeat="20" mode="linear"/>
 					
-					<animation property="x" from="0.34" to="0.33" begin="1500" duration="2000" mode="EaseOut"/>
+					<animation property="x" from="0.36" to="0.35" begin="1500" duration="2000" mode="EaseOut"/>
 					<animation property="scale" from="0.65" to="0.7" begin="1500" duration="2000" mode="Linear"/>
 					<animation property="rotation" from="15" to="26.3" begin="1500" duration="12500" mode="Linear"/>
 					
-					<animation property="x" from="0.33" to="0.30" begin="3500" duration="10500" mode="Linear"/>
+					<animation property="x" from="0.35" to="0.32" begin="3500" duration="10500" mode="Linear"/>
 					<animation property="y" from="0.148" to="0.23" begin="3500" duration="10500" mode="Linear"/>
+					<animation property="scale" from="0.7" to="0.75" begin="3500" duration="10500" mode="Linear"/>
+					
+					<animation property="scale" to="10" begin="14000" duration="2000" mode="EaseIn"/>
+					<animation property="x" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
+					<animation property="y" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
+					
+					<animation property="opacity" to="0" begin="14500" duration="100" mode="linear"/>
+					
+					<animation property="opacity" to="0" begin="22000" duration="100" mode="linear"/>
+			</storyboard>
+		</image>
+		
+		<!-- VERTICAL RIGHT -->
+
+		<image name="asteroides_1" extra="static" ifSubset="systemView:menuVertRight|menuWheelRight">
+			<pos>0.3 0.59</pos>
+			<rotation>-5</rotation>
+			<path>./asteroides_1.png</path>
+			<storyboard repeat="forever">
+					<animation property="x" to="0.1" begin="" autoreverse="true" duration="30000" mode="linear"/>
+					<animation property="y" to="0.55" begin="" autoreverse="true" duration="25000" mode="linear"/>
+			</storyboard>
+		</image>
+
+		<image name="avatar-ship" extra="static" ifSubset="systemView:menuVertRight|menuWheelRight">
+			<path>./avatar-ship.png</path>
+			<zIndex>17</zIndex>
+			<storyboard repeat="forever">
+					<animation property="rotation" to="15" begin="" duration="10" mode="Linear"/>
+					<animation property="opacity" from="0" to="1" begin="" duration="1500" mode="linear"/>
+					<animation property="scale" from="5" to="0.65" begin="" duration="1500" mode="EaseIn"/>
+					<animation property="x" to="0.40" begin="" duration="1500" mode="EaseIn"/>
+					<animation property="y" to="0.248" begin="" duration="1500" mode="EaseIn"/>
+					
+					<animation property="x" from="0.40" to="0.39" begin="1500" duration="2000" mode="EaseOut"/>
+					<animation property="scale" from="0.65" to="0.7" begin="1500" duration="2000" mode="Linear"/>
+					<animation property="rotation" from="15" to="26" begin="1500" duration="12500" mode="Linear"/>
+					
+					<animation property="x" from="0.39" to="0.36" begin="3500" duration="10500" mode="Linear"/>
+					<animation property="y" from="0.248" to="0.23" begin="3500" duration="10500" mode="Linear"/>
+					<animation property="scale" from="0.7" to="0.75" begin="3500" duration="10500" mode="Linear"/>
+					
+					<animation property="scale" to="10" begin="14000" duration="2000" mode="EaseIn"/>
+					<animation property="x" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
+					<animation property="y" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
+					
+					<animation property="opacity" to="0" begin="14500" duration="100" mode="linear"/>
+					
+					<animation property="opacity" to="0" begin="22000" duration="100" mode="linear"/>
+			</storyboard>
+		</image>
+		<image name="avatar-propulsion" extra="static" ifSubset="systemView:menuVertRight|menuWheelRight">
+			<path>./avatar-propulsion.png</path>
+			<zIndex>18</zIndex>
+			<storyboard repeat="forever">
+					<animation property="rotation" to="15" begin="" duration="10" mode="Linear"/>
+					<animation property="scale" from="5" to="0.65" begin="" duration="1500" mode="EaseIn"/>
+					<animation property="x" to="0.40" begin="" duration="1500" mode="EaseIn"/>
+					<animation property="y" to="0.248" begin="" duration="1500" mode="EaseIn"/>
+					
+					<animation property="opacity" begin="1000" from="0" to="1" duration="300" autoreverse="true" repeat="20" mode="linear"/>
+					
+					<animation property="x" from="0.40" to="0.39" begin="1500" duration="2000" mode="EaseOut"/>
+					<animation property="scale" from="0.65" to="0.7" begin="1500" duration="2000" mode="Linear"/>
+					<animation property="rotation" from="15" to="26.3" begin="1500" duration="12500" mode="Linear"/>
+					
+					<animation property="x" from="0.39" to="0.36" begin="3500" duration="10500" mode="Linear"/>
+					<animation property="y" from="0.248" to="0.23" begin="3500" duration="10500" mode="Linear"/>
 					<animation property="scale" from="0.7" to="0.75" begin="3500" duration="10500" mode="Linear"/>
 					
 					<animation property="scale" to="10" begin="14000" duration="2000" mode="EaseIn"/>
@@ -110,78 +178,7 @@
 		
 		<!-- VERTICAL LEFT -->
 
-		<image name="avatar-ship" extra="static" ifSubset="systemView:menuVertLeft || systemView:menuWheelLeft">
-			<path>./avatar-ship.png</path>
-			<zIndex>17</zIndex>
-			<storyboard repeat="forever">
-					<animation property="rotation" to="15" begin="" duration="10" mode="Linear"/>
-					<animation property="opacity" from="0" to="1" begin="" duration="1500" mode="linear"/>
-					<animation property="scale" from="5" to="0.65" begin="" duration="1500" mode="EaseIn"/>
-					<animation property="x" to="0.48" begin="" duration="1500" mode="EaseIn"/>
-					<animation property="y" to="0.248" begin="" duration="1500" mode="EaseIn"/>
-					
-					<animation property="x" from="0.48" to="0.47" begin="1500" duration="2000" mode="EaseOut"/>
-					<animation property="scale" from="0.65" to="0.7" begin="1500" duration="2000" mode="Linear"/>
-					<animation property="rotation" from="15" to="26" begin="1500" duration="12500" mode="Linear"/>
-					
-					<animation property="x" from="0.47" to="0.44" begin="3500" duration="10500" mode="Linear"/>
-					<animation property="y" from="0.248" to="0.23" begin="3500" duration="10500" mode="Linear"/>
-					<animation property="scale" from="0.7" to="0.75" begin="3500" duration="10500" mode="Linear"/>
-					
-					<animation property="scale" to="10" begin="14000" duration="2000" mode="EaseIn"/>
-					<animation property="x" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
-					<animation property="y" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
-					
-					<animation property="opacity" to="0" begin="14500" duration="100" mode="linear"/>
-					
-					<animation property="opacity" to="0" begin="22000" duration="100" mode="linear"/>
-			</storyboard>
-		</image>
-		<image name="avatar-propulsion" extra="static" ifSubset="systemView:menuVertLeft || systemView:menuWheelLeft">
-			<path>./avatar-propulsion.png</path>
-			<zIndex>18</zIndex>
-			<storyboard repeat="forever">
-					<animation property="rotation" to="15" begin="" duration="10" mode="Linear"/>
-					<animation property="scale" from="5" to="0.65" begin="" duration="1500" mode="EaseIn"/>
-					<animation property="x" to="0.48" begin="" duration="1500" mode="EaseIn"/>
-					<animation property="y" to="0.248" begin="" duration="1500" mode="EaseIn"/>
-					
-					<animation property="opacity" begin="1000" from="0" to="1" duration="300" autoreverse="true" repeat="20" mode="linear"/>
-					
-					<animation property="x" from="0.48" to="0.47" begin="1500" duration="2000" mode="EaseOut"/>
-					<animation property="scale" from="0.65" to="0.7" begin="1500" duration="2000" mode="Linear"/>
-					<animation property="rotation" from="15" to="26.3" begin="1500" duration="12500" mode="Linear"/>
-					
-					<animation property="x" from="0.47" to="0.44" begin="3500" duration="10500" mode="Linear"/>
-					<animation property="y" from="0.248" to="0.23" begin="3500" duration="10500" mode="Linear"/>
-					<animation property="scale" from="0.7" to="0.75" begin="3500" duration="10500" mode="Linear"/>
-					
-					<animation property="scale" to="10" begin="14000" duration="2000" mode="EaseIn"/>
-					<animation property="x" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
-					<animation property="y" to="-2" begin="14000" duration="2000" mode="EaseOut"/>
-					
-					<animation property="opacity" to="0" begin="14500" duration="100" mode="linear"/>
-					
-					<animation property="opacity" to="0" begin="22000" duration="100" mode="linear"/>
-			</storyboard>
-		</image>
-		
-		<image name="asteroides_1" extra="static" ifSubset="systemView:menuVertLeft || systemView:menuWheelLeft">
-			<pos>0.3 0.59</pos>
-			<scale>1</scale>
-			<rotation>-5</rotation>
-			<opacity>1</opacity>
-			<path>./asteroides_1.png</path>
-			<zIndex>15</zIndex>
-			<storyboard repeat="forever">
-					<animation property="x" to="0.1" begin="" autoreverse="true" duration="30000" mode="linear"/>
-					<animation property="y" to="0.55" begin="" autoreverse="true" duration="25000" mode="linear"/>
-			</storyboard>
-		</image>
-
-		<!-- VERTICAL RIGHT -->
-
-		<image name="avatar-ship" extra="static" ifSubset="systemView:menuVertRight || systemView:menuWheelRight">
+		<image name="avatar-ship" extra="static" ifSubset="systemView:menuVertLeft|menuWheelLeft">
 			<path>./avatar-ship.png</path>
 			<zIndex>17</zIndex>
 			<storyboard repeat="forever">
@@ -208,7 +205,7 @@
 					<animation property="opacity" to="0" begin="22000" duration="100" mode="linear"/>
 			</storyboard>
 		</image>
-		<image name="avatar-propulsion" extra="static" ifSubset="systemView:menuVertRight || systemView:menuWheelRight">
+		<image name="avatar-propulsion" extra="static" ifSubset="systemView:menuVertLeft|menuWheelLeft">
 			<path>./avatar-propulsion.png</path>
 			<zIndex>18</zIndex>
 			<storyboard repeat="forever">
