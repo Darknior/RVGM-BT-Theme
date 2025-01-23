@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>tw</langue>
+		
+<sysLabel>製造廠商
+設備類型
+主機世代
+發表年份
+儲存媒介
+操控方式
+
+總共</sysLabel>
+		
+	</variables>
+	
+</theme>
