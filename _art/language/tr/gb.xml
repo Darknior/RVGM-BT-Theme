@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El konsolu
+Dördüncü
+1989
+Kartuş
+2 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Boy, 1989 yılında Nintendo tarafından geliştirilen taşınabilir 8 bitlik bir el konsolu. Bu, daha önce geliştirilen Game & Watch el cihazlarının ardından gelen geniş bir taşınabilir el cihazı serisinin ilkidir. Gunpei Yokoi ve Nintendo Research & Development tarafından tasarlanmıştır. 4MHz işlemci, 8KB RAM ve 4 gri tonlu 160x144 nokta vuruşlu ekrana sahip olan cihaz, bir dizi AA'da yaklaşık 30 saat süren uzun pil ömrü ile tanınıyordu. Tetris, oyunun en kötü şöhretli oyunlarından biri haline gelen paketiydi.
+1998 yılında entegre arka ışıklı "Light" versiyonu piyasaya sürüldü.</text>
+		</text>
+		
+	</view>
+
+</theme>

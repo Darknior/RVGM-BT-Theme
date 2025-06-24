@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Fujitsu
+Kişisel Bilgisayar
+İkinci
+1982
+Floppy 5¼, Teyp kasedi
+Klavye, joystick</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>FM -7, 1982 yılında Japonya'da piyasaya sürülen 8 bitlik bir kişisel bilgisayardır. Diğerlerinin yanı sıra FM - New 7, FM -77 ve FM -77AV'ı içeren uzun bir tüketici serisinin ilkidir. Biri ana diğeri grafikler için olmak üzere 2 Mhz hızında çalışan iki Motorola 68B09 işlemciden oluşur. 64 KB RAM'in yanı sıra 8 renkte 640x200 çözünürlük gösterebiliyor ve 3 kanal ses sunuyor. Son model, 1988 'de piyasaya sürülen ve 448 KB'a kadar RAM'e izin verecek FM77AV40SX ve 26214 renkte 320x200 ekran veya daha küçük bir paletle 640x400 ekran olacak.</text>
+		</text>
+		
+	</view>
+
+</theme>

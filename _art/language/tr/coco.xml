@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tandy Corporation
+Kişisel bilgisayar
+İkinci
+1977
+Kaset, disket, HDD
+Klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>RadioShack'in CoCo Renkli Bilgisayarı, Motorola'nın 6809 mikroişlemcisine dayanıyordu ve TRS -80 hattının bir parçasıydı. 0.895 MHz işlemciye ve 64 KB'a kadar RAM'e sahipti. Coco II daha küçük olacak, daha iyi bir klavyeye sahip olacak ve küçük harfleri görüntüleyebilecek. Coco III, orijinal frekansı iki katına çıkarabilen 68B09e işlemciye ve 512 kB RAM'e sahip olacak. Ayrıca 64 'lük bir paletten maksimum 640x225 çözünürlük ve 16 renge kadar renk alabilen yeni bir' GIME 'grafik çipi. (64 bir numara ile mevcuttur)</text>
+		</text>
+		
+	</view>
+
+</theme>
+

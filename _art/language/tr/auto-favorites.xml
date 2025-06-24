@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu koleksiyon, kütüphanenizdeki tüm favori oyunlarınızı bir araya getirir. Bir bakıma, retro oyun dünyasının "en iyileri" kişisel zevkinize göre düzenlenmiştir. Mario, Sonic, Castlevania, Tomb Rider, Tony Hawk, GTA, Final Fantasy vb. akla geliyor.
+Çocukluğunuzda oynadığınız oyunları hızlıca bulabilmeniz için tüm alışılmış sıralama filtreleri burada da mevcut.</text>
+		</text>
+		
+	</view>
+
+</theme>

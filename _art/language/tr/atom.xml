@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Acorn Computers
+Ev bilgisayarı
+İkinci
+1980
+Teyp kasedi, Floppy 5¼
+Klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Acorn Atom, Acorn Computers tarafından 1980'den 1982'ye kadar üretilen ve BBC Micro ile değiştirilecek olan kişisel bir bilgisayardır. Başlangıçta Proton olarak bilinen Atom'un bir yükseltmesi olarak faturalandırıldı. Disket sürücüsü olmayan, ancak entegre klavye ve kaset çalara sahip minyatür bir Acorn System 3'tü. 1 Mhz'de bir MOS 6502 işlemci ve 12'ye kadar genişletilebilen 2 kb RAM'e sahipti. 4 renkte 64x192'ye veya monokrom olarak 256x192'ye kadar çözünürlük gösterebiliyordu. Ses için 1 kanalda basit bir dahili hoparlör.</text>
+		</text>
+		
+	</view>
+
+</theme>

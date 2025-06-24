@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu koleksiyon, kütüphanenizdeki tüm 4 oyunculu oyunları, tüm sistemleri bir arada ve alfabetik sırayla listelenmiş olarak içerir. Bir grup arkadaşınız olduğunda ve biraz 4 kişilik retro oyun aksiyonu yaşamak istediğinizde mükemmeldir. 4 oyunculu çok oyunculu modu olan tüm aksiyon, yarış, platform, dövüş, dövüş vb. oyunları içerir. Bomberman, Micro Machines, NBA Jam, Crash Team Racing, TMNT Turtles in Time, Gauntlet, D&D Tower of Doom, Golden Axe vb.
+Tüm olağan sıralama filtreleri mevcuttur.</text>
+		</text>
+		
+	</view>
+
+</theme>

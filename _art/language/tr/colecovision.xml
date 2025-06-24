@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Coleco Industries
+Ev tipi video oyun konsolu
+İkinci
+1982
+Kartuş
+Analog çubuk & 14 düğmeli</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Colecovision, Coleco (Connecticut Leather Company) tarafından pazarlanan ve Ağustos 1982 'de piyasaya sürülen ikinci nesil bir video oyun konsolu. 3.58 Mhz işlemci, 1 kb RAM, 3 ton ve 1 gürültü üreteci ile donatılmış olup, 16 renkte 256x192 piksel ve 32 kukla Çözünürlük gösterir. Bu, zamanın arcade oyunlarına benzer grafikler sunmasını sağlar. Hayatı boyunca yaklaşık 170 oyun yayımlandı ve 2020 'de Homebrew'e izin vermeye devam ediyor. Coleco ayrıca konsolu Atari 2600 ile uyumlu hale getiren bir modül pazarladı.</text>
+		</text>
+		
+	</view>
+
+</theme>

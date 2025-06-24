@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Konsol
+Sekizinci
+2012
+Kendi Diski
+Wii U Oyun Kolu, Wii U Pro, Wiimote</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>2012 yılında piyasaya sürülen Wii U, Nintendo tarafından pazarlanan ve Wii'den sonra gelen bir video oyun konsolu. Wii U, entegre dokunmatik ekrana sahip bir kumanda sunan ilk ev konsolu. Nintendo'nun yüksek çözünürlüklü grafikler üretebilen ilk konsolu. 1.24 GHz hızında üç çekirdekli işlemci, 550 MHz hızında AMD Radeon "Latte" grafik çipi, sistem için 1 GB DDR3 + oyunlar için 1 GB ile donatılmıştır. Mario kart 8 ve The Legend of Zelda: The Wind Waker HD gibi önemli oyunlar var.</text>
+		</text>
+		
+	</view>
+	
+</theme>

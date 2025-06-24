@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Kişisel bilgisayar
+Dördüncü
+1985
+Floppy disk
+Joystick, klavye, fare</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari ST, 1980'lerin sonlarında piyasaya sürülen bir bilgisayar serisidir. Tüketiciler (oyunlar) ve profesyonel yaratıcılar (yayın ve müzik sentezi) tarafından kullanılan uygun fiyatlı bir bilgisayardı. İlk modelde 8MHz'de bir Motorola 68000 CPU, 512KB RAM ve Yamaha 3 yollu ses yonga seti bulunuyordu. 16 renkte 320x200 veya monokrom olarak 640x200 çözünürlük gösterebiliyordu. ST, sistem tarafından kullanılan iki mimari olan Sixteen Thirty-two'nun kısaltmasıdır. Ayrıca o dönemde Atari'nin başkanı olan Sam Tramiel'in oğlu olduğu da söylenmektedir.</text>
+		</text>
+		
+	</view>
+
+</theme>

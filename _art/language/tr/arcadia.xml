@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Emerson
+Ev tipi video oyun konsolu
+İkinci
+1982
+ROM kartuş
+14 düğmeli joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Arcadia 2001, Emerson tarafından geliştirilen ve 1982'de Atari 5200 ve Intellivision ile rekabet halinde piyasaya sürülen 8 bitlik bir konsoldur. Otuzdan fazla varyantı/klonları piyasaya sürüldü, en dikkat çekeni Dr. Slump da dahil olmak üzere dört özel oyuna sahip Bandai'nin Arcadia'sıydı. 1,2 MHz hızında çalışan Signetics 2650 CPU'su ve 1 KB RAM'i vardır. Monokrom olarak 128x104 veya 9 renk ve aynı anda 4 sprite'a kadar 128x104 çözünürlük gösterebilir. Bir bip sesi oyun için sesler üretir. Tüm varyantları sayarsak, kütüphanesi 47 oyuna ulaşır.</text>
+		</text>
+		
+	</view>
+
+</theme>

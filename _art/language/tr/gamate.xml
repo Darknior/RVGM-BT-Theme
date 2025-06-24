@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bit Corporation
+El tipi oyun konsolu
+Dördüncü
+1990
+Kartuş
+2 düğmeli joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Gamate, Nintendo'nun Game Boy'unun başarısına tepki olarak piyasaya sürülen birçok el konsolunun ilki gibi görünüyor. Aslen Tayvanlı oyun şirketi Bit Corporation tarafından dünyanın dört bir yanındaki yerel distribütörlerle birlikte piyasaya sürüldü. 8 bit işlemci, 16 kB RAM, 160x152 görüntüleyebilen 4 seviyeli gri LCD ekran ve mono hoparlör ile donatılmıştır. Bir seçenek olarak kablo bağlantısı bile vardı, ancak ekranının, kullanımının ve oyunlarının kalitesizliği onu ticari bir başarısızlık haline getirecek.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Adobe, Macromedia
+2D Oyun Motoru
+Dördüncü
+1996
+Dosyalar
+Klavye, fare</text>
+
+</text>
+		
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>1996 'dan 2020' ye kadar Flash, web tarayıcılarında animasyon ve video oyunları çalıştırmayı mümkün kıldı. Bunlar bir dönemi temsil ediyor, çoğunlukla ücretsiz, herkes için kolayca erişilebilirdi ve video oyunlarının demokratikleşmesine katıldık. Çoğunluğu bireylerin eseridir, çoğu kalitesizdir, bazıları lisanslama sorunları yaratır. Ancak video oyununun bir geçmişi var ve bunun bir parçasılar, onu takip etmekle ilgili. Durum Abandonware'inkine benzer.</text>
+		</text>
+		
+	</view>
+
+</theme>
+
+

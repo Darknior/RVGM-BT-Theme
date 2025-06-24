@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+Üçüncü
+1984
+teyp kasedi, flopy disket
+Joystick, klavye</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>1984 yılında VIC -20 'nin yerini almak üzere piyasaya sürülen Commodore C116, C16 ve Plus / 4 serisi, giriş seviyesi pazarını hedeflemiştir. Bir MOS7501 veya 8501 işlemci 6502 'den sonra gelir ve % 75 daha hızlıdır. Ancak ses ve video için yalnızca bir TED yardımcı işlemcisi dahil edilmiştir. Ayrıca C64 'ün aksine, bu makinelerde donanım ivmesi yoktur. Plus / 4, 32k RAM'e sahiptir ve dört ofis uygulamasını buna entegre eder. Bu proje ABD'de ticari bir başarısızlıktı ve 1985 'te kopyaları Avrupa'da ve özellikle doğuda, demir perdenin arkasında satılsa bile durduruldu.</text>
+		</text>
+		
+	</view>
+
+</theme>

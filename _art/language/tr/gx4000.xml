@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Amstrad
+Ev tipi video oyun konsolu
+Üçüncü
+1990
+Kartuş
+2 düğmeli joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>GX-4000, Amstrad'ın 1990 yılında satışa sunulan 8 bitlik bir video oyun konsolu. CPC Plus temelinde inşa edilmiştir ve bu nedenle aynı özellikleri paylaşır. 4 MHz işlemci, 64 kb RAM, 3 sesli stereo ses ile donatılmıştır ve her biri 15 renkte 16 kukla ile 4096 palet üzerinde 31 renkte 160x200 piksel çözünürlük görüntüleyebilir. Buna ek olarak, son olarak donanımda piksel piksel kaydırmayı içerir. Ancak esasen TBM'den devralınan, NES'e karşı çok pahalı satılan ve 16 bit Megadrive tarafından aşılan bir oyun kütüphanesiyle, bu ticari bir başarısızlık olacaktır.</text>
+		</text>
+		
+	</view>
+
+</theme>

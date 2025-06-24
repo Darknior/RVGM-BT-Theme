@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Valve Corporation
+Kişisel bilgisayar
+Dördüncü ile Sekizinci
+2003 / 2021
+Dosyalar
+Oyun kolu, klavye, fare</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Steam, Valve tarafından geliştirilen ve 12 Eylül 2003'ten beri kullanılabilen çevrimiçi bir içerik dağıtımı, hak yönetimi ve iletişim platformudur. Video oyunlarına yönelik olarak, kullanıcıların oyun satın almalarına, oyunlar için içerik satın almalarına, bunları otomatik olarak güncellemelerine, oyunların çok oyunculu bölümünü yönetmelerine ve Steam kullanarak oyunlar etrafında topluluk araçları sunmalarına olanak tanır.
+Ekim 2012'den bu yana, yazılıma adanmış bir departman bulunmaktadır. Steam, Şubat 2015'te 125 milyondan fazla kullanıcıya ve Mart 2017'de 14.000'den fazla oyuna sahipti.</text>
+		</text>
+		
+	</view>
+
+</theme>

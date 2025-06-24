@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Ev tipi video oyun konsolu
+Dördüncü
+1991
+CD-ROM
+Uzaktan kumanda, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>1991'de piyasaya sürülen CDTV, Commodore tarafından hepsi bir arada bir eğlence birimi olmayı amaçlayan ev tipi eğlence konsoludur. Esasen bir CD sürücüsü, uzaktan kumanda ve joystick'e sahip bir Amiga 500'dür. Multimedya yeteneklerine ve etkileşimine hala ilgi duyan teknik olmayan kullanıcılar tarafından kullanılmak üzere tasarlanmıştır. Örneğin, Grolier ansiklopedisi amiral gemisi başlıklarından biriydi. Ticari bir başarısızlıktı ve yüzün altında başlık piyasaya sürüldü (büyük bir kısmı zaten Amiga 500'den portlardı).</text>
+		</text>
+		
+	</view>
+
+</theme>

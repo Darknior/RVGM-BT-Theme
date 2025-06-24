@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Pioneer, Philips ve diğerleri
+Arcade video oyun
+Dördüncü
+1982
+Lazer disk
+Arcade çubuk ve diğerleri</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Laserdisc video oyunu, bir lazer diskten oynatılan önceden kaydedilmiş videoları kullanarak süsleme yapan ve üzerlerinde etkileşimli öğeler gösteren bir oyundur. Bu numara, oyunların düşük çözünürlüğünü telafi etmek için oldukça basitleştirilmiş bir deneyim pahasına zaman kazandırdı. İlk laserdisc arcade oyunu, 1982'de Sega tarafından Astron Belt'ti. Ancak, popüler hale gelen ilk LD oyunu 1983'te Dragon's Lair'de yayınlandı. Don Bluth tarafından canlandırılan sahneler içeriyor ve Uygun olduğunda belirli bir düğmeye basmanız gerekecek. İleriye doğru hareket etmek için, modern bir 'Hızlı Zaman Etkinliği' gibi.</text>
+		</text>
+		
+	</view>
+
+</theme>

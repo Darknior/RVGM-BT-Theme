@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Multiple
+Arcade video oyun kabini
+Çoklu
+1971 / 20xx
+PCB Kart
+Arcade çubuk ve diğerleri</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>2004 yılında TrebbleWinner tarafından geliştirilen ve 2000 yılında Dave tarafından oluşturulan ve 2019 'da FB - Neo haline gelen Final Burn Alpha'ya dayanan Final Burn Alpha'nın bir devamıdır. Bu proje, çeşitli optimizasyonları için Lantus ve IQ_132 sayesinde zamanla Arcade'in mevcut en iyi emülatörlerinden biri haline geldi. Çok sık güncellenir ve MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board of Sega gibi farklı sistemleri ve Cave Toaplan, Taito, Psikyo ve Kaneko'nun tam bir listesini taklit eder. Tıpkı Mame gibi, grafik gölgelendiricilerin, kayıtların vb. özelliklerini sunar...</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Panasonic, Sanyo, Goldstar
+Ev tipi oyun konsolu
+Beşinci
+1993
+CD-ROM
+5 düğmeli oyun kolu</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>3DO, Electronic Arts"ın eski üyeleri tarafından kurulan ve ilk konsollarını üretmek için birden fazla üreticiyle ortaklık kuran bir şirkettir. Bunlar arasında Panasonic, Sanyo ve Goldstar yer alır ve her biri kendi versiyonunu üretir. İlk konsol olan "3DO Interactive Multiplayer", Nisan 1993"te piyasaya çıktı. 12,5 MHz işlemci, 2 MB RAM ve 25 MHz hızında iki GPU ile 16 milyon renkte 320x240 piksel görüntüleyebilirdi. Rakiplerinden (Saturn ve PS1) biraz daha az güçlü kabul edilir ve birkaç önemli oyuna sahiptir.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Capcom Co., Ltd. Street Fighter, Mega Man, Resident Evil, Devil May Cry, Onimusha, Ace Attorney, Monster Hunter ve Dead Rising gibi çok sayıda multi-milyon satan oyun serisinin yanı sıra Marvel veya Disney gibi crossover'lara veya mülklere dayalı lisanslı oyunlar geliştirmesiyle bilinen Japon video oyunu geliştiricisi ve yayıncısıdır. 1979'da kurulan şirket, Kuzey Amerika, Avrupa ve Doğu Asya'da yan kuruluşları olan uluslararası bir girişim haline gelmiştir.</text>
+		</text>
+		
+	</view>
+
+</theme>

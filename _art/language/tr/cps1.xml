@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Arcade video oyun kabini
+Dördüncü
+1988
+PCB Jamma
+Arcade çubuk</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>CP Sistemi daha yaygın olarak CPS1 veya CPS-1 olarak adlandırılır, 1988'de Japon şirketi Capcom tarafından Forgotten Worlds oyununun piyasaya sürülmesiyle oluşturulan JAMMA standardına sahip arcade makineleri için bir video oyun sistemidir. Sistem 3 karttan oluşur, sistemi içeren bir anakart (A-board), oyun bilgilerini içeren bir yardımcı kart (B-board) ve korumaları içeren bir yardımcı kart (C-board). CP Sistemi Sharp X68000 mimarisine dayanmaktadır. 1990'lardan Final Fight ve Street Fighter 2 gibi birkaç önemli oyun CP Sisteminde yayınlanmıştır.</text>
+		</text>
+		
+	</view>
+
+</theme>

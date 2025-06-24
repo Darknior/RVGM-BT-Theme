@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sinclair Research, Timex
+Kişisel bilgisayar
+Birinci
+1981
+Kaset
+Klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>ZX81, Sinclair Research tarafından tasarlanan ve Mart 1981'de Timex Corp. tarafından pazarlanan 8 bitlik bir bilgisayardır. İndirimli bir fiyata satılan bu bilgisayar, 3,25 MHz hızında çalışan bir Zilog Z80A mikroişlemcisine dayanıyor ve 1 ila 16 KB RAM'e sahipti. Ekran, standart bir TV'de siyah beyazdı (32 karakterden oluşan 24 satır) 64x48 piksel, ses olmadan ancak ekstra düz hassas bir klavye zarıyla. 2014'te piyasaya sürülen Chroma 81 arayüzü, 15 rengin görüntülenmesini, sesin kullanılmasını ve 256x192'de sözde yüksek çözünürlüklü oyunların görüntülenmesini sağlayan WRX grafik desteğini kolaylaştırıyor.</text>
+		</text>
+		
+	</view>
+	
+</theme>

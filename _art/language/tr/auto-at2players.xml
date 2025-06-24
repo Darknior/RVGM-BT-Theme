@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu koleksiyon, kütüphanenizdeki tüm 2 oyunculu oyunları, tüm sistemleri bir arada ve alfabetik sırayla listelenmiş olarak içerir. Siz ve bir arkadaşınız biraz kooperatif veya rekabetçi retro oyun oynamak istediğinizde mükemmeldir. Bu, çok oyunculu modu olan tüm aksiyon, yarış, platform, dövüş, dövüş vb. oyunları içerir. Street Fighter 2, Goof Troop, Gunstar Heroes, Pipe Plumber, World of Illusion, Captain Commando, Tetris Battle Gaiden, Magical Adventure vb. akla geliyor.
+Tüm olağan sıralama filtreleri mevcuttur.</text>
+		</text>
+		
+	</view>
+
+</theme>

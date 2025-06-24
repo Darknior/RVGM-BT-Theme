@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu bölüm, kütüphanenizdeki tüm oyunları gruplandırır. Bunlar, isme, sisteme, geliştiriciye, derecelendirmeye, oyuncu sayısına, tarihe vb. göre sıralanabilir. Bu, hangi sistemde olursa olsun bir oyunu hızlı bir şekilde bulmanıza yardımcı olabilir.
+Koleksiyonunu ezbere bilen veya bilmeyen herkes için son derece kullanışlı ve pratik bir araştırma aracıdır.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sammy
+Arcade Sistem Kartı
+Altıncı
+2003
+ROM kartuş
+Arcade çubuk, silah, direksiyon</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atomiswave, 2003 yılında Japon şirketi Sammy tarafından Dreamcast donanımına dayanarak oluşturulan JAMMA çevre birimlerini kullanan kartuş tabanlı bir arcade sistemidir. Çoklu giriş yöntemlerini kolaylaştıran uygun maliyetli, modüler bir sistemdi. 200MHz'de bir Hitachi SH-4 CPU, 16MB RAM ve bir PowerVR 2 GPU ile donatılmıştır. Neo Geo MVS'nin emekliye ayrılmasıyla SNK, gelecekteki oyunlar için bir sonraki sistemi olarak Atomiswave kullanmayı seçti, ancak sistem için başlıkların çoğu Sammy tarafından geliştirildi. Sammy, 2004 yılında Sega ile birleşecekti.</text>
+		</text>
+		
+	</view>
+
+</theme>

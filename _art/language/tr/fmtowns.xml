@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Fujitsu, Casino
+Kişisel Bilgisayar
+Dördüncü / Beşinci
+1989
+CD-Rom
+2/4 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>1989 yılında piyasaya sürülen Fujitsu FM Towns sistemi, multimedya ve video oyunlarına odaklanan PC'nin bir çeşididir. 1997 yılına kadar geliştikçe, 16 'dan 100 Mhz'e kadar x386, x486 ve Pentium ile donatıldı. 320x240 ila 640x480 piksel arasında değişen grafik modları, 4096 ila 16 milyon arasında değişen bir palet üzerinde 16 ila 32 bin renk içerir. Aynı anda 1024 kuklayı görüntüleyebilir ve ses için CDRom'un yanı sıra 8 PCM sesi ve 6 FM kanalı ile donatılmıştır. Oyun kataloğu çok çeşitlidir ve birçok arcade (mükemmel) dönüşüm ve birçok Hentai (yetişkin) oyunu içerir.</text>
+		</text>
+		
+	</view>
+
+</theme>

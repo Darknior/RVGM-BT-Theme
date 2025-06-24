@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Coleco Adam
+Ev bilgisayarı
+İkinci
+1983
+Teyp kasedi, Floppy 5¼
+Analog çubuk, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Adam, Colecovision için bir genişletme modülüdür, ancak aynı zamanda bu şekilde de satılmıştır. Bir klavye, kaset çalar, yazıcı, genişletme yuvaları, 5¼″ disket sürücüsü ve 300 baud modem sunmaktadır. Hala 3,58 Mhz işlemci, 1 kb RAM, 3 ton üreteci, 1 gürültü üreteci ile donatılmış ve 256x192 piksel çözünürlük ve 16 renkte 32 sprite göstermektedir. Ancak çok yüksek bir fiyat, yalnızca oyuncak mağazalarında bulunabilmesi ve satılan modellerin %60'ının garanti kapsamında iade edilmesi nedeniyle acı bir ticari başarısızlık olmuştur.</text>
+		</text>
+		
+	</view>
+
+</theme>

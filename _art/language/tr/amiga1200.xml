@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+Dördüncü
+1992
+Floppy disk, IDE sabit disk
+Joystick, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Amiga 1200 (A1200), Commodore tarafından üretilen ve 1992'de Amiga 600/500'ün halefi olarak piyasaya sürülen bir bilgisayardır. Önemli ölçüde daha güçlü Motorola 68EC020 işlemci, AGA grafik yonga seti, 2 MB RAM, ses kartı, klavye ve disk sürücüsünü tek bir ünitede birleştirir. RAW-8 modunda 256 renge kadar görüntüleme ve 262k renge kadar (16 milyon renk paletinden) yükseltme kapasitesine sahiptir. 1994'te iflas başvurusunda bulunmadan önce Commodore'un son düşük bütçeli modeliydi. Payback, Guardian, Banshee, Pinball Illusions ve çeşitli Chaos Engine oyunları gibi önemli başlıkları içerir.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ev tipi oyun konsolu
+Üçüncü
+1986
+ROM kartuş
+2 düğmeli oyun kolu</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari 7800 ProSystem, Atari Corporation tarafından Ocak 1986'da arcade oyun yaratıcısı GCC ile işbirliği içinde piyasaya sürülen bir konsoldur. Ekranda aynı anda yüzlerce hareket eden sprite görüntüleme yeteneğiyle NES ve Master System ile rekabet eder. Bir Atari SALLY 6502C CPU, bir MARIA özel GPU ve 4KB RAM ile donatılmış olup, 320x240 piksele kadar ve 256'ya kadar farklı renk (16 renk ve 16 yoğunluk) görüntüleyebilir. Basitleştirilmiş 2 düğmeli bir kontrol cihazı kullanır ve Atari 2600 oyunlarını çalıştırabilir, bu da onu geriye dönük uyumlu ilk konsol yapar.</text>
+		</text>
+		
+	</view>
+
+</theme>

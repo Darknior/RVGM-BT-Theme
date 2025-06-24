@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Blzut3
+2.5D Oyun Motoru
+2 & 3
+1992
+Dosyalar
+Joypad, klavye, fare</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>ECWolf temel olarak Wolf4SDL motoruna dayanan Wolfenstein 3D, Spear of Destiny ve Super 3D Noah's Ark'ın gelişmiş bir limanıdır. Ayrıca, kaynak kodunu değiştirmek zorunda kalmadan çok çeşitli mod düzenleme yetenekleri sağlamak için ZDoom'dan bazı kodlar kullanır. Böylece oyunun silahlarını ve seviyelerini çok basit bir şekilde değiştirebilir ve modunuzu tek bir dosyada paketleyebilirsiniz. Oyuncular için motor daha iyi oynanış sunar, 16:9 çözünürlük, sınırsız kaydetme, sınırsız şekil veya boyut haritaları ve HD doku paketlerini destekler.</text>
+		</text>
+		
+	</view>
+
+</theme>
+
+

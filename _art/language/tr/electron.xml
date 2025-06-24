@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Acorn Computers
+Kişisel bilgisayar
+İkinci
+1983
+Teyp, disket, kartuş
+Joystick, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Acorn Electron, BBC Micro'nun sadece 32 kB RAM ve maliyetleri düşürmek için BBC'nin 8 yerine 4 bitlik bir bellek sistemi kullanan giriş seviyesi bir sürümüdür. Daha sonra bir dergi, BBC için yapılan oyunların "hızlarının yarısından daha azında" oynandığını bildirdi. Bazı yayıncıların makineden uzak durmasına rağmen, Chuckie Egg gibi popüler çok formatlı oyunlar da dahil olmak üzere çok çeşitli oyunlar mevcuttu. 1990 'da piyasaya sürülen yaklaşık 1.400 oyun vardı ve Power Software'den bir kartuş aracılığıyla joystick desteği mevcuttu.</text>
+		</text>
+		
+	</view>
+
+</theme>

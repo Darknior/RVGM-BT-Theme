@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Sony Computer Ent.
+El tipi oyun konsolu
+Yedinci
+2004
+UMD, Memory Stick
+7 düğmeli + analog</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>PlayStation Portable (veya PSP), Sony'nin 2004 ve 2014 yılları arasında pazarlanan ilk taşınabilir video oyun konsolu. Oyunlar da dahil olmak üzere çevrimiçi kaydileştirilmiş içerik sunmak için bir mağaza içerir. 294 indirilebilir oyundan oluşan bu koleksiyona PlayStation MINIS veya PS MINIS adı verilir. Birçoğu PlayStation 3 (PS3), PlayStation Vita (PS Vita) ve PlayStation TV (PS TV) ile de uyumludur. Bazıları cep telefonu oyunlarının limanlarıdır.</text>
+		</text>
+		
+	</view>
+	
+</theme>

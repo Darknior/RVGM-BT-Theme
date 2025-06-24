@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore
+Kişisel bilgisayar
+Üçüncü
+1982
+Kartuş, kaset, floppy
+Joystick, klavye, fare</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Commodore 64, Jack Tramiel'in firması tarafından 1982'de tasarlanan kişisel bir bilgisayardır. Dünya çapında 13 milyondan fazla satılan üniteyle on yılın en çok satan modeliydi. 8 bitlik 6510 mikroişlemci kullanır ve 64 KB RAM'e sahiptir. Grafik çipi VIC-II, donanım kaydırmalı arka planlarla 6 renk sağlar. Ses çipi SID, üç sese, çeşitli dalga biçimlerine, ses modüllerine ve filtreleme yeteneklerine sahipti (tasarımcısı Bob Yannes, sentezleyici şirketi Ensoniq'in kurucu ortağı olacaktı). Zamanına göre gelişmiş olduğunu söylemek yetersiz kalır.</text>
+		</text>
+		
+	</view>
+
+</theme>

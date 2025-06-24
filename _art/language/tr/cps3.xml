@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Arcade video oyun kabini
+Dördüncü
+1996
+PCB Jamma, CD-Rom
+Arcade çubuk</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>CP System III (Capcom Play System 3), daha yaygın olarak CPS3 veya CPS-3 olarak bilinir, Capcom tarafından 1996 yılında, arcade sistemi CP System II'nin yerini almak üzere Red Earth oyunuyla tanıtılan bir arcade sistemidir. CPS3 çok başarılı olmamıştır, çok başarılı Street Fighter III üçlemesi de dahil olmak üzere toplamda yalnızca altı oyun geliştirilmiştir, yalnızca Capcom tarafından ve Capcom tarafından tasarlanıp üretilen bugüne kadarki en son arcade sistemidir.</text>
+		</text>
+		
+	</view>
+
+</theme>

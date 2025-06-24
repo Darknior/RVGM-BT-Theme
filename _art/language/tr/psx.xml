@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Ev tipi video oyun konsolu
+Beşinci
+1994
+CD-ROM
+Dijital kontrolcü, DualShock</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>1994 yılında piyasaya sürülen PlayStation (PSX), Sony'nin ilk video oyun konsolu. Kendi neslinin en popüler konsoluydu ve 2000'in sonlarında PS One adı ile yeniden tasarlandı. 34MHz, 2MB RAM, 24 kanal ADPCM ses çıkışında çalışan 32 bit RISC işlemciye sahiptir. Çözünürlüğü 16 milyon renkte 256x224 ila 640x480i arasında değişir ve saniyede 360.000 köşe renkli çokgen (veya 180.000 dokulu çokgen) hesaplayabilir. PSX, Resident Evil, Metal Gear, Gran Turismo ve Final Fantasy gibi amiral gemisi serileri de dahil olmak üzere 7.900 'den fazla oyunun kataloğuna sahiptir.</text>
+		</text>
+		
+	</view>
+	
+</theme>

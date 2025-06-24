@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>APF Electronics Inc.
+Ev tipi video oyun konsolu
+İkinci
+1978
+Kartuş
+12 düğmeli joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>APF-MP1000, APF Electronics tarafından üretilen ve 1978'de piyasaya sürülen bir konsoldur. Motorola 6800 8 bit CPU ve 1 KB RAM ile donatılmıştır. 8 renkte 256x192 çözünürlük gösterebilir ve dahili bir hoparlöre sahiptir. Kontrolcüler dahil olmak üzere iki kontrolcü doğrudan makineye bağlanır ve her biri 12 düğmeli bir joystick içerir. Kartuşlardan oyun çalıştırır ancak dahili bir oyuna sahiptir: Rocket Patrol. Rakibi Intellivision'ın yeteneklerine çok yakındı.</text>
+		</text>
+		
+	</view>
+	
+</theme>

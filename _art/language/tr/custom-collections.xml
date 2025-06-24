@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu bölüm, el ile oluşturduğunuz veya dinamik koleksiyonunuzdaki tüm oyunları, birleştirilmiş ve alfabetik sıraya göre sınıflandırılmış tüm sistemleri bir araya getirir. Her zamanki sıralama filtreleri, bir oyunu hızlı bir şekilde bulmanızı sağlamak için kullanılabilir. İsme, sisteme, yaratıcıya, reytinge, oyuncu sayısına ve hatta koleksiyonuna eklenme tarihine göre. Son derece güçlü ve pratik bir araştırma aracıdır.</text>
+		</text>
+		
+	</view>
+
+</theme>

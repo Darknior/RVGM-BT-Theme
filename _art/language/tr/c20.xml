@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+İkinci
+1980
+Teyp kasedi, floppy disk
+Joystick, klavye</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>VIC-20, Commodore tarafından tasarlanmış 5 kb RAM'li (BASIC uygulamaları için 3,5 kb dahil) ve MOS 6502 işlemciye dayalı merkezi bir üniteye sahip 8 bitlik bir kişisel bilgisayardır. Halefleri olan C64 ve C16'ya benziyordu. VIC-20, Commodore'un ilk kişisel bilgisayarı PET'in piyasaya sürülmesinden 2 yıl 9 ay sonra, Haziran 1980'de ortaya çıktı. Yeni Apple II ve Tandy TRS-80 ile daha iyi rekabet edecek şekilde tasarlanmıştı ve bir milyon kopya sattı. Düşük belleği ve düşük çözünürlüklü ekranı nedeniyle eğitim veya eğlence amaçlı kullanıldı.</text>
+		</text>
+		
+	</view>
+
+</theme>

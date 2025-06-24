@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+Dördüncü
+1992
+IDE sabit disk, CD-ROM
+Joystick, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Amiga 4000, Commodore'un Amiga ailesindeki son üst düzey bilgisayarıdır ve 1992'de piyasaya sürülmüştür. Commodore'un kendisi de 1994'te iflas başvurusunda bulunacaktı. 1996'ya kadar desteklenen Amiga 4000, 512 MB taban RAM'li Motorola 68060 işlemciyi, bir PowerPC 604e kartını ve AGA yonga setine ek olarak 24 bit "Gerçek Renk" için bir RTG ekranını kullanmıştır. Taban modelde ayrıca bir CD-ROM sürücüsü ve IDE sabit diskler de yer almıştır. Amiga 4000 için yazılım 2002'ye kadar geliştirilecektir.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+El tipi oyun konsolu
+Dördüncü
+1990
+Kartuş
+2 düğmeli joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Gear, 1990 yılında Sega tarafından Nintendo Game Boy ile rekabet etmek için piyasaya sürülen taşınabilir bir renkli oyun konsolu. Ablası Master System'e o kadar yakın ki, oyuncak kütüphanesi büyük ölçüde Master Gear Converter ile doğrudan kullanılabilen ikincisi için yapılan oyun dönüşümlerinden oluşuyor, ancak GG Shinobi gibi kendi ayrıcalıklarına sahip olacak. 3.58 Mhz CPU, 8 KB RAM'e sahiptir ve 32 renkte 160x144 görüntüler. Ancak, 4 saatlik özerkliği nedeniyle beklenen başarıyı hiçbir zaman gerçekten elde edemedi.</text>
+		</text>
+		
+	</view>
+
+</theme>

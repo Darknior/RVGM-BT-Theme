@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Linus Torvalds
+Çoklu Sistem
+Yok
+1991
+Dosyalar
+Klavye, fare, oyun kolu</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Linux başlangıçta Intel x86 mimarisine dayanan kişisel bilgisayarlar için geliştirildi, ancak o zamandan beri diğer işletim sistemlerinden daha fazla platforma taşındı. Linux tabanlı Android'in akıllı telefonlardaki hakimiyeti nedeniyle, Android de dahil olmak üzere Linux, Mayıs 2022 itibariyle herhangi bir genel amaçlı işletim sisteminin en büyük kurulu tabanına sahiptir. Linux çekirdeğine dayalı Chrome işletim sistemini çalıştıran Chromebook, ABD K -12 eğitim pazarına hakimdir. Ama birkaç oyunu var...</text>
+		</text>
+		
+	</view>
+
+</theme>

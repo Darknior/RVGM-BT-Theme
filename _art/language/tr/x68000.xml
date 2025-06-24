@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sharp Corporation
+Kişisel bilgisayar
+Dördüncü
+1987
+Floppy disk, hard disk
+Joypad, klavye, fare</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Sık sık X68k olarak da anılan Sharp X68000, yalnızca Sharp Corporation tarafından Japonya'da piyasaya sürülen bir ev bilgisayarıdır. Son model 1993 yılında 25 MHz Motorola 68030 CPU, 4 MB RAM ve isteğe bağlı 80 MB SCSI sabit disk ile piyasaya sürüldü. Donanım açısından, o zamanın atari makinelerine çok benziyordu ve Capcom CPS sistemi geliştirme makinesi olarak hizmet etti. Bu nedenle bu bilgisayarda bir dizi ünlü atari oyunu geliştirildi. CPS-1 sistemi, X68000'in bağımsız bir türevidir. Dolayısıyla Final Fight ve Ghouls'n Ghosts'un piksel mükemmelliğindeki sürümleri.</text>
+		</text>
+		
+	</view>
+	
+</theme>

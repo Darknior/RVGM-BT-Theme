@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Çoklu
+2D/3D Oyun Koleksiyonu
+Tümü
+1980/20xx
+Tüm destekler
+Hafif silah, Wiimote, Oyun kolu</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Başlangıçta hafif silah, bir atışın CRT ekranınızda oyun içinde kaydedilip kaydedilmediğini belirlemek için ışığı kullanırdı, ancak zamanla bu terim, oyun içi hedefleri hedeflemek için silah benzeri bir çevre birimi kullanan tüm oyunları ifade eder hale geldi. Önemli retro hafif silah oyunları arasında Duck Hunt, House of the Dead, Virtua Cop ve Time Crisis yer alır. Ancak, 90'ların sonlarında hafif silah oyunları popülerliğini kaybetmeye başladı. Wii, 2000'lerin ortasında R.E. Dark Side Chronicles, Dead Space Extraction, Ghost Squad ve Target Terror gibi oyunlara izin veren IR izlenen Wiimote'uyla bu türü yeniden canlandırdı.</text>
+		</text>
+		
+	</view>
+
+</theme>

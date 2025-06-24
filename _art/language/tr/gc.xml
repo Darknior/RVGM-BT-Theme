@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Ev tipi video oyun konsolu
+Altıncı
+2001
+Mini Disk 1.5 Go
+Kontrolcü, Wavebird</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>2001'de piyasaya sürülen GC, PS2, XBox ve Dreamcast ile karşı karşıya kalarak büyüklerinin başarısını yakalayamadı. Ancak bir kablo, GBA'yı Zelda Four Swords Adv. için uzak ekranlı bir denetleyici olarak kullanmayı mümkün kıldı ve 2002'de radyo dalgasıyla ilk kablosuz denetleyici olan Wavebird'ü piyasaya sürdü. 486 Mhz'de bir işlemci, 162 Mhz'de bir atı grafik çipi ve 40 MB RAM ile 15 milyon çokgen hesaplayabilir. 640×480 60 Hz veya 768x576 50 Hz görüntüler ve Dolby Pro Logic 2 'de ses sunar. Resident Evil 4 ve Viewtiful Joe gibi oyunlar da dahil olmak üzere 644 oyundan oluşan bir katalog sunuyor.</text>
+		</text>
+		
+	</view>
+
+</theme>

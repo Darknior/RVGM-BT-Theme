@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Sega
+Ev tipi video oyun konsolu
+Dördüncü
+1988
+Kartuş
+3/6 düğmeli oyun kolu</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Mega Drive (Genesis in America), Sega tarafından Arcade System 16'nın mimarisine dayanarak geliştirilmiştir. Nintendo'nun 16 bit pazarının gölgesinde yaşayan Sega, Amerika ve Avrupa'da kendi hedef demografisini elinde tutarak PC - Engine'i silip süpürdü. 64 renkte 7,6 MHz işlemci, 74 KB RAM, 256x224 çözünürlük (belirli modlarda 320x224'e kadar) ve FM stereo ses özelliğine sahiptir. 1991'de Sega'nın ana maskotu Kirpi Sonic piyasaya sürüldü. Mega Drive'da ayrıca Disney'in Aladdin'i, sansürsüz Mortal Kombat oyunu ve EA'nın çeşitli spor oyunları gibi hitler de bulunuyor.</text>
+		</text>
+		
+	</view>
+
+</theme>

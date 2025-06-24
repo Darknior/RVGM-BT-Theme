@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Ev tipi video oyun konsolu
+Yedinci
+2006
+Blu-Ray Disk, HDD, USB
+DualShock 3, PS move</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>PS3, 2006 yılında piyasaya sürülen bir Sony konsoludur, PlayStation 2'den sonra gelir ve Microsoft'un Xbox 360 ve Nintendo'nun Wii'si ile rekabet eder. Dijital bir eğlence merkezi olarak tasarlanan PlayStation 3, bir Blu-ray oynatıcı, sabit disk, HDMI bağlantısı ve WiFi bağlantısını entegre ederek yüksek tanımlı televizyon çağının bir parçasıdır. 256 MB XDR dram ile birleştirilmiş 3.2 GHz HÜCRE işlemcisine ve 256 MB GDDR3 ile birleştirilmiş 500 MHz Nvidia RSX grafik işlemcisine sahiptir. 1080p, 720p, 1080i, 480p, 480i görüntüler.</text>
+		</text>
+		
+	</view>
+	
+</theme>

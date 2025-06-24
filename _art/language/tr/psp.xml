@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Sony Computer Ent.
+El tipi oyun konsolu
+Yedinci
+2004
+UMD, Memory Stick
+7 düğmeli + analog</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>PlayStation Portable (PSP), Sony tarafından 2004 yılında geliştirilen (2014 yılında kullanımdan kaldırılan) bir el oyun konsolu. Zamanının ev konsollarıyla karşılaştırılabilir grafik yeteneği sağlayarak taşınabilir konsol pazarında bir dönüm noktası oldu. 32 bit işlemciye, iki 3D GPU'ya (H.264 kodlu videonun kodunu çözme yeteneğine sahip) ve 16:9 en boy oranı ekranına sahiptir. Nintendo'nun avuçiçi pazarındaki hakimiyetine rakip olan ilk gerçek rakipti. PSP Go, Ekim 2009'da piyasaya sürüldü ve cep boyutunu, daha fazla dahili depolama alanını ve Bluetooth'u azaltan sürgülü bir kontrol paneline sahipti.</text>
+		</text>
+		
+	</view>
+	
+</theme>

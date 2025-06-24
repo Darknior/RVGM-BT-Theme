@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Tiger Electronics
+El tipi oyun konsolu
+Beşinci
+1997
+ROM kartuş
+Dokunmatik ekran, 4 düğmelis</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game.com, 1997 yılında Tiger Electronics tarafından tasarlanan taşınabilir bir konsol. Sharp SM8521 8 bit işlemci ile donatılmıştır ve FM işlevlerinin yanı sıra mono PCM sesi de sunar. 4 gri tonundaki tek renkli ekran 200x160 piksel çözünürlük gösterir. Daha eski bir kitleye yönelik olarak, birkaç yeni fikir sundu. Dokunmatik ekran ve ekran kalemi ile donatıldığında, kişisel asistan görevi görebilir. Konsolun ilk sürümü, ikinci kartuş bağlantı noktası aracılığıyla, e - postalarını okumak için 14,4 kbit/s'lik bir modeme bağlanabilir.</text>
+		</text>
+		
+	</view>
+
+</theme>

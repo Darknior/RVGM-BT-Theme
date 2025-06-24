@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Ev tipi oyun konsolu
+Altıncı
+2001
+DVD, CD, dijital dağıtım
+Joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Microsoft'un Xbox'ı, 15 Kasım 2001'de Amerika Birleşik Devletleri'nde piyasaya sürülen bir video oyun konsoludur. Microsoft, Windows CE'yi Dreamcast'e getirmek için Sega ile işbirliği yaptıktan ve birkaç yıl boyunca PC için Microsoft Game Studios oyunları ve SideWinder video oyunu aksesuarları geliştirdikten sonra bu sektörde ilk adımlarını atıyor. 733 Mhz hızında çalışan bir Intel Pentium III işlemci, 64 MB RAM tarafından desteklenen 128 KB önbellek ve aslında değiştirilmiş bir GeForce 3 olan ve oyunları 720p ve 1080i'de görüntülemesini sağlayan bir Nvidia 233 Mhz GPU ile donatılmıştır.</text>
+		</text>
+		
+	</view>
+
+</theme>

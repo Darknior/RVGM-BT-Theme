@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Microsoft & Intel, AMD
+Kişisel bilgisayar
+Dördüncü / Beşinci
+1989
+CD-Rom, hard disk, floppy disk
+Joypad, klavye, fare</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Microsoft tarafından geliştirilen PC'deki komut satırı işletim sistemine DOS (disk işletim sistemi) adını veriyoruz. 1989'da piyasaya sürülen Intel i486, 24 ila 80 MHz arasında yürütmeye izin verecek, oyunlar daha sonra VGA 640x480 16 renk veya 320x200 256 renk olacak. 1993'te Pentium ailesiyle gelen yeni patlama, oyunlar daha sonra SVGA 640x480 256 renk veya 1024x768 16 renk olacak. Her geçen gün daha fazla RAM, yeni 2D ekran kartları ve ardından 3D hızlandırıcı kartlarla bir araya gelen DOS, zamanın en büyük 2D ve 3D oyunlarında sonunda Windows 98'e yol açacak.</text>
+		</text>
+		
+	</view>
+
+</theme>

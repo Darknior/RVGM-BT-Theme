@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Entex Industries
+Ev tipi video oyun konsolu
+İkinci
+1982
+Kartuş
+Joystick 4 eksenli & 8 düğmeli</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Adventure Vision, video monitörü içeren kartuşlu bir video oyun konsoludur. Entex Industries tarafından üretilen ve 1982'den beri pazarlanan Adventure Vision, Entex tarafından tasarlanan ikinci konsoldur ve 1981'de bir yıl önce piyasaya sürülen taşınabilir bir konsol olan Select-A-Game'in yerini almıştır. 733 KHz'lik bir işlemciye, 1 kB RAM'e, 150x40 monokrom piksellik grafiklere ve 52,6 kHz'de çalışan bir ses yonga setine sahiptir. Bu sistemde çok az oyun vardır.</text>
+		</text>
+		
+	</view>
+
+</theme>

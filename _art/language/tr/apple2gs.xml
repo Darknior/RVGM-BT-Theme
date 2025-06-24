@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Apple
+Kişisel bilgisayar
+Dördüncü
+1986
+3½ yada 5¼ floppy disk
+Joystick, klavye, fare</text>
+<!-- MAX SIZE -----------|------>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Apple IIGS, Apple ][ bilgisayar serisinin beşinci modelidir. 1986'dan 1993'e kadar pazarlanmıştır. "GS", gelişmiş multimedya yeteneklerine atıfta bulunarak Grafik ve Ses anlamına gelir. ][ ile karşılaştırıldığında, IIGS 16 bitlik bir CPU, 32 kanalı destekleyen bir Ensoniq ES5503 ses yongası, 8 MB'a kadar RAM kullanmış ve 4 renkte 640x200'e ve 16'da 320x200'e kadar çözünürlük sağlayabilmiştir. Apple ][ yazılımıyla çoğunlukla geriye dönük uyumlu olan IIGS, genellikle Apple ][ oyunlarını oynamak için üstün bir platform olarak kabul edilir.</text>
+		</text>
+		
+	</view>
+
+</theme>

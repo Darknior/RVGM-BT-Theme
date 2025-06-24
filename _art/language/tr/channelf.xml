@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Fairchild
+Kişisel bilgisayar
+İkinci
+1976
+ROM Kartuşu
+Pedal, joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Fairchild Channel F, Fairchild Semiconductor tarafından 1976 yılında Kuzey Amerika'da üretilen bir video oyun konsolu. Dünyada bir kartuş sistemine dayanan ilk ve aynı zamanda bir mikroişlemciye sahip olan ilk şirketti. 64 bayt RAM, 128×64 piksel 8 renkli video ekranı ve dahili bir hoparlörden gelen ses ile 1.79 MHz'de çalışan bir Fairchild F8 'di. Konsola bağlı iki oyun kumandası ile birlikte geldi ve erken popülaritesine rağmen toplamda sadece 23 kartuş piyasaya sürüldü. 1983 yılında sistemin üretimi durdurulmuştur.</text>
+		</text>
+		
+	</view>
+	
+</theme>
