@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Arcade video oyun kabini
+Altıncı
+2003
+GD-Rom
+Arcade çubuk ve diğerleri</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Chihiro, 2003 yılında Sega tarafından oluşturulan çarşı terminalleri için tasarlanmış bir sistemdir. Xbox konsolunun mimarisine dayanır, Intel Pentium III 733 MHz işlemcisini ve GeForce 3 tabanlı nVIDIA XChip 233 Mhz grafik işlemcisini kullanır. Ayrıca 128 MB RAM, MP3 hızlandırmalı bir ses yongası ve bir GD - Rom okuyucuya sahiptir. Böylece oyunları 720p ve 1080i olarak görüntüleyebiliyordu. Crazy Taxi High Roller, OutRun 2 SP, Virtua Cop 3 ve The House of the Dead III gibi hit parçaları içeriyor.</text>
+		</text>
+		
+	</view>
+
+</theme>

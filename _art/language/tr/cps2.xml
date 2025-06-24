@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Arcade video oyun kabini
+Dördüncü
+1993
+PCB Jamma
+Arcade çubuk</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>CP System II (Capcom Play System 2), daha yaygın olarak CPS2 veya CPS-2 olarak bilinir, Japon şirketi Capcom tarafından CP System'i (CPS-1) başarmak için yaratılan, arcade'ler için tasarlanmış JAMMA uyumlu bir arcade makinesi için bir kartuş video oyun sistemidir. CP System II 1993'te piyasaya sürüldü ve oldukça uzun bir ömre sahip oldu: 11 yıllık çalışma. Bu ortam için piyasaya sürülen ilk oyun Super Street Fighter II: The New Challengers ve bunu birçok başarılı oyun takip eder.</text>
+		</text>
+		
+	</view>
+
+</theme>

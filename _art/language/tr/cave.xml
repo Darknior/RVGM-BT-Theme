@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cave şirketi Kenichi Takano tarafından 15 Haziran 1994'te Tokyo'nun Shinjuku semtinde kuruldu ve esas olarak shoot them up on arcade makinesiyle tanınıyor. Tsuneki Ikeda, Akira Wakabayashi veya kurucu Kenichi Takano gibi geliştiricilerin bir kısmı, 1994'te iflas eden Toaplan şirketinden geliyor, tıpkı Eighting, Takumi veya Gazelle şirketi gibi. Cave şirketinin adı, Computer Art Visual Entertainment'ın dört baş harfinden oluşan bir kısaltmadır. Şirket tüm itibarını oyunlarının kalitesi sayesinde elde etti.</text>
+		</text>
+		
+	</view>
+
+</theme>

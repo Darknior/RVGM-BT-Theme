@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Camputers
+Ev bilgisayarı
+İkinci
+1984
+Teyp kasedi, Floppy 5¼
+klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Lynx, Camputers tarafından 1983'ün başlarında piyasaya sürülen 8 bitlik bir kişisel bilgisayardır. Temel makinede 48 KB RAM'li 4 Mhz hızında çalışan bir Z80 işlemci bulunur, ancak 192 KB RAM'li versiyonunda 6 Mhz bulunur. Motorola video işlemcisi 8 renkte 256x252 piksel çözünürlük gösterir ve ses basit bir 6 bitlik DAC tarafından sağlanır. Özensiz dokümantasyon, çok yavaş sprite animasyonu ve kısmen erişilebilir bellek ile bu ortamda çok az oyun yayınlanacak ve ticari bir başarısızlık olacaktır.</text>
+		</text>
+		
+	</view>
+
+</theme>

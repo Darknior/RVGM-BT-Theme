@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Capcom
+Arcade video oyun kabini
+Dördüncü
+1988
+PCB Jamma, CD-Rom
+Arcade çubuk</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>CPS, 1988 yılında Japon şirketi Capcom tarafından üretilen bir JAMMA arcade sistemidir. Sharp X68000'e dayanan bu sistem, geri kalanından çok önde olan 16 bitlik bir sistemdi. Ancak 1990 yılında Neo-Geo MVS ortaya çıktı ve CPS'nin ilk güncellemesi 1992 yılında Q-Sound stereo sistemiyle çıktı. Ardından 1993 yılında QSound3 çipli ve üretimi daha ucuz olan CPS2 geldi. Son olarak 1996 yılında yeni bir Hitachi 25 MHz çipiyle CPS3 geldi. Animasyonunun akıcılığına ve pürüzsüzlüğüne rağmen CPS3, toplamda sadece altı oyunla büyük bir başarı elde edemedi.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>VTech
+Ev tipi video oyun konsolu
+İkinci
+1981
+Kartuş
+Joystick & membran tuş takımı</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>VTech CreatiVision, 1981 yılında VTech tarafından üretilen ikinci nesil bir bilgisayar ve video oyun konsolu hibrididir. 8 bit 2 MHz CPU, 1 KB RAM ve 16 KB video belleği ile donatılmış, 16 renk ve 32 kukla ile 256x192 piksel çözünürlük gösterir. Konsolun üstündeki özel bir bölmeye yerleştirildiğinde, bir bilgisayar klavyesi olarak veya söküldüğünde bir kumanda kolu olarak kullanılabilen iki membran kontrolörü içerir. Mark -2 modeli ColecoVision oyunları oynamak için bir modül ile donatılacaktır.</text>
+		</text>
+		
+	</view>
+
+</theme>

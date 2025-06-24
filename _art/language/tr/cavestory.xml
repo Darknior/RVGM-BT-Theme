@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Pixel
+Aksiyon, Platform
+İkinci
+2005
+Kartuş
+Joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cave Story, ünlü Wonderboy veya Castlevania geleneğinde bir aksiyon-macera ve yatay kaydırmalı platform oyunudur. Tavşanlara benzeyen yaratıklara, Mimigas'a yardım etmeye karar veren ve uçan bir adanın devasa yeraltı geçitleri labirentinde yolunu bulması gereken küçük bir karakteri kontrol ediyorsunuz. Birden fazla silah toplayabilir, istediğiniz gibi değiştirebilir, düşmanları öldürerek deneyim puanı toplayabilir ve böylece onları 3. seviyeye yükseltebilirsiniz. Ancak hasar almak deneyim puanlarının veya hatta seviyelerin kaybolmasına neden olur.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Philips
+Ev tipi video oyun konsolu
+Dördüncü
+1991
+Interaktif CD, CD
+Joypad, fare, trackball</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>CD - i, Compact Disc Interactive, 1991 yılında Philips, Sony ve Matsushita tarafından tasarlanan bir video oyun konsolu ve multimedya oynatıcısıdır. 15,5 Mhz'de 16 bitlik bir işlemci, 1,5 MB RAM, 32768 renkte 768x560 pikselde 384x280 ekran ve 8 kanallı bir ses kartı yerleştirir. CD sürücüsü, bir kartuşun kapasitesinin çok üzerinde, 2 kat hızda 650 MB medya veya 75 dakikalık video okuma kapasitesine sahiptir. Arızası, yüksek oyuncu fiyatı, düşük kaliteli oyunlar ve çok pahalı bir MPEG modülü olmadan temel sürümünde tam ekran videoların oynatılamamasından kaynaklanıyordu.</text>
+		</text>
+		
+	</view>
+
+</theme>

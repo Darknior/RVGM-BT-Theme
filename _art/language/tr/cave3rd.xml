@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Cave
+Arcade video oyun kabini
+Altıncı
+2004
+PCB Jamma
+Arcade çubuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Cave CV1000, daha yaygın olarak Cave 3. Nesil olarak bilinir, Japon şirketi Cave tarafından 2004 yılında tasarlanmış bir arcade sistemidir. Bu sistemin iki versiyonu ortaya çıkmıştır, Cave CV1000B ve gelişmiş versiyonu Cave CV1000D. Cave tarafından 2004'te 'Mushihimesama'dan 2012'de 'DoDonPachi SaiDaiOuJou'ya kadar çıkan tüm arcade oyunlarında kullanılmıştır, 'Deathsmiles II' hariç. 133 Mhz'de Hitachi SH-3 32 bit işlemciyi barındırır. Bu PCB, Taito Type X² veya Taito Type X³ gerektiren NESiCA x Live sisteminin gelişiyle ortadan kalkacaktır.</text>
+		</text>
+		
+	</view>
+
+</theme>

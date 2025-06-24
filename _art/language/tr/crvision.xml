@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>VTech
+Ev tipi video oyun konsolu
+İkinci
+1981
+Kartuş & teyp
+Joystick & mambrane tuş takımı</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>VTech CreatiVision, 1981 'de VTech tarafından üretilen bilgisayar ve ikinci nesil video oyun konsollarının bir karışımıydı. Bu hibrit ünite, konsept olarak Aile Bilgisayarı VideoBrain gibi bilgisayarlara benzer. 2 MHz, 1 KB RAM ve 32 kukla hızına sahip 8 bit CPU Rockwell 6502 'ye sahiptir. Konsol, membran klavye ve joystick ile entegre iki denetleyiciye sahiptir. Kartuşları destekler, aynı zamanda bir adaptör aracılığıyla K7 'leri de destekler. Video oyun konsollarının giderek daha fazla giriş seviyesi bilgisayarlara yönelme eğilimini öngörüyordu.</text>
+		</text>
+		
+	</view>
+
+</theme>
