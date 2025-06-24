@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Microsoft
+Kişisel bilgisayar
+Dördüncü ila Sekizinci
+1985 / 2020
+HDrive, CD, DVD, demat
+Joypad, klavye, fare</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Windows, Microsoft tarafından 1983 yılında MS - DOS işletim sistemi için geliştirilen bir grafik arayüzdür. Windows 1.0'da Reversi adında bir oyun zaten vardı, daha sonra 1990'da 3.1'de klasik haline gelen Solitaire ve Mayın Tarlası ile tedavi edildik. 1995 yılında Windows 95 piyasaya sürüldü, ardından PC'de oyunların geliştirilmesini kolaylaştıran kütüphane Direct X'i ilk olarak W98 piyasaya sürüldü. Arayüz bağımsız bir sistem haline gelecek ve XP, Vista, 7, 8, 10 ve video ve sese ek olarak AI ve VR cihazlarına kadar kesinlikle her şeyi yönetecek olan Direct X ile gelişmeyi durdurmayacak.</text>
+		</text>
+		
+	</view>
+
+</theme>

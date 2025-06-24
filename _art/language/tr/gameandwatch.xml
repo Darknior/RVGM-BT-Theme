@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El konsolu
+İkinci
+1980
+Yok
+Ok tuşları ve düğmeler</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game and Watch, Nintendo tarafından 1980'den 1991'e kadar üretilen cep elektronik oyunlarıdır, aynı zamanda saat ve çalar saat görevi görürler. Game Boy'un geliştiricisi Gunpei Yokoi tarafından geliştirildiler ve ilk oyun Ball'du. Konsept, oyun görüntülerinin önceden yazdırıldığı ve oyun sırasında art arda aydınlatıldığı bir sıvı kristal ekrana dayanmaktadır. Başarı çocuklarla hemen gerçekleşti ve on seriye bölünmüş toplam 60 tane vardı. Kartuşlar üzerinde birden fazla oyun bulunan taşınabilir konsolların başarısı nedeniyle üretimleri durduruldu.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+El tipi oyun konsolu
+Beşinci
+2000
+Kartuş
+2 düğmeli joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>WSC, orijinal WonderSwan geliştirmesidir. 30 Aralık 2000'de Japonya'da piyasaya sürüldü ve o zamanlar Nintendo ve çeşitli GameBoy'un hakim olduğu Japon pazarının %8'ini alarak oldukça başarılı bir şekilde bir araya geldi. Ekranda en fazla 4096 renk görüntülenir ve pil ömrü 20 saate düşer. WonderSwan Rengi, orijinal WonderSwan'ın tüm oyunlarıyla uyumludur. Kasım 2002'de Bandai, daha iyi bir LCD ekrandan yararlanarak SwanCrystal adı altında WonderSwan Color'ın bir evrimini yayınladı. Sadece Japonca olan macera oyunları oynanamaz.</text>
+		</text>
+		
+	</view>
+	
+</theme>

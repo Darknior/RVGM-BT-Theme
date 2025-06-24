@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>Sharp Corporation
+Kişisel bilgisayar
+Üçüncü
+1982
+Floppy disk, kaset
+Joypad, klavye, fare</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Sharp X1, Sharp tarafından 1982'de geliştirilen bir dizi Japon mikrobilgisayarına verilen isimdir. O zamanki bilgisayarların BASIC'te programlanmış salt okunur bir belleği vardı ve X1, yorumlayıcıyı doğrudan canlı belleğe erişimle kasetten yüklüyordu. Tüm seri, 4 MHz hızında çalışan, 64 KB RAM ve 3 kanallı sese sahip bir Zilog Z80A CPU içeriyordu. PC-88'e karşı koymak için Sharp, orijinal 640x200 yerine 640x400 çözünürlüğe sahip X1 Turbo'yu piyasaya sürecek. Ardından 4.096 renge sahip X1 Turbo Z. Ve son olarak PC-Engine'in işlevlerini entegre eden bir klon.</text>
+		</text>
+		
+	</view>
+	
+</theme>

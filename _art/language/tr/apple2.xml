@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Apple
+Kişisel bilgisayar
+Birinci
+1977
+Teyp kasedi, 5¼ floppy disk
+Pedal, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Apple ][dünyanın ilk büyük başarıya ulaşan seri üretim mikrobilgisayar ürünlerinden biridir. Steve Wozniak tarafından tasarlanmış ve 10 Haziran 1977'de piyasaya sürülmüştür. Orijinal Apple ][4 KB RAM'li 8 bitlik bir CPU kullanır. Aksesuarları arasında bir disket sürücü, bir kaset çalar ve pedal kontrolcüleri bulunur. Tümleşik video kartı aracılığıyla 6 renkte 280x192 çözünürlüğe kadar görüntüleyebilir (Apple bunu sergilemek için logosunu yeniden tasarladı). Daha sonraki modeller en yüksek çözünürlük modunu monokrom olarak 560x192'ye çıkaracaktı. Apple ][ serisi 1993'te durduruldu.</text>
+		</text>
+		
+	</view>
+
+</theme>

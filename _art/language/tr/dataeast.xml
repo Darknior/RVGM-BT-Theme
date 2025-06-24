@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Data East, Tetsuo Fukuda tarafından 20 Nisan 1976'da kuruldu. Öncelikle, arcade makinesinin içine değiştirilebilir bantların entegre edilmesine odaklanan bir elektronik mühendislik şirketiydi ve arcade operatörlerinin kabini değiştirmek zorunda kalmadan bir makineden bir seti değiştirmelerine olanak tanıyordu. Etkileşimli içeriğin karlılığının farkında olan Data East, ilk arcade oyunu Super Break ile başlayarak 1978'de arcade video oyunları geliştirmeye başladı. Bu alanda Sega ve Taito ile rekabet etmek için 1979'da bir Amerikan şubesi kurdular.</text>
+		</text>
+		
+	</view>
+
+</theme>

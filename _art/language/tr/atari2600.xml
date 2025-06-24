@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ev tipi oyun konsolu
+İkinci
+1977
+Kartuş
+Joystick, pedal</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari 2600 (Kasım 1982'ye kadar VCS olarak markalandı) 1977'de piyasaya sürülen ikinci nesil bir konsoldur. Oyun başına bir çift joystick ile birlikte gelir. 2600, MOS Tech. 6507 CPU, 128b RAM ve 2 kanal mono sese sahip, neslinin en popüler konsollarından biriydi. 128 renkte (8 yoğunlukta 16 renk) 160x192'ye kadar görüntüleyebilirdi. Kütüphanesinde Pitfall gibi orijinal hitler, Space Invaders gibi arcade portları ve Raiders of the Lost Ark ve E.T. gibi lisanslı oyunlar dahil olmak üzere yaklaşık 900 başlık bulunur.</text>
+		</text>
+		
+	</view>
+
+</theme>

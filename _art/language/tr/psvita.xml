@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Sony Computer Ent.
+El tipi oyun konsolu
+Sekizinci
+2012
+PlayStation Vita kart
+12 düğmeli + çift analog,
+Hızlı., dokunmatik ekran</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>PS Vita, 2012 yılında Sony tarafından geliştirilen taşınabilir bir konsol. İki analog çubuk, 5 inç (960×544) kapasitif çoklu dokunmatik OLED dokunmatik ekran, Bluetooth, Wi-Fi ve 3G içerir. 2 Ghz dört çekirdekli ARM işlemci, 512 MB RAM, 1 Gb flash bellek ve 400 Mhz grafik kartına sahiptir. Vita başlangıçta hareket halindeyken büyük bütçeli video oyunlarının deneyimine izin vermek için tasarlandı. Ancak halk takip etmeyecek ve oyuncak kütüphanesi özellikle JRPG'ler, görsel romanlar ve bağımsız oyunlar açısından zengin olacak. PlayStation TV, 2014 yılında piyasaya sürülen Vita'nın taşınabilir olmayan bir çeşididir.</text>
+		</text>
+		
+	</view>
+	
+</theme>

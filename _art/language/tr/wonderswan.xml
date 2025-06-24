@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bandai
+El tipi oyun konsolu
+Beşinci
+1999
+Kartuş
+2 düğmeli joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Mart 1999'da Japonya'da piyasaya sürülen WonderSwan, Bandai tarafından oluşturulan taşınabilir 16 bitlik bir video oyun konsolu. Küçük boyutu ve 30 saatlik büyük özerkliği sayesinde Game Boy Color'ın bir yıl önce piyasaya sürülmesine rağmen Japonya'da iyi satan tek renkli bir konsol. NEC 3 Mhz işlemci, 16 KB RAM, 8 seviye gri renkte 224x144 piksel ekran ve stereo ses ile dikey ve yatay olarak çalınabilir. Bazı oyunlar bunu seviye tasarımlarında kullanır. Animasyona dayalı veya Bandai, Square ve Capcom'dan birçok başlığa sahip oldukça geniş bir oyun kütüphanesine sahiptir.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El tipi oyun konsolu
+Sekizinci
+2011
+Kartuş
+6 düğmeli oyun kolu + slayt paneli</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>3DS, özel gözlükler olmadan görülebilen stereoskopik 3D görsellere sahip Nintendo"nun sekizinci nesil taşınabilir konsoludur. Çift çekirdekli ARM11 CPU, bir ARM9 CPU (DS geriye dönük uyumluluk modunu destekler), Nvidia GPU ve 128 MB RAM ile donatılmıştır. Stereoskopik ekranı 800x240"tır, ancak 2D modunda yalnızca 400 sütun görünür) ve alt ekranı yalnızca 320x240"tır. 2014"te, geliştirilmiş performans, ek düğmeler, sağ çubuk ve Xenoblade Chronicles ve Fire Emblem Warriors gibi özel oyunlarla "Yeni" revizyon yayınlandı.</text>
+		</text>
+		
+	</view>
+
+</theme>

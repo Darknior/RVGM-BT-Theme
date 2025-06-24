@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sega
+Ev tipi oyun konsolu
+Altıncı
+1998
+GD-ROM (1.2 GB)
+7 düğmeli çubuklu joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Dreamcast, Sega tarafından geliştirilen ve Saturn'ün yerini alan bir ev video oyun konsoludur. PS2 ve Xbox'tan önce çevrimiçi bağlantı sunarak Kasım 1998'de Japonya'da piyasaya sürüldü. Dreamcast, Sega'nın satış beklentilerini karşılayamaması nedeniyle konsol pazarından çekilmesiyle 2004'te durduruldu. 128 bit aritmetik yardımcı işlemcisi, 16 MB RAM ve saniyede 3-6 milyon poligon ve aynı anda 16,77 milyon renk görüntüleyebilen bir NEC PowerVR GPU içeren 32 bit işlemciyle donatılmıştır. NAOMI arcade kartı, Dreamcast ile neredeyse aynı donanımı kullanır.</text>
+		</text>
+		
+	</view>
+
+</theme>

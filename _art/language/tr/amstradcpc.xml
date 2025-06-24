@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Amstrad
+Kişisel bilgisayar
+Üçüncü
+1984
+Teyp kasedi, Floppy disk
+Joystick, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Amstrad Color Personal Computer (CPC), 1984 yılında piyasaya sürülen 8 bitlik bir PC'dir. 4MHz hızında çalışan Zilog Z80A tabanlı bir CPU kullanır ve satın alınan modele bağlı olarak 64 ila 128KB RAM'e sahiptir. Piyasaya sürülen modeller arasında CPC464, CPC664, CPC6128, 464plus ve 6128plus bulunur. 16 renkte 192x272, 4 renkte 354x272 ve 2 renkte 768x272 çözünürlük gösterebilir. Oyunlar üç modu da aynı anda kullanabilir. Aile pazarı için tasarlanan bu ürünün kurulumu mümkün olduğunca basit olacak şekilde yapılmıştır.</text>
+		</text>
+		
+	</view>
+
+</theme>

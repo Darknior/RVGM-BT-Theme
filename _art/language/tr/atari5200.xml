@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ev tipi oyun konsolu
+İkinci
+1982
+Kartuş
+360-derece joystick, Pedallar</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari 5200, 1982'de piyasaya sürülen Atari 400 bilgisayarının video oyun konsolu versiyonudur. Intellivision ve ColecoVision ile rekabet ederek onları değer açısından yenmiştir. 5200, piyasada iki yıl kaldıktan sonra üretimi durdurulduğu için ticari bir başarısızlık olarak değerlendirilmiştir. 1,79MHz'de MOS 6502C CPU, 16KB RAM ve 4 yönlü ses ile donatılmış olup, 128 renkte (8 yoğunluk seviyesiyle 16 renk) 320x192 çözünürlük sunmaktadır. Ayrıca 360 derecelik merkezlenmeyen bir joystick ve toplam 4 kontrol portuna sahiptir.</text>
+		</text>
+		
+	</view>
+
+</theme>

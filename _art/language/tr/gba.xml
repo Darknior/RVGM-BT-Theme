@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El tipi oyun konsolu
+Altıncı
+2001
+Kartuş GBA, GB, GBC
+4 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Boy Advance, 2001 yılında Nintendo tarafından geliştirilen taşınabilir bir el konsoludur. 16MHz hızında çalışan 32 bit işlemci, 8MHz GPU, 380KB RAM ve 511 renkte 240x160 ekran ile zamanının en güçlü el konsolu oldu.
+2003'te Nintendo, arkadan aydınlatmalı bir ekrana, şarj edilebilir bir lityum bataryaya ve azaltılmış bir toplam boyuta sahip kapaklı bir sürüm olan GBA SP'yi piyasaya sürecekti. Daha sonra daha da küçük bir versiyon olan Game Boy Micro tarafından takip edilecekti.</text>
+		</text>
+		
+	</view>
+
+</theme>

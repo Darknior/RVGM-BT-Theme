@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El konsolu
+Dördüncü
+1989
+Kartuş
+2 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Boy, 1989 yılında Nintendo tarafından geliştirilen taşınabilir 8 bitlik bir el konsolu. Daha önce geliştirilen Game & Watch el cihazlarından sonra geniş bir taşınabilir el cihazı serisinde ilk oldu. Gunpei Yokoi ve Nintendo Research & Development tarafından tasarlanmıştır. 4MHz işlemci, 8KB RAM ve 4 gri tonlu 160x144 nokta vuruşlu ekrana sahip olan cihaz, bir dizi AA'da yaklaşık 30 saat süren uzun pil ömrü ile tanınıyordu. Orijinal sistemde, birden fazla konsolla yerel çok oyunculu oyunları oynamak için kullanılabilecek bir bağlantı kablosu bulunuyordu. Bu artık yatay bölünmüş ekran aracılığıyla taklit edilebilir.</text>
+		</text>
+		
+	</view>
+
+</theme>

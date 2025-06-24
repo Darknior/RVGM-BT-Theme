@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>V.Tech
+Ev tipi video oyun konsolu
+Altıncı
+2004
+Kartuş
+5 düğmeli + çubuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>V.Smile, VTech tarafından tasarlanan ve 2004 yılında piyasaya sürülen bir video oyun konsoludur. 3 ila 9 yaş arası çocuklar için tasarlanmıştır. Konsol, Disney veya Dora the Explorer gibi çocukların bildiği dünyalardan türetilen 45 oyun sunar. Bir köpeğin pençesi şeklinde 5 düğmeli ve bir joystick'li orijinal bir kontrolcüye sahiptir. Başlangıçta yalnızca turuncu ve mor renkte mevcuttu, daha sonra kızlar için pembe ve mor renkte piyasaya sürülecektir. 2007 yılında piyasaya sürülen V.Smile Pocket, Nintendo DS gibi çift dokunmatik ekran ve mikrofona sahip taşınabilir bir konsol versiyonudur.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Acorn Computers
+Kişisel bilgisayar
+Dördüncü
+1987
+Floppy 3¼, IDE sabit disk
+Joystick, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Archimedes, Acorn tarafından 1987'de üretilen 32 bitlik bilgisayar serisidir. ARM, 'Advanced Risc Machines' olmadan önce 'Acorn Risc Machine' anlamına gelen ilk tüketici ARM bilgisayarıydı. O zamanlar Atari ST, Amiga 500, PC ve Apple gibi rakiplerinden güç açısından üstündü. İlk model 8 Mhz işlemci ve 512 kB RAM ile donatılmıştı. 1992'deki son model 40 Mhz, 4 Mb RAM ve 80 Mb sabit disk sunuyordu. 256 renkte 640x512'den 16 renkte 1600x600'e kadar değişen bir çözünürlük sunuyor ve 8 kanalda stereo sese sahip.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Video oyun konsolu eklentisi
+Üçüncü
+1986
+Floppy disket
+2 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>FDS tam adı Aile Bilgisayar Disk Sistemi, 21 Şubat 1986 'da yalnızca Japonya'da piyasaya sürülen Famicom video oyun konsolunun bir cihazıdır. Bu cihaz konsolun altına yerleştirilmiştir ve bir kartuştan daha büyük oyunları saklamanıza ve oyun kaydetmenize olanak tanıyan tescilli bir disket formatı kullanmanıza olanak tanır. Ayrıca oyunların daha zengin müziğe sahip olmasını sağlayan bir FM synthesizer içerir. Zelda Efsanesi başlangıçta bu sistemin yanı sıra Shin Onigashima gibi çok başarılı olan birkaç oyun için geliştirildi.</text>
+		</text>
+		
+	</view>
+
+</theme>

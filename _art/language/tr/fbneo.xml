@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Multiple
+Arcade video oyun kabini
+Çoklu
+1971 ilerisi
+PCB Kart, CD-ROM
+Arcade çubuk ve diğerleri</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>Bu arcade emülatörü ilk olarak 2000 yılında Dave tarafından yaratılan Final Burn olarak başladı. Daha sonra 2004 'te TrebbleWinner tarafından Final Burn Alpha olarak çatallandı ve kısa bir süre önce 2019' da bir kez daha Final Burn Neo olarak çatallandı. Çeşitli optimizasyonları için Lantus ve IQ_132 sayesinde mevcut en iyi arcade emülatörlerinden biri haline geldi. Çok sık güncellenir ve MVS, CPS1, CPS2, Sistem 16, Sistem 18, Sega'nın X ve Y Kartı gibi farklı sistemleri ve Cave Toaplan, Taito, Psikyo ve Kaneko tarafından çok sayıda kartı taklit eder. Tıpkı Mame gibi grafiksel gölgelendiriciler, kaydediciler vb. sunar.</text>
+		</text>
+		
+	</view>
+
+</theme>

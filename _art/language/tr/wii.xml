@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Ev tipi video oyun konsolu
+Yedinci
+2006
+CD-Rom, CD-Mini, SDC
+Kontrolcü, Wii mote, Nunchuk</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>2006 yılında piyasaya sürülen Wii, 101,63 milyon kopya ile neslinin en çok satan ev konsoludur. Kumanda kolunun alanındaki konumu, yönü ve hareketleri tespit edebilen bir ivmeölçer kullanma özelliğine sahiptir. 729 Mhz saat hızında işlemciye, atı 243 Mhz grafik çipine, 88 MB RAM'e, 512 MB flash belleğe ve internet bağlantısına sahiptir. 640×480 60 Hz veya 768x576 50 Hz ve Dolby Pro Logic 2 sesi gösterir. 1220'den fazla oyun kataloğu MadWorld, Muramasa, Xenoblade, Monster Hunter, The Conduit ve tüm Nintendo oyunları gibi kült oyunlar sunmaktadır.</text>
+		</text>
+		
+	</view>
+	
+</theme>

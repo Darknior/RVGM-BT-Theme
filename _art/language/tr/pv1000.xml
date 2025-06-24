@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Casio
+Ev tipi video oyun konsolu
+Üçüncü
+1983
+ROM Kartuş
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>PV-1000, Casio tarafından 1983 yılında Japonya'da üretilen bir konsol. 3.58 Mhz hızında çalışan bir Z80A işlemci ile çalışır, 2 kB RAM'e sahiptir ve üç seste ses üretir. Aynı anda 8 renkle 256x192 piksel çözünürlük gösterebilir. Önemli bir pazar payı elde edemeyen konsol, sadece birkaç hafta sonra raflardan çekilecekti. Tarihteki en kısa süreli ve nadir konsollardan biri haline geldi. Sonuç olarak, oyun kütüphanesinde sadece 15 oyun var.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
+<text>EasyRPG Team
+2D Oyun Motoru
+0.6.2.3+
+2000
+.easyrpg dosyaları
+Joypad, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>EasyRPG, "RPG Maker 2000/2003" oyunlarıyla uyumlu ücretsiz bir rol yapma oyunu oluşturma aracı oluşturmayı amaçlayan bir topluluk projesidir. Çoğu, güzel 16 bit 2D piksel sanat grafikleriyle 80 'lerin sonundaki, 90' ların başındaki harika klasiklerin tarzına benzer. Etkinlik sistemi çok eksiksizdir ve toplam senaryo yazma özgürlüğüne izin verir, dövüş sistemi ya bir "Final Fantasy" gibi görünebilir ya da bir "Zelda" gibi aksiyon türü olabilir. Ses açısından, motor MIDI'den CD kalitesinde formatlara kadar çeşitli formatlar sunar.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Epoch Co.
+El tipi oyun konsolu
+İkinci
+1984
+ROM kartuş
+Oyun kolu, 4 düğmeli</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Pocket Computer, 1984 yılında Japonya'da Epoch tarafından piyasaya sürülen ve Game Boy'dan 5 yıl öncesine dayanan el tipi bir oyun konsolu. 6 Mhz NEC işlemci, 2 kB RAM ve mono ses çıkışı ile donatılmıştır. Tek renkli olarak 75x64 piksel çözünürlük gösterir. Ayrıca iki oyun, bir bulmaca ve bir resim programı içerir. Ancak sistem gerçek bir başarısızlık olacak ve bu nedenle sadece 5 oyun pazarlanacak.</text>
+		</text>
+		
+	</view>
+
+</theme>

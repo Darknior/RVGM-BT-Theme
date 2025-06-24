@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Christopher Leathley
+Flipper simülatör
+Birinci
+2008
+.FPT dosyaları
+Oyun kolu, klavye</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Future Pinball, gerçek zamanlı bir pinball geliştirme sistemidir. Kendi gerçek zamanlı 3D pinball simülasyonunuzu tasarlamanıza ve oynamanıza olanak tanır. Gerçekçi bir langırt makinesinin mümkün olan en iyi simülasyonunu sağlamak için gelişmiş fizik kullanır. Tablo mantığı 'Visual Basic Scripting'de yazılmıştır. Senaryolar, çok çeşitli orijinal oyunların oluşturulmasına izin verecek kadar basit ancak esnek olacak şekilde tasarlanmıştır. Motor ayrıca birden fazla kanalda ses efektlerini ve müziği destekler.</text>
+		</text>
+		
+	</view>
+
+</theme>

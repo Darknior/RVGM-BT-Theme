@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Microsoft
+Ev tipi oyun konsolu
+Yedinci
+2005
+HDDVD, CD, Çevrimiçi
+Joypad, Kinect Kamera</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Microsoft'un Xbox 360'ı, 22 Kasım 2005'te Amerika Birleşik Devletleri'nde piyasaya sürülen bir video oyun konsoludur. Hem oynanış hem de anlatı veya sanatsal kalite açısından video oyunlarında benzeri görülmemiş bir yenilik dalgasına ilham kaynağı olmuştur. Xbox 360, MP3 çalarlar, dijital kameralar veya PC'ler gibi çeşitli aygıtlarda depolanan müzik, film ve fotoğraflara yeni bir anlam katmaktadır. 3200 Mhz hızında çalışan bir Xenon işlemci, 512 MB RAM tarafından desteklenen 1 MB önbellek belleği ve oyunları 720p ve 1080p'de maksimum olarak görüntülemesini sağlayan bir Xenos 500 Mhz GPU ile donatılmıştır.</text>
+		</text>
+		
+	</view>
+
+</theme>

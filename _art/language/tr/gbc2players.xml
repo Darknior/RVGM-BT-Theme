@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El tipi oyun konsolu
+Beşinci
+1998
+Kartuş GBC, GB
+2 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Boy Color, 1989 yılında Nintendo tarafından Game Boy'dan sonra gelen taşınabilir el konsoludur. Game Boy'a benzer boyutta bir renkli ekrana sahiptir, ancak gelişmiş bir 8MHz işlemciye, 32KB RAM'e, 16KB video belleğine ve 56 renkte 160x144 çözünürlüğe sahiptir. İlk nesil Game Boy oyunlarının çoğuyla geriye dönük uyumludur ve 10 saatlik pil ömrüne sahiptir. Orijinal sistemde, birden fazla konsolla yerel çok oyunculu oyunları oynamak için kullanılabilecek bir bağlantı kablosu bulunuyordu. Bu artık yatay bölünmüş ekran aracılığıyla taklit edilebilir.</text>
+		</text>
+		
+	</view>
+
+</theme>

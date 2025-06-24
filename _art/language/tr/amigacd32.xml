@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Ev tipi video oyun konsolu
+Dördüncü
+1993
+CD-ROM
+7 düğmeli oyun kolu, fare</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Amiga CD32, Commodore tarafından 1993 yılında piyasaya sürülen dördüncü nesil video oyun konsoludur. Esasen CD sürücülü bir Amiga 1200'dür. Teknik olarak Batı'da piyasaya sürülen ilk 32-bit konsol olan FM Towns Marty, Japonya'da ondan önce piyasaya sürülmüştür. 3DO ve Jaguar gibi CD32 de PSX ve Saturn karşısında pazara girmeyi başaramamıştır. 32-bit mimarisine rağmen CD32, rakiplerinin gelişmiş 3D görsellerinden yoksundu. Piyasaya sürülmesinden sadece 8 ay sonra üretimi durdurulacaktı. Bazı CDTV oyunları CD32 ile uyumludur.</text>
+		</text>
+		
+	</view>
+
+</theme>

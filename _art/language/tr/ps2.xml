@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Sony Computer Ent.
+Ev tipi video oyun konsolu
+Altıncı
+2000
+DVD-Rom, CD-Rom, USB
+DualShock 2, EyeToy</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>2000 yılında piyasaya sürülen 128 bit Sony konsolu PS2, video oyunları tarihinin en çok satan konsoludur. 2004'ün sonunda piyasaya sürülen Slim versiyonu. Diğer iki alt işlemci, 32 Mb RAM, 4 Mb video RAM, bir sabit sürücü ve bir internet bağlantısı tarafından desteklenen 150 Mhz hızında çalışan Emotion Engine işlemcisi ile donatılmış, saniyede 16 milyon çokgen hesaplayabilir. 720 × 480 'de 480p 16/9 ve 640 × 480 pikselde 4/3 görüntüler. DTS - ES dijital ses çıkışı. God of War, Ratchet & Clank ve Jak'n Daxter gibi 10.035 'ten fazla oyun ve amiral gemisi serisinin bir kataloğunu sunuyor.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+Üçüncü
+1985
+Teyp kasedi, floppy disk
+Joystick, klavye</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Commodore 64'ün genişletilmiş ve uyumlu versiyonu ancak yenilenmiş (bakın bu Amiga 500'e ilham verecek) 128 KB RAM ile. %100 uyumluluk sağlamak için C64 6510 işlemciyle donatılmıştı ancak ayrıca yeni bir 8502 işlemcisi de vardı. Ayrıca CP/M işletim sistemiyle bir Zilog Z80 işlemci içeriyordu. Son olarak, standart 40 sütun modundan 80 sütun moduna ekran geçişini önerdi. Çok az satılan ve yayıncılar tarafından çok az desteklenen Commodore 128, Amiga'nın piyasaya sürülmesinden kısa bir süre önce Commodore Business Machines tarafından pazarlanan son 8 bitlik makineydi.</text>
+		</text>
+		
+	</view>
+
+</theme>

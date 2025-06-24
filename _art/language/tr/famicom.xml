@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+Ev tipi video oyun konsolu
+Üçüncü
+1983
+Kartuş
+2 düğmeli Joypad, Hafif tabanca</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Nintendo Entertainment System (NES), 1985'te Nintendo tarafından piyasaya sürülen ve 1983'te Japonya'da piyasaya sürülen Famicom'un değiştirilmiş versiyonu olan 8 bitlik bir konsol. 2KB RAM'e sahip 1.79MHz CPU'ya, 52 renkte 256x240 çözünürlüğe ve 5 kanal ses çıkışına sahiptir. Konsolun başarısı çok büyüktü ve 1983 'teki çöküşünden sonra Kuzey Amerika video oyun endüstrisinin yeniden canlandırılmasına yardımcı oldu. Kataloğu, Super Mario Bros., Castlevania, The Legend of Zelda, Megaman vb. gibi etkili başlıklarla gelecek nesiller için video oyunları standartlarını belirleyecek.</text>
+		</text>
+		
+	</view>
+	
+</theme>

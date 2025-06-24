@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Hadi, cesaretli ol! Cesur ol, meraklı ol; başlamadan önce savaştan kaçma! Bu koleksiyon, kütüphanende henüz oynamadığın tüm oyunları ortaya çıkarıyor. Gizli hazineler seni bekliyor olabilir... Bu, yakın zamanda eklediğin bir homebrew oyunu veya sınırlı sayıda piyasaya sürülen eski bir oyun olabilir. Belki de gençliğinde aşırı zorluğu ve adaletsiz mekanikleri nedeniyle seni korkutan eski bir oyun vardır. Durum kayıtları ve geri sarma gibi modern araçlarla, şimdi vurma sırası sende!</text>
+		</text>
+	</view>
+
+</theme>

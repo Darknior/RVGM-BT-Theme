@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ev bilgisayarı
+İkinci
+1979/1983/1985/1987
+Kartuş
+Analog joystick, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Atari 8-bit ailesi, Atari tarafından 1979'da piyasaya sürülen bir bilgisayar serisidir. 1,79 MHz hızında çalışan MOS Technology 6502 CPU'ya dayanan Atari, daha yoğun görevleri halletmek için bir yardımcı işlemci ekleyerek PC pazarında devrim yarattı. Bu, video çıkışının 256 renkte ve 4 yönlü seste satır başına 384 piksele kadar ulaşmasını sağladı. Apple ][, Commodore PET ve TRS-80 ile rekabet edecekti. İlk iki model olan 400 ve 800, en az 16 ve 48 KB kullanıcı tarafından genişletilebilir RAM takılıyken, daha sonraki XL ve XE modelleri en yüksek 64 ve 128 KB takılı olacaktı.</text>
+		</text>
+		
+	</view>
+
+</theme>

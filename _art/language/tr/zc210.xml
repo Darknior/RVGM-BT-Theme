@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Armageddon Games
+2D Oyun Motoru
+2.10
+2005
+Dosyalar
+Joypad, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Zelda Classic, tüm zamanların en iyi oyunlarından biri olan NES'teki 'The Legend of Zelda'ya bir övgü olarak yapılmış 2D macera oyunu motorudur. Temel olarak tam bir kopyasıdır ve ayrıca yeni görevlerin geliştirilmesine olanak tanır. Bunlar, yeni düşmanlar, öğeler ve zorluklarla birlikte geleneksel grafikleri veya geliştirilmiş grafikleri kullanabilir. Bu nedenle en güzel oyunların SNES veya %100 özel grafikleri vardır. 2.10 sürümü, 2021'de netux79 tarafından buraya taşınan sürümdür. DOS ile uyumlu son kararlı sürümdür ve oyunlar tarafından en çok kullanılan sürümdür.</text>
+		</text>
+		
+	</view>
+
+</theme>

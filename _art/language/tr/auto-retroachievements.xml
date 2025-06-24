@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>O zamanlar sizin görüşünüze göre, Mega Drive veya SNES oyunlarında okuldaki en iyi oyuncu siz miydiniz? Bunu sonunda kanıtlamak mı istiyorsunuz? Bugün, emülasyon sayesinde eski oyunlarımızı tekrar oynayabiliyor ve XBOX 360'ta ilk kez olduğu gibi başarılar ve rozetler elde edebiliyoruz. Böylece ilerlemeniz gerçek zamanlı olarak çevrimiçi olarak yayınlanır, böylece arkadaşlarınız da bunu takip edebilir. Bu yüzden onlarla rekabet etmek için tüm favori klasiklerinizi %100 tamamlamaya çalışmalısınız. En iyi olan kazansın!</text>
+		</text>
+		
+	</view>
+
+</theme>

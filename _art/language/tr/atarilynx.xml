@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+El tipi oyun konsolu
+Dördüncü
+1989
+Kartuş
+2 düğmeli joypad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu taşınabilir bilgisayar Epyx tarafından geliştirildi ve 1987'de Atari Corporation tarafından piyasaya sürüldü. Sonunda, Epyx 1989'da Atari tarafından satın alındı ​​ve Atari sistemin tüm gelişimini devraldı. 4MHz CPU, 3D desteği olan 16MHz GPU ve 64KB RAM ile donatılmıştı ve 16 renkle 480x102 ekran kullanıyordu. 1991'de daha iyi bir ekran ve güç tasarrufu modu sunan "Lynx II" piyasaya sürüldü. Konsolun kendisi üstte ve altta bulunan düğmelerle oyunların portre modunda oynanmasına olanak sağlıyordu. Ayrıca 8 oyuncuya kadar bağlantılı oyun özelliği de vardı.</text>
+		</text>
+		
+	</view>
+
+</theme>

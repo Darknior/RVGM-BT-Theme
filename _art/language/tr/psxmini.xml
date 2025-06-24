@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Sony Computer Ent.
+Ev tipi video oyun konsolu
+Beşinci
+2018
+Dahili flash bellek
+DualShock kontrolcü</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>PlayStation Classic, Sony'nin 1994 PlayStation konsolunda orijinal olarak piyasaya sürülen oyunları taklit eden özel bir video oyun konsolu. Orijinalin yayınlanmasının 24. yıldönümü için Eylül 2018'de duyuruldu. Konsol, Nintendo'nun NES Classic ve Super NES Classic mini konsollarının önceki sürümleriyle karşılaştırıldı. Buna rağmen, konsol düşük oyun kütüphanesi, stok denetleyicisinin kullanımı, bazı oyunlar için PAL sürümlerinin kullanımı ve yüksek fiyatı nedeniyle olumsuz eleştiriler aldı. Bu hala sadece emülasyon.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Nintendo
+El tipi oyun konsolu
+Beşinci
+1995
+Kartuş
+2 düğmeli oyun kolu</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game & Watch ve Game Boy geliştiricisi Gunpei Yokoi tarafından geliştirilen Virtual Boy, Nintendo'nun tek gerçek ticari başarısızlığıdır. 1995'te Super Nintendo'dan sonra ve Nintendo 64'ten önce piyasaya sürülen bu ev konsolu, Japonya ve Amerika sınırlarını hiç aşmamıştır. İlk 32 bit Nintendo konsoludur. Grafikler, rahatlama efekti vermek için iki ayrı ekranda (her göz için bir tane) küçük diyotlar aracılığıyla kırmızı ve siyah olarak gösteriliyordu. Ancak bu sözde sanal gerçeklik yetersiz bir şekilde kullanıldı ve çok az oyun gerçekten sürükleyicidir. Wario Land ve Mario Clash gibi hala bazı benzersiz hit oyunlar var.</text>
+		</text>
+		
+	</view>
+	
+</theme>

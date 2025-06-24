@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Microsoft & Intel, AMD
+Kişisel bilgisayar
+Üçüncü / Dördüncü
+1982
+Floppy disk 5¼ 3½, hard disk
+Joystick, klavye, fare</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>1981'de Microsoft tarafından geliştirilen komut satırı arayüzü ile varsayılan olarak donatılmış PC işletim sistemine DOS (disk işletim sistemi) diyoruz. 1982'de piyasaya sürülen Intel 80286'dan 6 ila 20 MHz işlemci ve ardından 1985'te 12'de i386 piyasaya sürüldü. 40 MHz'de, bu işletim sistemi birçok kişisel bilgisayarda kullanılacak. Bu güç, ilk mikro oyunları CGA 320x200 4 renkte, ardından 1984'ten itibaren EGA 640x350 16 renkte oluşturmak için kullanılacak. Rogue veya Troll's Tale'den başlayarak, ilk Leisure Suit Larry ile sona erecek, ardından 1988'de Battle Chess ve King's Quest 4.</text>
+		</text>
+		
+	</view>
+
+</theme>

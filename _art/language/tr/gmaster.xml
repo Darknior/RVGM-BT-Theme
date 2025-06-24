@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Hartung Videojet Systema
+El konsolu
+Dördüncü
+1990
+Kartuş
+2 düğmeli Joypad</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Game Master, 1990 yılında Hartung tarafından üretilen ve Nintendo Game Boy'a rakip olmak için tasarlanmış bir avuçiçi oyun konsolu. Almanya'da Hartung tarafından, İngiltere'de halihazırda köklü üretici Systema tarafından ve Fransa'da Videojet tarafından pazarlandı. NEC işlemci ile donatılmıştır ve 64x64 piksel monokrom LCD ekrana sahiptir. Joypad bilinmeyen bir nedenden dolayı eğiktir ve düğmeler şişkin olduğundan kullanımı çok rahatsız edicidir. Bu ve çok düşük çözünürlüğü arasında, makine sadece 20 oyunla bir başarısızlıktı.</text>
+		</text>
+		
+	</view>
+
+</theme>

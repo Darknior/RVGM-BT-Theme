@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE ~~~~~~~~~~~|~~~~ -->
+<text>Acorn Computers
+Kişisel bilgisayar
+İkinci
+1981
+Teyp kasedi, disket, HDD
+Joystick, kalem, klavye</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
+<text>BBC Micro, Acorn Electronics tarafından 1981'de tasarlanan bir dizi mikrobilgisayardır. Dr. Christopher Evans'ın bilgisayar devriminin gelişini ve İngiltere'ye olan etkisini tahmin ettiği bir belgeselin ardından BBC tarafından başlatılan bilgisayar okuryazarlığı projesine öncülük etti. Model A, 2MHz'de bir MOS 6502 CPU, 16KB yükseltilebilir RAM ve ses sentezli 4 kanallı mono ses ile donatılmıştı. 16 renkte 640x256'ya kadar çözünürlük gösterebiliyordu. Yeteneklerini geliştiren birçok model piyasaya sürülecekti.</text>
+		</text>
+		
+	</view>
+
+</theme>

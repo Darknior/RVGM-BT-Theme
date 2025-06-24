@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Bu koleksiyon, en son oynadığınız oyunları, en sondan başlayarak kronolojik olarak düzenlenmiş şekilde içerir. Maceralarınıza devam etmek için kaldığınız yerden hızla devam etmenizi sağlar!
+Eğer bir süredir oynuyorsanız, bunu kullanarak zamanda geriye yolculuk yapabilir ve tüm oyunlarınızdaki ilerlemenizi görebilirsiniz. Burada da her zamanki filtreler mevcut.</text>
+		</text>
+	</view>
+
+</theme>

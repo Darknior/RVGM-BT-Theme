@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Atari
+Ev tipi oyun konsolu
+Beşinci
+1993
+Kartuş, CD-ROM
+Joystick</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Jaguar, 1993 yılında piyasaya sürülen hem kartuşlarla hem de CD-ROM'larla (eklenti yoluyla) uyumlu bir video oyun konsoludur. Teknik olarak neslinin tek 64-bit konsoludur, ancak bu yalnızca grafik hızlandırıcılarıydı. GPU 32-bit iken CPU 16-bitti. 16 milyon renkte 720x526 çözünürlük gösterebiliyordu. Bu, Atari'nin son büyük ev konsolu sürümü olacaktı. Konsolun kendisi o kadar başarılı olmadığı için oyun kütüphanesi küçük kaldı, kült oyunlarından biri 'Alien vs. Predator' oyunudur.</text>
+		</text>
+		
+	</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Bally Manufacturing
+Ev tipi oyun konsolu
+İkinci
+1977
+ROM kartuş
+Joystick tabanca pedalı + hex-pad</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>'Professional Arcade', Midway ekibi olan Bally Manufacturing tarafından tasarlanmış bir video oyun konsoludur. Bally piyasadan çekilmeden önce sadece altı ay pazarda kaldı. 1,8 MHz hızında çalışan Zilog Z80 CPU'su ve 4 KB RAM'i (64 KB'ye kadar genişletilebilir) ile 4 renkte 320x204'e kadar görüntüleyebilirdi. Çok güçlü olmasına rağmen grafiksel yetenekleri geliştirmek için teknik olmasıyla dikkat çekiyordu. Konsolun hakları daha sonra 1982'de Astrovision tarafından satın alındı ​​ve adı 'Astrocade' olarak değiştirildi.</text>
+		</text>
+		
+	</view>
+
+</theme>

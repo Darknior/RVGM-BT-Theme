@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+Dördüncü
+1987
+Floppy disk, IDE sabit disk
+Joystick, fare, klavye</text>
+		</text>
+		
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Amiga 500 (A500), Commodore'un Amiga bilgisayar ailesinin ilk giriş seviyesi modelidir. 1987'de piyasaya sürülen bu model, Atari 520 ST ile rekabet etti. Amiga 500, 7MHz hızında çalışan bir Motorola 68000 mikroişlemci, 512KB RAM, "Denise" GPU ve dört kanallı PCM ses çıkışı için "Paula" ses kartı kullanır. 32 renkte 320x256'dan başlayıp 16 renkte 640x512'ye kadar çözünürlükler arasında geçiş yapabilir. Daha sonraki modeller 128 renge kadar sunacaktı. Shadow of the Beast gibi kült oyunlar Amiga 500'de ortaya çıktı.</text>
+		</text>
+		
+	</view>
+
+</theme>

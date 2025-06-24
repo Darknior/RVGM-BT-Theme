@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Commodore International
+Kişisel bilgisayar
+Dördüncü ve Beşinci
+1987/1992
+Floppy disk, IDE HD, CD-ROM
+Joystick, fare, klavye</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Amiga bilgisayar serisi, Commodore tarafından 1985 ile 1992 yılları arasında üretildi. İlk girişleri, çoklu görev, oyun çalıştırma, üretici yazılımı ve daha fazlası için grafik ve ses hızlandırma için özel donanımla birlikte Motorola 68000 mikroişlemcisini kullanır. Ailedeki ilk giriş seviyesi ürün olan Amiga 500, daha iyi bilinen modellerden biridir. Yıllar geçtikçe, mevcut donanım kademeli olarak iyileştirildi. Son modeller olan Amiga 1200 ve 4000T, 1996'da üretimden kaldırıldı.</text>
+		</text>
+		
+	</view>
+
+</theme>

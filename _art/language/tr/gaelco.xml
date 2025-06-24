@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+		<text name="sys_info" extra="true">
+<!-- MAX SIZE -----------|------>
+<text>Gaelco
+Arcade video oyun kabini
+Beşinci
+1991
+PCB kart
+Arcade çubuk, silah, direksiyon</text>
+		</text>
+
+		<text name="sys_description" extra="true">
+<!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
+<text>Gaelco, arcade sektöründe uzmanlaşmış bir video oyun geliştirme ve yayıncılık şirketidir. 2007'de Gaelco, arcade oyunlarını bir kenara bıraktı ve 2003'te daha önce başlatılan 'Radikal dartlara' odaklanan 'Gaelco Darts' adı altında DART üretmeye ve pazarlamaya başladı. C Böylece video oyunları geliştiren bölüm olan Gaelco Multimedia kapandı ve şirket yeni faaliyetine odaklanıyor.</text>
+		</text>
+		
+	</view>
+
+</theme>
